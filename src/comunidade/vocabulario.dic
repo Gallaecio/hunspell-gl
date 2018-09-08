@@ -1,5 +1,5 @@
 # Abreviaturas.
-init. po:abreviatura [n-grama: ab init.]    # ab initio (desde o principio)
+init. po:abreviatura is:ngrama_ab_init    # ab initio (desde o principio)
 addor. po:abreviatura                       # administrador
 addora. po:abreviatura                      # administradora
 adva. po:abreviatura                        # administrativa
@@ -33,25 +33,25 @@ veh. po:abreviatura                         # vehículo
 xral. po:abreviatura                        # xeneral
 
 # Adverbios.
-atresadamente po:advervio
-bianualmente po:advervio
-bienalmente po:advervio
+atresadamente po:adverbio
+bianualmente po:adverbio
+bienalmente po:adverbio
 despazo po:adverbio
-disciplinariamente po:advervio
-electronicamente po:advervio
-emocionalmente po:advervio
-exponencialmente po:advervio
-futbolisticamente po:advervio
-meteoroloxicamente po:advervio
-mitoloxicamente po:advervio
-morbidamente po:advervio
-nomeadamente po:advervio
-normativamente po:advervio
-paseniñamente po:advervio
-penalmente po:advervio
-porosamente po:advervio
-potestativamente po:advervio
-secuencialmente po:advervio
+disciplinariamente po:adverbio
+electronicamente po:adverbio
+emocionalmente po:adverbio
+exponencialmente po:adverbio
+futbolisticamente po:adverbio
+meteoroloxicamente po:adverbio
+mitoloxicamente po:adverbio
+morbidamente po:adverbio
+nomeadamente po:adverbio
+normativamente po:adverbio
+paseniñamente po:adverbio
+penalmente po:adverbio
+porosamente po:adverbio
+potestativamente po:adverbio
+secuencialmente po:adverbio
 vocalmente po:adverbio
 
 # Adxectivos.
@@ -158,22 +158,22 @@ mullerona/10 po:adxectivo
 cantarín/10,15 po:adxectivo
 
 # Nomes.
-BlackBerry po:nome propio
-Dropbox po:nome propio
-GitHub po:nome propio
-Gmail po:nome propio
-hunspell po:nome propio
-Hunspell po:nome propio
-Interviú po:nome propio
-iOS po:nome propio
-iPad po:nome propio
-iPhone po:nome propio
-Panoramio po:nome propio
-Sangriña po:nome propio
-Vichona po:nome propio
-VOLG po:nome propio
-volga po:nome propio
-VOLGa po:nome propio
+BlackBerry po:nome_propio
+Dropbox po:nome_propio
+GitHub po:nome_propio
+Gmail po:nome_propio
+hunspell po:nome_propio
+Hunspell po:nome_propio
+Interviú po:nome_propio
+iOS po:nome_propio
+iPad po:nome_propio
+iPhone po:nome_propio
+Panoramio po:nome_propio
+Sangriña po:nome_propio
+Vichona po:nome_propio
+VOLG po:nome_propio
+volga po:nome_propio
+VOLGa po:nome_propio
 
 # Personaxes de ficción.
 C-3PO po:antropónimo        # Personaxe da saga «A guerra das galaxias».
@@ -181,7 +181,7 @@ Nobita po:antropónimo       # Personaxe do anime «Doraemon».
 R2-D2 po:antropónimo        # Personaxe da saga «A guerra das galaxias».
 
 # Siglas e acrónimos.
-RR. po:sigla [n-grama: AA. RR.]     # altezas reais
+RR. po:sigla is:ngrama_AA_RR     # altezas reais
 Adeslas po:sigla                    # https://es.wikipedia.org/wiki/Mutua_Madrile%C3%B1a#SegurCaixa_Adeslas
 Benelux po:sigla                    # https://gl.wikipedia.org/wiki/Benelux
 BERD po:sigla                       # Banco Europeo para a Reconstrución e o Desenvolvemento
@@ -203,7 +203,7 @@ ETB-2 po:sigla                      # Euskal Telebista 2
 ETB2  po:sigla                      # Euskal Telebista 2
 FARC po:sigla                       # Fuerzas Armadas Revolucionarias de Colombia
 FCA po:sigla                        # «Free Carrier» (francotransportista)
-ff. po:sigla [n-grama: ff. cc.]     # ferrocarrís
+ff. po:sigla is:ngrama_ff_cc     # ferrocarrís
 FINUL po:sigla                      # Forza Provisional das Nacións Unidas en Líbano
 FLACSO po:sigla                     # Facultad Latinoamericana de Ciencias Sociales
 FRELIMO po:sigla                    # Frente de Liberación de Mozambique
@@ -258,57 +258,57 @@ VTR po:sigla                        # Video Tape Recorder
 VLSI po:sigla                       # Very Large Scale Integration
 
 # Substantivos
-autoestima po:substantivo feminino
-bitcoin/10 po:substantivo masculino
-cartelaría/10 po:substantivo feminino
-celacanto/10 po:substantivo masculino # https://gl.wikipedia.org/wiki/Celacanto
-ciberacoso po:substantivo masculino
-clúster/10 po:substantivo masculino
-códec/10 po:substantivo masculino
-conectividade/10 po:substantivo feminino
-contraintelixencia/10 po:substantivo feminino
-desactivación/10 po:substantivo feminino
-descodificación/10 po:substantivo feminino
-discrecionalidade po:substantivo feminino
-ecualizador/10 po:substantivo masculino
-enchemento po:substantivo masculino
-exhaustividade po:substantivo feminino
-intercomunicación/10 po:substantivo feminino
-interdisciplinariedade po:substantivo feminino
-macro/10 po:substantivo feminino
-medianoite po:substantivo feminino
-optatividade po:substantivo feminino
-pervivencia po:substantivo feminino
-plurilingüismo po:substantivo masculino
-preinscrición/10 po:substantivo feminino
-profesionalización/10 po:substantivo feminino
-profundamento/10 po:substantivo masculino
+autoestima po:substantivo_feminino
+bitcoin/10 po:substantivo_masculino
+cartelaría/10 po:substantivo_feminino
+celacanto/10 po:substantivo_masculino # https://gl.wikipedia.org/wiki/Celacanto
+ciberacoso po:substantivo_masculino
+clúster/10 po:substantivo_masculino
+códec/10 po:substantivo_masculino
+conectividade/10 po:substantivo_feminino
+contraintelixencia/10 po:substantivo_feminino
+desactivación/10 po:substantivo_feminino
+descodificación/10 po:substantivo_feminino
+discrecionalidade po:substantivo_feminino
+ecualizador/10 po:substantivo_masculino
+enchemento po:substantivo_masculino
+exhaustividade po:substantivo_feminino
+intercomunicación/10 po:substantivo_feminino
+interdisciplinariedade po:substantivo_feminino
+macro/10 po:substantivo_feminino
+medianoite po:substantivo_feminino
+optatividade po:substantivo_feminino
+pervivencia po:substantivo_feminino
+plurilingüismo po:substantivo_masculino
+preinscrición/10 po:substantivo_feminino
+profesionalización/10 po:substantivo_feminino
+profundamento/10 po:substantivo_masculino
 psicopedagóxico/10,15 po:substantivo
-redirección/10 po:substantivo feminino
-renormativización po:substantivo feminino
-retroalimentación po:substantivo feminino
-revexetación/10 po:substantivo feminino
-sostibilidade/10 po:substantivo feminino
-xentalla po:substantivo feminino
-xudicialización/10 po:substantivo feminino
+redirección/10 po:substantivo_feminino
+renormativización po:substantivo_feminino
+retroalimentación po:substantivo_feminino
+revexetación/10 po:substantivo_feminino
+sostibilidade/10 po:substantivo_feminino
+xentalla po:substantivo_feminino
+xudicialización/10 po:substantivo_feminino
 
 # Substantivos masculinos.
-bitcoin/10 po:substantivo masculino
-celacanto/10 po:substantivo masculino # https://gl.wikipedia.org/wiki/Celacanto
-clúster/10 po:substantivo masculino
-códec/10 po:substantivo masculino
-ecualizador/10 po:substantivo masculino
-enchemento po:substantivo masculino
-entaboamento/10 po:substantivo masculino
-profundamento/10 po:substantivo masculino
-salvapantallas po:substantivo masculino
-sostibilidade/10 po:substantivo feminino
-submódulo/10 po:substantivo masculino
-tóner po:substantivo masculino
-varapau/10 po:substantivo masculino
+bitcoin/10 po:substantivo_masculino
+celacanto/10 po:substantivo_masculino # https://gl.wikipedia.org/wiki/Celacanto
+clúster/10 po:substantivo_masculino
+códec/10 po:substantivo_masculino
+ecualizador/10 po:substantivo_masculino
+enchemento po:substantivo_masculino
+entaboamento/10 po:substantivo_masculino
+profundamento/10 po:substantivo_masculino
+salvapantallas po:substantivo_masculino
+sostibilidade/10 po:substantivo_feminino
+submódulo/10 po:substantivo_masculino
+tóner po:substantivo_masculino
+varapau/10 po:substantivo_masculino
 xemente/10 po:substantivo
-xentalla po:substantivo feminino
-xudicialización/10 po:substantivo feminino
+xentalla po:substantivo_feminino
+xudicialización/10 po:substantivo_feminino
 
 # Teclas.
 Ctrl po:tecla
@@ -390,49 +390,49 @@ Yonkers po:topónimo         # https://en.wikipedia.org/wiki/Yonkers
 
 # Verbos
 adicionar/200,201 po:verbo ts:transitiva al:adiciónar
-adiciónar/666,202 st:adicionar ts:alomorfo adicionar transitiva
+adiciónar/666,202 st:adicionar
 amordiscar/200,201 po:verbo ts:transitiva al:amordíscar
-amordíscar/666,202 st:amordiscar ts:alomorfo amordiscar transitiva
-autopropagar/200,201,230,231 po:verbo ts:transitiva / pronominal al:autopropágar
-autopropágar/666,202,232 st:autopropagar ts:alomorfo autopropagar transitiva / pronominal
+amordíscar/666,202 st:amordiscar
+autopropagar/200,201,230,231 po:verbo ts:transitiva ts:pronominal al:autopropágar
+autopropágar/666,202,232 st:autopropagar
 cablear/200,201 po:verbo ts:transitiva al:cabléar
-cabléar/666,202 st:cablear ts:alomorfo cablear transitiva
-interconectar/200,201,230,231 po:verbo ts:transitiva / pronominal al:interconéctar
-interconéctar/666,202,232 st:interconectar ts:alomorfo interconectar transitiva / pronominal
+cabléar/666,202 st:cablear
+interconectar/200,201,230,231 po:verbo ts:transitiva ts:pronominal al:interconéctar
+interconéctar/666,202,232 st:interconectar
 minusvalorar/200,201 po:verbo ts:transitiva al:minusvalórar
-minusvalórar/666,202 st:minusvalorar ts:alomorfo minusvalorar transitiva
+minusvalórar/666,202 st:minusvalorar
 monitorizar/200,201 po:verbo ts:transitiva al:monitorízar
-monitorízar/666,202 st:monitorizar ts:alomorfo monitorizar transitiva
+monitorízar/666,202 st:monitorizar
 orzamentar/200,201 po:verbo ts:transitiva al:orzaméntar
-orzaméntar/666,202 st:orzamentar ts:alomorfo orzamentar transitiva
-preinscribir/600,601,800,801 po:verbo ts:transitiva / pronominal t pr al:preinscríbir
-preinscríbir/666,602,802 st:preinscribir ts:alomorfo preinscribir transitiva / pronominal
+orzaméntar/666,202 st:orzamentar
+preinscribir/600,601,800,801 po:verbo ts:transitiva ts:pronominal al:preinscríbir
+preinscríbir/666,602,802 st:preinscribir
 priorizar/200,201 po:verbo ts:transitiva al:priorízar
-priorízar/666,202 st:priorizar ts:alomorfo priorizar transitiva
-profesionalizar/200,201,230,231 po:verbo ts:transitiva / pronominal al:profesionalízar
-profesionalízar/666,202,232 st:profesionalizar ts:alomorfo profesionalizar transitiva / pronominal
+priorízar/666,202 st:priorizar
+profesionalizar/200,201,230,231 po:verbo ts:transitiva ts:pronominal al:profesionalízar
+profesionalízar/666,202,232 st:profesionalizar
 recalcular/200,201 po:verbo ts:transitiva al:recalcúlar
-recalcúlar/666,202 st:recalcular ts:alomorfo recalcular transitiva
-redenominar/200,201,230,231 po:verbo ts:transitiva / pronominal al:redenomínar
-redenomínar/666,202,232 st:redenominar ts:alomorfo redenominar transitiva / pronominal
-redirixir/600,601,800,801 po:verbo ts:transitiva / pronominal t pr al:rediríxir
-rediríxir/666,602,802 st:redirixir ts:alomorfo redirixir transitiva / pronominal
+recalcúlar/666,202 st:recalcular
+redenominar/200,201,230,231 po:verbo ts:transitiva ts:pronominal al:redenomínar
+redenomínar/666,202,232 st:redenominar
+redirixir/600,601,800,801 po:verbo ts:transitiva ts:pronominal al:rediríxir
+rediríxir/666,602,802 st:redirixir
 refritir/600,601 po:verbo ts:transitiva al:refrítir
-refrítir/666,602 st:refritir ts:alomorfo refritir transitiva
+refrítir/666,602 st:refritir
 reprografar/200,201 po:verbo ts:transitiva al:reprográfar
-reprográfar/666,202 st:reprografar ts:alomorfo reprografar transitiva
+reprográfar/666,202 st:reprografar
 reutilizar/200,201 po:verbo ts:transitiva al:reutilízar
-reutilízar/666,202 st:reutilizar ts:alomorfo reutilizar transitiva
+reutilízar/666,202 st:reutilizar
 revexetar/200,201 po:verbo ts:transitiva al:revexétar
-revexétar/666,202 st:revexetar ts:alomorfo revexetar transitiva
+revexétar/666,202 st:revexetar
 respaldar/200,201 po:verbo ts:transitiva al:respáldar
-respáldar/666,202 st:respaldar ts:alomorfo respaldar transitiva
+respáldar/666,202 st:respaldar
 sobrepasar/200,201 po:verbo ts:transitiva al:sobrepásar
-sobrepásar/666,202 st:sobrepasar ts:alomorfo sobrepasar transitiva
-vencellar/200,201,230,231 po:verbo ts:transitiva / pronominal al:vencéllar
-vencéllar/666,202,232 st:vencellar ts:alomorfo vencellar transitiva / pronominal
+sobrepásar/666,202 st:sobrepasar
+vencellar/200,201,230,231 po:verbo ts:transitiva ts:pronominal al:vencéllar
+vencéllar/666,202,232 st:vencellar
 xudicializar/200,201 po:verbo ts:transitiva al:xudicialízar
-xudicialízar/666,202 st:xudicializar ts:alomorfo xudicializar transitiva
+xudicialízar/666,202 st:xudicializar
 
 # Xentilicios.
 capixaba/10 po:xentilicio   # http://gl.wikipedia.org/wiki/Espírito_Santo,_Brasil
@@ -473,7 +473,7 @@ e\/c
 end.
 e\/p
 espf.
-U. [n-grama: E. U.]
+U. is:ngrama_E_U
 FIDDA
 f\/m
 FOD         # https://en.wikipedia.org/wiki/FOD

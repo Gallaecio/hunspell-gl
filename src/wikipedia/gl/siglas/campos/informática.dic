@@ -4,12 +4,12 @@ ADSL po:sigla
 AGP po:sigla
 Algol po:sigla
 ALGOL po:sigla
-American po:sigla [n-grama: American Standard Code for Information Interchange]
-Standard po:sigla [n-grama: American Standard Code for Information Interchange]
-Code po:sigla [n-grama: American Standard Code for Information Interchange]
-for po:sigla [n-grama: American Standard Code for Information Interchange]
-Information po:sigla [n-grama: American Standard Code for Information Interchange]
-Interchange po:sigla [n-grama: American Standard Code for Information Interchange]
+American po:sigla is:ngrama_American_Standard_Code_for_Information_Interchange
+Standard po:sigla is:ngrama_American_Standard_Code_for_Information_Interchange
+Code po:sigla is:ngrama_American_Standard_Code_for_Information_Interchange
+for po:sigla is:ngrama_American_Standard_Code_for_Information_Interchange
+Information po:sigla is:ngrama_American_Standard_Code_for_Information_Interchange
+Interchange po:sigla is:ngrama_American_Standard_Code_for_Information_Interchange
 API po:sigla
 APIC po:sigla
 APL po:sigla
@@ -19,10 +19,10 @@ ASCII po:sigla
 ATA po:sigla
 AWK po:sigla
 BCPL po:sigla
-Biblioteca po:sigla [n-grama: Biblioteca de Infraestrutura de Tecnoloxías de Información]
-Infraestrutura po:sigla [n-grama: Biblioteca de Infraestrutura de Tecnoloxías de Información]
-Tecnoloxías po:sigla [n-grama: Biblioteca de Infraestrutura de Tecnoloxías de Información]
-Información po:sigla [n-grama: Biblioteca de Infraestrutura de Tecnoloxías de Información]
+Biblioteca po:sigla is:ngrama_Biblioteca_de_Infraestrutura_de_Tecnoloxías_de_Información
+Infraestrutura po:sigla is:ngrama_Biblioteca_de_Infraestrutura_de_Tecnoloxías_de_Información
+Tecnoloxías po:sigla is:ngrama_Biblioteca_de_Infraestrutura_de_Tecnoloxías_de_Información
+Información po:sigla is:ngrama_Biblioteca_de_Infraestrutura_de_Tecnoloxías_de_Información
 Bit po:sigla
 BMP po:sigla
 BSC po:sigla
@@ -30,11 +30,11 @@ Byte po:sigla
 CAD po:sigla
 CIFS po:sigla
 CLU po:sigla
-Código po:sigla [n-grama: Código Estándar Americano para o Intercambio de Información]
-Estándar po:sigla [n-grama: Código Estándar Americano para o Intercambio de Información]
-Americano po:sigla [n-grama: Código Estándar Americano para o Intercambio de Información]
-Intercambio po:sigla [n-grama: Código Estándar Americano para o Intercambio de Información]
-Información po:sigla [n-grama: Código Estándar Americano para o Intercambio de Información]
+Código po:sigla is:ngrama_Código_Estándar_Americano_para_o_Intercambio_de_Información
+Estándar po:sigla is:ngrama_Código_Estándar_Americano_para_o_Intercambio_de_Información
+Americano po:sigla is:ngrama_Código_Estándar_Americano_para_o_Intercambio_de_Información
+Intercambio po:sigla is:ngrama_Código_Estándar_Americano_para_o_Intercambio_de_Información
+Información po:sigla is:ngrama_Código_Estándar_Americano_para_o_Intercambio_de_Información
 CRM po:sigla
 DNS po:sigla
 DOI po:sigla
@@ -52,14 +52,14 @@ HTML po:sigla
 ICMP po:sigla
 ICQ po:sigla
 IDE po:sigla
-identificación po:sigla [n-grama: identificación de material dixital]
-material po:sigla [n-grama: identificación de material dixital]
-dixital po:sigla [n-grama: identificación de material dixital]
+identificación po:sigla is:ngrama_identificación_de_material_dixital
+material po:sigla is:ngrama_identificación_de_material_dixital
+dixital po:sigla is:ngrama_identificación_de_material_dixital
 IEEE po:sigla
-Instituto po:sigla [n-grama: Instituto de Enxeñeiros Eléctricos e Electrónicos]
-Enxeñeiros po:sigla [n-grama: Instituto de Enxeñeiros Eléctricos e Electrónicos]
-Eléctricos po:sigla [n-grama: Instituto de Enxeñeiros Eléctricos e Electrónicos]
-Electrónicos po:sigla [n-grama: Instituto de Enxeñeiros Eléctricos e Electrónicos]
+Instituto po:sigla is:ngrama_Instituto_de_Enxeñeiros_Eléctricos_e_Electrónicos
+Enxeñeiros po:sigla is:ngrama_Instituto_de_Enxeñeiros_Eléctricos_e_Electrónicos
+Eléctricos po:sigla is:ngrama_Instituto_de_Enxeñeiros_Eléctricos_e_Electrónicos
+Electrónicos po:sigla is:ngrama_Instituto_de_Enxeñeiros_Eléctricos_e_Electrónicos
 IP po:sigla
 ISA po:sigla
 ISWIM po:sigla
@@ -69,10 +69,10 @@ JPG po:sigla
 JSON po:sigla
 KDE po:sigla
 LDAP po:sigla
-Lightweight po:sigla [n-grama: Lightweight Directory Access Protocol]
-Directory po:sigla [n-grama: Lightweight Directory Access Protocol]
-Access po:sigla [n-grama: Lightweight Directory Access Protocol]
-Protocol po:sigla [n-grama: Lightweight Directory Access Protocol]
+Lightweight po:sigla is:ngrama_Lightweight_Directory_Access_Protocol
+Directory po:sigla is:ngrama_Lightweight_Directory_Access_Protocol
+Access po:sigla is:ngrama_Lightweight_Directory_Access_Protocol
+Protocol po:sigla is:ngrama_Lightweight_Directory_Access_Protocol
 LUG po:sigla
 MIDI po:sigla
 MIME po:sigla
@@ -92,8 +92,8 @@ PGP po:sigla
 PHP po:sigla
 PL\/1 po:sigla
 PNG po:sigla
-Point-to-point po:sigla [n-grama: Point-to-point Protocol]
-Protocol po:sigla [n-grama: Point-to-point Protocol]
+Point-to-point po:sigla is:ngrama_Point_to_point_Protocol
+Protocol po:sigla is:ngrama_Point_to_point_Protocol
 RADIUS po:sigla
 RLE po:sigla
 SCADA po:sigla
@@ -101,13 +101,13 @@ SCSI po:sigla
 SMB po:sigla
 Tcl po:sigla
 TCP po:sigla
-The po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
-Institute po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
-of po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
-Electrical po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
-and po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
-Electronics po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
-Engineers po:sigla [n-grama: The Institute of Electrical and Electronics Engineers]
+The po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
+Institute po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
+of po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
+Electrical po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
+and po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
+Electronics po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
+Engineers po:sigla is:ngrama_The_Institute_of_Electrical_and_Electronics_Engineers
 TIFF po:sigla
 TWAIN po:sigla
 UDP po:sigla

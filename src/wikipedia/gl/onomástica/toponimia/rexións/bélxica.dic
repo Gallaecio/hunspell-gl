@@ -1,17 +1,17 @@
-Brabante po:topónimo [n-grama: Brabante Flamengo]
-Flamengo po:topónimo [n-grama: Brabante Flamengo]
-Brabante po:topónimo [n-grama: Brabante Valón]
-Valón po:topónimo [n-grama: Brabante Valón]
+Brabante po:topónimo is:ngrama_Brabante_Flamengo
+Flamengo po:topónimo is:ngrama_Brabante_Flamengo
+Brabante po:topónimo is:ngrama_Brabante_Valón
+Valón po:topónimo is:ngrama_Brabante_Valón
 Flandres po:topónimo
-Flandres po:topónimo [n-grama: Flandres Occidental]
-Flandres po:topónimo [n-grama: Flandres Oriental]
+Flandres po:topónimo is:ngrama_Flandres_Occidental
+Flandres po:topónimo is:ngrama_Flandres_Oriental
 Hainaut po:topónimo
 Liexa po:topónimo
 Limburgo po:topónimo
 Luxemburgo po:topónimo
 Namur po:topónimo
-Antuerpen po:topónimo [n-grama: Provincia de Antuerpen]
-Bruxelas po:topónimo [n-grama: Rexión de Bruxelas]
-Bruxelas-Capital po:topónimo [n-grama: Rexión de Bruxelas-Capital]
-Valoa po:topónimo [n-grama: Rexión Valoa]
+Antuerpen po:topónimo is:ngrama_Provincia_de_Antuerpen
+Bruxelas po:topónimo is:ngrama_Rexión_de_Bruxelas
+Bruxelas-Capital po:topónimo is:ngrama_Rexión_de_Bruxelas_Capital
+Valoa po:topónimo is:ngrama_Rexión_Valoa
 Valonia po:topónimo

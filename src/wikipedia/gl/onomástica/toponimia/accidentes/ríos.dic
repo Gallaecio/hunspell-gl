@@ -17,8 +17,8 @@ Amnok-gang po:topónimo
 Amrok-gang po:topónimo
 Amstel po:topónimo
 Amur po:topónimo
-an po:topónimo [n-grama: an Bhanna]
-Bhanna po:topónimo [n-grama: an Bhanna]
+an po:topónimo is:ngrama_an_Bhanna
+Bhanna po:topónimo is:ngrama_an_Bhanna
 Angara po:topónimo
 Anllóns po:topónimo
 Apaporis po:topónimo
@@ -27,15 +27,15 @@ Ara po:topónimo
 Arba po:topónimo
 Arga po:topónimo
 Arpaçay po:topónimo
-Bustillo po:topónimo [n-grama: Arroio Bustillo]
+Bustillo po:topónimo is:ngrama_Arroio_Bustillo
 Arteixo po:topónimo
-Irmás po:topónimo [n-grama: As Tres Irmás]
+Irmás po:topónimo is:ngrama_As_Tres_Irmás
 Asón po:topónimo
 Azúmara po:topónimo
 Baixoi po:topónimo
 Balikh po:topónimo
-Baltoji po:topónimo [n-grama: Baltoji Ančia]
-Ančia po:topónimo [n-grama: Baltoji Ančia]
+Baltoji po:topónimo is:ngrama_Baltoji_Ančia
+Ančia po:topónimo is:ngrama_Baltoji_Ančia
 Beba po:topónimo
 Beluso po:topónimo
 Berdu po:topónimo
@@ -47,8 +47,8 @@ Boedo po:topónimo
 Búbal po:topónimo
 Buble po:topónimo
 Burbia po:topónimo
-Büyük po:topónimo [n-grama: Büyük Menderes]
-Menderes po:topónimo [n-grama: Büyük Menderes]
+Büyük po:topónimo is:ngrama_Büyük_Menderes
+Menderes po:topónimo is:ngrama_Büyük_Menderes
 Cabriel po:topónimo
 Cabul po:topónimo
 Cadagua po:topónimo
@@ -93,7 +93,7 @@ Geau po:topónimo
 Gilgit po:topónimo
 Gobela po:topónimo
 Godavari po:topónimo
-Xuvia po:topónimo [n-grama: Grande de Xuvia]
+Xuvia po:topónimo is:ngrama_Grande_de_Xuvia
 Guadalaviar po:topónimo
 Guadalete po:topónimo
 Guadalmellato po:topónimo
@@ -102,8 +102,8 @@ Guadiaro po:topónimo
 Guadiato po:topónimo
 Halis po:topónimo
 Halys po:topónimo
-Huang po:topónimo [n-grama: Huang He]
-He po:topónimo [n-grama: Huang He]
+Huang po:topónimo is:ngrama_Huang_He
+He po:topónimo is:ngrama_Huang_He
 Huerva po:topónimo
 Ibaizabal po:topónimo
 IJ po:topónimo
@@ -123,8 +123,8 @@ Kaveri po:topónimo
 Kerzhenets po:topónimo
 Kızılırmak po:topónimo
 Krka po:topónimo
-La po:topónimo [n-grama: La Peña]
-Peña po:topónimo [n-grama: La Peña]
+La po:topónimo is:ngrama_La_Peña
+Peña po:topónimo is:ngrama_La_Peña
 Lahn po:topónimo
 Lambre po:topónimo
 Lameiriña po:topónimo
@@ -134,8 +134,8 @@ Leitha po:topónimo
 Lengüelle po:topónimo
 Lérez po:topónimo
 Leza po:topónimo
-Li po:topónimo [n-grama: Li Jiang]
-Jiang po:topónimo [n-grama: Li Jiang]
+Li po:topónimo is:ngrama_Li_Jiang
+Jiang po:topónimo is:ngrama_Li_Jiang
 Liard po:topónimo
 Lijiang po:topónimo
 Limpopo po:topónimo
@@ -151,8 +151,8 @@ Marcelín po:topónimo
 Marne po:topónimo
 Matachel po:topónimo
 Matarraña po:topónimo
-Me po:topónimo [n-grama: Me Nam]
-Nam po:topónimo [n-grama: Me Nam]
+Me po:topónimo is:ngrama_Me_Nam
+Nam po:topónimo is:ngrama_Me_Nam
 Mekong po:topónimo
 Miera po:topónimo
 Miño po:topónimo
@@ -164,8 +164,8 @@ Morava po:topónimo
 Mosa po:topónimo
 Mosela po:topónimo
 Muga po:topónimo
-Munster po:topónimo [n-grama: Munster Blackwater]
-Blackwater po:topónimo [n-grama: Munster Blackwater]
+Munster po:topónimo is:ngrama_Munster_Blackwater
+Blackwater po:topónimo is:ngrama_Munster_Blackwater
 Najerilla po:topónimo
 Navea po:topónimo
 Neckar po:topónimo
@@ -174,10 +174,10 @@ Nervión po:topónimo
 Ngotwane po:topónimo
 Niágara po:topónimo
 Noceda po:topónimo
-Noguera po:topónimo [n-grama: Noguera Pallaresa]
-Pallaresa po:topónimo [n-grama: Noguera Pallaresa]
-Noguera po:topónimo [n-grama: Noguera Ribagorzana]
-Ribagorzana po:topónimo [n-grama: Noguera Ribagorzana]
+Noguera po:topónimo is:ngrama_Noguera_Pallaresa
+Pallaresa po:topónimo is:ngrama_Noguera_Pallaresa
+Noguera po:topónimo is:ngrama_Noguera_Ribagorzana
+Ribagorzana po:topónimo is:ngrama_Noguera_Ribagorzana
 Nore po:topónimo
 Noteć po:topónimo
 Oca po:topónimo
@@ -192,8 +192,8 @@ Orontes po:topónimo
 Ostriconi po:topónimo
 Oubangui po:topónimo
 Palancia po:topónimo
-Paraíba po:topónimo [n-grama: Paraíba do Sul]
-Sul po:topónimo [n-grama: Paraíba do Sul]
+Paraíba po:topónimo is:ngrama_Paraíba_do_Sul
+Sul po:topónimo is:ngrama_Paraíba_do_Sul
 Pas po:topónimo
 Picarrexo po:topónimo
 Pingüela po:topónimo
@@ -203,332 +203,332 @@ Ponxedo po:topónimo
 Prut po:topónimo
 Quaraí po:topónimo
 Queiles po:topónimo
-Sigüeiro po:topónimo [n-grama: Refuxio de Sigüeiro]
-Saímes po:topónimo [n-grama: regato de Saímes]
-Casela po:topónimo [n-grama: rego da Casela]
-Beneirón po:topónimo [n-grama: Rego de Beneirón]
-Escuadro po:topónimo [n-grama: Rego de Escuadro]
-Trabe po:topónimo [n-grama: rego de Trabe]
-Batán po:topónimo [n-grama: rego do Batán]
+Sigüeiro po:topónimo is:ngrama_Refuxio_de_Sigüeiro
+Saímes po:topónimo is:ngrama_regato_de_Saímes
+Casela po:topónimo is:ngrama_rego_da_Casela
+Beneirón po:topónimo is:ngrama_Rego_de_Beneirón
+Escuadro po:topónimo is:ngrama_Rego_de_Escuadro
+Trabe po:topónimo is:ngrama_rego_de_Trabe
+Batán po:topónimo is:ngrama_rego_do_Batán
 Rin po:topónimo
-Abadín po:topónimo [n-grama: río Abadín]
-Adaja po:topónimo [n-grama: río Adaja]
-Adda po:topónimo [n-grama: Río Adda]
-Aguasvivas po:topónimo [n-grama: río Aguasvivas]
-Águeda po:topónimo [n-grama: río Águeda]
-Alba po:topónimo [n-grama: río Alba]
-Amarelo po:topónimo [n-grama: Río Amarelo]
-Amazonas po:topónimo [n-grama: río Amazonas]
-Andarax po:topónimo [n-grama: Río Andarax]
-Anllo po:topónimo [n-grama: río Anllo]
-Araduey po:topónimo [n-grama: río Araduey]
-Aragón po:topónimo [n-grama: río Aragón]
-Araz po:topónimo [n-grama: río Araz]
-Ardèche po:topónimo [n-grama: Río Ardèche]
-Arenteiro po:topónimo [n-grama: río Arenteiro]
-Arkansas po:topónimo [n-grama: río Arkansas]
-Arnego po:topónimo [n-grama: río Arnego]
-Arno po:topónimo [n-grama: Río Arno]
-Arnoia po:topónimo [n-grama: río Arnoia]
-Arzoá po:topónimo [n-grama: río Arzoá]
-Asma po:topónimo [n-grama: río Asma]
-Asneiro po:topónimo [n-grama: río Asneiro]
-Avia po:topónimo [n-grama: río Avia]
-Avoca po:topónimo [n-grama: Río Avoca]
-Bafing po:topónimo [n-grama: río Bafing]
-Bandon po:topónimo [n-grama: Río Bandon]
-Bann po:topónimo [n-grama: Río Bann]
-Baraio po:topónimo [n-grama: río Baraio]
-Barbantiño po:topónimo [n-grama: río Barbantiño]
-Barbanza po:topónimo [n-grama: río Barbanza]
-Barbaña po:topónimo [n-grama: río Barbaña]
-Barcés po:topónimo [n-grama: río Barcés]
-Barrow po:topónimo [n-grama: Río Barrow]
-Baxoi po:topónimo [n-grama: río Baxoi]
-Baztan po:topónimo [n-grama: río Baztan]
-Belelle po:topónimo [n-grama: río Belelle]
-Benue po:topónimo [n-grama: río Benue]
-Bibei po:topónimo [n-grama: río Bibei]
-Bidasoa po:topónimo [n-grama: río Bidasoa]
-Boedo po:topónimo [n-grama: río Boedo]
-Boeza po:topónimo [n-grama: río Boeza]
-Bosna po:topónimo [n-grama: Río Bosna]
-Boyne po:topónimo [n-grama: río Boyne]
-Brahmaputra po:topónimo [n-grama: río Brahmaputra]
-Bregenzer po:topónimo [n-grama: río Bregenzer Ach]
-Ach po:topónimo [n-grama: río Bregenzer Ach]
-Brosna po:topónimo [n-grama: Río Brosna]
-Bush po:topónimo [n-grama: Río Bush]
-Cabe po:topónimo [n-grama: río Cabe]
-Cabreira po:topónimo [n-grama: río Cabreira]
-Calvar po:topónimo [n-grama: río Calvar]
-Camac po:topónimo [n-grama: río Camac]
-Camba po:topónimo [n-grama: río Camba]
-Carballas po:topónimo [n-grama: río Carballas]
-Carballo po:topónimo [n-grama: río Carballo]
-Cares po:topónimo [n-grama: río Cares]
-Caselas po:topónimo [n-grama: río Caselas]
-Casoio po:topónimo [n-grama: río Casoio]
-Castletown po:topónimo [n-grama: Río Castletown]
-Caudal po:topónimo [n-grama: río Caudal]
-Cávado po:topónimo [n-grama: río Cávado]
-Celeiro po:topónimo [n-grama: río Celeiro]
-Cereixa po:topónimo [n-grama: río Cereixa]
-Cervañiña po:topónimo [n-grama: río Cervañiña]
-Chao po:topónimo [n-grama: río Chao Phraya]
-Phraya po:topónimo [n-grama: río Chao Phraya]
-Chi po:topónimo [n-grama: río Chi]
-Chubut po:topónimo [n-grama: río Chubut]
-Chulym po:topónimo [n-grama: río Chulym]
-Cinca po:topónimo [n-grama: río Cinca]
-Cinsa po:topónimo [n-grama: río Cinsa]
-Clare po:topónimo [n-grama: Río Clare]
-Columbia po:topónimo [n-grama: río Columbia]
-Congo po:topónimo [n-grama: río Congo]
-Corgo po:topónimo [n-grama: río Corgo]
-Corgo po:topónimo [n-grama: Río Corgo]
-Corrib po:topónimo [n-grama: Río Corrib]
-Corvo po:topónimo [n-grama: Río Corvo]
-Coura po:topónimo [n-grama: río Coura]
-Cúa po:topónimo [n-grama: río Cúa]
-Casela po:topónimo [n-grama: río da Casela]
-Gouxa po:topónimo [n-grama: río da Gouxa]
-Mera po:topónimo [n-grama: río da Mera]
-Prata po:topónimo [n-grama: Río da Prata]
-Sardiña po:topónimo [n-grama: río da Sardiña]
-Danubio po:topónimo [n-grama: Río Danubio]
-Dargle po:topónimo [n-grama: Río Dargle]
-Escuadro po:topónimo [n-grama: río de Escuadro]
-Hedrada po:topónimo [n-grama: río de Hedrada]
-Vilaselán po:topónimo [n-grama: río de Vilaselán]
-Deel po:topónimo [n-grama: Río Deel]
-Deo po:topónimo [n-grama: río Deo]
-Deva po:topónimo [n-grama: río Deva]
-Con po:topónimo [n-grama: río do Con]
-Dodder po:topónimo [n-grama: Río Dodder]
-Gafos po:topónimo [n-grama: río dos Gafos]
-Douro po:topónimo [n-grama: río Douro]
-Dubra po:topónimo [n-grama: río Dubra]
-Duero po:topónimo [n-grama: río Duero]
-Ebola po:topónimo [n-grama: río Ebola]
-Ebro po:topónimo [n-grama: río Ebro]
-Eel po:topónimo [n-grama: río Eel]
-Eifonso po:topónimo [n-grama: río Eifonso]
-Elba po:topónimo [n-grama: río Elba]
-Enviande po:topónimo [n-grama: río Enviande]
-Eo po:topónimo [n-grama: río Eo]
-Erne po:topónimo [n-grama: Río Erne]
-Escalda po:topónimo [n-grama: río Escalda]
-Eske po:topónimo [n-grama: Río Eske]
-Éufrates po:topónimo [n-grama: río Éufrates]
-Eume po:topónimo [n-grama: río Eume]
-Fane po:topónimo [n-grama: Río Fane]
-Feale po:topónimo [n-grama: Río Feale]
-Fergus po:topónimo [n-grama: Río Fergus]
-Ferta po:topónimo [n-grama: Río Ferta]
-Foix po:topónimo [n-grama: río Foix]
-Forgas po:topónimo [n-grama: río Forgas]
-Fowydh po:topónimo [n-grama: Río Fowydh]
-Foyle po:topónimo [n-grama: río Foyle]
-Freixeiro po:topónimo [n-grama: Río Freixeiro]
-Frexulfe po:topónimo [n-grama: río Frexulfe]
-Gállego po:topónimo [n-grama: río Gállego]
-Gallegos po:topónimo [n-grama: río Gallegos]
-Gandariña po:topónimo [n-grama: río Gandariña]
-Genil po:topónimo [n-grama: río Genil]
-Gobia po:topónimo [n-grama: río Gobia]
-Gorgol po:topónimo [n-grama: río Gorgol]
-Guadalfeo po:topónimo [n-grama: río Guadalfeo]
-Guadalhorce po:topónimo [n-grama: río Guadalhorce]
-Guadalimar po:topónimo [n-grama: río Guadalimar]
-Guadalquivir po:topónimo [n-grama: río Guadalquivir]
-Guadiana po:topónimo [n-grama: río Guadiana]
-Guadiana po:topónimo [n-grama: río Guadiana Menor]
-Guayas po:topónimo [n-grama: río Guayas]
-Henares po:topónimo [n-grama: río Henares]
-Hudson po:topónimo [n-grama: río Hudson]
-Indo po:topónimo [n-grama: río Indo]
-Inny po:topónimo [n-grama: Río Inny]
-Ixim po:topónimo [n-grama: río Ixim]
-Jarama po:topónimo [n-grama: río Jarama]
-Kagera po:topónimo [n-grama: río Kagera]
-Khabur po:topónimo [n-grama: río Khabur]
-Klang po:topónimo [n-grama: río Klang]
-Kolyma po:topónimo [n-grama: río Kolyma]
-Ladra po:topónimo [n-grama: río Ladra]
-Lagan po:topónimo [n-grama: Río Lagan]
-Lagares po:topónimo [n-grama: río Lagares]
-Lameira po:topónimo [n-grama: río Lameira]
-Landro po:topónimo [n-grama: río Landro]
-Lebrón po:topónimo [n-grama: Río Lebrón]
-Lee po:topónimo [n-grama: Río Lee]
-Leira po:topónimo [n-grama: río Leira]
-Lena po:topónimo [n-grama: río Lena]
-Lérez po:topónimo [n-grama: río Lérez]
-Li po:topónimo [n-grama: río Li]
-Liffey po:topónimo [n-grama: Río Liffey]
-Limia po:topónimo [n-grama: río Limia]
-Liri po:topónimo [n-grama: río Liri]
-Loio po:topónimo [n-grama: río Loio]
-Loira po:topónimo [n-grama: río Loira]
-Lonia po:topónimo [n-grama: río Lonia]
-Louro po:topónimo [n-grama: río Louro]
-Mackenzie po:topónimo [n-grama: Río Mackenzie]
-Madanela po:topónimo [n-grama: río Madanela]
-Mahon po:topónimo [n-grama: Río Mahon]
-Maigue po:topónimo [n-grama: Río Maigue]
-Mandeo po:topónimo [n-grama: Río Mandeo]
-Manzanares po:topónimo [n-grama: río Manzanares]
-Mao po:topónimo [n-grama: río Mao]
-Marañón po:topónimo [n-grama: río Marañón]
-Maritsa po:topónimo [n-grama: río Maritsa]
-Maruzo po:topónimo [n-grama: río Maruzo]
-Masma po:topónimo [n-grama: río Masma]
-Mendo po:topónimo [n-grama: río Mendo]
-Mente po:topónimo [n-grama: río Mente]
-Mera po:topónimo [n-grama: río Mera]
-Mero po:topónimo [n-grama: Río Mero]
-Mesoiro po:topónimo [n-grama: Río Mesoiro]
-Millars po:topónimo [n-grama: río Millars]
-Mississippi po:topónimo [n-grama: río Mississippi]
-Mondego po:topónimo [n-grama: río Mondego]
-Monelos po:topónimo [n-grama: Río Monelos]
-Moy po:topónimo [n-grama: Río Moy]
-Mun po:topónimo [n-grama: río Mun]
-Nalón po:topónimo [n-grama: río Nalón]
-Naniken po:topónimo [n-grama: Río Naniken]
-Nansa po:topónimo [n-grama: río Nansa]
-Narcea po:topónimo [n-grama: río Narcea]
-Narla po:topónimo [n-grama: río Narla]
-Navajos po:topónimo [n-grama: río Navajos]
-Navia po:topónimo [n-grama: río Navia]
-Neira po:topónimo [n-grama: río Neira]
-Neva po:topónimo [n-grama: Río Neva]
-Newry po:topónimo [n-grama: Río Newry]
-Nilo po:topónimo [n-grama: río Nilo]
-Níxer po:topónimo [n-grama: río Níxer]
-Noceda po:topónimo [n-grama: río Noceda]
-Notwane po:topónimo [n-grama: río Notwane]
-Ob po:topónimo [n-grama: río Ob]
-Obi po:topónimo [n-grama: río Obi]
-Ohio po:topónimo [n-grama: río Ohio]
-Oka po:topónimo [n-grama: río Oka]
-Olt po:topónimo [n-grama: río Olt]
-Om po:topónimo [n-grama: río Om]
-Omolon po:topónimo [n-grama: río Omolon]
-Orange po:topónimo [n-grama: río Orange]
-Órbigo po:topónimo [n-grama: río Órbigo]
-Oribio po:topónimo [n-grama: Río Oribio]
-Orinoco po:topónimo [n-grama: río Orinoco]
-Ouro po:topónimo [n-grama: río Ouro]
-Pa po:topónimo [n-grama: río Pa Sak]
-Sak po:topónimo [n-grama: río Pa Sak]
-Padus po:topónimo [n-grama: río Padus]
-Pambre po:topónimo [n-grama: río Pambre]
-Paraná po:topónimo [n-grama: río Paraná]
-Parga po:topónimo [n-grama: río Parga]
-Poddle po:topónimo [n-grama: Río Poddle]
-Potomac po:topónimo [n-grama: río Potomac]
-Pra po:topónimo [n-grama: río Pra]
-Prípiat po:topónimo [n-grama: río Prípiat]
-Quoile po:topónimo [n-grama: Río Quoile]
-Rio po:topónimo [n-grama: Rio Rabaçal]
-Rabaçal po:topónimo [n-grama: Rio Rabaçal]
-Rabazal po:topónimo [n-grama: río Rabazal]
-Rato po:topónimo [n-grama: río Rato]
-Robe po:topónimo [n-grama: Río Robe]
-Roca po:topónimo [n-grama: río Roca]
-Roe po:topónimo [n-grama: Río Roe]
-Ruvuma po:topónimo [n-grama: río Ruvuma]
-Saa po:topónimo [n-grama: Río Saa]
-Saja po:topónimo [n-grama: río Saja]
-Salgueiro po:topónimo [n-grama: río Salgueiro]
-Lázaro po:topónimo [n-grama: río San Lázaro]
-Lourenzo po:topónimo [n-grama: río San Lourenzo]
-Sangro po:topónimo [n-grama: río Sangro]
-Santry po:topónimo [n-grama: Río Santry]
-São po:topónimo [n-grama: Río São Francisco]
-Francisco po:topónimo [n-grama: Río São Francisco]
-Sardiñeira po:topónimo [n-grama: río Sardiñeira]
-Saskatchewan po:topónimo [n-grama: río Saskatchewan]
-Sava po:topónimo [n-grama: río Sava]
-Segre po:topónimo [n-grama: río Segre]
-Segura po:topónimo [n-grama: río Segura]
-Seile po:topónimo [n-grama: río Seile]
-Seille po:topónimo [n-grama: río Seille]
-Senegal po:topónimo [n-grama: río Senegal]
-Sepik po:topónimo [n-grama: río Sepik]
-Sieira po:topónimo [n-grama: río Sieira]
-Sionainn po:topónimo [n-grama: Río Sionainn]
-Siret po:topónimo [n-grama: río Siret]
-Slaney po:topónimo [n-grama: Río Slaney]
-Solimões po:topónimo [n-grama: río Solimões]
-Songkhram po:topónimo [n-grama: río Songkhram]
-Sor po:topónimo [n-grama: río Sor]
-Suck po:topónimo [n-grama: Río Suck]
-Suir po:topónimo [n-grama: Río Suir]
-Şuşiţa po:topónimo [n-grama: río Şuşiţa]
-Swilly po:topónimo [n-grama: Río Swilly]
-Tambre po:topónimo [n-grama: río Tambre]
-Támega po:topónimo [n-grama: río Támega]
-Támesis po:topónimo [n-grama: río Támesis]
-Támoga po:topónimo [n-grama: río Támoga]
-Tamuxe po:topónimo [n-grama: río Tamuxe]
-Tana po:topónimo [n-grama: Río Tana]
-Tay po:topónimo [n-grama: río Tay]
-Te po:topónimo [n-grama: río Te]
-Tea po:topónimo [n-grama: río Tea]
-Tec po:topónimo [n-grama: río Tec]
-Tennessee po:topónimo [n-grama: río Tennessee]
-Tenorio po:topónimo [n-grama: río Tenorio]
-Ter po:topónimo [n-grama: río Ter]
-Termes po:topónimo [n-grama: río Termes]
-Tietê po:topónimo [n-grama: Río Tietê]
-Tigris po:topónimo [n-grama: río Tigris]
-Tisza po:topónimo [n-grama: río Tisza]
-Tolka po:topónimo [n-grama: Río Tolka]
-Tombigbee po:topónimo [n-grama: río Tombigbee]
-Tordino po:topónimo [n-grama: río Tordino]
-Tormes po:topónimo [n-grama: río Tormes]
-Traba po:topónimo [n-grama: río Traba]
-Trent po:topónimo [n-grama: Río Trent]
-Trigno po:topónimo [n-grama: río Trigno]
-Trimaz po:topónimo [n-grama: río Trimaz]
-Tronceda po:topónimo [n-grama: río Tronceda]
-Tronto po:topónimo [n-grama: río Tronto]
-Tua po:topónimo [n-grama: río Tua]
-Tweed po:topónimo [n-grama: río Tweed]
-Ulla po:topónimo [n-grama: río Ulla]
-Uma po:topónimo [n-grama: río Uma]
-Umia po:topónimo [n-grama: río Umia]
-Urumea po:topónimo [n-grama: río Urumea]
-Vaa po:topónimo [n-grama: río Vaa]
-Valderaduey po:topónimo [n-grama: río Valderaduey]
-Valentia po:topónimo [n-grama: Río Valentia]
-Valga po:topónimo [n-grama: río Valga]
-Valiñas po:topónimo [n-grama: Río Valiñas]
-Valira po:topónimo [n-grama: río Valira]
-Vartry po:topónimo [n-grama: Río Vartry]
-Vezzola po:topónimo [n-grama: Río Vezzola]
-Volga po:topónimo [n-grama: río Volga]
-Volta po:topónimo [n-grama: río Volta]
-Vomano po:topónimo [n-grama: río Vomano]
-Vouga po:topónimo [n-grama: río Vouga]
-Warta po:topónimo [n-grama: río Warta]
-Willamette po:topónimo [n-grama: río Willamette]
-Xallas po:topónimo [n-grama: río Xallas]
-Xares po:topónimo [n-grama: río Xares]
-Xúcar po:topónimo [n-grama: río Xúcar]
-Yalu po:topónimo [n-grama: río Yalu]
-Yamuna po:topónimo [n-grama: río Yamuna]
-Yellowknife po:topónimo [n-grama: río Yellowknife]
-Yukón po:topónimo [n-grama: río Yukón]
-Zaire po:topónimo [n-grama: río Zaire]
-Zambeze po:topónimo [n-grama: río Zambeze]
-Záncara po:topónimo [n-grama: río Záncara]
+Abadín po:topónimo is:ngrama_río_Abadín
+Adaja po:topónimo is:ngrama_río_Adaja
+Adda po:topónimo is:ngrama_Río_Adda
+Aguasvivas po:topónimo is:ngrama_río_Aguasvivas
+Águeda po:topónimo is:ngrama_río_Águeda
+Alba po:topónimo is:ngrama_río_Alba
+Amarelo po:topónimo is:ngrama_Río_Amarelo
+Amazonas po:topónimo is:ngrama_río_Amazonas
+Andarax po:topónimo is:ngrama_Río_Andarax
+Anllo po:topónimo is:ngrama_río_Anllo
+Araduey po:topónimo is:ngrama_río_Araduey
+Aragón po:topónimo is:ngrama_río_Aragón
+Araz po:topónimo is:ngrama_río_Araz
+Ardèche po:topónimo is:ngrama_Río_Ardèche
+Arenteiro po:topónimo is:ngrama_río_Arenteiro
+Arkansas po:topónimo is:ngrama_río_Arkansas
+Arnego po:topónimo is:ngrama_río_Arnego
+Arno po:topónimo is:ngrama_Río_Arno
+Arnoia po:topónimo is:ngrama_río_Arnoia
+Arzoá po:topónimo is:ngrama_río_Arzoá
+Asma po:topónimo is:ngrama_río_Asma
+Asneiro po:topónimo is:ngrama_río_Asneiro
+Avia po:topónimo is:ngrama_río_Avia
+Avoca po:topónimo is:ngrama_Río_Avoca
+Bafing po:topónimo is:ngrama_río_Bafing
+Bandon po:topónimo is:ngrama_Río_Bandon
+Bann po:topónimo is:ngrama_Río_Bann
+Baraio po:topónimo is:ngrama_río_Baraio
+Barbantiño po:topónimo is:ngrama_río_Barbantiño
+Barbanza po:topónimo is:ngrama_río_Barbanza
+Barbaña po:topónimo is:ngrama_río_Barbaña
+Barcés po:topónimo is:ngrama_río_Barcés
+Barrow po:topónimo is:ngrama_Río_Barrow
+Baxoi po:topónimo is:ngrama_río_Baxoi
+Baztan po:topónimo is:ngrama_río_Baztan
+Belelle po:topónimo is:ngrama_río_Belelle
+Benue po:topónimo is:ngrama_río_Benue
+Bibei po:topónimo is:ngrama_río_Bibei
+Bidasoa po:topónimo is:ngrama_río_Bidasoa
+Boedo po:topónimo is:ngrama_río_Boedo
+Boeza po:topónimo is:ngrama_río_Boeza
+Bosna po:topónimo is:ngrama_Río_Bosna
+Boyne po:topónimo is:ngrama_río_Boyne
+Brahmaputra po:topónimo is:ngrama_río_Brahmaputra
+Bregenzer po:topónimo is:ngrama_río_Bregenzer_Ach
+Ach po:topónimo is:ngrama_río_Bregenzer_Ach
+Brosna po:topónimo is:ngrama_Río_Brosna
+Bush po:topónimo is:ngrama_Río_Bush
+Cabe po:topónimo is:ngrama_río_Cabe
+Cabreira po:topónimo is:ngrama_río_Cabreira
+Calvar po:topónimo is:ngrama_río_Calvar
+Camac po:topónimo is:ngrama_río_Camac
+Camba po:topónimo is:ngrama_río_Camba
+Carballas po:topónimo is:ngrama_río_Carballas
+Carballo po:topónimo is:ngrama_río_Carballo
+Cares po:topónimo is:ngrama_río_Cares
+Caselas po:topónimo is:ngrama_río_Caselas
+Casoio po:topónimo is:ngrama_río_Casoio
+Castletown po:topónimo is:ngrama_Río_Castletown
+Caudal po:topónimo is:ngrama_río_Caudal
+Cávado po:topónimo is:ngrama_río_Cávado
+Celeiro po:topónimo is:ngrama_río_Celeiro
+Cereixa po:topónimo is:ngrama_río_Cereixa
+Cervañiña po:topónimo is:ngrama_río_Cervañiña
+Chao po:topónimo is:ngrama_río_Chao_Phraya
+Phraya po:topónimo is:ngrama_río_Chao_Phraya
+Chi po:topónimo is:ngrama_río_Chi
+Chubut po:topónimo is:ngrama_río_Chubut
+Chulym po:topónimo is:ngrama_río_Chulym
+Cinca po:topónimo is:ngrama_río_Cinca
+Cinsa po:topónimo is:ngrama_río_Cinsa
+Clare po:topónimo is:ngrama_Río_Clare
+Columbia po:topónimo is:ngrama_río_Columbia
+Congo po:topónimo is:ngrama_río_Congo
+Corgo po:topónimo is:ngrama_río_Corgo
+Corgo po:topónimo is:ngrama_Río_Corgo
+Corrib po:topónimo is:ngrama_Río_Corrib
+Corvo po:topónimo is:ngrama_Río_Corvo
+Coura po:topónimo is:ngrama_río_Coura
+Cúa po:topónimo is:ngrama_río_Cúa
+Casela po:topónimo is:ngrama_río_da_Casela
+Gouxa po:topónimo is:ngrama_río_da_Gouxa
+Mera po:topónimo is:ngrama_río_da_Mera
+Prata po:topónimo is:ngrama_Río_da_Prata
+Sardiña po:topónimo is:ngrama_río_da_Sardiña
+Danubio po:topónimo is:ngrama_Río_Danubio
+Dargle po:topónimo is:ngrama_Río_Dargle
+Escuadro po:topónimo is:ngrama_río_de_Escuadro
+Hedrada po:topónimo is:ngrama_río_de_Hedrada
+Vilaselán po:topónimo is:ngrama_río_de_Vilaselán
+Deel po:topónimo is:ngrama_Río_Deel
+Deo po:topónimo is:ngrama_río_Deo
+Deva po:topónimo is:ngrama_río_Deva
+Con po:topónimo is:ngrama_río_do_Con
+Dodder po:topónimo is:ngrama_Río_Dodder
+Gafos po:topónimo is:ngrama_río_dos_Gafos
+Douro po:topónimo is:ngrama_río_Douro
+Dubra po:topónimo is:ngrama_río_Dubra
+Duero po:topónimo is:ngrama_río_Duero
+Ebola po:topónimo is:ngrama_río_Ebola
+Ebro po:topónimo is:ngrama_río_Ebro
+Eel po:topónimo is:ngrama_río_Eel
+Eifonso po:topónimo is:ngrama_río_Eifonso
+Elba po:topónimo is:ngrama_río_Elba
+Enviande po:topónimo is:ngrama_río_Enviande
+Eo po:topónimo is:ngrama_río_Eo
+Erne po:topónimo is:ngrama_Río_Erne
+Escalda po:topónimo is:ngrama_río_Escalda
+Eske po:topónimo is:ngrama_Río_Eske
+Éufrates po:topónimo is:ngrama_río_Éufrates
+Eume po:topónimo is:ngrama_río_Eume
+Fane po:topónimo is:ngrama_Río_Fane
+Feale po:topónimo is:ngrama_Río_Feale
+Fergus po:topónimo is:ngrama_Río_Fergus
+Ferta po:topónimo is:ngrama_Río_Ferta
+Foix po:topónimo is:ngrama_río_Foix
+Forgas po:topónimo is:ngrama_río_Forgas
+Fowydh po:topónimo is:ngrama_Río_Fowydh
+Foyle po:topónimo is:ngrama_río_Foyle
+Freixeiro po:topónimo is:ngrama_Río_Freixeiro
+Frexulfe po:topónimo is:ngrama_río_Frexulfe
+Gállego po:topónimo is:ngrama_río_Gállego
+Gallegos po:topónimo is:ngrama_río_Gallegos
+Gandariña po:topónimo is:ngrama_río_Gandariña
+Genil po:topónimo is:ngrama_río_Genil
+Gobia po:topónimo is:ngrama_río_Gobia
+Gorgol po:topónimo is:ngrama_río_Gorgol
+Guadalfeo po:topónimo is:ngrama_río_Guadalfeo
+Guadalhorce po:topónimo is:ngrama_río_Guadalhorce
+Guadalimar po:topónimo is:ngrama_río_Guadalimar
+Guadalquivir po:topónimo is:ngrama_río_Guadalquivir
+Guadiana po:topónimo is:ngrama_río_Guadiana
+Guadiana po:topónimo is:ngrama_río_Guadiana_Menor
+Guayas po:topónimo is:ngrama_río_Guayas
+Henares po:topónimo is:ngrama_río_Henares
+Hudson po:topónimo is:ngrama_río_Hudson
+Indo po:topónimo is:ngrama_río_Indo
+Inny po:topónimo is:ngrama_Río_Inny
+Ixim po:topónimo is:ngrama_río_Ixim
+Jarama po:topónimo is:ngrama_río_Jarama
+Kagera po:topónimo is:ngrama_río_Kagera
+Khabur po:topónimo is:ngrama_río_Khabur
+Klang po:topónimo is:ngrama_río_Klang
+Kolyma po:topónimo is:ngrama_río_Kolyma
+Ladra po:topónimo is:ngrama_río_Ladra
+Lagan po:topónimo is:ngrama_Río_Lagan
+Lagares po:topónimo is:ngrama_río_Lagares
+Lameira po:topónimo is:ngrama_río_Lameira
+Landro po:topónimo is:ngrama_río_Landro
+Lebrón po:topónimo is:ngrama_Río_Lebrón
+Lee po:topónimo is:ngrama_Río_Lee
+Leira po:topónimo is:ngrama_río_Leira
+Lena po:topónimo is:ngrama_río_Lena
+Lérez po:topónimo is:ngrama_río_Lérez
+Li po:topónimo is:ngrama_río_Li
+Liffey po:topónimo is:ngrama_Río_Liffey
+Limia po:topónimo is:ngrama_río_Limia
+Liri po:topónimo is:ngrama_río_Liri
+Loio po:topónimo is:ngrama_río_Loio
+Loira po:topónimo is:ngrama_río_Loira
+Lonia po:topónimo is:ngrama_río_Lonia
+Louro po:topónimo is:ngrama_río_Louro
+Mackenzie po:topónimo is:ngrama_Río_Mackenzie
+Madanela po:topónimo is:ngrama_río_Madanela
+Mahon po:topónimo is:ngrama_Río_Mahon
+Maigue po:topónimo is:ngrama_Río_Maigue
+Mandeo po:topónimo is:ngrama_Río_Mandeo
+Manzanares po:topónimo is:ngrama_río_Manzanares
+Mao po:topónimo is:ngrama_río_Mao
+Marañón po:topónimo is:ngrama_río_Marañón
+Maritsa po:topónimo is:ngrama_río_Maritsa
+Maruzo po:topónimo is:ngrama_río_Maruzo
+Masma po:topónimo is:ngrama_río_Masma
+Mendo po:topónimo is:ngrama_río_Mendo
+Mente po:topónimo is:ngrama_río_Mente
+Mera po:topónimo is:ngrama_río_Mera
+Mero po:topónimo is:ngrama_Río_Mero
+Mesoiro po:topónimo is:ngrama_Río_Mesoiro
+Millars po:topónimo is:ngrama_río_Millars
+Mississippi po:topónimo is:ngrama_río_Mississippi
+Mondego po:topónimo is:ngrama_río_Mondego
+Monelos po:topónimo is:ngrama_Río_Monelos
+Moy po:topónimo is:ngrama_Río_Moy
+Mun po:topónimo is:ngrama_río_Mun
+Nalón po:topónimo is:ngrama_río_Nalón
+Naniken po:topónimo is:ngrama_Río_Naniken
+Nansa po:topónimo is:ngrama_río_Nansa
+Narcea po:topónimo is:ngrama_río_Narcea
+Narla po:topónimo is:ngrama_río_Narla
+Navajos po:topónimo is:ngrama_río_Navajos
+Navia po:topónimo is:ngrama_río_Navia
+Neira po:topónimo is:ngrama_río_Neira
+Neva po:topónimo is:ngrama_Río_Neva
+Newry po:topónimo is:ngrama_Río_Newry
+Nilo po:topónimo is:ngrama_río_Nilo
+Níxer po:topónimo is:ngrama_río_Níxer
+Noceda po:topónimo is:ngrama_río_Noceda
+Notwane po:topónimo is:ngrama_río_Notwane
+Ob po:topónimo is:ngrama_río_Ob
+Obi po:topónimo is:ngrama_río_Obi
+Ohio po:topónimo is:ngrama_río_Ohio
+Oka po:topónimo is:ngrama_río_Oka
+Olt po:topónimo is:ngrama_río_Olt
+Om po:topónimo is:ngrama_río_Om
+Omolon po:topónimo is:ngrama_río_Omolon
+Orange po:topónimo is:ngrama_río_Orange
+Órbigo po:topónimo is:ngrama_río_Órbigo
+Oribio po:topónimo is:ngrama_Río_Oribio
+Orinoco po:topónimo is:ngrama_río_Orinoco
+Ouro po:topónimo is:ngrama_río_Ouro
+Pa po:topónimo is:ngrama_río_Pa_Sak
+Sak po:topónimo is:ngrama_río_Pa_Sak
+Padus po:topónimo is:ngrama_río_Padus
+Pambre po:topónimo is:ngrama_río_Pambre
+Paraná po:topónimo is:ngrama_río_Paraná
+Parga po:topónimo is:ngrama_río_Parga
+Poddle po:topónimo is:ngrama_Río_Poddle
+Potomac po:topónimo is:ngrama_río_Potomac
+Pra po:topónimo is:ngrama_río_Pra
+Prípiat po:topónimo is:ngrama_río_Prípiat
+Quoile po:topónimo is:ngrama_Río_Quoile
+Rio po:topónimo is:ngrama_Rio_Rabaçal
+Rabaçal po:topónimo is:ngrama_Rio_Rabaçal
+Rabazal po:topónimo is:ngrama_río_Rabazal
+Rato po:topónimo is:ngrama_río_Rato
+Robe po:topónimo is:ngrama_Río_Robe
+Roca po:topónimo is:ngrama_río_Roca
+Roe po:topónimo is:ngrama_Río_Roe
+Ruvuma po:topónimo is:ngrama_río_Ruvuma
+Saa po:topónimo is:ngrama_Río_Saa
+Saja po:topónimo is:ngrama_río_Saja
+Salgueiro po:topónimo is:ngrama_río_Salgueiro
+Lázaro po:topónimo is:ngrama_río_San_Lázaro
+Lourenzo po:topónimo is:ngrama_río_San_Lourenzo
+Sangro po:topónimo is:ngrama_río_Sangro
+Santry po:topónimo is:ngrama_Río_Santry
+São po:topónimo is:ngrama_Río_São_Francisco
+Francisco po:topónimo is:ngrama_Río_São_Francisco
+Sardiñeira po:topónimo is:ngrama_río_Sardiñeira
+Saskatchewan po:topónimo is:ngrama_río_Saskatchewan
+Sava po:topónimo is:ngrama_río_Sava
+Segre po:topónimo is:ngrama_río_Segre
+Segura po:topónimo is:ngrama_río_Segura
+Seile po:topónimo is:ngrama_río_Seile
+Seille po:topónimo is:ngrama_río_Seille
+Senegal po:topónimo is:ngrama_río_Senegal
+Sepik po:topónimo is:ngrama_río_Sepik
+Sieira po:topónimo is:ngrama_río_Sieira
+Sionainn po:topónimo is:ngrama_Río_Sionainn
+Siret po:topónimo is:ngrama_río_Siret
+Slaney po:topónimo is:ngrama_Río_Slaney
+Solimões po:topónimo is:ngrama_río_Solimões
+Songkhram po:topónimo is:ngrama_río_Songkhram
+Sor po:topónimo is:ngrama_río_Sor
+Suck po:topónimo is:ngrama_Río_Suck
+Suir po:topónimo is:ngrama_Río_Suir
+Şuşiţa po:topónimo is:ngrama_río_Şuşiţa
+Swilly po:topónimo is:ngrama_Río_Swilly
+Tambre po:topónimo is:ngrama_río_Tambre
+Támega po:topónimo is:ngrama_río_Támega
+Támesis po:topónimo is:ngrama_río_Támesis
+Támoga po:topónimo is:ngrama_río_Támoga
+Tamuxe po:topónimo is:ngrama_río_Tamuxe
+Tana po:topónimo is:ngrama_Río_Tana
+Tay po:topónimo is:ngrama_río_Tay
+Te po:topónimo is:ngrama_río_Te
+Tea po:topónimo is:ngrama_río_Tea
+Tec po:topónimo is:ngrama_río_Tec
+Tennessee po:topónimo is:ngrama_río_Tennessee
+Tenorio po:topónimo is:ngrama_río_Tenorio
+Ter po:topónimo is:ngrama_río_Ter
+Termes po:topónimo is:ngrama_río_Termes
+Tietê po:topónimo is:ngrama_Río_Tietê
+Tigris po:topónimo is:ngrama_río_Tigris
+Tisza po:topónimo is:ngrama_río_Tisza
+Tolka po:topónimo is:ngrama_Río_Tolka
+Tombigbee po:topónimo is:ngrama_río_Tombigbee
+Tordino po:topónimo is:ngrama_río_Tordino
+Tormes po:topónimo is:ngrama_río_Tormes
+Traba po:topónimo is:ngrama_río_Traba
+Trent po:topónimo is:ngrama_Río_Trent
+Trigno po:topónimo is:ngrama_río_Trigno
+Trimaz po:topónimo is:ngrama_río_Trimaz
+Tronceda po:topónimo is:ngrama_río_Tronceda
+Tronto po:topónimo is:ngrama_río_Tronto
+Tua po:topónimo is:ngrama_río_Tua
+Tweed po:topónimo is:ngrama_río_Tweed
+Ulla po:topónimo is:ngrama_río_Ulla
+Uma po:topónimo is:ngrama_río_Uma
+Umia po:topónimo is:ngrama_río_Umia
+Urumea po:topónimo is:ngrama_río_Urumea
+Vaa po:topónimo is:ngrama_río_Vaa
+Valderaduey po:topónimo is:ngrama_río_Valderaduey
+Valentia po:topónimo is:ngrama_Río_Valentia
+Valga po:topónimo is:ngrama_río_Valga
+Valiñas po:topónimo is:ngrama_Río_Valiñas
+Valira po:topónimo is:ngrama_río_Valira
+Vartry po:topónimo is:ngrama_Río_Vartry
+Vezzola po:topónimo is:ngrama_Río_Vezzola
+Volga po:topónimo is:ngrama_río_Volga
+Volta po:topónimo is:ngrama_río_Volta
+Vomano po:topónimo is:ngrama_río_Vomano
+Vouga po:topónimo is:ngrama_río_Vouga
+Warta po:topónimo is:ngrama_río_Warta
+Willamette po:topónimo is:ngrama_río_Willamette
+Xallas po:topónimo is:ngrama_río_Xallas
+Xares po:topónimo is:ngrama_río_Xares
+Xúcar po:topónimo is:ngrama_río_Xúcar
+Yalu po:topónimo is:ngrama_río_Yalu
+Yamuna po:topónimo is:ngrama_río_Yamuna
+Yellowknife po:topónimo is:ngrama_río_Yellowknife
+Yukón po:topónimo is:ngrama_río_Yukón
+Zaire po:topónimo is:ngrama_río_Zaire
+Zambeze po:topónimo is:ngrama_río_Zambeze
+Záncara po:topónimo is:ngrama_río_Záncara
 Ripoll po:topónimo
-River po:topónimo [n-grama: River Bann]
-Bann po:topónimo [n-grama: River Bann]
+River po:topónimo is:ngrama_River_Bann
+Bann po:topónimo is:ngrama_River_Bann
 Ródano po:topónimo
 Rovuma po:topónimo
 Rubicón po:topónimo
@@ -536,7 +536,7 @@ Rubín po:topónimo
 Ruhr po:topónimo
 Salia po:topónimo
 Sambre po:topónimo
-Lucía po:topónimo [n-grama: Santa Lucía]
+Lucía po:topónimo is:ngrama_Santa_Lucía
 Saona po:topónimo
 Sar po:topónimo
 Sarela po:topónimo
@@ -580,13 +580,13 @@ Vístula po:topónimo
 Vouri po:topónimo
 Vuri po:topónimo
 Weser po:topónimo
-Willamette po:topónimo [n-grama: Willamette River]
-River po:topónimo [n-grama: Willamette River]
+Willamette po:topónimo is:ngrama_Willamette_River
+River po:topónimo is:ngrama_Willamette_River
 Wouri po:topónimo
-Xi po:topónimo [n-grama: Xi Jiang]
-Jiang po:topónimo [n-grama: Xi Jiang]
-Xī po:topónimo [n-grama: Xī Jiāng]
-Jiāng po:topónimo [n-grama: Xī Jiāng]
+Xi po:topónimo is:ngrama_Xi_Jiang
+Jiang po:topónimo is:ngrama_Xi_Jiang
+Xī po:topónimo is:ngrama_Xī_Jiāng
+Jiāng po:topónimo is:ngrama_Xī_Jiāng
 Xuvia po:topónimo
 Yangtzé po:topónimo
 Yonne po:topónimo

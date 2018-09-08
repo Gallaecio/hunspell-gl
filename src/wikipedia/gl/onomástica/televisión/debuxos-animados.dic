@@ -1,371 +1,371 @@
-banda po:nome [n-grama: A banda de Ovidio]
-Ovidio po:nome [n-grama: A banda de Ovidio]
-familia po:nome [n-grama: A familia Robinson]
-Robinson po:nome [n-grama: A familia Robinson]
-formiga po:nome [n-grama: A formiga atómica]
-atómica po:nome [n-grama: A formiga atómica]
-lexión po:nome [n-grama: A lexión dos superheroes]
-superheroes po:nome [n-grama: A lexión dos superheroes]
-máscara po:nome [n-grama: A máscara]
-Pantera po:nome [n-grama: A Pantera Rosa]
-Rosa po:nome [n-grama: A Pantera Rosa]
-Adventure po:nome [n-grama: Adventure Time]
-Time po:nome [n-grama: Adventure Time]
-Adventure po:nome [n-grama: Adventure Time with Finn & Jake]
-Time po:nome [n-grama: Adventure Time with Finn & Jake]
-with po:nome [n-grama: Adventure Time with Finn & Jake]
-Finn po:nome [n-grama: Adventure Time with Finn & Jake]
-Jake po:nome [n-grama: Adventure Time with Finn & Jake]
+banda po:nome is:ngrama_A_banda_de_Ovidio
+Ovidio po:nome is:ngrama_A_banda_de_Ovidio
+familia po:nome is:ngrama_A_familia_Robinson
+Robinson po:nome is:ngrama_A_familia_Robinson
+formiga po:nome is:ngrama_A_formiga_atómica
+atómica po:nome is:ngrama_A_formiga_atómica
+lexión po:nome is:ngrama_A_lexión_dos_superheroes
+superheroes po:nome is:ngrama_A_lexión_dos_superheroes
+máscara po:nome is:ngrama_A_máscara
+Pantera po:nome is:ngrama_A_Pantera_Rosa
+Rosa po:nome is:ngrama_A_Pantera_Rosa
+Adventure po:nome is:ngrama_Adventure_Time
+Time po:nome is:ngrama_Adventure_Time
+Adventure po:nome is:ngrama_Adventure_Time_with_Finn_Jake
+Time po:nome is:ngrama_Adventure_Time_with_Finn_Jake
+with po:nome is:ngrama_Adventure_Time_with_Finn_Jake
+Finn po:nome is:ngrama_Adventure_Time_with_Finn_Jake
+Jake po:nome is:ngrama_Adventure_Time_with_Finn_Jake
 Akira po:nome
-American po:nome [n-grama: American Dad]
-Dad po:nome [n-grama: American Dad]
-Anime po:nome [n-grama: Anime de 2011]
-aventuras po:nome [n-grama: As novas aventuras da abella Maia]
-abella po:nome [n-grama: As novas aventuras da abella Maia]
-Maia po:nome [n-grama: As novas aventuras da abella Maia]
-Atom po:nome [n-grama: Atom Ant]
-Ant po:nome [n-grama: Atom Ant]
-Atomic po:nome [n-grama: Atomic Betty]
-Betty po:nome [n-grama: Atomic Betty]
-Back po:nome [n-grama: Back to the Future]
-to po:nome [n-grama: Back to the Future]
-the po:nome [n-grama: Back to the Future]
-Future po:nome [n-grama: Back to the Future]
+American po:nome is:ngrama_American_Dad
+Dad po:nome is:ngrama_American_Dad
+Anime po:nome is:ngrama_Anime_de_2011
+aventuras po:nome is:ngrama_As_novas_aventuras_da_abella_Maia
+abella po:nome is:ngrama_As_novas_aventuras_da_abella_Maia
+Maia po:nome is:ngrama_As_novas_aventuras_da_abella_Maia
+Atom po:nome is:ngrama_Atom_Ant
+Ant po:nome is:ngrama_Atom_Ant
+Atomic po:nome is:ngrama_Atomic_Betty
+Betty po:nome is:ngrama_Atomic_Betty
+Back po:nome is:ngrama_Back_to_the_Future
+to po:nome is:ngrama_Back_to_the_Future
+the po:nome is:ngrama_Back_to_the_Future
+Future po:nome is:ngrama_Back_to_the_Future
 Batman po:nome
-Batman po:nome [n-grama: Batman with Robin the Boy Wonder]
-with po:nome [n-grama: Batman with Robin the Boy Wonder]
-Robin po:nome [n-grama: Batman with Robin the Boy Wonder]
-the po:nome [n-grama: Batman with Robin the Boy Wonder]
-Boy po:nome [n-grama: Batman with Robin the Boy Wonder]
-Wonder po:nome [n-grama: Batman with Robin the Boy Wonder]
-Betty po:nome [n-grama: Betty Boop]
-Boop po:nome [n-grama: Betty Boop]
+Batman po:nome is:ngrama_Batman_with_Robin_the_Boy_Wonder
+with po:nome is:ngrama_Batman_with_Robin_the_Boy_Wonder
+Robin po:nome is:ngrama_Batman_with_Robin_the_Boy_Wonder
+the po:nome is:ngrama_Batman_with_Robin_the_Boy_Wonder
+Boy po:nome is:ngrama_Batman_with_Robin_the_Boy_Wonder
+Wonder po:nome is:ngrama_Batman_with_Robin_the_Boy_Wonder
+Betty po:nome is:ngrama_Betty_Boop
+Boop po:nome is:ngrama_Betty_Boop
 Bleach po:nome
-Blue po:nome [n-grama: Blue Dragon]
-Dragon po:nome [n-grama: Blue Dragon]
-BobEsponxa po:nome [n-grama: BobEsponxa PantalónsCadrados]
-PantalónsCadrados po:nome [n-grama: BobEsponxa PantalónsCadrados]
-Candy po:nome [n-grama: Candy Candy]
-Capitán po:nome [n-grama: Capitán Planeta]
-Planeta po:nome [n-grama: Capitán Planeta]
-Chip po:nome [n-grama: Chip e Chop]
-Chop po:nome [n-grama: Chip e Chop]
-Code po:nome [n-grama: Code Geass Lelouch of the Rebellion]
-Geass po:nome [n-grama: Code Geass Lelouch of the Rebellion]
-Lelouch po:nome [n-grama: Code Geass Lelouch of the Rebellion]
-of po:nome [n-grama: Code Geass Lelouch of the Rebellion]
-the po:nome [n-grama: Code Geass Lelouch of the Rebellion]
-Rebellion po:nome [n-grama: Code Geass Lelouch of the Rebellion]
-Code po:nome [n-grama: Code Lyoko]
-Lyoko po:nome [n-grama: Code Lyoko]
-Código po:nome [n-grama: Código Lyoko]
-Lyoko po:nome [n-grama: Código Lyoko]
-Cousas po:nome [n-grama: Cousas de tolos]
-tolos po:nome [n-grama: Cousas de tolos]
-Cowboy po:nome [n-grama: Cowboy Bebop]
-Bebop po:nome [n-grama: Cowboy Bebop]
+Blue po:nome is:ngrama_Blue_Dragon
+Dragon po:nome is:ngrama_Blue_Dragon
+BobEsponxa po:nome is:ngrama_BobEsponxa_PantalónsCadrados
+PantalónsCadrados po:nome is:ngrama_BobEsponxa_PantalónsCadrados
+Candy po:nome is:ngrama_Candy_Candy
+Capitán po:nome is:ngrama_Capitán_Planeta
+Planeta po:nome is:ngrama_Capitán_Planeta
+Chip po:nome is:ngrama_Chip_e_Chop
+Chop po:nome is:ngrama_Chip_e_Chop
+Code po:nome is:ngrama_Code_Geass_Lelouch_of_the_Rebellion
+Geass po:nome is:ngrama_Code_Geass_Lelouch_of_the_Rebellion
+Lelouch po:nome is:ngrama_Code_Geass_Lelouch_of_the_Rebellion
+of po:nome is:ngrama_Code_Geass_Lelouch_of_the_Rebellion
+the po:nome is:ngrama_Code_Geass_Lelouch_of_the_Rebellion
+Rebellion po:nome is:ngrama_Code_Geass_Lelouch_of_the_Rebellion
+Code po:nome is:ngrama_Code_Lyoko
+Lyoko po:nome is:ngrama_Code_Lyoko
+Código po:nome is:ngrama_Código_Lyoko
+Lyoko po:nome is:ngrama_Código_Lyoko
+Cousas po:nome is:ngrama_Cousas_de_tolos
+tolos po:nome is:ngrama_Cousas_de_tolos
+Cowboy po:nome is:ngrama_Cowboy_Bebop
+Bebop po:nome is:ngrama_Cowboy_Bebop
 Cyberchase po:nome
 Daisy po:nome
-Daisy po:nome [n-grama: Daisy Duck no orixinal en inglés]
-Duck po:nome [n-grama: Daisy Duck no orixinal en inglés]
-orixinal po:nome [n-grama: Daisy Duck no orixinal en inglés]
-inglés po:nome [n-grama: Daisy Duck no orixinal en inglés]
-Daniel po:nome [n-grama: Daniel o fedello]
-fedello po:nome [n-grama: Daniel o fedello]
+Daisy po:nome is:ngrama_Daisy_Duck_no_orixinal_en_inglés
+Duck po:nome is:ngrama_Daisy_Duck_no_orixinal_en_inglés
+orixinal po:nome is:ngrama_Daisy_Duck_no_orixinal_en_inglés
+inglés po:nome is:ngrama_Daisy_Duck_no_orixinal_en_inglés
+Daniel po:nome is:ngrama_Daniel_o_fedello
+fedello po:nome is:ngrama_Daniel_o_fedello
 Digimon po:nome
-Don po:nome [n-grama: Don Drácula]
-Drácula po:nome [n-grama: Don Drácula]
-Don po:nome [n-grama: Don Gato]
-Gato po:nome [n-grama: Don Gato]
-Donald po:nome [n-grama: Donald Duck]
-Duck po:nome [n-grama: Donald Duck]
+Don po:nome is:ngrama_Don_Drácula
+Drácula po:nome is:ngrama_Don_Drácula
+Don po:nome is:ngrama_Don_Gato
+Gato po:nome is:ngrama_Don_Gato
+Donald po:nome is:ngrama_Donald_Duck
+Duck po:nome is:ngrama_Donald_Duck
 Doraemon po:nome
-Dragon po:nome [n-grama: Dragon Ball]
-Ball po:nome [n-grama: Dragon Ball]
-Dragon po:nome [n-grama: Dragon Ball GT]
-Ball po:nome [n-grama: Dragon Ball GT]
-GT po:nome [n-grama: Dragon Ball GT]
-Elfen po:nome [n-grama: Elfen Lied]
-Lied po:nome [n-grama: Elfen Lied]
-Falcóns po:nome [n-grama: Falcóns do espacio]
-espacio po:nome [n-grama: Falcóns do espacio]
-Family po:nome [n-grama: Family Guy]
-Guy po:nome [n-grama: Family Guy]
-Felix po:nome [n-grama: Felix o gato]
-gato po:nome [n-grama: Felix o gato]
-Fullmetal po:nome [n-grama: Fullmetal Alchemist]
-Alchemist po:nome [n-grama: Fullmetal Alchemist]
-Fushigi po:nome [n-grama: Fushigi no Umi no Nadia]
-Umi po:nome [n-grama: Fushigi no Umi no Nadia]
-Nadia po:nome [n-grama: Fushigi no Umi no Nadia]
+Dragon po:nome is:ngrama_Dragon_Ball
+Ball po:nome is:ngrama_Dragon_Ball
+Dragon po:nome is:ngrama_Dragon_Ball_GT
+Ball po:nome is:ngrama_Dragon_Ball_GT
+GT po:nome is:ngrama_Dragon_Ball_GT
+Elfen po:nome is:ngrama_Elfen_Lied
+Lied po:nome is:ngrama_Elfen_Lied
+Falcóns po:nome is:ngrama_Falcóns_do_espacio
+espacio po:nome is:ngrama_Falcóns_do_espacio
+Family po:nome is:ngrama_Family_Guy
+Guy po:nome is:ngrama_Family_Guy
+Felix po:nome is:ngrama_Felix_o_gato
+gato po:nome is:ngrama_Felix_o_gato
+Fullmetal po:nome is:ngrama_Fullmetal_Alchemist
+Alchemist po:nome is:ngrama_Fullmetal_Alchemist
+Fushigi po:nome is:ngrama_Fushigi_no_Umi_no_Nadia
+Umi po:nome is:ngrama_Fushigi_no_Umi_no_Nadia
+Nadia po:nome is:ngrama_Fushigi_no_Umi_no_Nadia
 Futurama po:nome
-Garfield po:nome [n-grama: Garfield and Friends]
-and po:nome [n-grama: Garfield and Friends]
-Friends po:nome [n-grama: Garfield and Friends]
-Garfield po:nome [n-grama: Garfield e mailos seus amigos]
-mailos po:nome [n-grama: Garfield e mailos seus amigos]
-seus po:nome [n-grama: Garfield e mailos seus amigos]
-amigos po:nome [n-grama: Garfield e mailos seus amigos]
-George po:nome [n-grama: George e Martha]
-Martha po:nome [n-grama: George e Martha]
+Garfield po:nome is:ngrama_Garfield_and_Friends
+and po:nome is:ngrama_Garfield_and_Friends
+Friends po:nome is:ngrama_Garfield_and_Friends
+Garfield po:nome is:ngrama_Garfield_e_mailos_seus_amigos
+mailos po:nome is:ngrama_Garfield_e_mailos_seus_amigos
+seus po:nome is:ngrama_Garfield_e_mailos_seus_amigos
+amigos po:nome is:ngrama_Garfield_e_mailos_seus_amigos
+George po:nome is:ngrama_George_e_Martha
+Martha po:nome is:ngrama_George_e_Martha
 Ginger po:nome
 Goofy po:nome
-Gorila po:nome [n-grama: Gorila Maguila]
-Maguila po:nome [n-grama: Gorila Maguila]
+Gorila po:nome is:ngrama_Gorila_Maguila
+Maguila po:nome is:ngrama_Gorila_Maguila
 GUNNM po:nome
-Happy po:nome [n-grama: Happy Tree Friends]
-Tree po:nome [n-grama: Happy Tree Friends]
-Friends po:nome [n-grama: Happy Tree Friends]
-Hattori po:nome [n-grama: Hattori o Ninja]
-Ninja po:nome [n-grama: Hattori o Ninja]
+Happy po:nome is:ngrama_Happy_Tree_Friends
+Tree po:nome is:ngrama_Happy_Tree_Friends
+Friends po:nome is:ngrama_Happy_Tree_Friends
+Hattori po:nome is:ngrama_Hattori_o_Ninja
+Ninja po:nome is:ngrama_Hattori_o_Ninja
 Heidi po:nome
-Hello po:nome [n-grama: Hello Kitty]
-Kitty po:nome [n-grama: Hello Kitty]
+Hello po:nome is:ngrama_Hello_Kitty
+Kitty po:nome is:ngrama_Hello_Kitty
 Hentai po:nome
 Inuyasha po:nome
-Keroro po:nome [n-grama: Keroro Gunso]
-Gunso po:nome [n-grama: Keroro Gunso]
-Kidō po:nome [n-grama: Kidō Senshi Gandamu Daburu Ō]
-Senshi po:nome [n-grama: Kidō Senshi Gandamu Daburu Ō]
-Gandamu po:nome [n-grama: Kidō Senshi Gandamu Daburu Ō]
-Daburu po:nome [n-grama: Kidō Senshi Gandamu Daburu Ō]
-Ō po:nome [n-grama: Kidō Senshi Gandamu Daburu Ō]
-Kim po:nome [n-grama: Kim Possible]
-Possible po:nome [n-grama: Kim Possible]
-King po:nome [n-grama: King Kong]
-Kong po:nome [n-grama: King Kong]
+Keroro po:nome is:ngrama_Keroro_Gunso
+Gunso po:nome is:ngrama_Keroro_Gunso
+Kidō po:nome is:ngrama_Kidō_Senshi_Gandamu_Daburu_Ō
+Senshi po:nome is:ngrama_Kidō_Senshi_Gandamu_Daburu_Ō
+Gandamu po:nome is:ngrama_Kidō_Senshi_Gandamu_Daburu_Ō
+Daburu po:nome is:ngrama_Kidō_Senshi_Gandamu_Daburu_Ō
+Ō po:nome is:ngrama_Kidō_Senshi_Gandamu_Daburu_Ō
+Kim po:nome is:ngrama_Kim_Possible
+Possible po:nome is:ngrama_Kim_Possible
+King po:nome is:ngrama_King_Kong
+Kong po:nome is:ngrama_King_Kong
 Kiteretsu po:nome
-Kōdo po:nome [n-grama: Kōdo Giasu Hangyaku no Rurūshu]
-Giasu po:nome [n-grama: Kōdo Giasu Hangyaku no Rurūshu]
-Hangyaku po:nome [n-grama: Kōdo Giasu Hangyaku no Rurūshu]
-Rurūshu po:nome [n-grama: Kōdo Giasu Hangyaku no Rurūshu]
-Kurenai po:nome [n-grama: Kurenai no Buta]
-Buta po:nome [n-grama: Kurenai no Buta]
-La po:nome [n-grama: La Banda de Mozart]
-Banda po:nome [n-grama: La Banda de Mozart]
-Mozart po:nome [n-grama: La Banda de Mozart]
-Lista po:nome [n-grama: Lista de episodios de Shin Chan]
-episodios po:nome [n-grama: Lista de episodios de Shin Chan]
-Shin po:nome [n-grama: Lista de episodios de Shin Chan]
-Chan po:nome [n-grama: Lista de episodios de Shin Chan]
-Lista po:nome [n-grama: Lista de personaxes de Dragon Ball]
-personaxes po:nome [n-grama: Lista de personaxes de Dragon Ball]
-Dragon po:nome [n-grama: Lista de personaxes de Dragon Ball]
-Ball po:nome [n-grama: Lista de personaxes de Dragon Ball]
-Looney po:nome [n-grama: Looney Tunes]
-Tunes po:nome [n-grama: Looney Tunes]
-Lucky po:nome [n-grama: Lucky Luke]
-Luke po:nome [n-grama: Lucky Luke]
-Macross po:nome [n-grama: Macross Frontier]
-Frontier po:nome [n-grama: Macross Frontier]
-Makurosu po:nome [n-grama: Makurosu Furontia]
-Furontia po:nome [n-grama: Makurosu Furontia]
+Kōdo po:nome is:ngrama_Kōdo_Giasu_Hangyaku_no_Rurūshu
+Giasu po:nome is:ngrama_Kōdo_Giasu_Hangyaku_no_Rurūshu
+Hangyaku po:nome is:ngrama_Kōdo_Giasu_Hangyaku_no_Rurūshu
+Rurūshu po:nome is:ngrama_Kōdo_Giasu_Hangyaku_no_Rurūshu
+Kurenai po:nome is:ngrama_Kurenai_no_Buta
+Buta po:nome is:ngrama_Kurenai_no_Buta
+La po:nome is:ngrama_La_Banda_de_Mozart
+Banda po:nome is:ngrama_La_Banda_de_Mozart
+Mozart po:nome is:ngrama_La_Banda_de_Mozart
+Lista po:nome is:ngrama_Lista_de_episodios_de_Shin_Chan
+episodios po:nome is:ngrama_Lista_de_episodios_de_Shin_Chan
+Shin po:nome is:ngrama_Lista_de_episodios_de_Shin_Chan
+Chan po:nome is:ngrama_Lista_de_episodios_de_Shin_Chan
+Lista po:nome is:ngrama_Lista_de_personaxes_de_Dragon_Ball
+personaxes po:nome is:ngrama_Lista_de_personaxes_de_Dragon_Ball
+Dragon po:nome is:ngrama_Lista_de_personaxes_de_Dragon_Ball
+Ball po:nome is:ngrama_Lista_de_personaxes_de_Dragon_Ball
+Looney po:nome is:ngrama_Looney_Tunes
+Tunes po:nome is:ngrama_Looney_Tunes
+Lucky po:nome is:ngrama_Lucky_Luke
+Luke po:nome is:ngrama_Lucky_Luke
+Macross po:nome is:ngrama_Macross_Frontier
+Frontier po:nome is:ngrama_Macross_Frontier
+Makurosu po:nome is:ngrama_Makurosu_Furontia
+Furontia po:nome is:ngrama_Makurosu_Furontia
 Marco po:nome
-Martin po:nome [n-grama: Martin Mystery]
-Mystery po:nome [n-grama: Martin Mystery]
-Mickey po:nome [n-grama: Mickey Mouse]
-Mouse po:nome [n-grama: Mickey Mouse]
-Mighty po:nome [n-grama: Mighty Max]
-Max po:nome [n-grama: Mighty Max]
-Minnie po:nome [n-grama: Minnie Mouse]
-Mouse po:nome [n-grama: Minnie Mouse]
-Mobile po:nome [n-grama: Mobile Suit Gundam 00]
-Suit po:nome [n-grama: Mobile Suit Gundam 00]
-Gundam po:nome [n-grama: Mobile Suit Gundam 00]
+Martin po:nome is:ngrama_Martin_Mystery
+Mystery po:nome is:ngrama_Martin_Mystery
+Mickey po:nome is:ngrama_Mickey_Mouse
+Mouse po:nome is:ngrama_Mickey_Mouse
+Mighty po:nome is:ngrama_Mighty_Max
+Max po:nome is:ngrama_Mighty_Max
+Minnie po:nome is:ngrama_Minnie_Mouse
+Mouse po:nome is:ngrama_Minnie_Mouse
+Mobile po:nome is:ngrama_Mobile_Suit_Gundam_00
+Suit po:nome is:ngrama_Mobile_Suit_Gundam_00
+Gundam po:nome is:ngrama_Mobile_Suit_Gundam_00
 Mofli po:nome
-Moi po:nome [n-grama: Moi Renart]
-Renart po:nome [n-grama: Moi Renart]
-Mononoke po:nome [n-grama: Mononoke Hime]
-Hime po:nome [n-grama: Mononoke Hime]
+Moi po:nome is:ngrama_Moi_Renart
+Renart po:nome is:ngrama_Moi_Renart
+Mononoke po:nome is:ngrama_Mononoke_Hime
+Hime po:nome is:ngrama_Mononoke_Hime
 Monster po:nome
-Montana po:nome [n-grama: Montana Jones]
-Jones po:nome [n-grama: Montana Jones]
+Montana po:nome is:ngrama_Montana_Jones
+Jones po:nome is:ngrama_Montana_Jones
 Mowgli po:nome
 Mushishi po:nome
-Nadia po:nome [n-grama: Nadia The Secret of Blue Water]
-The po:nome [n-grama: Nadia The Secret of Blue Water]
-Secret po:nome [n-grama: Nadia The Secret of Blue Water]
-of po:nome [n-grama: Nadia The Secret of Blue Water]
-Blue po:nome [n-grama: Nadia The Secret of Blue Water]
-Water po:nome [n-grama: Nadia The Secret of Blue Water]
+Nadia po:nome is:ngrama_Nadia_The_Secret_of_Blue_Water
+The po:nome is:ngrama_Nadia_The_Secret_of_Blue_Water
+Secret po:nome is:ngrama_Nadia_The_Secret_of_Blue_Water
+of po:nome is:ngrama_Nadia_The_Secret_of_Blue_Water
+Blue po:nome is:ngrama_Nadia_The_Secret_of_Blue_Water
+Water po:nome is:ngrama_Nadia_The_Secret_of_Blue_Water
 Naruto po:nome
-Naruto po:nome [n-grama: Naruto Shippūden 2 Bonds]
-Shippūden po:nome [n-grama: Naruto Shippūden 2 Bonds]
-Bonds po:nome [n-grama: Naruto Shippūden 2 Bonds]
-Naruto po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-Shippūden po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-Inheritors po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-of po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-the po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-Will po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-Fire po:nome [n-grama: Naruto Shippūden 3 Inheritors of the Will of Fire]
-Naruto po:nome [n-grama: Naruto Shippūden 4 The Lost Tower]
-Shippūden po:nome [n-grama: Naruto Shippūden 4 The Lost Tower]
-The po:nome [n-grama: Naruto Shippūden 4 The Lost Tower]
-Lost po:nome [n-grama: Naruto Shippūden 4 The Lost Tower]
-Tower po:nome [n-grama: Naruto Shippūden 4 The Lost Tower]
-Naruto po:nome [n-grama: Naruto Shippūden 5 Blood Prison]
-Shippūden po:nome [n-grama: Naruto Shippūden 5 Blood Prison]
-Blood po:nome [n-grama: Naruto Shippūden 5 Blood Prison]
-Prison po:nome [n-grama: Naruto Shippūden 5 Blood Prison]
-Naruto po:nome [n-grama: Naruto Shippūden the Movie]
-Shippūden po:nome [n-grama: Naruto Shippūden the Movie]
-the po:nome [n-grama: Naruto Shippūden the Movie]
-Movie po:nome [n-grama: Naruto Shippūden the Movie]
-Naruto po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-the po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-Movie po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-Legend po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-of po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-Stone po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-Gelel po:nome [n-grama: Naruto the Movie 2 Legend of the Stone of Gelel]
-Naruto po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-the po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-Movie po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-Guardians po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-of po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-Crescent po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-Moon po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-Kingdom po:nome [n-grama: Naruto the Movie 3 Guardians of the Crescent Moon Kingdom]
-Naruto po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-The po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-Movie po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-Ninja po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-Clash po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-in po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-the po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-Land po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-of po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-Snow po:nome [n-grama: Naruto The Movie Ninja Clash in the Land of Snow]
-Neon po:nome [n-grama: Neon Genesis Evangelion]
-Genesis po:nome [n-grama: Neon Genesis Evangelion]
-Evangelion po:nome [n-grama: Neon Genesis Evangelion]
-Nippon po:nome [n-grama: Nippon Animation]
-Animation po:nome [n-grama: Nippon Animation]
-Correcamiños po:nome [n-grama: O Correcamiños]
-detective po:nome [n-grama: O detective Conan]
-Conan po:nome [n-grama: O detective Conan]
-doutor po:nome [n-grama: O doutor Slump]
-Slump po:nome [n-grama: O doutor Slump]
-Suxi po:nome [n-grama: O Gran Suxi]
-inspector po:nome [n-grama: O inspector Gadget]
-Gadget po:nome [n-grama: O inspector Gadget]
-libro po:nome [n-grama: O libro da selva]
-selva po:nome [n-grama: O libro da selva]
-neno po:nome [n-grama: o neno lobo]
-lobo po:nome [n-grama: o neno lobo]
-pai po:nome [n-grama: O pai de Son Goku]
-Son po:nome [n-grama: O pai de Son Goku]
-Goku po:nome [n-grama: O pai de Son Goku]
-Show po:nome [n-grama: O Show de Gary Coleman]
-Gary po:nome [n-grama: O Show de Gary Coleman]
-Coleman po:nome [n-grama: O Show de Gary Coleman]
-One po:nome [n-grama: One Piece]
-Piece po:nome [n-grama: One Piece]
-Bolechas po:nome [n-grama: Os Bolechas]
-cazapantasmas po:nome [n-grama: Os cazapantasmas]
-Picapedra po:nome [n-grama: Os Picapedra]
-Pitufos po:nome [n-grama: Os Pitufos]
-Simpson po:nome [n-grama: Os Simpson]
-Supersónicos po:nome [n-grama: Os Supersónicos]
-tolos po:nome [n-grama: Os tolos do volante]
-volante po:nome [n-grama: Os tolos do volante]
-Oso po:nome [n-grama: Oso Yogi]
-Yogi po:nome [n-grama: Oso Yogi]
+Naruto po:nome is:ngrama_Naruto_Shippūden_2_Bonds
+Shippūden po:nome is:ngrama_Naruto_Shippūden_2_Bonds
+Bonds po:nome is:ngrama_Naruto_Shippūden_2_Bonds
+Naruto po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+Shippūden po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+Inheritors po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+of po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+the po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+Will po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+Fire po:nome is:ngrama_Naruto_Shippūden_3_Inheritors_of_the_Will_of_Fire
+Naruto po:nome is:ngrama_Naruto_Shippūden_4_The_Lost_Tower
+Shippūden po:nome is:ngrama_Naruto_Shippūden_4_The_Lost_Tower
+The po:nome is:ngrama_Naruto_Shippūden_4_The_Lost_Tower
+Lost po:nome is:ngrama_Naruto_Shippūden_4_The_Lost_Tower
+Tower po:nome is:ngrama_Naruto_Shippūden_4_The_Lost_Tower
+Naruto po:nome is:ngrama_Naruto_Shippūden_5_Blood_Prison
+Shippūden po:nome is:ngrama_Naruto_Shippūden_5_Blood_Prison
+Blood po:nome is:ngrama_Naruto_Shippūden_5_Blood_Prison
+Prison po:nome is:ngrama_Naruto_Shippūden_5_Blood_Prison
+Naruto po:nome is:ngrama_Naruto_Shippūden_the_Movie
+Shippūden po:nome is:ngrama_Naruto_Shippūden_the_Movie
+the po:nome is:ngrama_Naruto_Shippūden_the_Movie
+Movie po:nome is:ngrama_Naruto_Shippūden_the_Movie
+Naruto po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+the po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+Movie po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+Legend po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+of po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+Stone po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+Gelel po:nome is:ngrama_Naruto_the_Movie_2_Legend_of_the_Stone_of_Gelel
+Naruto po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+the po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+Movie po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+Guardians po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+of po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+Crescent po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+Moon po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+Kingdom po:nome is:ngrama_Naruto_the_Movie_3_Guardians_of_the_Crescent_Moon_Kingdom
+Naruto po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+The po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+Movie po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+Ninja po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+Clash po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+in po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+the po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+Land po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+of po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+Snow po:nome is:ngrama_Naruto_The_Movie_Ninja_Clash_in_the_Land_of_Snow
+Neon po:nome is:ngrama_Neon_Genesis_Evangelion
+Genesis po:nome is:ngrama_Neon_Genesis_Evangelion
+Evangelion po:nome is:ngrama_Neon_Genesis_Evangelion
+Nippon po:nome is:ngrama_Nippon_Animation
+Animation po:nome is:ngrama_Nippon_Animation
+Correcamiños po:nome is:ngrama_O_Correcamiños
+detective po:nome is:ngrama_O_detective_Conan
+Conan po:nome is:ngrama_O_detective_Conan
+doutor po:nome is:ngrama_O_doutor_Slump
+Slump po:nome is:ngrama_O_doutor_Slump
+Suxi po:nome is:ngrama_O_Gran_Suxi
+inspector po:nome is:ngrama_O_inspector_Gadget
+Gadget po:nome is:ngrama_O_inspector_Gadget
+libro po:nome is:ngrama_O_libro_da_selva
+selva po:nome is:ngrama_O_libro_da_selva
+neno po:nome is:ngrama_o_neno_lobo
+lobo po:nome is:ngrama_o_neno_lobo
+pai po:nome is:ngrama_O_pai_de_Son_Goku
+Son po:nome is:ngrama_O_pai_de_Son_Goku
+Goku po:nome is:ngrama_O_pai_de_Son_Goku
+Show po:nome is:ngrama_O_Show_de_Gary_Coleman
+Gary po:nome is:ngrama_O_Show_de_Gary_Coleman
+Coleman po:nome is:ngrama_O_Show_de_Gary_Coleman
+One po:nome is:ngrama_One_Piece
+Piece po:nome is:ngrama_One_Piece
+Bolechas po:nome is:ngrama_Os_Bolechas
+cazapantasmas po:nome is:ngrama_Os_cazapantasmas
+Picapedra po:nome is:ngrama_Os_Picapedra
+Pitufos po:nome is:ngrama_Os_Pitufos
+Simpson po:nome is:ngrama_Os_Simpson
+Supersónicos po:nome is:ngrama_Os_Supersónicos
+tolos po:nome is:ngrama_Os_tolos_do_volante
+volante po:nome is:ngrama_Os_tolos_do_volante
+Oso po:nome is:ngrama_Oso_Yogi
+Yogi po:nome is:ngrama_Oso_Yogi
 Pain po:nome
-Pato po:nome [n-grama: Pato Donald]
-Donald po:nome [n-grama: Pato Donald]
+Pato po:nome is:ngrama_Pato_Donald
+Donald po:nome is:ngrama_Pato_Donald
 Pixie po:nome
 Pluto po:nome
 Pokémon po:nome
-Police po:nome [n-grama: Police Academy]
-Academy po:nome [n-grama: Police Academy]
-Popeye po:nome [n-grama: Popeye o mariño]
-mariño po:nome [n-grama: Popeye o mariño]
-Popeye po:nome [n-grama: Popeye the Sailor]
-the po:nome [n-grama: Popeye the Sailor]
-Sailor po:nome [n-grama: Popeye the Sailor]
+Police po:nome is:ngrama_Police_Academy
+Academy po:nome is:ngrama_Police_Academy
+Popeye po:nome is:ngrama_Popeye_o_mariño
+mariño po:nome is:ngrama_Popeye_o_mariño
+Popeye po:nome is:ngrama_Popeye_the_Sailor
+the po:nome is:ngrama_Popeye_the_Sailor
+Sailor po:nome is:ngrama_Popeye_the_Sailor
 Rántaro po:nome
-Sailor po:nome [n-grama: Sailor Moon]
-Moon po:nome [n-grama: Sailor Moon]
-Samurai po:nome [n-grama: Samurai Champloo]
-Champloo po:nome [n-grama: Samurai Champloo]
-Sarxento po:nome [n-grama: Sarxento Keroro]
-Keroro po:nome [n-grama: Sarxento Keroro]
+Sailor po:nome is:ngrama_Sailor_Moon
+Moon po:nome is:ngrama_Sailor_Moon
+Samurai po:nome is:ngrama_Samurai_Champloo
+Champloo po:nome is:ngrama_Samurai_Champloo
+Sarxento po:nome is:ngrama_Sarxento_Keroro
+Keroro po:nome is:ngrama_Sarxento_Keroro
 Scooby-Doo po:nome
-Scott po:nome [n-grama: Scott Tenorman]
-Tenorman po:nome [n-grama: Scott Tenorman]
-Sen po:nome [n-grama: Sen to Chihiro no kamikakushi]
-to po:nome [n-grama: Sen to Chihiro no kamikakushi]
-Chihiro po:nome [n-grama: Sen to Chihiro no kamikakushi]
-kamikakushi po:nome [n-grama: Sen to Chihiro no kamikakushi]
+Scott po:nome is:ngrama_Scott_Tenorman
+Tenorman po:nome is:ngrama_Scott_Tenorman
+Sen po:nome is:ngrama_Sen_to_Chihiro_no_kamikakushi
+to po:nome is:ngrama_Sen_to_Chihiro_no_kamikakushi
+Chihiro po:nome is:ngrama_Sen_to_Chihiro_no_kamikakushi
+kamikakushi po:nome is:ngrama_Sen_to_Chihiro_no_kamikakushi
 Shin-chan po:nome
-Shingeki po:nome [n-grama: Shingeki no Kyojin]
-Kyojin po:nome [n-grama: Shingeki no Kyojin]
+Shingeki po:nome is:ngrama_Shingeki_no_Kyojin
+Kyojin po:nome is:ngrama_Shingeki_no_Kyojin
 Snoopy po:nome
 Snorks po:nome
-South po:nome [n-grama: South Park]
-Park po:nome [n-grama: South Park]
-Spirou po:nome [n-grama: Spirou e Fantasio]
-Fantasio po:nome [n-grama: Spirou e Fantasio]
-SpongeBob po:nome [n-grama: SpongeBob SquarePants]
-SquarePants po:nome [n-grama: SpongeBob SquarePants]
-Stewie po:nome [n-grama: Stewie Griffin The Untold Story]
-Griffin po:nome [n-grama: Stewie Griffin The Untold Story]
-The po:nome [n-grama: Stewie Griffin The Untold Story]
-Untold po:nome [n-grama: Stewie Griffin The Untold Story]
-Story po:nome [n-grama: Stewie Griffin The Untold Story]
+South po:nome is:ngrama_South_Park
+Park po:nome is:ngrama_South_Park
+Spirou po:nome is:ngrama_Spirou_e_Fantasio
+Fantasio po:nome is:ngrama_Spirou_e_Fantasio
+SpongeBob po:nome is:ngrama_SpongeBob_SquarePants
+SquarePants po:nome is:ngrama_SpongeBob_SquarePants
+Stewie po:nome is:ngrama_Stewie_Griffin_The_Untold_Story
+Griffin po:nome is:ngrama_Stewie_Griffin_The_Untold_Story
+The po:nome is:ngrama_Stewie_Griffin_The_Untold_Story
+Untold po:nome is:ngrama_Stewie_Griffin_The_Untold_Story
+Story po:nome is:ngrama_Stewie_Griffin_The_Untold_Story
 Tarzán po:nome
-The po:nome [n-grama: The Adventures of Batman]
-Adventures po:nome [n-grama: The Adventures of Batman]
-of po:nome [n-grama: The Adventures of Batman]
-Batman po:nome [n-grama: The Adventures of Batman]
-The po:nome [n-grama: The Animatrix]
-Animatrix po:nome [n-grama: The Animatrix]
-The po:nome [n-grama: The Flintstones]
-Flintstones po:nome [n-grama: The Flintstones]
-The po:nome [n-grama: The Jetsons]
-Jetsons po:nome [n-grama: The Jetsons]
-The po:nome [n-grama: The Jungle Book]
-Jungle po:nome [n-grama: The Jungle Book]
-Book po:nome [n-grama: The Jungle Book]
-The po:nome [n-grama: The Simpsons]
-Simpsons po:nome [n-grama: The Simpsons]
-Tom po:nome [n-grama: Tom e Jerry]
-Jerry po:nome [n-grama: Tom e Jerry]
-futuro po:nome [n-grama: Un futuro diferente]
-diferente po:nome [n-grama: Un futuro diferente]
-Vicky po:nome [n-grama: Vicky o viquingo]
-viquingo po:nome [n-grama: Vicky o viquingo]
-Winky po:nome [n-grama: Winky Dink]
-Dink po:nome [n-grama: Winky Dink]
-Winky po:nome [n-grama: Winky Dink and You]
-Dink po:nome [n-grama: Winky Dink and You]
-and po:nome [n-grama: Winky Dink and You]
-You po:nome [n-grama: Winky Dink and You]
+The po:nome is:ngrama_The_Adventures_of_Batman
+Adventures po:nome is:ngrama_The_Adventures_of_Batman
+of po:nome is:ngrama_The_Adventures_of_Batman
+Batman po:nome is:ngrama_The_Adventures_of_Batman
+The po:nome is:ngrama_The_Animatrix
+Animatrix po:nome is:ngrama_The_Animatrix
+The po:nome is:ngrama_The_Flintstones
+Flintstones po:nome is:ngrama_The_Flintstones
+The po:nome is:ngrama_The_Jetsons
+Jetsons po:nome is:ngrama_The_Jetsons
+The po:nome is:ngrama_The_Jungle_Book
+Jungle po:nome is:ngrama_The_Jungle_Book
+Book po:nome is:ngrama_The_Jungle_Book
+The po:nome is:ngrama_The_Simpsons
+Simpsons po:nome is:ngrama_The_Simpsons
+Tom po:nome is:ngrama_Tom_e_Jerry
+Jerry po:nome is:ngrama_Tom_e_Jerry
+futuro po:nome is:ngrama_Un_futuro_diferente
+diferente po:nome is:ngrama_Un_futuro_diferente
+Vicky po:nome is:ngrama_Vicky_o_viquingo
+viquingo po:nome is:ngrama_Vicky_o_viquingo
+Winky po:nome is:ngrama_Winky_Dink
+Dink po:nome is:ngrama_Winky_Dink
+Winky po:nome is:ngrama_Winky_Dink_and_You
+Dink po:nome is:ngrama_Winky_Dink_and_You
+and po:nome is:ngrama_Winky_Dink_and_You
+You po:nome is:ngrama_Winky_Dink_and_You
 Winnie-the-Pooh po:nome
-Winx po:nome [n-grama: Winx Club]
-Club po:nome [n-grama: Winx Club]
-Wolverine po:nome [n-grama: Wolverine and the X-Men]
-and po:nome [n-grama: Wolverine and the X-Men]
-the po:nome [n-grama: Wolverine and the X-Men]
-X-Men po:nome [n-grama: Wolverine and the X-Men]
-Woody po:nome [n-grama: Woody Woodpecker]
-Woodpecker po:nome [n-grama: Woody Woodpecker]
-X-Men po:nome [n-grama: X-Men Evolution]
-Evolution po:nome [n-grama: X-Men Evolution]
+Winx po:nome is:ngrama_Winx_Club
+Club po:nome is:ngrama_Winx_Club
+Wolverine po:nome is:ngrama_Wolverine_and_the_X_Men
+and po:nome is:ngrama_Wolverine_and_the_X_Men
+the po:nome is:ngrama_Wolverine_and_the_X_Men
+X-Men po:nome is:ngrama_Wolverine_and_the_X_Men
+Woody po:nome is:ngrama_Woody_Woodpecker
+Woodpecker po:nome is:ngrama_Woody_Woodpecker
+X-Men po:nome is:ngrama_X_Men_Evolution
+Evolution po:nome is:ngrama_X_Men_Evolution
 XEBEC po:nome
-Yogi po:nome [n-grama: Yogi Bear]
-Bear po:nome [n-grama: Yogi Bear]
-Zatch po:nome [n-grama: Zatch Bell]
-Bell po:nome [n-grama: Zatch Bell]
-ドン・ドラキュラ po:nome [n-grama: ドン・ドラキュラ Don Dorakyura]
-Don po:nome [n-grama: ドン・ドラキュラ Don Dorakyura]
-Dorakyura po:nome [n-grama: ドン・ドラキュラ Don Dorakyura]
+Yogi po:nome is:ngrama_Yogi_Bear
+Bear po:nome is:ngrama_Yogi_Bear
+Zatch po:nome is:ngrama_Zatch_Bell
+Bell po:nome is:ngrama_Zatch_Bell
+ドン・ドラキュラ po:nome is:ngrama_ドン_ドラキュラ_Don_Dorakyura
+Don po:nome is:ngrama_ドン_ドラキュラ_Don_Dorakyura
+Dorakyura po:nome is:ngrama_ドン_ドラキュラ_Don_Dorakyura
 ふしぎの海のナディア po:nome
 千と千尋の神隠し po:nome
-株式会社ジーベック po:nome [n-grama: 株式会社ジーベック Kabushiki Gaisha Jībekku]
-Kabushiki po:nome [n-grama: 株式会社ジーベック Kabushiki Gaisha Jībekku]
-Gaisha po:nome [n-grama: 株式会社ジーベック Kabushiki Gaisha Jībekku]
-Jībekku po:nome [n-grama: 株式会社ジーベック Kabushiki Gaisha Jībekku]
+株式会社ジーベック po:nome is:ngrama_株式会社ジーベック_Kabushiki_Gaisha_Jībekku
+Kabushiki po:nome is:ngrama_株式会社ジーベック_Kabushiki_Gaisha_Jībekku
+Gaisha po:nome is:ngrama_株式会社ジーベック_Kabushiki_Gaisha_Jībekku
+Jībekku po:nome is:ngrama_株式会社ジーベック_Kabushiki_Gaisha_Jībekku
 犬夜叉 po:nome

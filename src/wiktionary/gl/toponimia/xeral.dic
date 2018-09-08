@@ -1,13 +1,13 @@
-China po:topónimo [n-grama: A China]
-Habana po:topónimo [n-grama: A Habana]
-Paz po:topónimo [n-grama: A Paz]
-Valeta po:topónimo [n-grama: A Valeta]
+China po:topónimo is:ngrama_A_China
+Habana po:topónimo is:ngrama_A_Habana
+Paz po:topónimo is:ngrama_A_Paz
+Valeta po:topónimo is:ngrama_A_Valeta
 Abaeté po:topónimo
 Aballe po:topónimo
 Abisinia po:topónimo
 Abkhazia po:topónimo
-Abu po:topónimo [n-grama: Abu Dhabi]
-Dhabi po:topónimo [n-grama: Abu Dhabi]
+Abu po:topónimo is:ngrama_Abu_Dhabi
+Dhabi po:topónimo is:ngrama_Abu_Dhabi
 Abuja po:topónimo
 Acapulco po:topónimo
 Acatenango po:topónimo
@@ -18,9 +18,9 @@ Adamantina po:topónimo
 Adelaida po:topónimo
 Afganistán po:topónimo
 África po:topónimo
-África po:topónimo [n-grama: África do Sur]
-Aghios po:topónimo [n-grama: Aghios Nikolaos]
-Nikolaos po:topónimo [n-grama: Aghios Nikolaos]
+África po:topónimo is:ngrama_África_do_Sur
+Aghios po:topónimo is:ngrama_Aghios_Nikolaos
+Nikolaos po:topónimo is:ngrama_Aghios_Nikolaos
 Alabama po:topónimo
 Alacant po:topónimo
 Alacante po:topónimo
@@ -36,7 +36,7 @@ Alcobaza po:topónimo
 Alemaña po:topónimo
 Almería po:topónimo
 Alsacia po:topónimo
-Normandía po:topónimo [n-grama: Alta Normandía]
+Normandía po:topónimo is:ngrama_Alta_Normandía
 Alvito po:topónimo
 Alxer po:topónimo
 Alxeria po:topónimo
@@ -46,18 +46,18 @@ Ancara po:topónimo
 Ancha po:topónimo
 Andalucía po:topónimo
 Andorra po:topónimo
-Andorra po:topónimo [n-grama: Andorra a Vella]
+Andorra po:topónimo is:ngrama_Andorra_a_Vella
 Angola po:topónimo
 Anguila po:topónimo
 Antananarivo po:topónimo
 Antártida po:topónimo
-Barbuda po:topónimo [n-grama: Antiga e Barbuda]
+Barbuda po:topónimo is:ngrama_Antiga_e_Barbuda
 Aquitania po:topónimo
 Áraba po:topónimo
-Arabia po:topónimo [n-grama: Arabia Saudí]
-Saudí po:topónimo [n-grama: Arabia Saudí]
-Arabia po:topónimo [n-grama: Arabia Saudita]
-Saudita po:topónimo [n-grama: Arabia Saudita]
+Arabia po:topónimo is:ngrama_Arabia_Saudí
+Saudí po:topónimo is:ngrama_Arabia_Saudí
+Arabia po:topónimo is:ngrama_Arabia_Saudita
+Saudita po:topónimo is:ngrama_Arabia_Saudita
 Aracena po:topónimo
 Aragón po:topónimo
 Arcansas po:topónimo
@@ -82,11 +82,11 @@ Azpeitia po:topónimo
 Badajoz po:topónimo
 Bagdade po:topónimo
 Bahamas po:topónimo
-Bahía po:topónimo [n-grama: Bahía Blanca]
+Bahía po:topónimo is:ngrama_Bahía_Blanca
 Bahrain po:topónimo
 Bahrein po:topónimo
-California po:topónimo [n-grama: Baixa California]
-Normandía po:topónimo [n-grama: Baixa Normandía]
+California po:topónimo is:ngrama_Baixa_California
+Normandía po:topónimo is:ngrama_Baixa_Normandía
 Bakú po:topónimo
 Baltimore po:topónimo
 Bamako po:topónimo
@@ -104,8 +104,8 @@ Belgrado po:topónimo
 Belice po:topónimo
 Belize po:topónimo
 Belmopán po:topónimo
-Belo po:topónimo [n-grama: Belo Horizonte]
-Horizonte po:topónimo [n-grama: Belo Horizonte]
+Belo po:topónimo is:ngrama_Belo_Horizonte
+Horizonte po:topónimo is:ngrama_Belo_Horizonte
 Bélxica po:topónimo
 Benfica po:topónimo
 Benin po:topónimo
@@ -126,11 +126,11 @@ Bon po:topónimo
 Bordeos po:topónimo
 Borgoña po:topónimo
 Borobudur po:topónimo
-Bos po:topónimo [n-grama: Bos Aires]
-Aires po:topónimo [n-grama: Bos Aires]
+Bos po:topónimo is:ngrama_Bos_Aires
+Aires po:topónimo is:ngrama_Bos_Aires
 Bosnia po:topónimo
-Bosnia po:topónimo [n-grama: Bosnia e Hercegovina]
-Hercegovina po:topónimo [n-grama: Bosnia e Hercegovina]
+Bosnia po:topónimo is:ngrama_Bosnia_e_Hercegovina
+Hercegovina po:topónimo is:ngrama_Bosnia_e_Hercegovina
 Bosnia-Hercegovina po:topónimo
 Botsuana po:topónimo
 Botswana po:topónimo
@@ -150,11 +150,11 @@ Búfalo po:topónimo
 Bujumbura po:topónimo
 Bulgaria po:topónimo
 Burgos po:topónimo
-Burkina po:topónimo [n-grama: Burkina Faso]
-Faso po:topónimo [n-grama: Burkina Faso]
+Burkina po:topónimo is:ngrama_Burkina_Faso
+Faso po:topónimo is:ngrama_Burkina_Faso
 Burkina-Faso po:topónimo
-Burquina po:topónimo [n-grama: Burquina Faso]
-Faso po:topónimo [n-grama: Burquina Faso]
+Burquina po:topónimo is:ngrama_Burquina_Faso
+Faso po:topónimo is:ngrama_Burquina_Faso
 Burundi po:topónimo
 Bután po:topónimo
 Cáceres po:topónimo
@@ -173,23 +173,23 @@ Cantón po:topónimo
 Capetón po:topónimo
 Caracas po:topónimo
 Cariñena po:topónimo
-Carolina po:topónimo [n-grama: Carolina do Norte]
-Carolina po:topónimo [n-grama: Carolina do Sur]
+Carolina po:topónimo is:ngrama_Carolina_do_Norte
+Carolina po:topónimo is:ngrama_Carolina_do_Sur
 Cartago po:topónimo
-Cartaxena po:topónimo [n-grama: Cartaxena de Indias]
-Indias po:topónimo [n-grama: Cartaxena de Indias]
+Cartaxena po:topónimo is:ngrama_Cartaxena_de_Indias
+Indias po:topónimo is:ngrama_Cartaxena_de_Indias
 Cartaxo po:topónimo
 Casaquistán po:topónimo
-Castela po:topónimo [n-grama: Castela a Nova]
-Castela po:topónimo [n-grama: Castela e León]
-León po:topónimo [n-grama: Castela e León]
-Castela-A po:topónimo [n-grama: Castela-A Mancha]
-Mancha po:topónimo [n-grama: Castela-A Mancha]
+Castela po:topónimo is:ngrama_Castela_a_Nova
+Castela po:topónimo is:ngrama_Castela_e_León
+León po:topónimo is:ngrama_Castela_e_León
+Castela-A po:topónimo is:ngrama_Castela_A_Mancha
+Mancha po:topónimo is:ngrama_Castela_A_Mancha
 Castelló po:topónimo
 Cataluña po:topónimo
 Chad po:topónimo
-Chapada po:topónimo [n-grama: Chapada Diamantina]
-Diamantina po:topónimo [n-grama: Chapada Diamantina]
+Chapada po:topónimo is:ngrama_Chapada_Diamantina
+Diamantina po:topónimo is:ngrama_Chapada_Diamantina
 Chequia po:topónimo
 Chicago po:topónimo
 Chile po:topónimo
@@ -198,41 +198,41 @@ Chipre po:topónimo
 Chisinau po:topónimo
 Chuvaquia po:topónimo
 Ciamis po:topónimo
-México po:topónimo [n-grama: Cidade de México]
-Panamá po:topónimo [n-grama: Cidade de Panamá]
-Vaticano po:topónimo [n-grama: Cidade do Vaticano]
+México po:topónimo is:ngrama_Cidade_de_México
+Panamá po:topónimo is:ngrama_Cidade_de_Panamá
+Vaticano po:topónimo is:ngrama_Cidade_do_Vaticano
 Cimbabue po:topónimo
-Ciudad po:topónimo [n-grama: Ciudad Real]
+Ciudad po:topónimo is:ngrama_Ciudad_Real
 Cochabamba po:topónimo
 Colombia po:topónimo
 Colorado po:topónimo
-Columbia po:topónimo [n-grama: Columbia Británica]
+Columbia po:topónimo is:ngrama_Columbia_Británica
 Comores po:topónimo
-Comunidade po:topónimo [n-grama: Comunidade Valenciana]
-Valenciana po:topónimo [n-grama: Comunidade Valenciana]
+Comunidade po:topónimo is:ngrama_Comunidade_Valenciana
+Valenciana po:topónimo is:ngrama_Comunidade_Valenciana
 Congo po:topónimo
 Connecticut po:topónimo
 Copenhaguen po:topónimo
 Córdoba po:topónimo
-Corea po:topónimo [n-grama: Corea do Norte]
-Corea po:topónimo [n-grama: Corea do Sur]
+Corea po:topónimo is:ngrama_Corea_do_Norte
+Corea po:topónimo is:ngrama_Corea_do_Sur
 Corinto po:topónimo
 Corleone po:topónimo
 Córsega po:topónimo
-Azul po:topónimo [n-grama: Costa Azul Provenzal]
-Provenzal po:topónimo [n-grama: Costa Azul Provenzal]
-Marfil po:topónimo [n-grama: Costa do Marfil]
-Rica po:topónimo [n-grama: Costa Rica]
+Azul po:topónimo is:ngrama_Costa_Azul_Provenzal
+Provenzal po:topónimo is:ngrama_Costa_Azul_Provenzal
+Marfil po:topónimo is:ngrama_Costa_do_Marfil
+Rica po:topónimo is:ngrama_Costa_Rica
 Covilhã po:topónimo
 Croacia po:topónimo
 Cuba po:topónimo
 Cuenca po:topónimo
 Curitiba po:topónimo
 Cuzco po:topónimo
-Nang po:topónimo [n-grama: Da Nang]
+Nang po:topónimo is:ngrama_Da_Nang
 Dacca po:topónimo
-Dacota po:topónimo [n-grama: Dacota do Norte]
-Dacota po:topónimo [n-grama: Dacota do Sur]
+Dacota po:topónimo is:ngrama_Dacota_do_Norte
+Dacota po:topónimo is:ngrama_Dacota_do_Sur
 Dakar po:topónimo
 Dallas po:topónimo
 Darwin po:topónimo
@@ -245,15 +245,15 @@ Dublín po:topónimo
 Durango po:topónimo
 Ecuador po:topónimo
 Elx po:topónimo
-Emiratos po:topónimo [n-grama: Emiratos Árabes Unidos]
-Árabes po:topónimo [n-grama: Emiratos Árabes Unidos]
+Emiratos po:topónimo is:ngrama_Emiratos_Árabes_Unidos
+Árabes po:topónimo is:ngrama_Emiratos_Árabes_Unidos
 Eritrea po:topónimo
 Escocia po:topónimo
 Eslavonia po:topónimo
 Eslovaquia po:topónimo
 Eslovenia po:topónimo
 Esmeraldas po:topónimo
-América po:topónimo [n-grama: Estados Unidos de América]
+América po:topónimo is:ngrama_Estados_Unidos_de_América
 Estocolmo po:topónimo
 Estonia po:topónimo
 Estrasburgo po:topónimo
@@ -281,7 +281,7 @@ Gales po:topónimo
 Gambia po:topónimo
 Gana po:topónimo
 Georgetown po:topónimo
-Bretaña po:topónimo [n-grama: Gran Bretaña]
+Bretaña po:topónimo is:ngrama_Gran_Bretaña
 Granada po:topónimo
 Grecia po:topónimo
 Grenlandia po:topónimo
@@ -290,11 +290,11 @@ Guantánamo po:topónimo
 Guatemala po:topónimo
 Guayaquil po:topónimo
 Güiana po:topónimo
-Güiana po:topónimo [n-grama: Güiana Francesa]
-Francesa po:topónimo [n-grama: Güiana Francesa]
+Güiana po:topónimo is:ngrama_Güiana_Francesa
+Francesa po:topónimo is:ngrama_Güiana_Francesa
 Guinea po:topónimo
-Guinea po:topónimo [n-grama: Guinea Ecuatorial]
-Ecuatorial po:topónimo [n-grama: Guinea Ecuatorial]
+Guinea po:topónimo is:ngrama_Guinea_Ecuatorial
+Ecuatorial po:topónimo is:ngrama_Guinea_Ecuatorial
 Guinea-Bisau po:topónimo
 Guipúscoa po:topónimo
 Haiphong po:topónimo
@@ -306,9 +306,9 @@ Harare po:topónimo
 Hawaii po:topónimo
 Helsinqui po:topónimo
 Hermisende po:topónimo
-Ho po:topónimo [n-grama: Ho Chi Minh]
-Chi po:topónimo [n-grama: Ho Chi Minh]
-Minh po:topónimo [n-grama: Ho Chi Minh]
+Ho po:topónimo is:ngrama_Ho_Chi_Minh
+Chi po:topónimo is:ngrama_Ho_Chi_Minh
+Minh po:topónimo is:ngrama_Ho_Chi_Minh
 Holanda po:topónimo
 Honduras po:topónimo
 Honiara po:topónimo
@@ -318,11 +318,11 @@ Hungría po:topónimo
 Idaho po:topónimo
 Iemen po:topónimo
 Iereván po:topónimo
-Francia po:topónimo [n-grama: Illa de Francia]
-Baleares po:topónimo [n-grama: Illas Baleares]
-Bermudas po:topónimo [n-grama: Illas Bermudas]
-Canarias po:topónimo [n-grama: Illas Canarias]
-Salomón po:topónimo [n-grama: Illas Salomón]
+Francia po:topónimo is:ngrama_Illa_de_Francia
+Baleares po:topónimo is:ngrama_Illas_Baleares
+Bermudas po:topónimo is:ngrama_Illas_Bermudas
+Canarias po:topónimo is:ngrama_Illas_Canarias
+Salomón po:topónimo is:ngrama_Illas_Salomón
 Illinois po:topónimo
 India po:topónimo
 Indiana po:topónimo
@@ -353,8 +353,8 @@ Kinshasa po:topónimo
 Kirguizistán po:topónimo
 Kiribati po:topónimo
 Kuwait po:topónimo
-La po:topónimo [n-grama: La Paz]
-Paz po:topónimo [n-grama: La Paz]
+La po:topónimo is:ngrama_La_Paz
+Paz po:topónimo is:ngrama_La_Paz
 Labrador po:topónimo
 Lamia po:topónimo
 Laos po:topónimo
@@ -396,8 +396,8 @@ Manama po:topónimo
 Manaus po:topónimo
 Manila po:topónimo
 Mañufe po:topónimo
-del po:topónimo [n-grama: Mar del Plata]
-Plata po:topónimo [n-grama: Mar del Plata]
+del po:topónimo is:ngrama_Mar_del_Plata
+Plata po:topónimo is:ngrama_Mar_del_Plata
 Maracaibo po:topónimo
 Mariland po:topónimo
 Marrocos po:topónimo
@@ -449,24 +449,24 @@ Nicaragua po:topónimo
 Nicosia po:topónimo
 Níxer po:topónimo
 Nixeria po:topónimo
-Norte-Paso po:topónimo [n-grama: Norte-Paso de Calais]
-Calais po:topónimo [n-grama: Norte-Paso de Calais]
+Norte-Paso po:topónimo is:ngrama_Norte_Paso_de_Calais
+Calais po:topónimo is:ngrama_Norte_Paso_de_Calais
 Noruega po:topónimo
 Nouakchott po:topónimo
-Amsterdan po:topónimo [n-grama: Nova Amsterdan]
-Celandia po:topónimo [n-grama: Nova Celandia]
-Deli po:topónimo [n-grama: Nova Deli]
-Escocia po:topónimo [n-grama: Nova Escocia]
-Hampshire po:topónimo [n-grama: Nova Hampshire]
-Jersey po:topónimo [n-grama: Nova Jersey]
-Orleáns po:topónimo [n-grama: Nova Orleáns]
-York po:topónimo [n-grama: Nova York]
-México po:topónimo [n-grama: Novo México]
-Mundo po:topónimo [n-grama: Novo Mundo]
+Amsterdan po:topónimo is:ngrama_Nova_Amsterdan
+Celandia po:topónimo is:ngrama_Nova_Celandia
+Deli po:topónimo is:ngrama_Nova_Deli
+Escocia po:topónimo is:ngrama_Nova_Escocia
+Hampshire po:topónimo is:ngrama_Nova_Hampshire
+Jersey po:topónimo is:ngrama_Nova_Jersey
+Orleáns po:topónimo is:ngrama_Nova_Orleáns
+York po:topónimo is:ngrama_Nova_York
+México po:topónimo is:ngrama_Novo_México
+Mundo po:topónimo is:ngrama_Novo_Mundo
 Núremberg po:topónimo
 Nuuk po:topónimo
-Cairo po:topónimo [n-grama: O Cairo]
-Salvador po:topónimo [n-grama: O Salvador]
+Cairo po:topónimo is:ngrama_O_Cairo
+Salvador po:topónimo is:ngrama_O_Salvador
 Oceanía po:topónimo
 Ohio po:topónimo
 Oklahoma po:topónimo
@@ -476,14 +476,14 @@ Oregón po:topónimo
 Oslo po:topónimo
 Otava po:topónimo
 Padua po:topónimo
-Loira po:topónimo [n-grama: País do Loira]
+Loira po:topónimo is:ngrama_País_do_Loira
 Palencia po:topónimo
 Palermo po:topónimo
 Palestina po:topónimo
 Pamplona po:topónimo
 Panamá po:topónimo
-Papúa-Nova po:topónimo [n-grama: Papúa-Nova Guinea]
-Guinea po:topónimo [n-grama: Papúa-Nova Guinea]
+Papúa-Nova po:topónimo is:ngrama_Papúa_Nova_Guinea
+Guinea po:topónimo is:ngrama_Papúa_Nova_Guinea
 Paquistán po:topónimo
 Paraguai po:topónimo
 Paraná po:topónimo
@@ -498,83 +498,83 @@ Pichilemu po:topónimo
 Pisa po:topónimo
 Poitou-Charente po:topónimo
 Polonia po:topónimo
-Port po:topónimo [n-grama: Port Moresby]
-Moresby po:topónimo [n-grama: Port Moresby]
-Alegre po:topónimo [n-grama: Porto Alegre]
-Rico po:topónimo [n-grama: Porto Rico]
+Port po:topónimo is:ngrama_Port_Moresby
+Moresby po:topónimo is:ngrama_Port_Moresby
+Alegre po:topónimo is:ngrama_Porto_Alegre
+Rico po:topónimo is:ngrama_Porto_Rico
 Porto-Novo po:topónimo
 Portonovo po:topónimo
 Portugal po:topónimo
 Potosí po:topónimo
 Praga po:topónimo
-Eduardo po:topónimo [n-grama: Príncipe Eduardo]
+Eduardo po:topónimo is:ngrama_Príncipe_Eduardo
 Puebla po:topónimo
-Puerto po:topónimo [n-grama: Puerto Deseado]
-Deseado po:topónimo [n-grama: Puerto Deseado]
-Punta po:topónimo [n-grama: Punta Arenas]
-Arenas po:topónimo [n-grama: Punta Arenas]
+Puerto po:topónimo is:ngrama_Puerto_Deseado
+Deseado po:topónimo is:ngrama_Puerto_Deseado
+Punta po:topónimo is:ngrama_Punta_Arenas
+Arenas po:topónimo is:ngrama_Punta_Arenas
 Qatar po:topónimo
 Quebec po:topónimo
 Quenia po:topónimo
 Quito po:topónimo
 Recife po:topónimo
 Reiquiavik po:topónimo
-Centroafricana po:topónimo [n-grama: República Centroafricana]
-Benín po:topónimo [n-grama: República de Benín]
-Botsuana po:topónimo [n-grama: República de Botsuana]
-Congo po:topónimo [n-grama: República Democrática do Congo]
-Lao po:topónimo [n-grama: República Democrática Popular Lao]
-Dominicana po:topónimo [n-grama: República Dominicana]
-Sudafricana po:topónimo [n-grama: República Sudafricana]
+Centroafricana po:topónimo is:ngrama_República_Centroafricana
+Benín po:topónimo is:ngrama_República_de_Benín
+Botsuana po:topónimo is:ngrama_República_de_Botsuana
+Congo po:topónimo is:ngrama_República_Democrática_do_Congo
+Lao po:topónimo is:ngrama_República_Democrática_Popular_Lao
+Dominicana po:topónimo is:ngrama_República_Dominicana
+Sudafricana po:topónimo is:ngrama_República_Sudafricana
 Reunión po:topónimo
-Rhode po:topónimo [n-grama: Rhode Island]
-Island po:topónimo [n-grama: Rhode Island]
+Rhode po:topónimo is:ngrama_Rhode_Island
+Island po:topónimo is:ngrama_Rhode_Island
 Riad po:topónimo
 Riga po:topónimo
-Gallegos po:topónimo [n-grama: Río Gallegos]
+Gallegos po:topónimo is:ngrama_Río_Gallegos
 Roma po:topónimo
 Romanía po:topónimo
 Rosario po:topónimo
 Ruanda po:topónimo
 Rusia po:topónimo
 Sacramento po:topónimo
-Sáhara po:topónimo [n-grama: Sáhara Occidental]
+Sáhara po:topónimo is:ngrama_Sáhara_Occidental
 Salamanca po:topónimo
 Salsburgo po:topónimo
 Salvador po:topónimo
-Samoa po:topónimo [n-grama: Samoa Occidental]
-Antonio po:topónimo [n-grama: San Antonio]
-Bernardino po:topónimo [n-grama: San Bernardino]
-Carlos po:topónimo [n-grama: San Carlos de Bariloche]
-Bariloche po:topónimo [n-grama: San Carlos de Bariloche]
-Diego po:topónimo [n-grama: San Diego]
-Francisco po:topónimo [n-grama: San Francisco]
-Mariño po:topónimo [n-grama: San Mariño]
-Miguel po:topónimo [n-grama: San Miguel de Tucumán]
-Tucumán po:topónimo [n-grama: San Miguel de Tucumán]
-Paulo po:topónimo [n-grama: San Paulo]
-Salvador po:topónimo [n-grama: San Salvador]
-Tomé po:topónimo [n-grama: San Tomé e Príncipe]
-Xoán po:topónimo [n-grama: San Xoán]
-Xosé po:topónimo [n-grama: San Xosé]
-Tenerife po:topónimo [n-grama: Santa Cruz de Tenerife]
-Fe po:topónimo [n-grama: Santa Fe]
+Samoa po:topónimo is:ngrama_Samoa_Occidental
+Antonio po:topónimo is:ngrama_San_Antonio
+Bernardino po:topónimo is:ngrama_San_Bernardino
+Carlos po:topónimo is:ngrama_San_Carlos_de_Bariloche
+Bariloche po:topónimo is:ngrama_San_Carlos_de_Bariloche
+Diego po:topónimo is:ngrama_San_Diego
+Francisco po:topónimo is:ngrama_San_Francisco
+Mariño po:topónimo is:ngrama_San_Mariño
+Miguel po:topónimo is:ngrama_San_Miguel_de_Tucumán
+Tucumán po:topónimo is:ngrama_San_Miguel_de_Tucumán
+Paulo po:topónimo is:ngrama_San_Paulo
+Salvador po:topónimo is:ngrama_San_Salvador
+Tomé po:topónimo is:ngrama_San_Tomé_e_Príncipe
+Xoán po:topónimo is:ngrama_San_Xoán
+Xosé po:topónimo is:ngrama_San_Xosé
+Tenerife po:topónimo is:ngrama_Santa_Cruz_de_Tenerife
+Fe po:topónimo is:ngrama_Santa_Fe
 Santander po:topónimo
 Santarem po:topónimo
-Santiago po:topónimo [n-grama: Santiago de Chile]
-Chile po:topónimo [n-grama: Santiago de Chile]
-Santiago po:topónimo [n-grama: Santiago de Cuba]
-Cuba po:topónimo [n-grama: Santiago de Cuba]
-Santiago po:topónimo [n-grama: Santiago del Estero]
-del po:topónimo [n-grama: Santiago del Estero]
-Estero po:topónimo [n-grama: Santiago del Estero]
+Santiago po:topónimo is:ngrama_Santiago_de_Chile
+Chile po:topónimo is:ngrama_Santiago_de_Chile
+Santiago po:topónimo is:ngrama_Santiago_de_Cuba
+Cuba po:topónimo is:ngrama_Santiago_de_Cuba
+Santiago po:topónimo is:ngrama_Santiago_del_Estero
+del po:topónimo is:ngrama_Santiago_del_Estero
+Estero po:topónimo is:ngrama_Santiago_del_Estero
 Saraievo po:topónimo
 Segovia po:topónimo
 Seixeles po:topónimo
 Senegal po:topónimo
-Serbia po:topónimo [n-grama: Serbia e Montenegro]
-Montenegro po:topónimo [n-grama: Serbia e Montenegro]
-Leoa po:topónimo [n-grama: Serra Leoa]
+Serbia po:topónimo is:ngrama_Serbia_e_Montenegro
+Montenegro po:topónimo is:ngrama_Serbia_e_Montenegro
+Leoa po:topónimo is:ngrama_Serra_Leoa
 Sevilla po:topónimo
 Sidney po:topónimo
 Singapur po:topónimo
@@ -583,8 +583,8 @@ Skopje po:topónimo
 Sofía po:topónimo
 Somalia po:topónimo
 Soria po:topónimo
-Sri po:topónimo [n-grama: Sri Lanka]
-Lanka po:topónimo [n-grama: Sri Lanka]
+Sri po:topónimo is:ngrama_Sri_Lanka
+Lanka po:topónimo is:ngrama_Sri_Lanka
 Stuttgart po:topónimo
 Suacilandia po:topónimo
 Sucre po:topónimo
@@ -611,28 +611,28 @@ Teherán po:topónimo
 Tennesee po:topónimo
 Tennessee po:topónimo
 Teresina po:topónimo
-Terra po:topónimo [n-grama: Terra Nova]
-Terra po:topónimo [n-grama: Terra Nova e Labrador]
-Labrador po:topónimo [n-grama: Terra Nova e Labrador]
+Terra po:topónimo is:ngrama_Terra_Nova
+Terra po:topónimo is:ngrama_Terra_Nova_e_Labrador
+Labrador po:topónimo is:ngrama_Terra_Nova_e_Labrador
 Terranova po:topónimo
-Terranova po:topónimo [n-grama: Terranova e Labrador]
-Labrador po:topónimo [n-grama: Terranova e Labrador]
-Territorio po:topónimo [n-grama: Territorio do Yukón]
-Yukón po:topónimo [n-grama: Territorio do Yukón]
-Territorios po:topónimo [n-grama: Territorios do Noroeste]
-Noroeste po:topónimo [n-grama: Territorios do Noroeste]
+Terranova po:topónimo is:ngrama_Terranova_e_Labrador
+Labrador po:topónimo is:ngrama_Terranova_e_Labrador
+Territorio po:topónimo is:ngrama_Territorio_do_Yukón
+Yukón po:topónimo is:ngrama_Territorio_do_Yukón
+Territorios po:topónimo is:ngrama_Territorios_do_Noroeste
+Noroeste po:topónimo is:ngrama_Territorios_do_Noroeste
 Teruel po:topónimo
 Texas po:topónimo
 Thimphu po:topónimo
-Timor po:topónimo [n-grama: Timor Leste]
+Timor po:topónimo is:ngrama_Timor_Leste
 Tirana po:topónimo
 Togo po:topónimo
 Toledo po:topónimo
 Tonga po:topónimo
 Toquio po:topónimo
 Toronto po:topónimo
-Trindade po:topónimo [n-grama: Trindade e Tobago]
-Tobago po:topónimo [n-grama: Trindade e Tobago]
+Trindade po:topónimo is:ngrama_Trindade_e_Tobago
+Tobago po:topónimo is:ngrama_Trindade_e_Tobago
 Trípoli po:topónimo
 Trujillo po:topónimo
 Tunis po:topónimo
@@ -664,8 +664,8 @@ Vientiane po:topónimo
 Vietnam po:topónimo
 Vilagude po:topónimo
 Vilnius po:topónimo
-Viña po:topónimo [n-grama: Viña del Mar]
-del po:topónimo [n-grama: Viña del Mar]
+Viña po:topónimo is:ngrama_Viña_del_Mar
+del po:topónimo is:ngrama_Viña_del_Mar
 Virxinia po:topónimo
 Washington po:topónimo
 Wáshington po:topónimo

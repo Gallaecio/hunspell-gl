@@ -1,8 +1,8 @@
 # Abreviaturas empregadas no Dicionario da Real Academia Galega
 # http://www.realacademiagalega.org/abreviaturas
 
-a. po:abreviatura [n-grama: a. C.]
-C. po:abreviatura [n-grama: a. C.]
+a. po:abreviatura is:ngrama_a_C
+C. po:abreviatura is:ngrama_a_C
 ABS. po:abreviatura
 ac. po:abreviatura
 adv. po:abreviatura
@@ -18,10 +18,10 @@ Arqueol. po:abreviatura
 Arquit. po:abreviatura
 art. po:abreviatura
 Art. po:abreviatura
-art. po:abreviatura [n-grama: art. det.]
-det. po:abreviatura [n-grama: art. det.]
-art. po:abreviatura [n-grama: art. indet.]
-indet. po:abreviatura [n-grama: art. indet.]
+art. po:abreviatura is:ngrama_art_det
+det. po:abreviatura is:ngrama_art_det
+art. po:abreviatura is:ngrama_art_indet
+indet. po:abreviatura is:ngrama_art_indet
 Astron. po:abreviatura
 Bibliol. po:abreviatura
 Biol. po:abreviatura
@@ -34,8 +34,8 @@ Cir. po:abreviatura
 col. po:abreviatura
 contr. po:abreviatura
 conx. po:abreviatura
-d. po:abreviatura [n-grama: d. C.]
-C. po:abreviatura [n-grama: d. C.]
+d. po:abreviatura is:ngrama_d_C
+C. po:abreviatura is:ngrama_d_C
 dem. po:abreviatura
 Dep. po:abreviatura
 Der. po:abreviatura
@@ -56,8 +56,8 @@ Fís. po:abreviatura
 Fon. po:abreviatura
 Fot. po:abreviatura
 fut. po:abreviatura
-fut. po:abreviatura [n-grama: fut. pret.]
-pret. po:abreviatura [n-grama: fut. pret.]
+fut. po:abreviatura is:ngrama_fut_pret
+pret. po:abreviatura is:ngrama_fut_pret
 Gram. po:abreviatura
 Heráld. po:abreviatura
 Hist. po:abreviatura
@@ -68,8 +68,8 @@ Impr. po:abreviatura
 indef. po:abreviatura
 indic. po:abreviatura
 inf. po:abreviatura
-inf. po:abreviatura [n-grama: inf. conxug.]
-conxug. po:abreviatura [n-grama: inf. conxug.]
+inf. po:abreviatura is:ngrama_inf_conxug
+conxug. po:abreviatura is:ngrama_inf_conxug
 Inform po:abreviatura
 interrog. po:abreviatura
 interx. po:abreviatura
@@ -78,21 +78,21 @@ Ling. po:abreviatura
 lit. po:abreviatura
 Lit. po:abreviatura
 loc. po:abreviatura
-loc. po:abreviatura [n-grama: loc. adv.]
-adv. po:abreviatura [n-grama: loc. adv.]
-loc. po:abreviatura [n-grama: loc. adx.]
-adx. po:abreviatura [n-grama: loc. adx.]
-loc. po:abreviatura [n-grama: loc. conx.]
-conx. po:abreviatura [n-grama: loc. conx.]
-loc. po:abreviatura [n-grama: loc. lat.]
-lat. po:abreviatura [n-grama: loc. lat.]
-loc. po:abreviatura [n-grama: loc. prep.]
-prep. po:abreviatura [n-grama: loc. prep.]
-loc. po:abreviatura [n-grama: loc. s.]
-s. po:abreviatura [n-grama: loc. s.]
-loc. po:abreviatura [n-grama: loc. s. lat.]
-s. po:abreviatura [n-grama: loc. s. lat.]
-lat. po:abreviatura [n-grama: loc. s. lat.]
+loc. po:abreviatura is:ngrama_loc_adv
+adv. po:abreviatura is:ngrama_loc_adv
+loc. po:abreviatura is:ngrama_loc_adx
+adx. po:abreviatura is:ngrama_loc_adx
+loc. po:abreviatura is:ngrama_loc_conx
+conx. po:abreviatura is:ngrama_loc_conx
+loc. po:abreviatura is:ngrama_loc_lat
+lat. po:abreviatura is:ngrama_loc_lat
+loc. po:abreviatura is:ngrama_loc_prep
+prep. po:abreviatura is:ngrama_loc_prep
+loc. po:abreviatura is:ngrama_loc_s
+s. po:abreviatura is:ngrama_loc_s
+loc. po:abreviatura is:ngrama_loc_s_lat
+s. po:abreviatura is:ngrama_loc_s_lat
+lat. po:abreviatura is:ngrama_loc_s_lat
 m. po:abreviatura
 Mar. po:abreviatura
 Mat. po:abreviatura
@@ -108,10 +108,10 @@ Mit. po:abreviatura
 Mús. po:abreviatura
 n. po:abreviatura
 num. po:abreviatura
-num. po:abreviatura [n-grama: num. card.]
-card. po:abreviatura [n-grama: num. card.]
-num. po:abreviatura [n-grama: num. ord.]
-ord. po:abreviatura [n-grama: num. ord.]
+num. po:abreviatura is:ngrama_num_card
+card. po:abreviatura is:ngrama_num_card
+num. po:abreviatura is:ngrama_num_ord
+ord. po:abreviatura is:ngrama_num_ord
 OBS. po:abreviatura
 Ópt. po:abreviatura
 p. po:abreviatura
@@ -129,8 +129,8 @@ prep. po:abreviatura
 pres. po:abreviatura
 pret. po:abreviatura
 pron. po:abreviatura
-pron. po:abreviatura [n-grama: pron. pers.]
-pers. po:abreviatura [n-grama: pron. pers.]
+pron. po:abreviatura is:ngrama_pron_pers
+pers. po:abreviatura is:ngrama_pron_pers
 prop. po:abreviatura
 Psic. po:abreviatura
 Psiq. po:abreviatura

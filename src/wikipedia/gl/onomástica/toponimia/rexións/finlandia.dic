@@ -1,23 +1,23 @@
 Åland po:topónimo
-Carelia po:topónimo [n-grama: Carelia do Norte]
-Carelia po:topónimo [n-grama: Carelia do Sur]
-Finlandia po:topónimo [n-grama: Finlandia Central]
-Finlandia po:topónimo [n-grama: Finlandia Propia]
-Propia po:topónimo [n-grama: Finlandia Propia]
+Carelia po:topónimo is:ngrama_Carelia_do_Norte
+Carelia po:topónimo is:ngrama_Carelia_do_Sur
+Finlandia po:topónimo is:ngrama_Finlandia_Central
+Finlandia po:topónimo is:ngrama_Finlandia_Propia
+Propia po:topónimo is:ngrama_Finlandia_Propia
 Kainuu po:topónimo
 Kymenlaakso po:topónimo
 Laponia po:topónimo
 Ostrobotnia po:topónimo
-Ostrobotnia po:topónimo [n-grama: Ostrobotnia Central]
-Ostrobotnia po:topónimo [n-grama: Ostrobotnia do Norte]
-Ostrobotnia po:topónimo [n-grama: Ostrobotnia do Sur]
-Päijänne po:topónimo [n-grama: Päijänne Tavastia]
-Tavastia po:topónimo [n-grama: Päijänne Tavastia]
+Ostrobotnia po:topónimo is:ngrama_Ostrobotnia_Central
+Ostrobotnia po:topónimo is:ngrama_Ostrobotnia_do_Norte
+Ostrobotnia po:topónimo is:ngrama_Ostrobotnia_do_Sur
+Päijänne po:topónimo is:ngrama_Päijänne_Tavastia
+Tavastia po:topónimo is:ngrama_Päijänne_Tavastia
 Pirkanmaa po:topónimo
 Satakunta po:topónimo
-Savonia po:topónimo [n-grama: Savonia do Norte]
-Savonia po:topónimo [n-grama: Savonia do Sur]
-Tavastia po:topónimo [n-grama: Tavastia Propia]
-Propia po:topónimo [n-grama: Tavastia Propia]
+Savonia po:topónimo is:ngrama_Savonia_do_Norte
+Savonia po:topónimo is:ngrama_Savonia_do_Sur
+Tavastia po:topónimo is:ngrama_Tavastia_Propia
+Propia po:topónimo is:ngrama_Tavastia_Propia
 Uusimaa po:topónimo
-Uusimaa po:topónimo [n-grama: Uusimaa Oriental]
+Uusimaa po:topónimo is:ngrama_Uusimaa_Oriental

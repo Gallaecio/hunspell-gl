@@ -22,8 +22,8 @@ BOE po:sigla  # Boletín Oficial do Estado.
 BOP po:sigla  # Boletín Oficial da Provincia.
 CA po:sigla  # Comunidade Autónoma.
 CC po:sigla  # Código civil.
-CC. po:sigla [n-grama: CC. OO.]  # Comisións Obreiras.
-OO. po:sigla [n-grama: CC. OO.]  # Comisións Obreiras.
+CC. po:sigla is:ngrama_CC_OO  # Comisións Obreiras.
+OO. po:sigla is:ngrama_CC_OO  # Comisións Obreiras.
 CCG po:sigla  # Consello da Cultura Galega.
 CDE po:sigla  # Centro de Documentación Europea.
 CDG po:sigla  # Centro Dramático Galego.
@@ -79,8 +79,8 @@ FAQ po:sigla  # Frecuently Asked Questions, Preguntas frecuentes.
 FCI po:sigla  # Fondo de compensación interterritorial. Feder Fegamp
 FEMP po:sigla  # Federación Española de Municipios e Provincias. Fenosa
 FEOGA po:sigla  # Fondo Europeo de Orientación e de Garantía Agrícola. Feuga
-FF. po:sigla [n-grama: FF. AA.]  # Forzas Armadas. Fidac hidrocarburos.
-AA. po:sigla [n-grama: FF. AA.]  # Forzas Armadas. Fidac hidrocarburos.
+FF. po:sigla is:ngrama_FF_AA  # Forzas Armadas. Fidac hidrocarburos.
+AA. po:sigla is:ngrama_FF_AA  # Forzas Armadas. Fidac hidrocarburos.
 FIFA po:sigla  # Fedération Internationale de Football Association, Federación Internacional de Asociacións de fútbol. Finsa
 FIP po:sigla  # Formación e inserción profesional. Fitur
 FMI po:sigla  # Fondo Monetario Internacional. Fogga

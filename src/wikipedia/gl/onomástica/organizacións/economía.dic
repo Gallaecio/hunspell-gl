@@ -1,64 +1,64 @@
 ALÉNA po:nome
-Banco po:nome [n-grama: Banco Central Europeo]
-Banco po:nome [n-grama: Banco Europeo de Investimento]
-Investimento po:nome [n-grama: Banco Europeo de Investimento]
+Banco po:nome is:ngrama_Banco_Central_Europeo
+Banco po:nome is:ngrama_Banco_Europeo_de_Investimento
+Investimento po:nome is:ngrama_Banco_Europeo_de_Investimento
 BEI po:nome
 BRICS po:nome
 CECA po:nome
-Comunidade po:nome [n-grama: Comunidade Económica e Monetaria de África Central]
-Económica po:nome [n-grama: Comunidade Económica e Monetaria de África Central]
-Monetaria po:nome [n-grama: Comunidade Económica e Monetaria de África Central]
-África po:nome [n-grama: Comunidade Económica e Monetaria de África Central]
-Comunidade po:nome [n-grama: Comunidade Europea do Carbón e do Aceiro]
-Carbón po:nome [n-grama: Comunidade Europea do Carbón e do Aceiro]
-Aceiro po:nome [n-grama: Comunidade Europea do Carbón e do Aceiro]
+Comunidade po:nome is:ngrama_Comunidade_Económica_e_Monetaria_de_África_Central
+Económica po:nome is:ngrama_Comunidade_Económica_e_Monetaria_de_África_Central
+Monetaria po:nome is:ngrama_Comunidade_Económica_e_Monetaria_de_África_Central
+África po:nome is:ngrama_Comunidade_Económica_e_Monetaria_de_África_Central
+Comunidade po:nome is:ngrama_Comunidade_Europea_do_Carbón_e_do_Aceiro
+Carbón po:nome is:ngrama_Comunidade_Europea_do_Carbón_e_do_Aceiro
+Aceiro po:nome is:ngrama_Comunidade_Europea_do_Carbón_e_do_Aceiro
 G-20 po:nome
 G-8 po:nome
 G20 po:nome
 G8 po:nome
-Grupo po:nome [n-grama: Grupo dos 20]
-Grupo po:nome [n-grama: Grupo dos Oito]
-Mercado po:nome [n-grama: Mercado Común do Sur]
-Común po:nome [n-grama: Mercado Común do Sur]
+Grupo po:nome is:ngrama_Grupo_dos_20
+Grupo po:nome is:ngrama_Grupo_dos_Oito
+Mercado po:nome is:ngrama_Mercado_Común_do_Sur
+Común po:nome is:ngrama_Mercado_Común_do_Sur
 Mercosul po:nome
 Mercosur po:nome
 NAFTA po:nome
-North po:nome [n-grama: North American Free Trade Agreement]
-American po:nome [n-grama: North American Free Trade Agreement]
-Free po:nome [n-grama: North American Free Trade Agreement]
-Trade po:nome [n-grama: North American Free Trade Agreement]
-Agreement po:nome [n-grama: North American Free Trade Agreement]
-Oficina po:nome [n-grama: Oficina Europea de Patentes]
-Patentes po:nome [n-grama: Oficina Europea de Patentes]
-Organización po:nome [n-grama: Organización de Países Exportadores de Petróleo]
-Exportadores po:nome [n-grama: Organización de Países Exportadores de Petróleo]
-Petróleo po:nome [n-grama: Organización de Países Exportadores de Petróleo]
+North po:nome is:ngrama_North_American_Free_Trade_Agreement
+American po:nome is:ngrama_North_American_Free_Trade_Agreement
+Free po:nome is:ngrama_North_American_Free_Trade_Agreement
+Trade po:nome is:ngrama_North_American_Free_Trade_Agreement
+Agreement po:nome is:ngrama_North_American_Free_Trade_Agreement
+Oficina po:nome is:ngrama_Oficina_Europea_de_Patentes
+Patentes po:nome is:ngrama_Oficina_Europea_de_Patentes
+Organización po:nome is:ngrama_Organización_de_Países_Exportadores_de_Petróleo
+Exportadores po:nome is:ngrama_Organización_de_Países_Exportadores_de_Petróleo
+Petróleo po:nome is:ngrama_Organización_de_Países_Exportadores_de_Petróleo
 SAET po:nome
-Sociedade po:nome [n-grama: Sociedade para o Progreso da Teoría Económica]
-Progreso po:nome [n-grama: Sociedade para o Progreso da Teoría Económica]
-Teoría po:nome [n-grama: Sociedade para o Progreso da Teoría Económica]
-Económica po:nome [n-grama: Sociedade para o Progreso da Teoría Económica]
-Society po:nome [n-grama: Society for the Advancement of Economic Theory]
-for po:nome [n-grama: Society for the Advancement of Economic Theory]
-the po:nome [n-grama: Society for the Advancement of Economic Theory]
-Advancement po:nome [n-grama: Society for the Advancement of Economic Theory]
-of po:nome [n-grama: Society for the Advancement of Economic Theory]
-Economic po:nome [n-grama: Society for the Advancement of Economic Theory]
-Theory po:nome [n-grama: Society for the Advancement of Economic Theory]
+Sociedade po:nome is:ngrama_Sociedade_para_o_Progreso_da_Teoría_Económica
+Progreso po:nome is:ngrama_Sociedade_para_o_Progreso_da_Teoría_Económica
+Teoría po:nome is:ngrama_Sociedade_para_o_Progreso_da_Teoría_Económica
+Económica po:nome is:ngrama_Sociedade_para_o_Progreso_da_Teoría_Económica
+Society po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
+for po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
+the po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
+Advancement po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
+of po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
+Economic po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
+Theory po:nome is:ngrama_Society_for_the_Advancement_of_Economic_Theory
 TLC po:nome
 TLCAN po:nome
-Tratado po:nome [n-grama: Tratado de libre comercio de América do Norte]
-comercio po:nome [n-grama: Tratado de libre comercio de América do Norte]
-América po:nome [n-grama: Tratado de libre comercio de América do Norte]
-Tratado po:nome [n-grama: Tratado de Niza]
-Niza po:nome [n-grama: Tratado de Niza]
+Tratado po:nome is:ngrama_Tratado_de_libre_comercio_de_América_do_Norte
+comercio po:nome is:ngrama_Tratado_de_libre_comercio_de_América_do_Norte
+América po:nome is:ngrama_Tratado_de_libre_comercio_de_América_do_Norte
+Tratado po:nome is:ngrama_Tratado_de_Niza
+Niza po:nome is:ngrama_Tratado_de_Niza
 UE po:nome
 UEa po:nome
 UEEa po:nome
-Euroasia po:nome [n-grama: Unión da Euroasia]
-del po:nome [n-grama: Unión del Magreb Árabe]
-Magreb po:nome [n-grama: Unión del Magreb Árabe]
-Árabe po:nome [n-grama: Unión del Magreb Árabe]
-Económica po:nome [n-grama: Unión Económica Eurasiática]
-Eurasiática po:nome [n-grama: Unión Económica Eurasiática]
-Euroasiática po:nome [n-grama: Unión Euroasiática]
+Euroasia po:nome is:ngrama_Unión_da_Euroasia
+del po:nome is:ngrama_Unión_del_Magreb_Árabe
+Magreb po:nome is:ngrama_Unión_del_Magreb_Árabe
+Árabe po:nome is:ngrama_Unión_del_Magreb_Árabe
+Económica po:nome is:ngrama_Unión_Económica_Eurasiática
+Eurasiática po:nome is:ngrama_Unión_Económica_Eurasiática
+Euroasiática po:nome is:ngrama_Unión_Euroasiática

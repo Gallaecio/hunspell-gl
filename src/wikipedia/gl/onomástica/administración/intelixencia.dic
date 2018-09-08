@@ -1,15 +1,15 @@
-Intelligence po:nome [n-grama: Central Intelligence Agency]
-Agency po:nome [n-grama: Central Intelligence Agency]
+Intelligence po:nome is:ngrama_Central_Intelligence_Agency
+Agency po:nome is:ngrama_Central_Intelligence_Agency
 Cheka po:nome
 CIA po:nome
-Comisionariado po:nome [n-grama: Comisionariado do pobo para asuntos internos]
-Comité po:nome [n-grama: Comité para a Seguridade do Estado]
-Seguridade po:nome [n-grama: Comité para a Seguridade do Estado]
+Comisionariado po:nome is:ngrama_Comisionariado_do_pobo_para_asuntos_internos
+Comité po:nome is:ngrama_Comité_para_a_Seguridade_do_Estado
+Seguridade po:nome is:ngrama_Comité_para_a_Seguridade_do_Estado
 Gestapo po:nome
 KGB po:nome
-National po:nome [n-grama: National Security Agency]
-Security po:nome [n-grama: National Security Agency]
-Agency po:nome [n-grama: National Security Agency]
+National po:nome is:ngrama_National_Security_Agency
+Security po:nome is:ngrama_National_Security_Agency
+Agency po:nome is:ngrama_National_Security_Agency
 NKVD po:nome
 NSA po:nome
 UKUSA po:nome

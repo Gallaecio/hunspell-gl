@@ -1,14 +1,14 @@
 ´Eua po:topónimo
-Arousa po:topónimo [n-grama: A Arousa]
-Desexada po:topónimo [n-grama: A Desexada]
-Désirade po:topónimo [n-grama: A Désirade]
-Gavoteira po:topónimo [n-grama: A Gavoteira]
-Arousa po:topónimo [n-grama: A Illa de Arousa]
-El po:topónimo [n-grama: A Illa de El Ciervo]
-Ciervo po:topónimo [n-grama: A Illa de El Ciervo]
-Ré po:topónimo [n-grama: A Illa de Ré]
-Marola po:topónimo [n-grama: A Marola]
-Vionta po:topónimo [n-grama: A Vionta]
+Arousa po:topónimo is:ngrama_A_Arousa
+Desexada po:topónimo is:ngrama_A_Desexada
+Désirade po:topónimo is:ngrama_A_Désirade
+Gavoteira po:topónimo is:ngrama_A_Gavoteira
+Arousa po:topónimo is:ngrama_A_Illa_de_Arousa
+El po:topónimo is:ngrama_A_Illa_de_El_Ciervo
+Ciervo po:topónimo is:ngrama_A_Illa_de_El_Ciervo
+Ré po:topónimo is:ngrama_A_Illa_de_Ré
+Marola po:topónimo is:ngrama_A_Marola
+Vionta po:topónimo is:ngrama_A_Vionta
 Ábaco po:topónimo
 Abaiang po:topónimo
 Abemama po:topónimo
@@ -55,20 +55,20 @@ Ambrym po:topónimo
 Amchitka po:topónimo
 Ameland po:topónimo
 Amorgos po:topónimo
-Amund po:topónimo [n-grama: Amund Ringnes]
-Ringnes po:topónimo [n-grama: Amund Ringnes]
-An po:topónimo [n-grama: An t-Eilean Sgitheanach]
-t-Eilean po:topónimo [n-grama: An t-Eilean Sgitheanach]
-Sgitheanach po:topónimo [n-grama: An t-Eilean Sgitheanach]
+Amund po:topónimo is:ngrama_Amund_Ringnes
+Ringnes po:topónimo is:ngrama_Amund_Ringnes
+An po:topónimo is:ngrama_An_t_Eilean_Sgitheanach
+t-Eilean po:topónimo is:ngrama_An_t_Eilean_Sgitheanach
+Sgitheanach po:topónimo is:ngrama_An_t_Eilean_Sgitheanach
 Anaa po:topónimo
 Anafi po:topónimo
 Anangusix po:topónimo
 Anatahan po:topónimo
 Anatom po:topónimo
-Andaman po:topónimo [n-grama: Andaman do Medio]
-Medio po:topónimo [n-grama: Andaman do Medio]
-Andaman po:topónimo [n-grama: Andaman do Norte]
-Andaman po:topónimo [n-grama: Andaman do Sur]
+Andaman po:topónimo is:ngrama_Andaman_do_Medio
+Medio po:topónimo is:ngrama_Andaman_do_Medio
+Andaman po:topónimo is:ngrama_Andaman_do_Norte
+Andaman po:topónimo is:ngrama_Andaman_do_Sur
 Andipaxos po:topónimo
 Andøy po:topónimo
 Andros po:topónimo
@@ -86,10 +86,10 @@ Annobón po:topónimo
 Anticitera po:topónimo
 Antikythera po:topónimo
 Antikythira po:topónimo
-Antillas po:topónimo [n-grama: Antillas Maiores]
-Antillas po:topónimo [n-grama: Antillas Menores]
-Antillas po:topónimo [n-grama: Antillas Neerlandesas]
-Neerlandesas po:topónimo [n-grama: Antillas Neerlandesas]
+Antillas po:topónimo is:ngrama_Antillas_Maiores
+Antillas po:topónimo is:ngrama_Antillas_Menores
+Antillas po:topónimo is:ngrama_Antillas_Neerlandesas
+Neerlandesas po:topónimo is:ngrama_Antillas_Neerlandesas
 Antiparos po:topónimo
 Antipaxos po:topónimo
 Antiquitera po:topónimo
@@ -110,50 +110,50 @@ Arkoudion po:topónimo
 Armathia po:topónimo
 Arno po:topónimo
 Arorae po:topónimo
-Alexander po:topónimo [n-grama: arquipélago Alexander]
-Bismarck po:topónimo [n-grama: Arquipélago Bismarck]
-Berlengas po:topónimo [n-grama: Arquipélago das Berlengas]
-Comores po:topónimo [n-grama: Arquipélago das Comores]
-Trobriand po:topónimo [n-grama: Arquipélago das Illas Trobriand]
-Peláxicas po:topónimo [n-grama: arquipélago das Peláxicas]
-Turcas po:topónimo [n-grama: Arquipélago das Turcas]
-Chagos po:topónimo [n-grama: arquipélago de Chagos]
-Chiloé po:topónimo [n-grama: arquipélago de Chiloé]
-Colón po:topónimo [n-grama: Arquipélago de Colón]
-Hawai po:topónimo [n-grama: arquipélago de Hawai]
-Las po:topónimo [n-grama: Arquipélago de Las Aves]
-Aves po:topónimo [n-grama: Arquipélago de Las Aves]
-Los po:topónimo [n-grama: arquipélago de Los Roques]
-Roques po:topónimo [n-grama: arquipélago de Los Roques]
-Revillagigedo po:topónimo [n-grama: Arquipélago de Revillagigedo]
-Riau po:topónimo [n-grama: arquipélago de Riau]
-Samoa po:topónimo [n-grama: Arquipélago de Samoa]
-Pedro po:topónimo [n-grama: Arquipélago de San Pedro e San Paulo]
-Paulo po:topónimo [n-grama: Arquipélago de San Pedro e San Paulo]
-Tokelau po:topónimo [n-grama: Arquipélago de Tokelau]
-Upernavik po:topónimo [n-grama: Arquipélago de Upernavik]
-Chonos po:topónimo [n-grama: arquipélago dos Chonos]
-Juan po:topónimo [n-grama: Arquipélago Juan Fernández]
-Fernández po:topónimo [n-grama: Arquipélago Juan Fernández]
-Los po:topónimo [n-grama: Arquipélago Los Monjes]
-Monjes po:topónimo [n-grama: Arquipélago Los Monjes]
-Malaio po:topónimo [n-grama: arquipélago Malaio]
-Carondelet po:topónimo [n-grama: Arrecife Carondelet]
-indispensable po:topónimo [n-grama: Arrecife indispensable]
-Kingman po:topónimo [n-grama: Arrecife Kingman]
-Maro po:topónimo [n-grama: arrecife Maro]
-Winslow po:topónimo [n-grama: arrecife Winslow]
-Minerva po:topónimo [n-grama: arrecifes Minerva]
+Alexander po:topónimo is:ngrama_arquipélago_Alexander
+Bismarck po:topónimo is:ngrama_Arquipélago_Bismarck
+Berlengas po:topónimo is:ngrama_Arquipélago_das_Berlengas
+Comores po:topónimo is:ngrama_Arquipélago_das_Comores
+Trobriand po:topónimo is:ngrama_Arquipélago_das_Illas_Trobriand
+Peláxicas po:topónimo is:ngrama_arquipélago_das_Peláxicas
+Turcas po:topónimo is:ngrama_Arquipélago_das_Turcas
+Chagos po:topónimo is:ngrama_arquipélago_de_Chagos
+Chiloé po:topónimo is:ngrama_arquipélago_de_Chiloé
+Colón po:topónimo is:ngrama_Arquipélago_de_Colón
+Hawai po:topónimo is:ngrama_arquipélago_de_Hawai
+Las po:topónimo is:ngrama_Arquipélago_de_Las_Aves
+Aves po:topónimo is:ngrama_Arquipélago_de_Las_Aves
+Los po:topónimo is:ngrama_arquipélago_de_Los_Roques
+Roques po:topónimo is:ngrama_arquipélago_de_Los_Roques
+Revillagigedo po:topónimo is:ngrama_Arquipélago_de_Revillagigedo
+Riau po:topónimo is:ngrama_arquipélago_de_Riau
+Samoa po:topónimo is:ngrama_Arquipélago_de_Samoa
+Pedro po:topónimo is:ngrama_Arquipélago_de_San_Pedro_e_San_Paulo
+Paulo po:topónimo is:ngrama_Arquipélago_de_San_Pedro_e_San_Paulo
+Tokelau po:topónimo is:ngrama_Arquipélago_de_Tokelau
+Upernavik po:topónimo is:ngrama_Arquipélago_de_Upernavik
+Chonos po:topónimo is:ngrama_arquipélago_dos_Chonos
+Juan po:topónimo is:ngrama_Arquipélago_Juan_Fernández
+Fernández po:topónimo is:ngrama_Arquipélago_Juan_Fernández
+Los po:topónimo is:ngrama_Arquipélago_Los_Monjes
+Monjes po:topónimo is:ngrama_Arquipélago_Los_Monjes
+Malaio po:topónimo is:ngrama_arquipélago_Malaio
+Carondelet po:topónimo is:ngrama_Arrecife_Carondelet
+indispensable po:topónimo is:ngrama_Arrecife_indispensable
+Kingman po:topónimo is:ngrama_Arrecife_Kingman
+Maro po:topónimo is:ngrama_arrecife_Maro
+Winslow po:topónimo is:ngrama_arrecife_Winslow
+Minerva po:topónimo is:ngrama_arrecifes_Minerva
 Arru po:topónimo
 Aru po:topónimo
 Aruba po:topónimo
 Arutua po:topónimo
 Arwad po:topónimo
-Cocos po:topónimo [n-grama: As Illas Cocos ou Illas Keeling]
-ou po:topónimo [n-grama: As Illas Cocos ou Illas Keeling]
-Keeling po:topónimo [n-grama: As Illas Cocos ou Illas Keeling]
-Lastras po:topónimo [n-grama: As Lastras de Pechón]
-Pechón po:topónimo [n-grama: As Lastras de Pechón]
+Cocos po:topónimo is:ngrama_As_Illas_Cocos_ou_Illas_Keeling
+ou po:topónimo is:ngrama_As_Illas_Cocos_ou_Illas_Keeling
+Keeling po:topónimo is:ngrama_As_Illas_Cocos_ou_Illas_Keeling
+Lastras po:topónimo is:ngrama_As_Lastras_de_Pechón
+Pechón po:topónimo is:ngrama_As_Lastras_de_Pechón
 Ascensión po:topónimo
 Ascuncion po:topónimo
 Aspro po:topónimo
@@ -165,22 +165,22 @@ Ataúro po:topónimo
 Atiu po:topónimo
 Atka po:topónimo
 Atokos po:topónimo
-Bikini po:topónimo [n-grama: Atol Bikini]
-Coroline po:topónimo [n-grama: Atol Coroline]
-Rocas po:topónimo [n-grama: Atol das Rocas]
-Midway po:topónimo [n-grama: Atol de Midway]
-Rose po:topónimo [n-grama: atol de Rose]
-Egmont po:topónimo [n-grama: Atol Egmont]
-Erikub po:topónimo [n-grama: Atol Erikub]
-Farquhar po:topónimo [n-grama: Atol Farquhar]
-Johnston po:topónimo [n-grama: Atol Johnston]
-Knox po:topónimo [n-grama: atol Knox]
-Kure po:topónimo [n-grama: atol Kure]
-Namdrik po:topónimo [n-grama: Atol Namdrik]
-Namorik po:topónimo [n-grama: Atol Namorik]
-Orona po:topónimo [n-grama: Atol Orona]
-Poivre po:topónimo [n-grama: Atol Poivre]
-Salomón po:topónimo [n-grama: Atol Salomón]
+Bikini po:topónimo is:ngrama_Atol_Bikini
+Coroline po:topónimo is:ngrama_Atol_Coroline
+Rocas po:topónimo is:ngrama_Atol_das_Rocas
+Midway po:topónimo is:ngrama_Atol_de_Midway
+Rose po:topónimo is:ngrama_atol_de_Rose
+Egmont po:topónimo is:ngrama_Atol_Egmont
+Erikub po:topónimo is:ngrama_Atol_Erikub
+Farquhar po:topónimo is:ngrama_Atol_Farquhar
+Johnston po:topónimo is:ngrama_Atol_Johnston
+Knox po:topónimo is:ngrama_atol_Knox
+Kure po:topónimo is:ngrama_atol_Kure
+Namdrik po:topónimo is:ngrama_Atol_Namdrik
+Namorik po:topónimo is:ngrama_Atol_Namorik
+Orona po:topónimo is:ngrama_Atol_Orona
+Poivre po:topónimo is:ngrama_Atol_Poivre
+Salomón po:topónimo is:ngrama_Atol_Salomón
 Attu po:topónimo
 Aukena po:topónimo
 Aunu'u po:topónimo
@@ -189,16 +189,16 @@ Aurora po:topónimo
 Australia po:topónimo
 Avalon po:topónimo
 Awaji po:topónimo
-Axel po:topónimo [n-grama: Axel Heiberg]
-Heiberg po:topónimo [n-grama: Axel Heiberg]
+Axel po:topónimo is:ngrama_Axel_Heiberg
+Heiberg po:topónimo is:ngrama_Axel_Heiberg
 Azores po:topónimo
 Babeldaob po:topónimo
 Babelthuap po:topónimo
 Bacan po:topónimo
 Bahrain po:topónimo
 Bahrein po:topónimo
-Pero po:topónimo [n-grama: Baixo de Pero dos Banhos]
-Banhos po:topónimo [n-grama: Baixo de Pero dos Banhos]
+Pero po:topónimo is:ngrama_Baixo_de_Pero_dos_Banhos
+Banhos po:topónimo is:ngrama_Baixo_de_Pero_dos_Banhos
 Bali po:topónimo
 Baliceaux po:topónimo
 Baluan po:topónimo
@@ -211,12 +211,12 @@ Barbados po:topónimo
 Barbuda po:topónimo
 Bardsey po:topónimo
 Barentsøya po:topónimo
-Bassas po:topónimo [n-grama: Bassas da India]
-India po:topónimo [n-grama: Bassas da India]
+Bassas po:topónimo is:ngrama_Bassas_da_India
+India po:topónimo is:ngrama_Bassas_da_India
 Batanta po:topónimo
 Bau po:topónimo
-Bearnaraigh po:topónimo [n-grama: Bearnaraigh Mòr]
-Mòr po:topónimo [n-grama: Bearnaraigh Mòr]
+Bearnaraigh po:topónimo is:ngrama_Bearnaraigh_Mòr
+Mòr po:topónimo is:ngrama_Bearnaraigh_Mòr
 Beef po:topónimo
 Belau po:topónimo
 Belitung po:topónimo
@@ -227,19 +227,19 @@ Beru po:topónimo
 Bikar po:topónimo
 Bintan po:topónimo
 Bioko po:topónimo
-Bird po:topónimo [n-grama: Bird Island]
-Island po:topónimo [n-grama: Bird Island]
-Blenheim po:topónimo [n-grama: Blenheim Reef]
-Reef po:topónimo [n-grama: Blenheim Reef]
-Boa po:topónimo [n-grama: Boa Esperanza]
-Esperanza po:topónimo [n-grama: Boa Esperanza]
+Bird po:topónimo is:ngrama_Bird_Island
+Island po:topónimo is:ngrama_Bird_Island
+Blenheim po:topónimo is:ngrama_Blenheim_Reef
+Reef po:topónimo is:ngrama_Blenheim_Reef
+Boa po:topónimo is:ngrama_Boa_Esperanza
+Esperanza po:topónimo is:ngrama_Boa_Esperanza
 Boeton po:topónimo
 Bohol po:topónimo
 Bokak po:topónimo
-Bolshoy po:topónimo [n-grama: Bolshoy Lyakhovsky]
-Lyakhovsky po:topónimo [n-grama: Bolshoy Lyakhovsky]
+Bolshoy po:topónimo is:ngrama_Bolshoy_Lyakhovsky
+Lyakhovsky po:topónimo is:ngrama_Bolshoy_Lyakhovsky
 Bonaire po:topónimo
-Bora po:topónimo [n-grama: Bora Bora]
+Bora po:topónimo is:ngrama_Bora_Bora
 Borneo po:topónimo
 Bornholm po:topónimo
 Bougainville po:topónimo
@@ -251,31 +251,31 @@ Butaritari po:topónimo
 Buton po:topónimo
 Butung po:topónimo
 Cabrera po:topónimo
-Caicos po:topónimo [n-grama: Caicos Central]
-Caicos po:topónimo [n-grama: Caicos do Leste]
-Caicos po:topónimo [n-grama: Caicos do Norte]
-Caicos po:topónimo [n-grama: Caicos do Oeste]
-Caicos po:topónimo [n-grama: Caicos do Sur]
-Caimán po:topónimo [n-grama: Caimán Brac]
-Brac po:topónimo [n-grama: Caimán Brac]
-Caimán po:topónimo [n-grama: Caimán Menor]
-Caio po:topónimo [n-grama: Caio Ambergris]
-Ambergris po:topónimo [n-grama: Caio Ambergris]
-Caio po:topónimo [n-grama: Caio Piñeiro]
-Piñeiro po:topónimo [n-grama: Caio Piñeiro]
-Caio po:topónimo [n-grama: Caio Sal]
-Sal po:topónimo [n-grama: Caio Sal]
-Caios po:topónimo [n-grama: Caios de Tobago]
-Tobago po:topónimo [n-grama: Caios de Tobago]
-São po:topónimo [n-grama: Canle de São Jorge]
-Jorge po:topónimo [n-grama: Canle de São Jorge]
+Caicos po:topónimo is:ngrama_Caicos_Central
+Caicos po:topónimo is:ngrama_Caicos_do_Leste
+Caicos po:topónimo is:ngrama_Caicos_do_Norte
+Caicos po:topónimo is:ngrama_Caicos_do_Oeste
+Caicos po:topónimo is:ngrama_Caicos_do_Sur
+Caimán po:topónimo is:ngrama_Caimán_Brac
+Brac po:topónimo is:ngrama_Caimán_Brac
+Caimán po:topónimo is:ngrama_Caimán_Menor
+Caio po:topónimo is:ngrama_Caio_Ambergris
+Ambergris po:topónimo is:ngrama_Caio_Ambergris
+Caio po:topónimo is:ngrama_Caio_Piñeiro
+Piñeiro po:topónimo is:ngrama_Caio_Piñeiro
+Caio po:topónimo is:ngrama_Caio_Sal
+Sal po:topónimo is:ngrama_Caio_Sal
+Caios po:topónimo is:ngrama_Caios_de_Tobago
+Tobago po:topónimo is:ngrama_Caios_de_Tobago
+São po:topónimo is:ngrama_Canle_de_São_Jorge
+Jorge po:topónimo is:ngrama_Canle_de_São_Jorge
 Canouan po:topónimo
 Capraia po:topónimo
 Caprera po:topónimo
-Cargados po:topónimo [n-grama: Cargados Carajos]
-Carajos po:topónimo [n-grama: Cargados Carajos]
-Cat po:topónimo [n-grama: Cat Island]
-Island po:topónimo [n-grama: Cat Island]
+Cargados po:topónimo is:ngrama_Cargados_Carajos
+Carajos po:topónimo is:ngrama_Cargados_Carajos
+Cat po:topónimo is:ngrama_Cat_Island
+Island po:topónimo is:ngrama_Cat_Island
 Célebes po:topónimo
 Ceos po:topónimo
 Ceram po:topónimo
@@ -292,18 +292,18 @@ Cícladas po:topónimo
 Cíclades po:topónimo
 Citera po:topónimo
 Citerea po:topónimo
-Coal po:topónimo [n-grama: Coal Island]
-Island po:topónimo [n-grama: Coal Island]
-Collectivité po:topónimo [n-grama: Collectivité d'outre-mer]
-d'outre-mer po:topónimo [n-grama: Collectivité d'outre-mer]
+Coal po:topónimo is:ngrama_Coal_Island
+Island po:topónimo is:ngrama_Coal_Island
+Collectivité po:topónimo is:ngrama_Collectivité_d_outre_mer
+d'outre-mer po:topónimo is:ngrama_Collectivité_d_outre_mer
 Colleira po:topónimo
-Commonwealth po:topónimo [n-grama: Commonwealth of the Northern Mariana Islands]
-of po:topónimo [n-grama: Commonwealth of the Northern Mariana Islands]
-the po:topónimo [n-grama: Commonwealth of the Northern Mariana Islands]
-Northern po:topónimo [n-grama: Commonwealth of the Northern Mariana Islands]
-Mariana po:topónimo [n-grama: Commonwealth of the Northern Mariana Islands]
-Islands po:topónimo [n-grama: Commonwealth of the Northern Mariana Islands]
-Gotland po:topónimo [n-grama: condado de Gotland]
+Commonwealth po:topónimo is:ngrama_Commonwealth_of_the_Northern_Mariana_Islands
+of po:topónimo is:ngrama_Commonwealth_of_the_Northern_Mariana_Islands
+the po:topónimo is:ngrama_Commonwealth_of_the_Northern_Mariana_Islands
+Northern po:topónimo is:ngrama_Commonwealth_of_the_Northern_Mariana_Islands
+Mariana po:topónimo is:ngrama_Commonwealth_of_the_Northern_Mariana_Islands
+Islands po:topónimo is:ngrama_Commonwealth_of_the_Northern_Mariana_Islands
+Gotland po:topónimo is:ngrama_condado_de_Gotland
 Corfú po:topónimo
 Córsega po:topónimo
 Cos po:topónimo
@@ -316,14 +316,14 @@ Curaçao po:topónimo
 cuzam po:topónimo
 cuzamil po:topónimo
 Daru po:topónimo
-Tabarca po:topónimo [n-grama: de Nova Tabarca]
+Tabarca po:topónimo is:ngrama_de_Nova_Tabarca
 Delos po:topónimo
-Desroches po:topónimo [n-grama: Desroches Island]
-Island po:topónimo [n-grama: Desroches Island]
+Desroches po:topónimo is:ngrama_Desroches_Island
+Island po:topónimo is:ngrama_Desroches_Island
 Dhenoúsa po:topónimo
 Dhragonára po:topónimo
-Diego po:topónimo [n-grama: Diego García]
-García po:topónimo [n-grama: Diego García]
+Diego po:topónimo is:ngrama_Diego_García
+García po:topónimo is:ngrama_Diego_García
 Djerba po:topónimo
 Dodecaneso po:topónimo
 Dokos po:topónimo
@@ -331,26 +331,26 @@ Doliche po:topónimo
 Donauinsel po:topónimo
 Dougherty po:topónimo
 Drakonera po:topónimo
-Duke po:topónimo [n-grama: Duke of York]
-of po:topónimo [n-grama: Duke of York]
-York po:topónimo [n-grama: Duke of York]
-Duke po:topónimo [n-grama: Duke of York Islands]
-of po:topónimo [n-grama: Duke of York Islands]
-York po:topónimo [n-grama: Duke of York Islands]
-Islands po:topónimo [n-grama: Duke of York Islands]
+Duke po:topónimo is:ngrama_Duke_of_York
+of po:topónimo is:ngrama_Duke_of_York
+York po:topónimo is:ngrama_Duke_of_York
+Duke po:topónimo is:ngrama_Duke_of_York_Islands
+of po:topónimo is:ngrama_Duke_of_York_Islands
+York po:topónimo is:ngrama_Duke_of_York_Islands
+Islands po:topónimo is:ngrama_Duke_of_York_Islands
 Ebon po:topónimo
 Edgeøxa po:topónimo
 Éfaté po:topónimo
-Egmont po:topónimo [n-grama: Egmont Islands]
-Islands po:topónimo [n-grama: Egmont Islands]
+Egmont po:topónimo is:ngrama_Egmont_Islands
+Islands po:topónimo is:ngrama_Egmont_Islands
 Eiao po:topónimo
-Eilean po:topónimo [n-grama: Eilean Siar]
-Siar po:topónimo [n-grama: Eilean Siar]
+Eilean po:topónimo is:ngrama_Eilean_Siar
+Siar po:topónimo is:ngrama_Eilean_Siar
 Eivisa po:topónimo
-El po:topónimo [n-grama: El Fraile]
-Fraile po:topónimo [n-grama: El Fraile]
-El po:topónimo [n-grama: El Sujeto]
-Sujeto po:topónimo [n-grama: El Sujeto]
+El po:topónimo is:ngrama_El_Fraile
+Fraile po:topónimo is:ngrama_El_Fraile
+El po:topónimo is:ngrama_El_Sujeto
+Sujeto po:topónimo is:ngrama_El_Sujeto
 Elafónisos po:topónimo
 Elba po:topónimo
 Eleuthera po:topónimo
@@ -370,51 +370,51 @@ Erinia po:topónimo
 Erromango po:topónimo
 Esciro po:topónimo
 Esciros po:topónimo
-Espírito po:topónimo [n-grama: Espírito Santo]
+Espírito po:topónimo is:ngrama_Espírito_Santo
 Espóradas po:topónimo
-Espóradas po:topónimo [n-grama: Espóradas Ecuatoriais]
-Ecuatoriais po:topónimo [n-grama: Espóradas Ecuatoriais]
-Asociado po:topónimo [n-grama: Estado Libre Asociado de Porto Rico]
-Rico po:topónimo [n-grama: Estado Libre Asociado de Porto Rico]
+Espóradas po:topónimo is:ngrama_Espóradas_Ecuatoriais
+Ecuatoriais po:topónimo is:ngrama_Espóradas_Ecuatoriais
+Asociado po:topónimo is:ngrama_Estado_Libre_Asociado_de_Porto_Rico
+Rico po:topónimo is:ngrama_Estado_Libre_Asociado_de_Porto_Rico
 Eubea po:topónimo
 Eusa po:topónimo
-Exeo po:topónimo [n-grama: Exeo meridional]
+Exeo po:topónimo is:ngrama_Exeo_meridional
 Exina po:topónimo
 Ezo po:topónimo
 Ezo-chi po:topónimo
 Faaite po:topónimo
 Fagafale po:topónimo
 Faial po:topónimo
-Faiava po:topónimo [n-grama: Faiava Lasi]
-Lasi po:topónimo [n-grama: Faiava Lasi]
+Faiava po:topónimo is:ngrama_Faiava_Lasi
+Lasi po:topónimo is:ngrama_Faiava_Lasi
 Fakahina po:topónimo
 Fakaofo po:topónimo
 Fakarava po:topónimo
-Falcon po:topónimo [n-grama: Falcon Island]
-Island po:topónimo [n-grama: Falcon Island]
+Falcon po:topónimo is:ngrama_Falcon_Island
+Island po:topónimo is:ngrama_Falcon_Island
 Fale po:topónimo
 Falklands po:topónimo
 Falster po:topónimo
 Fangatau po:topónimo
 Fangataufa po:topónimo
 Fano po:topónimo
-Farallón po:topónimo [n-grama: Farallón de Medinilla]
-Medinilla po:topónimo [n-grama: Farallón de Medinilla]
-Farallón po:topónimo [n-grama: Farallón de Paxaros]
-Paxaros po:topónimo [n-grama: Farallón de Paxaros]
+Farallón po:topónimo is:ngrama_Farallón_de_Medinilla
+Medinilla po:topónimo is:ngrama_Farallón_de_Medinilla
+Farallón po:topónimo is:ngrama_Farallón_de_Paxaros
+Paxaros po:topónimo is:ngrama_Farallón_de_Paxaros
 Farmakonisi po:topónimo
 Farquhar po:topónimo
-Fatu po:topónimo [n-grama: Fatu Hiva]
-Hiva po:topónimo [n-grama: Fatu Hiva]
-Fatu po:topónimo [n-grama: Fatu Huku]
-Huku po:topónimo [n-grama: Fatu Huku]
-Fatu po:topónimo [n-grama: Fatu Taka]
-Taka po:topónimo [n-grama: Fatu Taka]
+Fatu po:topónimo is:ngrama_Fatu_Hiva
+Hiva po:topónimo is:ngrama_Fatu_Hiva
+Fatu po:topónimo is:ngrama_Fatu_Huku
+Huku po:topónimo is:ngrama_Fatu_Huku
+Fatu po:topónimo is:ngrama_Fatu_Taka
+Taka po:topónimo is:ngrama_Fatu_Taka
 Fatutaka po:topónimo
-Fenua po:topónimo [n-grama: Fenua Tapu]
-Tapu po:topónimo [n-grama: Fenua Tapu]
-Fernando po:topónimo [n-grama: Fernando de Noronha]
-Noronha po:topónimo [n-grama: Fernando de Noronha]
+Fenua po:topónimo is:ngrama_Fenua_Tapu
+Tapu po:topónimo is:ngrama_Fenua_Tapu
+Fernando po:topónimo is:ngrama_Fernando_de_Noronha
+Noronha po:topónimo is:ngrama_Fernando_de_Noronha
 Fidxi po:topónimo
 Filicudi po:topónimo
 Fionia po:topónimo
@@ -428,24 +428,24 @@ Fonuafo´ou po:topónimo
 Fonualei po:topónimo
 Formentera po:topónimo
 Formosa po:topónimo
-Fortaleza po:topónimo [n-grama: Fortaleza de San Sebastián]
-Sebastián po:topónimo [n-grama: Fortaleza de San Sebastián]
+Fortaleza po:topónimo is:ngrama_Fortaleza_de_San_Sebastián
+Sebastián po:topónimo is:ngrama_Fortaleza_de_San_Sebastián
 Fotuha'a po:topónimo
-French po:topónimo [n-grama: French Frigate Shoals]
-Frigate po:topónimo [n-grama: French Frigate Shoals]
-Shoals po:topónimo [n-grama: French Frigate Shoals]
+French po:topónimo is:ngrama_French_Frigate_Shoals
+Frigate po:topónimo is:ngrama_French_Frigate_Shoals
+Shoals po:topónimo is:ngrama_French_Frigate_Shoals
 Funafuti po:topónimo
 Funaota po:topónimo
 Futuna po:topónimo
 Ganghwa po:topónimo
-Gardner po:topónimo [n-grama: Gardner Pinnacles]
-Pinnacles po:topónimo [n-grama: Gardner Pinnacles]
+Gardner po:topónimo is:ngrama_Gardner_Pinnacles
+Pinnacles po:topónimo is:ngrama_Gardner_Pinnacles
 Gareloi po:topónimo
-Garraitz po:topónimo [n-grama: Garraitz Uhartea]
-Uhartea po:topónimo [n-grama: Garraitz Uhartea]
-Gaspar po:topónimo [n-grama: Gaspar Grande ou Gasparee]
-ou po:topónimo [n-grama: Gaspar Grande ou Gasparee]
-Gasparee po:topónimo [n-grama: Gaspar Grande ou Gasparee]
+Garraitz po:topónimo is:ngrama_Garraitz_Uhartea
+Uhartea po:topónimo is:ngrama_Garraitz_Uhartea
+Gaspar po:topónimo is:ngrama_Gaspar_Grande_ou_Gasparee
+ou po:topónimo is:ngrama_Gaspar_Grande_ou_Gasparee
+Gasparee po:topónimo is:ngrama_Gaspar_Grande_ou_Gasparee
 Gasparillo po:topónimo
 Gavdos po:topónimo
 Giannutri po:topónimo
@@ -454,34 +454,34 @@ Giglio po:topónimo
 Gilolo po:topónimo
 Gioura po:topónimo
 Gorgona po:topónimo
-Bahama po:topónimo [n-grama: Gran Bahama]
-Banco po:topónimo [n-grama: Gran Banco de Chagos]
-Chagos po:topónimo [n-grama: Gran Banco de Chagos]
-Bretaña po:topónimo [n-grama: Gran Bretaña]
-Caimán po:topónimo [n-grama: Gran Caimán]
-Camanoe po:topónimo [n-grama: Gran Camanoe]
-Comora po:topónimo [n-grama: Gran Comora]
-Fidxi po:topónimo [n-grama: Gran Fidxi]
-Thatch po:topónimo [n-grama: Gran Thatch]
+Bahama po:topónimo is:ngrama_Gran_Bahama
+Banco po:topónimo is:ngrama_Gran_Banco_de_Chagos
+Chagos po:topónimo is:ngrama_Gran_Banco_de_Chagos
+Bretaña po:topónimo is:ngrama_Gran_Bretaña
+Caimán po:topónimo is:ngrama_Gran_Caimán
+Camanoe po:topónimo is:ngrama_Gran_Camanoe
+Comora po:topónimo is:ngrama_Gran_Comora
+Fidxi po:topónimo is:ngrama_Gran_Fidxi
+Thatch po:topónimo is:ngrama_Gran_Thatch
 Granada po:topónimo
-Comore po:topónimo [n-grama: Grande Comore]
-Terre po:topónimo [n-grama: Grande Terre]
+Comore po:topónimo is:ngrama_Grande_Comore
+Terre po:topónimo is:ngrama_Grande_Terre
 Grande-Terre po:topónimo
-Antillas po:topónimo [n-grama: Grandes Antillas]
-Great po:topónimo [n-grama: Great Barrier Island]
-Barrier po:topónimo [n-grama: Great Barrier Island]
-Island po:topónimo [n-grama: Great Barrier Island]
+Antillas po:topónimo is:ngrama_Grandes_Antillas
+Great po:topónimo is:ngrama_Great_Barrier_Island
+Barrier po:topónimo is:ngrama_Great_Barrier_Island
+Island po:topónimo is:ngrama_Great_Barrier_Island
 Grímsey po:topónimo
 Groenlandia po:topónimo
-grupo po:topónimo [n-grama: grupo Acteón]
-Acteón po:topónimo [n-grama: grupo Acteón]
-Grupo po:topónimo [n-grama: Grupo do Duque de York]
-Duque po:topónimo [n-grama: Grupo do Duque de York]
-York po:topónimo [n-grama: Grupo do Duque de York]
-Grupo po:topónimo [n-grama: Grupo Gálvez]
-Gálvez po:topónimo [n-grama: Grupo Gálvez]
-grupo po:topónimo [n-grama: grupo Niuas]
-Niuas po:topónimo [n-grama: grupo Niuas]
+grupo po:topónimo is:ngrama_grupo_Acteón
+Acteón po:topónimo is:ngrama_grupo_Acteón
+Grupo po:topónimo is:ngrama_Grupo_do_Duque_de_York
+Duque po:topónimo is:ngrama_Grupo_do_Duque_de_York
+York po:topónimo is:ngrama_Grupo_do_Duque_de_York
+Grupo po:topónimo is:ngrama_Grupo_Gálvez
+Gálvez po:topónimo is:ngrama_Grupo_Gálvez
+grupo po:topónimo is:ngrama_grupo_Niuas
+Niuas po:topónimo is:ngrama_grupo_Niuas
 Guadalcanal po:topónimo
 Guadalupe po:topónimo
 Guernesei po:topónimo
@@ -490,8 +490,8 @@ Guguan po:topónimo
 Gyali po:topónimo
 Ha'ano po:topónimo
 Ha´apai po:topónimo
-Haida po:topónimo [n-grama: Haida Gwaii]
-Gwaii po:topónimo [n-grama: Haida Gwaii]
+Haida po:topónimo is:ngrama_Haida_Gwaii
+Gwaii po:topónimo is:ngrama_Haida_Gwaii
 Hailuoto po:topónimo
 Hainan po:topónimo
 Halki po:topónimo
@@ -500,13 +500,13 @@ Hao po:topónimo
 Haraiki po:topónimo
 Harris po:topónimo
 Hatobohei po:topónimo
-Hatu po:topónimo [n-grama: Hatu Iti]
-Iti po:topónimo [n-grama: Hatu Iti]
+Hatu po:topónimo is:ngrama_Hatu_Iti
+Iti po:topónimo is:ngrama_Hatu_Iti
 Hatuta´a po:topónimo
 Hatutu po:topónimo
 Hawai po:topónimo
-Hébridas po:topónimo [n-grama: Hébridas Exteriores]
-Hébridas po:topónimo [n-grama: Hébridas Interiores]
+Hébridas po:topónimo is:ngrama_Hébridas_Exteriores
+Hébridas po:topónimo is:ngrama_Hébridas_Interiores
 Heptonesos po:topónimo
 Hereheretue po:topónimo
 Herm po:topónimo
@@ -521,608 +521,608 @@ Hubley po:topónimo
 Humphrey po:topónimo
 Icaria po:topónimo
 Ikaria po:topónimo
-Île po:topónimo [n-grama: Île d'Oléron]
-d'Oléron po:topónimo [n-grama: Île d'Oléron]
-Île po:topónimo [n-grama: Île da Passion]
-Passion po:topónimo [n-grama: Île da Passion]
-Île po:topónimo [n-grama: Île Desroches]
-Desroches po:topónimo [n-grama: Île Desroches]
-Île po:topónimo [n-grama: Île Jésus]
-Jésus po:topónimo [n-grama: Île Jésus]
-île po:topónimo [n-grama: île Royale]
-Royale po:topónimo [n-grama: île Royale]
-Îles po:topónimo [n-grama: Îles des Saintes]
-des po:topónimo [n-grama: Îles des Saintes]
-Saintes po:topónimo [n-grama: Îles des Saintes]
-Abariringa po:topónimo [n-grama: Illa Abariringa]
-Adelaida po:topónimo [n-grama: Illa Adelaida]
-Akimiski po:topónimo [n-grama: Illa Akimiski]
-Alamagan po:topónimo [n-grama: Illa Alamagan]
-Alexandre po:topónimo [n-grama: Illa Alexandre I]
-Alor po:topónimo [n-grama: Illa Alor]
-Amberes po:topónimo [n-grama: Illa Amberes]
-Amsterdam po:topónimo [n-grama: illa Amsterdam]
-Ansarón po:topónimo [n-grama: Illa Ansarón]
-Anvers po:topónimo [n-grama: Illa Anvers]
-Apolima po:topónimo [n-grama: illa Apolima]
-Baker po:topónimo [n-grama: illa Baker]
-Bakers po:topónimo [n-grama: Illa Bakers]
-Ballota po:topónimo [n-grama: Illa Ballota]
-Belgrano po:topónimo [n-grama: illa Belgrano]
-Bequia po:topónimo [n-grama: Illa Bequia]
-Berkner po:topónimo [n-grama: Illa Berkner]
-Betio po:topónimo [n-grama: illa Betio]
-Billano po:topónimo [n-grama: Illa Billano]
-Birnie po:topónimo [n-grama: illa Birnie]
-Bolxevique po:topónimo [n-grama: illa Bolxevique]
-Borden po:topónimo [n-grama: Illa Borden]
-Bouvet po:topónimo [n-grama: Illa Bouvet]
-Bylot po:topónimo [n-grama: Illa Bylot]
-Canton po:topónimo [n-grama: Illa Canton]
-Carney po:topónimo [n-grama: illa Carney]
-Caroline po:topónimo [n-grama: Illa Caroline]
-Caviana po:topónimo [n-grama: illa Caviana]
-Charlotte po:topónimo [n-grama: Illa Charlotte]
-Chatham po:topónimo [n-grama: illa Chatham]
-Clarión po:topónimo [n-grama: Illa Clarión]
-Clipperton po:topónimo [n-grama: Illa Clipperton]
-Coats po:topónimo [n-grama: Illa Coats]
-Cooper po:topónimo [n-grama: Illa Cooper]
-Cornwall po:topónimo [n-grama: Illa Cornwall]
-Cornwallis po:topónimo [n-grama: Illa Cornwallis]
-Crooked po:topónimo [n-grama: Illa Crooked]
-Curieuse po:topónimo [n-grama: Illa Curieuse]
-Altura po:topónimo [n-grama: Illa da Altura]
-Boega po:topónimo [n-grama: Illa da Boega]
-Coelleira po:topónimo [n-grama: Illa da Coelleira]
-Conejera po:topónimo [n-grama: Illa da Conejera]
-Creba po:topónimo [n-grama: Illa da Creba]
-Deva po:topónimo [n-grama: Illa da Deva]
-Area po:topónimo [n-grama: Illa da Insua da Area]
-Insuíña po:topónimo [n-grama: illa da Insuíña]
-Juventud po:topónimo [n-grama: Illa da Juventud]
-Liberdade po:topónimo [n-grama: illa da Liberdade]
-Martinica po:topónimo [n-grama: illa da Martinica]
-Paixón po:topónimo [n-grama: Illa da Paixón]
-Posesión po:topónimo [n-grama: Illa da Posesión]
-Revolución po:topónimo [n-grama: illa da Revolución de Outubro]
-Toxa po:topónimo [n-grama: illa da Toxa]
-Toxa po:topónimo [n-grama: Illa da Toxa Pequena]
-Virgen po:topónimo [n-grama: Illa da Virgen del Mar]
-del po:topónimo [n-grama: Illa da Virgen del Mar]
-Flores po:topónimo [n-grama: illa das Flores]
-Dawson po:topónimo [n-grama: illa Dawson]
-Aketx po:topónimo [n-grama: Illa de Aketx]
-Alborán po:topónimo [n-grama: Illa de Alborán]
-Anguila po:topónimo [n-grama: illa de Anguila]
-Anticosti po:topónimo [n-grama: illa de Anticosti]
-Area po:topónimo [n-grama: Illa de Area]
-Astove po:topónimo [n-grama: illa de Astove]
-Baffin po:topónimo [n-grama: Illa de Baffin]
-Banks po:topónimo [n-grama: Illa de Banks]
-Basse-Terre po:topónimo [n-grama: illa de Basse-Terre]
-Bathurst po:topónimo [n-grama: illa de Bathurst]
-Bedloe po:topónimo [n-grama: Illa de Bedloe]
-Beiro po:topónimo [n-grama: Illa de Beiro]
-Benidorm po:topónimo [n-grama: illa de Benidorm]
-Bering po:topónimo [n-grama: Illa de Bering]
-Borizo po:topónimo [n-grama: Illa de Borizo]
-Bugio po:topónimo [n-grama: Illa de Bugio]
-Bretón po:topónimo [n-grama: illa de Cabo Bretón]
-Capri po:topónimo [n-grama: Illa de Capri]
-Carriacou po:topónimo [n-grama: Illa de Carriacou]
-Cebú po:topónimo [n-grama: illa de Cebú]
-Chichagof po:topónimo [n-grama: Illa de Chichagof]
-Colom po:topónimo [n-grama: Illa de Colom]
-Cortegada po:topónimo [n-grama: illa de Cortegada]
-Cubagua po:topónimo [n-grama: illa de Cubagua]
-Disko po:topónimo [n-grama: Illa de Disko]
-Ellesmere po:topónimo [n-grama: illa de Ellesmere]
-Escombreras po:topónimo [n-grama: Illa de Escombreras]
-Flores po:topónimo [n-grama: Illa de Flores]
-Frégate po:topónimo [n-grama: Illa de Frégate]
-Frigate po:topónimo [n-grama: Illa de Frigate]
-Garraitz po:topónimo [n-grama: Illa de Garraitz]
-Gavi po:topónimo [n-grama: Illa de Gavi]
-Great po:topónimo [n-grama: Illa de Great Bernera]
-Bernera po:topónimo [n-grama: Illa de Great Bernera]
-Hawai po:topónimo [n-grama: illa de Hawai]
-Hong po:topónimo [n-grama: illa de Hong Kong]
-Kong po:topónimo [n-grama: illa de Hong Kong]
-Jersey po:topónimo [n-grama: Illa de Jersey]
-Kupreanof po:topónimo [n-grama: illa de Kupreanof]
-l'Aire po:topónimo [n-grama: Illa de l'Aire]
-La po:topónimo [n-grama: Illa de La Orchila]
-Orchila po:topónimo [n-grama: Illa de La Orchila]
-Lewis po:topónimo [n-grama: illa de Lewis]
-Lord po:topónimo [n-grama: Illa de Lord Howe]
-Howe po:topónimo [n-grama: Illa de Lord Howe]
-Mactán po:topónimo [n-grama: illa de Mactán]
-Maians po:topónimo [n-grama: illa de Maians]
-Man po:topónimo [n-grama: Illa de Man]
-Manus po:topónimo [n-grama: Illa de Manus]
-Margarita po:topónimo [n-grama: Illa de Margarita]
-Marma po:topónimo [n-grama: Illa de Marma]
-Mazarrón po:topónimo [n-grama: Illa de Mazarrón]
-Mbanié po:topónimo [n-grama: illa de Mbanié]
-Melville po:topónimo [n-grama: Illa de Melville]
-Montecristo po:topónimo [n-grama: Illa de Montecristo]
-Montreal po:topónimo [n-grama: Illa de Montreal]
-Moresby po:topónimo [n-grama: Illa de Moresby]
-Mouro po:topónimo [n-grama: Illa de Mouro]
-Mull po:topónimo [n-grama: Illa de Mull]
-Nikumaroro po:topónimo [n-grama: Illa de Nikumaroro]
-Noro po:topónimo [n-grama: Illa de Noro]
-Ñoro po:topónimo [n-grama: Illa de Ñoro]
-Oak po:topónimo [n-grama: illa de Oak]
-Okinawa po:topónimo [n-grama: Illa de Okinawa]
-Oléron po:topónimo [n-grama: Illa de Oléron]
-Ons po:topónimo [n-grama: Illa de Ons]
-Onza po:topónimo [n-grama: Illa de Onza]
-Palawan po:topónimo [n-grama: illa de Palawan]
-Pascua po:topónimo [n-grama: Illa de Pascua]
-Pedrosa po:topónimo [n-grama: Illa de Pedrosa]
-Penang po:topónimo [n-grama: illa de Penang]
-Pentecoste po:topónimo [n-grama: illa de Pentecoste]
-Perejil po:topónimo [n-grama: illa de Perejil]
-Pombeiro po:topónimo [n-grama: Illa de Pombeiro]
-Port-Lligat po:topónimo [n-grama: Illa de Port-Lligat]
-Providencia po:topónimo [n-grama: Illa de Providencia]
-Ross po:topónimo [n-grama: Illa de Ross]
-S'Arenella po:topónimo [n-grama: Illa de S'Arenella]
-Sa po:topónimo [n-grama: Illa de Sa Rata]
-Rata po:topónimo [n-grama: Illa de Sa Rata]
-Sálvora po:topónimo [n-grama: Illa de Sálvora]
-Ambrosio po:topónimo [n-grama: illa de san Ambrosio]
-Andrés po:topónimo [n-grama: Illa de San Andrés]
-Antón po:topónimo [n-grama: Illa de San Antón]
-Clemente po:topónimo [n-grama: Illa de San Clemente]
-Martiño po:topónimo [n-grama: illa de San Martiño]
-Martiño po:topónimo [n-grama: Illa de San Martiño]
-Pedro po:topónimo [n-grama: Illa de San Pedro de Coche]
-Coche po:topónimo [n-grama: Illa de San Pedro de Coche]
-Simón po:topónimo [n-grama: illa de San Simón]
-Tomé po:topónimo [n-grama: illa de San Tomé]
-Vicente po:topónimo [n-grama: illa de San Vicente]
-Vicenzo po:topónimo [n-grama: illa de San Vicenzo]
-Catalina po:topónimo [n-grama: illa de Santa Catalina]
-Catarina po:topónimo [n-grama: illa de Santa Catarina]
-Clara po:topónimo [n-grama: Illa de Santa Clara]
-Comba po:topónimo [n-grama: Illa de Santa Comba]
-Inés po:topónimo [n-grama: illa de Santa Inés]
-Marina po:topónimo [n-grama: Illa de Santa Marina]
-São po:topónimo [n-grama: Illa de São Jorge]
-Jorge po:topónimo [n-grama: Illa de São Jorge]
-Silhouette po:topónimo [n-grama: Illa de Silhouette]
-Skye po:topónimo [n-grama: illa de Skye]
-Southampton po:topónimo [n-grama: illa de Southampton]
-Swains po:topónimo [n-grama: Illa de Swains]
-Tabarca po:topónimo [n-grama: illa de Tabarca]
-Tac po:topónimo [n-grama: illa de Tac]
-Tambo po:topónimo [n-grama: illa de Tambo]
-Tapia po:topónimo [n-grama: Illa de Tapia]
-Tosqueta po:topónimo [n-grama: illa de Tosqueta]
-Tourís po:topónimo [n-grama: Illa de Tourís Novo]
-Txatxarramendi po:topónimo [n-grama: Illa de Txatxarramendi]
-Vancouver po:topónimo [n-grama: illa de Vancouver]
-Vionta po:topónimo [n-grama: Illa de Vionta]
-Wight po:topónimo [n-grama: Illa de Wight]
-Wrangel po:topónimo [n-grama: illa de Wrangel]
-Decepción po:topónimo [n-grama: illa Decepción]
-del po:topónimo [n-grama: Illa del Forcón]
-Forcón po:topónimo [n-grama: Illa del Forcón]
-del po:topónimo [n-grama: Illa del Portitxol]
-Portitxol po:topónimo [n-grama: Illa del Portitxol]
-Denis po:topónimo [n-grama: Illa Denis]
-Deserta po:topónimo [n-grama: Illa Deserta Grande]
-Desolación po:topónimo [n-grama: Illa Desolación]
-Devon po:topónimo [n-grama: Illa Devon]
-Almirantado po:topónimo [n-grama: Illa do Almirantado]
-Ansarón po:topónimo [n-grama: illa do Ansarón]
-Bananal po:topónimo [n-grama: Illa do Bananal]
-Carme po:topónimo [n-grama: Illa do Carme]
-Castellar po:topónimo [n-grama: Illa do Castellar]
-Castril po:topónimo [n-grama: Illa do Castril]
-Castrón po:topónimo [n-grama: Illa do Castrón de Santiuste]
-Santiuste po:topónimo [n-grama: Illa do Castrón de Santiuste]
-Coco po:topónimo [n-grama: Illa do Coco]
-Corvo po:topónimo [n-grama: Illa do Corvo]
-Descubridor po:topónimo [n-grama: Illa do Descubridor]
-Diaño po:topónimo [n-grama: Illa do Diaño]
-Guidoiro po:topónimo [n-grama: Illa do Guidoiro Areoso]
-Areoso po:topónimo [n-grama: Illa do Guidoiro Areoso]
-Guidoiro po:topónimo [n-grama: Illa do Guidoiro Pedregoso]
-Pedregoso po:topónimo [n-grama: Illa do Guidoiro Pedregoso]
-Lazareto po:topónimo [n-grama: illa do Lazareto]
-Milenio po:topónimo [n-grama: Illa do Milenio]
-Pombeiro po:topónimo [n-grama: Illa do Pombeiro]
-Portichol po:topónimo [n-grama: Illa do Portichol]
-Carlos po:topónimo [n-grama: Illa do Príncipe Carlos]
-Eduardo po:topónimo [n-grama: Illa do Príncipe Eduardo]
-Tiburón po:topónimo [n-grama: Illa do Tiburón]
-Trocadero po:topónimo [n-grama: Illa do Trocadero]
-Dog po:topónimo [n-grama: illa Dog]
-Amores po:topónimo [n-grama: Illa dos Amores]
-Faisáns po:topónimo [n-grama: Illa dos Faisáns]
-Forcados po:topónimo [n-grama: Illa dos Forcados]
-Monxes po:topónimo [n-grama: Illa dos Monxes]
-Pingüíns po:topónimo [n-grama: Illa dos Pingüíns]
-Piñeiros po:topónimo [n-grama: Illa dos Piñeiros]
-Porcos po:topónimo [n-grama: Illa dos Porcos]
-Ratones po:topónimo [n-grama: Illa dos Ratones]
-Dragonera po:topónimo [n-grama: illa Dragonera]
-Edge po:topónimo [n-grama: illa Edge]
-Eglinton po:topónimo [n-grama: Illa Eglinton]
-Ellef po:topónimo [n-grama: Illa Ellef Ringnes]
-Ringnes po:topónimo [n-grama: Illa Ellef Ringnes]
-Ellis po:topónimo [n-grama: illa Ellis]
-Encalladora po:topónimo [n-grama: Illa Encalladora]
-Enderbury po:topónimo [n-grama: illa Enderbury]
-Europa po:topónimo [n-grama: Illa Europa]
-Fanning po:topónimo [n-grama: Illa Fanning]
-Fénix po:topónimo [n-grama: Illa Fénix]
-Flinders po:topónimo [n-grama: Illa Flinders]
-Flint po:topónimo [n-grama: Illa Flint]
-Francis po:topónimo [n-grama: Illa Francis]
-Fraser po:topónimo [n-grama: illa Fraser]
-Gardner po:topónimo [n-grama: Illa Gardner]
-Gavoteira po:topónimo [n-grama: Illa Gavoteira]
-Ginger po:topónimo [n-grama: Illa Ginger]
-Graciosa po:topónimo [n-grama: Illa Graciosa]
-Graham po:topónimo [n-grama: illa Graham]
-Barreira po:topónimo [n-grama: illa Gran Barreira]
-Malvina po:topónimo [n-grama: Illa Gran Malvina]
-Turca po:topónimo [n-grama: Illa Gran Turca]
-Chiloé po:topónimo [n-grama: Illa Grande de Chiloé]
-Terra po:topónimo [n-grama: Illa Grande de Terra do Lume]
-Lume po:topónimo [n-grama: Illa Grande de Terra do Lume]
-Gurupá po:topónimo [n-grama: Illa Grande do Gurupá]
-Grosa po:topónimo [n-grama: Illa Grosa]
-Guana po:topónimo [n-grama: Illa Guana]
-Guidoiro po:topónimo [n-grama: Illa Guidoiro Pedregoso]
-Pedregoso po:topónimo [n-grama: Illa Guidoiro Pedregoso]
-Harbour po:topónimo [n-grama: Illa Harbour]
-Herbosa po:topónimo [n-grama: Illa Herbosa]
-Hoste po:topónimo [n-grama: illa Hoste]
-Howland po:topónimo [n-grama: Illa Howland]
-Huevos po:topónimo [n-grama: Illa Huevos]
-Hull po:topónimo [n-grama: Illa Hull]
-Independence po:topónimo [n-grama: Illa Independence]
-James po:topónimo [n-grama: illa James Ross]
-Ross po:topónimo [n-grama: illa James Ross]
-Janjanbureh po:topónimo [n-grama: Illa Janjanbureh]
-Joinville po:topónimo [n-grama: illa Joinville]
-Kanton po:topónimo [n-grama: Illa Kanton]
-Kapiti po:topónimo [n-grama: Illa Kapiti]
-King po:topónimo [n-grama: Illa King]
-King po:topónimo [n-grama: illa King William]
-William po:topónimo [n-grama: illa King William]
-Kodiak po:topónimo [n-grama: Illa Kodiak]
-Kolgüev po:topónimo [n-grama: Illa Kolgüev]
-Komsomolets po:topónimo [n-grama: illa Komsomolets]
-La po:topónimo [n-grama: Illa La Orchilla]
-Orchilla po:topónimo [n-grama: Illa La Orchilla]
-Lemain po:topónimo [n-grama: Illa Lemain]
-Longa po:topónimo [n-grama: Illa Longa]
-MacCarthy po:topónimo [n-grama: Illa MacCarthy]
-Mackenzie po:topónimo [n-grama: Illa Mackenzie King]
-King po:topónimo [n-grama: Illa Mackenzie King]
-Malaita po:topónimo [n-grama: Illa Malaita]
-Malden po:topónimo [n-grama: Illa Malden]
-Manitoulin po:topónimo [n-grama: illa Manitoulin]
-Manra po:topónimo [n-grama: Illa Manra]
-Mansel po:topónimo [n-grama: Illa Mansel]
-Marcus po:topónimo [n-grama: Illa Marcus]
-Marnay po:topónimo [n-grama: Illa Marnay]
-Massa po:topónimo [n-grama: Illa Massa d'Or]
-d'Or po:topónimo [n-grama: Illa Massa d'Or]
-Matthews po:topónimo [n-grama: Illa Matthews]
-Mayor po:topónimo [n-grama: illa Mayor]
-McKean po:topónimo [n-grama: illa McKean]
-Melville po:topónimo [n-grama: Illa Melville]
-Monos po:topónimo [n-grama: Illa Monos]
-Mosquito po:topónimo [n-grama: Illa Mosquito]
-Mujeres po:topónimo [n-grama: Illa Mujeres]
-Nanumea po:topónimo [n-grama: illa Nanumea]
-Necker po:topónimo [n-grama: illa Necker]
-Necker po:topónimo [n-grama: Illa Necker]
-Norfolk po:topónimo [n-grama: Illa Norfolk]
-Norman po:topónimo [n-grama: Illa Norman]
-Nublar po:topónimo [n-grama: Illa Nublar]
-Nukupule po:topónimo [n-grama: Illa Nukupule]
-Ocean po:topónimo [n-grama: illa Ocean]
-ou po:topónimo [n-grama: illa ou illote Bear]
-Bear po:topónimo [n-grama: illa ou illote Bear]
-Pagan po:topónimo [n-grama: illa Pagan]
-Palm po:topónimo [n-grama: illa Palm]
-Palmerston po:topónimo [n-grama: illa Palmerston]
-Pancha po:topónimo [n-grama: illa Pancha]
-Pedro po:topónimo [n-grama: illa Pedro I]
-Penedo po:topónimo [n-grama: Illa Penedo da Insua]
-Perdiguera po:topónimo [n-grama: Illa Perdiguera]
-Peru po:topónimo [n-grama: Illa Peru]
-Peter po:topónimo [n-grama: Illa Peter]
-Pitt po:topónimo [n-grama: illa Pitt]
-Pitt po:topónimo [n-grama: Illa Pitt]
-Prince po:topónimo [n-grama: Illa Prince Patrick]
-Patrick po:topónimo [n-grama: Illa Prince Patrick]
-Gales po:topónimo [n-grama: illa Príncipe de Gales]
-Gales po:topónimo [n-grama: Illa Príncipe de Gales]
-Quiriquina po:topónimo [n-grama: Illa Quiriquina]
-Ragged po:topónimo [n-grama: Illa Ragged]
-Rawaki po:topónimo [n-grama: Illa Rawaki]
-Jorge po:topónimo [n-grama: illa Rei Jorge]
-Revillagigedo po:topónimo [n-grama: illa Revillagigedo]
-Riesco po:topónimo [n-grama: illa Riesco]
-Robinson po:topónimo [n-grama: Illa Robinson Crusoe]
-Crusoe po:topónimo [n-grama: Illa Robinson Crusoe]
-Ronde po:topónimo [n-grama: illa Ronde]
-Rondella po:topónimo [n-grama: Illa Rondella]
-Roosevelt po:topónimo [n-grama: illa Roosevelt]
-Rota po:topónimo [n-grama: illa Rota]
-Rowett po:topónimo [n-grama: Illa Rowett]
-Rutland po:topónimo [n-grama: Illa Rutland]
-Salt po:topónimo [n-grama: Illa Salt]
-Félix po:topónimo [n-grama: Illa San Félix]
-Catalina po:topónimo [n-grama: Illa Santa Catalina]
-Sarnosa po:topónimo [n-grama: Illa Sarnosa]
-Scrub po:topónimo [n-grama: illa Scrub]
-Severny po:topónimo [n-grama: illa Severny]
-Sidney po:topónimo [n-grama: Illa Sidney]
-Siple po:topónimo [n-grama: illa Siple]
-Smyley po:topónimo [n-grama: Illa Smyley]
-Socorro po:topónimo [n-grama: Illa Socorro]
-Soidade po:topónimo [n-grama: Illa Soidade]
-Sombrero po:topónimo [n-grama: illa Sombrero]
-Somerset po:topónimo [n-grama: illa Somerset]
-Sorna po:topónimo [n-grama: Illa Sorna]
-Spaatz po:topónimo [n-grama: illa Spaatz]
-St. po:topónimo [n-grama: Illa St. Lawrence]
-Lawrence po:topónimo [n-grama: Illa St. Lawrence]
-Starbuck po:topónimo [n-grama: Illa Starbuck]
-Staver po:topónimo [n-grama: Illa Staver]
-Stefansson po:topónimo [n-grama: Illa Stefansson]
-Stewart po:topónimo [n-grama: Illa Stewart]
-Stirling po:topónimo [n-grama: Illa Stirling]
-Thurston po:topónimo [n-grama: illa Thurston]
-Tiburón po:topónimo [n-grama: Illa Tiburón]
-Touching po:topónimo [n-grama: Illa Touching]
-Traill po:topónimo [n-grama: illa Traill]
-Tromelin po:topónimo [n-grama: Illa Tromelin]
-Unimak po:topónimo [n-grama: Illa Unimak]
-Vaigach po:topónimo [n-grama: illa Vaigach]
-Victoria po:topónimo [n-grama: Illa Victoria]
-Volunteer po:topónimo [n-grama: Illa Volunteer]
-Vostok po:topónimo [n-grama: Illa Vostok]
-Wake po:topónimo [n-grama: illa Wake]
-Wáshington po:topónimo [n-grama: Illa Wáshington]
-Waterloo po:topónimo [n-grama: illa Waterloo]
-Watling po:topónimo [n-grama: Illa Watling]
-Wellington po:topónimo [n-grama: illa Wellington]
-Yas po:topónimo [n-grama: Illa Yas]
-aceite po:topónimo [n-grama: illas aceite]
-Aleipata po:topónimo [n-grama: Illas Aleipata]
-Alhucemas po:topónimo [n-grama: Illas Alhucemas]
-Alvedosas po:topónimo [n-grama: illas Alvedosas]
-Amirante po:topónimo [n-grama: illas Amirante]
-Andamán po:topónimo [n-grama: illas Andamán]
-Andreanof po:topónimo [n-grama: illas Andreanof]
-Anglo-normandas po:topónimo [n-grama: Illas Anglo-normandas]
-Antípodas po:topónimo [n-grama: illas Antípodas]
-Anzhu po:topónimo [n-grama: illas Anzhu]
-Aran po:topónimo [n-grama: Illas Aran]
-Aroe po:topónimo [n-grama: Illas Aroe]
-Árticas po:topónimo [n-grama: Illas Árticas do Canadá]
-Canadá po:topónimo [n-grama: Illas Árticas do Canadá]
-Ashmore po:topónimo [n-grama: illas Ashmore e Cartier]
-Cartier po:topónimo [n-grama: illas Ashmore e Cartier]
-Austrais po:topónimo [n-grama: illas Austrais]
-Babar po:topónimo [n-grama: illas Babar]
-Baleares po:topónimo [n-grama: Illas Baleares]
-Banda po:topónimo [n-grama: Illas Banda]
-Banks po:topónimo [n-grama: Illas Banks]
-Berry po:topónimo [n-grama: Illas Berry]
-Bird po:topónimo [n-grama: Illas Bird]
-Blasket po:topónimo [n-grama: Illas Blasket]
-Bounty po:topónimo [n-grama: Illas Bounty]
-Briñas po:topónimo [n-grama: Illas Briñas]
-Caicos po:topónimo [n-grama: Illas Caicos]
-Caimán po:topónimo [n-grama: Illas Caimán]
-Canarias po:topónimo [n-grama: Illas Canarias]
-Carolinas po:topónimo [n-grama: Illas Carolinas]
-Centoleiras po:topónimo [n-grama: illas Centoleiras]
-Chafarinas po:topónimo [n-grama: Illas Chafarinas]
-Chatham po:topónimo [n-grama: illas Chatham]
-Chelbacheb po:topónimo [n-grama: Illas Chelbacheb]
-Chesterfield po:topónimo [n-grama: Illas Chesterfield]
-Cíes po:topónimo [n-grama: Illas Cíes]
-Columbretes po:topónimo [n-grama: illas Columbretes]
-Cook po:topónimo [n-grama: Illas Cook]
-Crozet po:topónimo [n-grama: Illas Crozet]
-Decepción po:topónimo [n-grama: illas da Decepción]
-Desolación po:topónimo [n-grama: Illas da Desolación]
-Lealdade po:topónimo [n-grama: illas da Lealdade]
-Liña po:topónimo [n-grama: Illas da Liña]
-Madalena po:topónimo [n-grama: illas da Madalena]
-Carlota po:topónimo [n-grama: Illas da Raíña Carlota]
-Isabel po:topónimo [n-grama: Illas da Raíña Isabel]
-Sociedade po:topónimo [n-grama: illas da Sociedade]
-Sonda po:topónimo [n-grama: illas da Sonda]
-Fidxi po:topónimo [n-grama: Illas das Fidxi]
-Pantorgas po:topónimo [n-grama: Illas das Pantorgas]
-Andamán po:topónimo [n-grama: Illas de Andamán e Nicobar]
-Nicobar po:topónimo [n-grama: Illas de Andamán e Nicobar]
-Barlovento po:topónimo [n-grama: Illas de Barlovento]
-Gres po:topónimo [n-grama: Illas de Gres]
-Mauricio po:topónimo [n-grama: Illas de Mauricio]
-Siberia po:topónimo [n-grama: illas de Nova Siberia]
-Póo po:topónimo [n-grama: Illas de Póo]
-Pedro po:topónimo [n-grama: Illas de San Pedro]
-Sotavento po:topónimo [n-grama: illas de Sotavento]
-Sotavento po:topónimo [n-grama: Illas de Sotavento]
-Sotavento po:topónimo [n-grama: illas de Sotavento de Hawai]
-Hawai po:topónimo [n-grama: illas de Sotavento de Hawai]
-Desertas po:topónimo [n-grama: Illas Desertas]
-Desventuradas po:topónimo [n-grama: Illas Desventuradas]
-Dispersas po:topónimo [n-grama: Illas Dispersas do Océano Índico]
-Índico po:topónimo [n-grama: Illas Dispersas do Océano Índico]
-Almirantado po:topónimo [n-grama: Illas do Almirantado]
-Duque po:topónimo [n-grama: illas do Duque de Gloucester]
-Gloucester po:topónimo [n-grama: illas do Duque de Gloucester]
-Duque po:topónimo [n-grama: Illas do Duque de York]
-York po:topónimo [n-grama: Illas do Duque de York]
-Exeo po:topónimo [n-grama: illas do Exeo]
-Estanque po:topónimo [n-grama: illas do Grande Estanque de Marsala]
-Marsala po:topónimo [n-grama: illas do Grande Estanque de Marsala]
-Xurxo po:topónimo [n-grama: illas do Rei Xurxo]
-Vento po:topónimo [n-grama: illas do Vento]
-Farallóns po:topónimo [n-grama: Illas dos Farallóns]
-Grupos po:topónimo [n-grama: illas Dous Grupos]
-Duff po:topónimo [n-grama: Illas Duff]
-Eagle po:topónimo [n-grama: Illas Eagle]
-Égadi po:topónimo [n-grama: illas Égadi]
-Ellice po:topónimo [n-grama: Illas Ellice]
-Eolias po:topónimo [n-grama: illas Eolias]
-Estelas po:topónimo [n-grama: Illas Estelas]
-Farallóns po:topónimo [n-grama: Illas Farallóns]
-Fénix po:topónimo [n-grama: Illas Fénix]
-Feroe po:topónimo [n-grama: Illas Feroe]
-Florida po:topónimo [n-grama: Illas Florida]
-Formigues po:topónimo [n-grama: Illas Formigues]
-francesas po:topónimo [n-grama: illas francesas]
-Frisias po:topónimo [n-grama: Illas Frisias]
-Futuna po:topónimo [n-grama: Illas Futuna]
-Galápagos po:topónimo [n-grama: illas Galápagos]
-Gambier po:topónimo [n-grama: Illas Gambier]
-Gaveiras po:topónimo [n-grama: Illas Gaveiras]
-Gilbert po:topónimo [n-grama: Illas Gilbert]
-Gimnesias po:topónimo [n-grama: Illas Gimnesias]
-Glorioso po:topónimo [n-grama: illas Glorioso ou Gloriosas]
-ou po:topónimo [n-grama: illas Glorioso ou Gloriosas]
-Gloriosas po:topónimo [n-grama: illas Glorioso ou Gloriosas]
-Granadinas po:topónimo [n-grama: illas Granadinas]
-Heard po:topónimo [n-grama: Illas Heard e McDonald]
-McDonald po:topónimo [n-grama: Illas Heard e McDonald]
-Hébridas po:topónimo [n-grama: Illas Hébridas]
-Hoorn po:topónimo [n-grama: Illas Hoorn]
-Kai po:topónimo [n-grama: Illas Kai]
-Kei po:topónimo [n-grama: Illas Kei]
-Kerguelen po:topónimo [n-grama: Illas Kerguelen]
-Kermadec po:topónimo [n-grama: Illas Kermadec]
-Kiriwina po:topónimo [n-grama: Illas Kiriwina]
-Kurís po:topónimo [n-grama: Illas Kurís]
-Leti po:topónimo [n-grama: Illas Leti]
-Lobeiras po:topónimo [n-grama: Illas Lobeiras]
-Sonda po:topónimo [n-grama: illas maiores da Sonda]
-Malveiras po:topónimo [n-grama: Illas Malveiras]
-Malvinas po:topónimo [n-grama: Illas Malvinas]
-Manua po:topónimo [n-grama: illas Manua]
-Marianas po:topónimo [n-grama: Illas Marianas]
-Marquesas po:topónimo [n-grama: Illas Marquesas]
-Mascareñas po:topónimo [n-grama: illas Mascareñas]
-Matthew po:topónimo [n-grama: illas Matthew e Hunter]
-Hunter po:topónimo [n-grama: illas Matthew e Hunter]
-Maug po:topónimo [n-grama: Illas Maug]
-Medes po:topónimo [n-grama: illas Medes]
-Sonda po:topónimo [n-grama: illas menores da Sonda]
-Midway po:topónimo [n-grama: Illas Midway]
-Molucas po:topónimo [n-grama: illas Molucas]
-Nansei po:topónimo [n-grama: Illas Nansei]
-Nggela po:topónimo [n-grama: Illas Nggela]
-Nicobar po:topónimo [n-grama: illas Nicobar]
-Xeorxia po:topónimo [n-grama: Illas Nova Xeorxia]
-Obi po:topónimo [n-grama: Illas Obi]
-Ons po:topónimo [n-grama: illas Ons]
-Órcadas po:topónimo [n-grama: Illas Órcadas]
-Pantorgas po:topónimo [n-grama: Illas Pantorgas]
-Phoenix po:topónimo [n-grama: Illas Phoenix]
-Pitcairn po:topónimo [n-grama: illas Pitcairn]
-Raevski po:topónimo [n-grama: illas Raevski]
-Rawaki po:topónimo [n-grama: Illas Rawaki]
-Revillagigedo po:topónimo [n-grama: Illas Revillagigedo]
-Roca po:topónimo [n-grama: Illas Roca]
-Rowa po:topónimo [n-grama: Illas Rowa]
-Ryukyu po:topónimo [n-grama: Illas Ryukyu]
-Sagres po:topónimo [n-grama: Illas Sagres]
-Salomón po:topónimo [n-grama: Illas Salomón]
-Salvaxes po:topónimo [n-grama: Illas Salvaxes]
-Sandwich po:topónimo [n-grama: illas Sandwich]
-Sarónicas po:topónimo [n-grama: illas Sarónicas]
-Shepherd po:topónimo [n-grama: Illas Shepherd]
-Shetland po:topónimo [n-grama: illas Shetland]
-Shortland po:topónimo [n-grama: Illas Shortland]
-Sisargas po:topónimo [n-grama: illas Sisargas]
-Stewart po:topónimo [n-grama: Illas Stewart]
-Sula po:topónimo [n-grama: illas Sula]
-Sverdrup po:topónimo [n-grama: illas Sverdrup]
-Turks po:topónimo [n-grama: Illas Turks e Caicos]
-Caicos po:topónimo [n-grama: Illas Turks e Caicos]
-Estadounidenses po:topónimo [n-grama: Illas Virxes Estadounidenses]
-Xeorxias po:topónimo [n-grama: illas Xeorxias do Sur e Sandwich do Sur]
-Sandwich po:topónimo [n-grama: illas Xeorxias do Sur e Sandwich do Sur]
-Xónicas po:topónimo [n-grama: Illas Xónicas]
-Yasawa po:topónimo [n-grama: illas Yasawa]
-illiña po:topónimo [n-grama: illiña de Forvik]
-Forvik po:topónimo [n-grama: illiña de Forvik]
-Binicodrell po:topónimo [n-grama: illote de Binicodrell]
-Sancti po:topónimo [n-grama: illote de Sancti Petri]
-Petri po:topónimo [n-grama: illote de Sancti Petri]
-Formigas po:topónimo [n-grama: Illotes das Formigas]
-Apóstolos po:topónimo [n-grama: Illotes dos Apóstolos]
-María po:topónimo [n-grama: illotes María]
+Île po:topónimo is:ngrama_Île_d_Oléron
+d'Oléron po:topónimo is:ngrama_Île_d_Oléron
+Île po:topónimo is:ngrama_Île_da_Passion
+Passion po:topónimo is:ngrama_Île_da_Passion
+Île po:topónimo is:ngrama_Île_Desroches
+Desroches po:topónimo is:ngrama_Île_Desroches
+Île po:topónimo is:ngrama_Île_Jésus
+Jésus po:topónimo is:ngrama_Île_Jésus
+île po:topónimo is:ngrama_île_Royale
+Royale po:topónimo is:ngrama_île_Royale
+Îles po:topónimo is:ngrama_Îles_des_Saintes
+des po:topónimo is:ngrama_Îles_des_Saintes
+Saintes po:topónimo is:ngrama_Îles_des_Saintes
+Abariringa po:topónimo is:ngrama_Illa_Abariringa
+Adelaida po:topónimo is:ngrama_Illa_Adelaida
+Akimiski po:topónimo is:ngrama_Illa_Akimiski
+Alamagan po:topónimo is:ngrama_Illa_Alamagan
+Alexandre po:topónimo is:ngrama_Illa_Alexandre_I
+Alor po:topónimo is:ngrama_Illa_Alor
+Amberes po:topónimo is:ngrama_Illa_Amberes
+Amsterdam po:topónimo is:ngrama_illa_Amsterdam
+Ansarón po:topónimo is:ngrama_Illa_Ansarón
+Anvers po:topónimo is:ngrama_Illa_Anvers
+Apolima po:topónimo is:ngrama_illa_Apolima
+Baker po:topónimo is:ngrama_illa_Baker
+Bakers po:topónimo is:ngrama_Illa_Bakers
+Ballota po:topónimo is:ngrama_Illa_Ballota
+Belgrano po:topónimo is:ngrama_illa_Belgrano
+Bequia po:topónimo is:ngrama_Illa_Bequia
+Berkner po:topónimo is:ngrama_Illa_Berkner
+Betio po:topónimo is:ngrama_illa_Betio
+Billano po:topónimo is:ngrama_Illa_Billano
+Birnie po:topónimo is:ngrama_illa_Birnie
+Bolxevique po:topónimo is:ngrama_illa_Bolxevique
+Borden po:topónimo is:ngrama_Illa_Borden
+Bouvet po:topónimo is:ngrama_Illa_Bouvet
+Bylot po:topónimo is:ngrama_Illa_Bylot
+Canton po:topónimo is:ngrama_Illa_Canton
+Carney po:topónimo is:ngrama_illa_Carney
+Caroline po:topónimo is:ngrama_Illa_Caroline
+Caviana po:topónimo is:ngrama_illa_Caviana
+Charlotte po:topónimo is:ngrama_Illa_Charlotte
+Chatham po:topónimo is:ngrama_illa_Chatham
+Clarión po:topónimo is:ngrama_Illa_Clarión
+Clipperton po:topónimo is:ngrama_Illa_Clipperton
+Coats po:topónimo is:ngrama_Illa_Coats
+Cooper po:topónimo is:ngrama_Illa_Cooper
+Cornwall po:topónimo is:ngrama_Illa_Cornwall
+Cornwallis po:topónimo is:ngrama_Illa_Cornwallis
+Crooked po:topónimo is:ngrama_Illa_Crooked
+Curieuse po:topónimo is:ngrama_Illa_Curieuse
+Altura po:topónimo is:ngrama_Illa_da_Altura
+Boega po:topónimo is:ngrama_Illa_da_Boega
+Coelleira po:topónimo is:ngrama_Illa_da_Coelleira
+Conejera po:topónimo is:ngrama_Illa_da_Conejera
+Creba po:topónimo is:ngrama_Illa_da_Creba
+Deva po:topónimo is:ngrama_Illa_da_Deva
+Area po:topónimo is:ngrama_Illa_da_Insua_da_Area
+Insuíña po:topónimo is:ngrama_illa_da_Insuíña
+Juventud po:topónimo is:ngrama_Illa_da_Juventud
+Liberdade po:topónimo is:ngrama_illa_da_Liberdade
+Martinica po:topónimo is:ngrama_illa_da_Martinica
+Paixón po:topónimo is:ngrama_Illa_da_Paixón
+Posesión po:topónimo is:ngrama_Illa_da_Posesión
+Revolución po:topónimo is:ngrama_illa_da_Revolución_de_Outubro
+Toxa po:topónimo is:ngrama_illa_da_Toxa
+Toxa po:topónimo is:ngrama_Illa_da_Toxa_Pequena
+Virgen po:topónimo is:ngrama_Illa_da_Virgen_del_Mar
+del po:topónimo is:ngrama_Illa_da_Virgen_del_Mar
+Flores po:topónimo is:ngrama_illa_das_Flores
+Dawson po:topónimo is:ngrama_illa_Dawson
+Aketx po:topónimo is:ngrama_Illa_de_Aketx
+Alborán po:topónimo is:ngrama_Illa_de_Alborán
+Anguila po:topónimo is:ngrama_illa_de_Anguila
+Anticosti po:topónimo is:ngrama_illa_de_Anticosti
+Area po:topónimo is:ngrama_Illa_de_Area
+Astove po:topónimo is:ngrama_illa_de_Astove
+Baffin po:topónimo is:ngrama_Illa_de_Baffin
+Banks po:topónimo is:ngrama_Illa_de_Banks
+Basse-Terre po:topónimo is:ngrama_illa_de_Basse_Terre
+Bathurst po:topónimo is:ngrama_illa_de_Bathurst
+Bedloe po:topónimo is:ngrama_Illa_de_Bedloe
+Beiro po:topónimo is:ngrama_Illa_de_Beiro
+Benidorm po:topónimo is:ngrama_illa_de_Benidorm
+Bering po:topónimo is:ngrama_Illa_de_Bering
+Borizo po:topónimo is:ngrama_Illa_de_Borizo
+Bugio po:topónimo is:ngrama_Illa_de_Bugio
+Bretón po:topónimo is:ngrama_illa_de_Cabo_Bretón
+Capri po:topónimo is:ngrama_Illa_de_Capri
+Carriacou po:topónimo is:ngrama_Illa_de_Carriacou
+Cebú po:topónimo is:ngrama_illa_de_Cebú
+Chichagof po:topónimo is:ngrama_Illa_de_Chichagof
+Colom po:topónimo is:ngrama_Illa_de_Colom
+Cortegada po:topónimo is:ngrama_illa_de_Cortegada
+Cubagua po:topónimo is:ngrama_illa_de_Cubagua
+Disko po:topónimo is:ngrama_Illa_de_Disko
+Ellesmere po:topónimo is:ngrama_illa_de_Ellesmere
+Escombreras po:topónimo is:ngrama_Illa_de_Escombreras
+Flores po:topónimo is:ngrama_Illa_de_Flores
+Frégate po:topónimo is:ngrama_Illa_de_Frégate
+Frigate po:topónimo is:ngrama_Illa_de_Frigate
+Garraitz po:topónimo is:ngrama_Illa_de_Garraitz
+Gavi po:topónimo is:ngrama_Illa_de_Gavi
+Great po:topónimo is:ngrama_Illa_de_Great_Bernera
+Bernera po:topónimo is:ngrama_Illa_de_Great_Bernera
+Hawai po:topónimo is:ngrama_illa_de_Hawai
+Hong po:topónimo is:ngrama_illa_de_Hong_Kong
+Kong po:topónimo is:ngrama_illa_de_Hong_Kong
+Jersey po:topónimo is:ngrama_Illa_de_Jersey
+Kupreanof po:topónimo is:ngrama_illa_de_Kupreanof
+l'Aire po:topónimo is:ngrama_Illa_de_l_Aire
+La po:topónimo is:ngrama_Illa_de_La_Orchila
+Orchila po:topónimo is:ngrama_Illa_de_La_Orchila
+Lewis po:topónimo is:ngrama_illa_de_Lewis
+Lord po:topónimo is:ngrama_Illa_de_Lord_Howe
+Howe po:topónimo is:ngrama_Illa_de_Lord_Howe
+Mactán po:topónimo is:ngrama_illa_de_Mactán
+Maians po:topónimo is:ngrama_illa_de_Maians
+Man po:topónimo is:ngrama_Illa_de_Man
+Manus po:topónimo is:ngrama_Illa_de_Manus
+Margarita po:topónimo is:ngrama_Illa_de_Margarita
+Marma po:topónimo is:ngrama_Illa_de_Marma
+Mazarrón po:topónimo is:ngrama_Illa_de_Mazarrón
+Mbanié po:topónimo is:ngrama_illa_de_Mbanié
+Melville po:topónimo is:ngrama_Illa_de_Melville
+Montecristo po:topónimo is:ngrama_Illa_de_Montecristo
+Montreal po:topónimo is:ngrama_Illa_de_Montreal
+Moresby po:topónimo is:ngrama_Illa_de_Moresby
+Mouro po:topónimo is:ngrama_Illa_de_Mouro
+Mull po:topónimo is:ngrama_Illa_de_Mull
+Nikumaroro po:topónimo is:ngrama_Illa_de_Nikumaroro
+Noro po:topónimo is:ngrama_Illa_de_Noro
+Ñoro po:topónimo is:ngrama_Illa_de_Ñoro
+Oak po:topónimo is:ngrama_illa_de_Oak
+Okinawa po:topónimo is:ngrama_Illa_de_Okinawa
+Oléron po:topónimo is:ngrama_Illa_de_Oléron
+Ons po:topónimo is:ngrama_Illa_de_Ons
+Onza po:topónimo is:ngrama_Illa_de_Onza
+Palawan po:topónimo is:ngrama_illa_de_Palawan
+Pascua po:topónimo is:ngrama_Illa_de_Pascua
+Pedrosa po:topónimo is:ngrama_Illa_de_Pedrosa
+Penang po:topónimo is:ngrama_illa_de_Penang
+Pentecoste po:topónimo is:ngrama_illa_de_Pentecoste
+Perejil po:topónimo is:ngrama_illa_de_Perejil
+Pombeiro po:topónimo is:ngrama_Illa_de_Pombeiro
+Port-Lligat po:topónimo is:ngrama_Illa_de_Port_Lligat
+Providencia po:topónimo is:ngrama_Illa_de_Providencia
+Ross po:topónimo is:ngrama_Illa_de_Ross
+S'Arenella po:topónimo is:ngrama_Illa_de_S_Arenella
+Sa po:topónimo is:ngrama_Illa_de_Sa_Rata
+Rata po:topónimo is:ngrama_Illa_de_Sa_Rata
+Sálvora po:topónimo is:ngrama_Illa_de_Sálvora
+Ambrosio po:topónimo is:ngrama_illa_de_san_Ambrosio
+Andrés po:topónimo is:ngrama_Illa_de_San_Andrés
+Antón po:topónimo is:ngrama_Illa_de_San_Antón
+Clemente po:topónimo is:ngrama_Illa_de_San_Clemente
+Martiño po:topónimo is:ngrama_illa_de_San_Martiño
+Martiño po:topónimo is:ngrama_Illa_de_San_Martiño
+Pedro po:topónimo is:ngrama_Illa_de_San_Pedro_de_Coche
+Coche po:topónimo is:ngrama_Illa_de_San_Pedro_de_Coche
+Simón po:topónimo is:ngrama_illa_de_San_Simón
+Tomé po:topónimo is:ngrama_illa_de_San_Tomé
+Vicente po:topónimo is:ngrama_illa_de_San_Vicente
+Vicenzo po:topónimo is:ngrama_illa_de_San_Vicenzo
+Catalina po:topónimo is:ngrama_illa_de_Santa_Catalina
+Catarina po:topónimo is:ngrama_illa_de_Santa_Catarina
+Clara po:topónimo is:ngrama_Illa_de_Santa_Clara
+Comba po:topónimo is:ngrama_Illa_de_Santa_Comba
+Inés po:topónimo is:ngrama_illa_de_Santa_Inés
+Marina po:topónimo is:ngrama_Illa_de_Santa_Marina
+São po:topónimo is:ngrama_Illa_de_São_Jorge
+Jorge po:topónimo is:ngrama_Illa_de_São_Jorge
+Silhouette po:topónimo is:ngrama_Illa_de_Silhouette
+Skye po:topónimo is:ngrama_illa_de_Skye
+Southampton po:topónimo is:ngrama_illa_de_Southampton
+Swains po:topónimo is:ngrama_Illa_de_Swains
+Tabarca po:topónimo is:ngrama_illa_de_Tabarca
+Tac po:topónimo is:ngrama_illa_de_Tac
+Tambo po:topónimo is:ngrama_illa_de_Tambo
+Tapia po:topónimo is:ngrama_Illa_de_Tapia
+Tosqueta po:topónimo is:ngrama_illa_de_Tosqueta
+Tourís po:topónimo is:ngrama_Illa_de_Tourís_Novo
+Txatxarramendi po:topónimo is:ngrama_Illa_de_Txatxarramendi
+Vancouver po:topónimo is:ngrama_illa_de_Vancouver
+Vionta po:topónimo is:ngrama_Illa_de_Vionta
+Wight po:topónimo is:ngrama_Illa_de_Wight
+Wrangel po:topónimo is:ngrama_illa_de_Wrangel
+Decepción po:topónimo is:ngrama_illa_Decepción
+del po:topónimo is:ngrama_Illa_del_Forcón
+Forcón po:topónimo is:ngrama_Illa_del_Forcón
+del po:topónimo is:ngrama_Illa_del_Portitxol
+Portitxol po:topónimo is:ngrama_Illa_del_Portitxol
+Denis po:topónimo is:ngrama_Illa_Denis
+Deserta po:topónimo is:ngrama_Illa_Deserta_Grande
+Desolación po:topónimo is:ngrama_Illa_Desolación
+Devon po:topónimo is:ngrama_Illa_Devon
+Almirantado po:topónimo is:ngrama_Illa_do_Almirantado
+Ansarón po:topónimo is:ngrama_illa_do_Ansarón
+Bananal po:topónimo is:ngrama_Illa_do_Bananal
+Carme po:topónimo is:ngrama_Illa_do_Carme
+Castellar po:topónimo is:ngrama_Illa_do_Castellar
+Castril po:topónimo is:ngrama_Illa_do_Castril
+Castrón po:topónimo is:ngrama_Illa_do_Castrón_de_Santiuste
+Santiuste po:topónimo is:ngrama_Illa_do_Castrón_de_Santiuste
+Coco po:topónimo is:ngrama_Illa_do_Coco
+Corvo po:topónimo is:ngrama_Illa_do_Corvo
+Descubridor po:topónimo is:ngrama_Illa_do_Descubridor
+Diaño po:topónimo is:ngrama_Illa_do_Diaño
+Guidoiro po:topónimo is:ngrama_Illa_do_Guidoiro_Areoso
+Areoso po:topónimo is:ngrama_Illa_do_Guidoiro_Areoso
+Guidoiro po:topónimo is:ngrama_Illa_do_Guidoiro_Pedregoso
+Pedregoso po:topónimo is:ngrama_Illa_do_Guidoiro_Pedregoso
+Lazareto po:topónimo is:ngrama_illa_do_Lazareto
+Milenio po:topónimo is:ngrama_Illa_do_Milenio
+Pombeiro po:topónimo is:ngrama_Illa_do_Pombeiro
+Portichol po:topónimo is:ngrama_Illa_do_Portichol
+Carlos po:topónimo is:ngrama_Illa_do_Príncipe_Carlos
+Eduardo po:topónimo is:ngrama_Illa_do_Príncipe_Eduardo
+Tiburón po:topónimo is:ngrama_Illa_do_Tiburón
+Trocadero po:topónimo is:ngrama_Illa_do_Trocadero
+Dog po:topónimo is:ngrama_illa_Dog
+Amores po:topónimo is:ngrama_Illa_dos_Amores
+Faisáns po:topónimo is:ngrama_Illa_dos_Faisáns
+Forcados po:topónimo is:ngrama_Illa_dos_Forcados
+Monxes po:topónimo is:ngrama_Illa_dos_Monxes
+Pingüíns po:topónimo is:ngrama_Illa_dos_Pingüíns
+Piñeiros po:topónimo is:ngrama_Illa_dos_Piñeiros
+Porcos po:topónimo is:ngrama_Illa_dos_Porcos
+Ratones po:topónimo is:ngrama_Illa_dos_Ratones
+Dragonera po:topónimo is:ngrama_illa_Dragonera
+Edge po:topónimo is:ngrama_illa_Edge
+Eglinton po:topónimo is:ngrama_Illa_Eglinton
+Ellef po:topónimo is:ngrama_Illa_Ellef_Ringnes
+Ringnes po:topónimo is:ngrama_Illa_Ellef_Ringnes
+Ellis po:topónimo is:ngrama_illa_Ellis
+Encalladora po:topónimo is:ngrama_Illa_Encalladora
+Enderbury po:topónimo is:ngrama_illa_Enderbury
+Europa po:topónimo is:ngrama_Illa_Europa
+Fanning po:topónimo is:ngrama_Illa_Fanning
+Fénix po:topónimo is:ngrama_Illa_Fénix
+Flinders po:topónimo is:ngrama_Illa_Flinders
+Flint po:topónimo is:ngrama_Illa_Flint
+Francis po:topónimo is:ngrama_Illa_Francis
+Fraser po:topónimo is:ngrama_illa_Fraser
+Gardner po:topónimo is:ngrama_Illa_Gardner
+Gavoteira po:topónimo is:ngrama_Illa_Gavoteira
+Ginger po:topónimo is:ngrama_Illa_Ginger
+Graciosa po:topónimo is:ngrama_Illa_Graciosa
+Graham po:topónimo is:ngrama_illa_Graham
+Barreira po:topónimo is:ngrama_illa_Gran_Barreira
+Malvina po:topónimo is:ngrama_Illa_Gran_Malvina
+Turca po:topónimo is:ngrama_Illa_Gran_Turca
+Chiloé po:topónimo is:ngrama_Illa_Grande_de_Chiloé
+Terra po:topónimo is:ngrama_Illa_Grande_de_Terra_do_Lume
+Lume po:topónimo is:ngrama_Illa_Grande_de_Terra_do_Lume
+Gurupá po:topónimo is:ngrama_Illa_Grande_do_Gurupá
+Grosa po:topónimo is:ngrama_Illa_Grosa
+Guana po:topónimo is:ngrama_Illa_Guana
+Guidoiro po:topónimo is:ngrama_Illa_Guidoiro_Pedregoso
+Pedregoso po:topónimo is:ngrama_Illa_Guidoiro_Pedregoso
+Harbour po:topónimo is:ngrama_Illa_Harbour
+Herbosa po:topónimo is:ngrama_Illa_Herbosa
+Hoste po:topónimo is:ngrama_illa_Hoste
+Howland po:topónimo is:ngrama_Illa_Howland
+Huevos po:topónimo is:ngrama_Illa_Huevos
+Hull po:topónimo is:ngrama_Illa_Hull
+Independence po:topónimo is:ngrama_Illa_Independence
+James po:topónimo is:ngrama_illa_James_Ross
+Ross po:topónimo is:ngrama_illa_James_Ross
+Janjanbureh po:topónimo is:ngrama_Illa_Janjanbureh
+Joinville po:topónimo is:ngrama_illa_Joinville
+Kanton po:topónimo is:ngrama_Illa_Kanton
+Kapiti po:topónimo is:ngrama_Illa_Kapiti
+King po:topónimo is:ngrama_Illa_King
+King po:topónimo is:ngrama_illa_King_William
+William po:topónimo is:ngrama_illa_King_William
+Kodiak po:topónimo is:ngrama_Illa_Kodiak
+Kolgüev po:topónimo is:ngrama_Illa_Kolgüev
+Komsomolets po:topónimo is:ngrama_illa_Komsomolets
+La po:topónimo is:ngrama_Illa_La_Orchilla
+Orchilla po:topónimo is:ngrama_Illa_La_Orchilla
+Lemain po:topónimo is:ngrama_Illa_Lemain
+Longa po:topónimo is:ngrama_Illa_Longa
+MacCarthy po:topónimo is:ngrama_Illa_MacCarthy
+Mackenzie po:topónimo is:ngrama_Illa_Mackenzie_King
+King po:topónimo is:ngrama_Illa_Mackenzie_King
+Malaita po:topónimo is:ngrama_Illa_Malaita
+Malden po:topónimo is:ngrama_Illa_Malden
+Manitoulin po:topónimo is:ngrama_illa_Manitoulin
+Manra po:topónimo is:ngrama_Illa_Manra
+Mansel po:topónimo is:ngrama_Illa_Mansel
+Marcus po:topónimo is:ngrama_Illa_Marcus
+Marnay po:topónimo is:ngrama_Illa_Marnay
+Massa po:topónimo is:ngrama_Illa_Massa_d_Or
+d'Or po:topónimo is:ngrama_Illa_Massa_d_Or
+Matthews po:topónimo is:ngrama_Illa_Matthews
+Mayor po:topónimo is:ngrama_illa_Mayor
+McKean po:topónimo is:ngrama_illa_McKean
+Melville po:topónimo is:ngrama_Illa_Melville
+Monos po:topónimo is:ngrama_Illa_Monos
+Mosquito po:topónimo is:ngrama_Illa_Mosquito
+Mujeres po:topónimo is:ngrama_Illa_Mujeres
+Nanumea po:topónimo is:ngrama_illa_Nanumea
+Necker po:topónimo is:ngrama_illa_Necker
+Necker po:topónimo is:ngrama_Illa_Necker
+Norfolk po:topónimo is:ngrama_Illa_Norfolk
+Norman po:topónimo is:ngrama_Illa_Norman
+Nublar po:topónimo is:ngrama_Illa_Nublar
+Nukupule po:topónimo is:ngrama_Illa_Nukupule
+Ocean po:topónimo is:ngrama_illa_Ocean
+ou po:topónimo is:ngrama_illa_ou_illote_Bear
+Bear po:topónimo is:ngrama_illa_ou_illote_Bear
+Pagan po:topónimo is:ngrama_illa_Pagan
+Palm po:topónimo is:ngrama_illa_Palm
+Palmerston po:topónimo is:ngrama_illa_Palmerston
+Pancha po:topónimo is:ngrama_illa_Pancha
+Pedro po:topónimo is:ngrama_illa_Pedro_I
+Penedo po:topónimo is:ngrama_Illa_Penedo_da_Insua
+Perdiguera po:topónimo is:ngrama_Illa_Perdiguera
+Peru po:topónimo is:ngrama_Illa_Peru
+Peter po:topónimo is:ngrama_Illa_Peter
+Pitt po:topónimo is:ngrama_illa_Pitt
+Pitt po:topónimo is:ngrama_Illa_Pitt
+Prince po:topónimo is:ngrama_Illa_Prince_Patrick
+Patrick po:topónimo is:ngrama_Illa_Prince_Patrick
+Gales po:topónimo is:ngrama_illa_Príncipe_de_Gales
+Gales po:topónimo is:ngrama_Illa_Príncipe_de_Gales
+Quiriquina po:topónimo is:ngrama_Illa_Quiriquina
+Ragged po:topónimo is:ngrama_Illa_Ragged
+Rawaki po:topónimo is:ngrama_Illa_Rawaki
+Jorge po:topónimo is:ngrama_illa_Rei_Jorge
+Revillagigedo po:topónimo is:ngrama_illa_Revillagigedo
+Riesco po:topónimo is:ngrama_illa_Riesco
+Robinson po:topónimo is:ngrama_Illa_Robinson_Crusoe
+Crusoe po:topónimo is:ngrama_Illa_Robinson_Crusoe
+Ronde po:topónimo is:ngrama_illa_Ronde
+Rondella po:topónimo is:ngrama_Illa_Rondella
+Roosevelt po:topónimo is:ngrama_illa_Roosevelt
+Rota po:topónimo is:ngrama_illa_Rota
+Rowett po:topónimo is:ngrama_Illa_Rowett
+Rutland po:topónimo is:ngrama_Illa_Rutland
+Salt po:topónimo is:ngrama_Illa_Salt
+Félix po:topónimo is:ngrama_Illa_San_Félix
+Catalina po:topónimo is:ngrama_Illa_Santa_Catalina
+Sarnosa po:topónimo is:ngrama_Illa_Sarnosa
+Scrub po:topónimo is:ngrama_illa_Scrub
+Severny po:topónimo is:ngrama_illa_Severny
+Sidney po:topónimo is:ngrama_Illa_Sidney
+Siple po:topónimo is:ngrama_illa_Siple
+Smyley po:topónimo is:ngrama_Illa_Smyley
+Socorro po:topónimo is:ngrama_Illa_Socorro
+Soidade po:topónimo is:ngrama_Illa_Soidade
+Sombrero po:topónimo is:ngrama_illa_Sombrero
+Somerset po:topónimo is:ngrama_illa_Somerset
+Sorna po:topónimo is:ngrama_Illa_Sorna
+Spaatz po:topónimo is:ngrama_illa_Spaatz
+St. po:topónimo is:ngrama_Illa_St_Lawrence
+Lawrence po:topónimo is:ngrama_Illa_St_Lawrence
+Starbuck po:topónimo is:ngrama_Illa_Starbuck
+Staver po:topónimo is:ngrama_Illa_Staver
+Stefansson po:topónimo is:ngrama_Illa_Stefansson
+Stewart po:topónimo is:ngrama_Illa_Stewart
+Stirling po:topónimo is:ngrama_Illa_Stirling
+Thurston po:topónimo is:ngrama_illa_Thurston
+Tiburón po:topónimo is:ngrama_Illa_Tiburón
+Touching po:topónimo is:ngrama_Illa_Touching
+Traill po:topónimo is:ngrama_illa_Traill
+Tromelin po:topónimo is:ngrama_Illa_Tromelin
+Unimak po:topónimo is:ngrama_Illa_Unimak
+Vaigach po:topónimo is:ngrama_illa_Vaigach
+Victoria po:topónimo is:ngrama_Illa_Victoria
+Volunteer po:topónimo is:ngrama_Illa_Volunteer
+Vostok po:topónimo is:ngrama_Illa_Vostok
+Wake po:topónimo is:ngrama_illa_Wake
+Wáshington po:topónimo is:ngrama_Illa_Wáshington
+Waterloo po:topónimo is:ngrama_illa_Waterloo
+Watling po:topónimo is:ngrama_Illa_Watling
+Wellington po:topónimo is:ngrama_illa_Wellington
+Yas po:topónimo is:ngrama_Illa_Yas
+aceite po:topónimo is:ngrama_illas_aceite
+Aleipata po:topónimo is:ngrama_Illas_Aleipata
+Alhucemas po:topónimo is:ngrama_Illas_Alhucemas
+Alvedosas po:topónimo is:ngrama_illas_Alvedosas
+Amirante po:topónimo is:ngrama_illas_Amirante
+Andamán po:topónimo is:ngrama_illas_Andamán
+Andreanof po:topónimo is:ngrama_illas_Andreanof
+Anglo-normandas po:topónimo is:ngrama_Illas_Anglo_normandas
+Antípodas po:topónimo is:ngrama_illas_Antípodas
+Anzhu po:topónimo is:ngrama_illas_Anzhu
+Aran po:topónimo is:ngrama_Illas_Aran
+Aroe po:topónimo is:ngrama_Illas_Aroe
+Árticas po:topónimo is:ngrama_Illas_Árticas_do_Canadá
+Canadá po:topónimo is:ngrama_Illas_Árticas_do_Canadá
+Ashmore po:topónimo is:ngrama_illas_Ashmore_e_Cartier
+Cartier po:topónimo is:ngrama_illas_Ashmore_e_Cartier
+Austrais po:topónimo is:ngrama_illas_Austrais
+Babar po:topónimo is:ngrama_illas_Babar
+Baleares po:topónimo is:ngrama_Illas_Baleares
+Banda po:topónimo is:ngrama_Illas_Banda
+Banks po:topónimo is:ngrama_Illas_Banks
+Berry po:topónimo is:ngrama_Illas_Berry
+Bird po:topónimo is:ngrama_Illas_Bird
+Blasket po:topónimo is:ngrama_Illas_Blasket
+Bounty po:topónimo is:ngrama_Illas_Bounty
+Briñas po:topónimo is:ngrama_Illas_Briñas
+Caicos po:topónimo is:ngrama_Illas_Caicos
+Caimán po:topónimo is:ngrama_Illas_Caimán
+Canarias po:topónimo is:ngrama_Illas_Canarias
+Carolinas po:topónimo is:ngrama_Illas_Carolinas
+Centoleiras po:topónimo is:ngrama_illas_Centoleiras
+Chafarinas po:topónimo is:ngrama_Illas_Chafarinas
+Chatham po:topónimo is:ngrama_illas_Chatham
+Chelbacheb po:topónimo is:ngrama_Illas_Chelbacheb
+Chesterfield po:topónimo is:ngrama_Illas_Chesterfield
+Cíes po:topónimo is:ngrama_Illas_Cíes
+Columbretes po:topónimo is:ngrama_illas_Columbretes
+Cook po:topónimo is:ngrama_Illas_Cook
+Crozet po:topónimo is:ngrama_Illas_Crozet
+Decepción po:topónimo is:ngrama_illas_da_Decepción
+Desolación po:topónimo is:ngrama_Illas_da_Desolación
+Lealdade po:topónimo is:ngrama_illas_da_Lealdade
+Liña po:topónimo is:ngrama_Illas_da_Liña
+Madalena po:topónimo is:ngrama_illas_da_Madalena
+Carlota po:topónimo is:ngrama_Illas_da_Raíña_Carlota
+Isabel po:topónimo is:ngrama_Illas_da_Raíña_Isabel
+Sociedade po:topónimo is:ngrama_illas_da_Sociedade
+Sonda po:topónimo is:ngrama_illas_da_Sonda
+Fidxi po:topónimo is:ngrama_Illas_das_Fidxi
+Pantorgas po:topónimo is:ngrama_Illas_das_Pantorgas
+Andamán po:topónimo is:ngrama_Illas_de_Andamán_e_Nicobar
+Nicobar po:topónimo is:ngrama_Illas_de_Andamán_e_Nicobar
+Barlovento po:topónimo is:ngrama_Illas_de_Barlovento
+Gres po:topónimo is:ngrama_Illas_de_Gres
+Mauricio po:topónimo is:ngrama_Illas_de_Mauricio
+Siberia po:topónimo is:ngrama_illas_de_Nova_Siberia
+Póo po:topónimo is:ngrama_Illas_de_Póo
+Pedro po:topónimo is:ngrama_Illas_de_San_Pedro
+Sotavento po:topónimo is:ngrama_illas_de_Sotavento
+Sotavento po:topónimo is:ngrama_Illas_de_Sotavento
+Sotavento po:topónimo is:ngrama_illas_de_Sotavento_de_Hawai
+Hawai po:topónimo is:ngrama_illas_de_Sotavento_de_Hawai
+Desertas po:topónimo is:ngrama_Illas_Desertas
+Desventuradas po:topónimo is:ngrama_Illas_Desventuradas
+Dispersas po:topónimo is:ngrama_Illas_Dispersas_do_Océano_Índico
+Índico po:topónimo is:ngrama_Illas_Dispersas_do_Océano_Índico
+Almirantado po:topónimo is:ngrama_Illas_do_Almirantado
+Duque po:topónimo is:ngrama_illas_do_Duque_de_Gloucester
+Gloucester po:topónimo is:ngrama_illas_do_Duque_de_Gloucester
+Duque po:topónimo is:ngrama_Illas_do_Duque_de_York
+York po:topónimo is:ngrama_Illas_do_Duque_de_York
+Exeo po:topónimo is:ngrama_illas_do_Exeo
+Estanque po:topónimo is:ngrama_illas_do_Grande_Estanque_de_Marsala
+Marsala po:topónimo is:ngrama_illas_do_Grande_Estanque_de_Marsala
+Xurxo po:topónimo is:ngrama_illas_do_Rei_Xurxo
+Vento po:topónimo is:ngrama_illas_do_Vento
+Farallóns po:topónimo is:ngrama_Illas_dos_Farallóns
+Grupos po:topónimo is:ngrama_illas_Dous_Grupos
+Duff po:topónimo is:ngrama_Illas_Duff
+Eagle po:topónimo is:ngrama_Illas_Eagle
+Égadi po:topónimo is:ngrama_illas_Égadi
+Ellice po:topónimo is:ngrama_Illas_Ellice
+Eolias po:topónimo is:ngrama_illas_Eolias
+Estelas po:topónimo is:ngrama_Illas_Estelas
+Farallóns po:topónimo is:ngrama_Illas_Farallóns
+Fénix po:topónimo is:ngrama_Illas_Fénix
+Feroe po:topónimo is:ngrama_Illas_Feroe
+Florida po:topónimo is:ngrama_Illas_Florida
+Formigues po:topónimo is:ngrama_Illas_Formigues
+francesas po:topónimo is:ngrama_illas_francesas
+Frisias po:topónimo is:ngrama_Illas_Frisias
+Futuna po:topónimo is:ngrama_Illas_Futuna
+Galápagos po:topónimo is:ngrama_illas_Galápagos
+Gambier po:topónimo is:ngrama_Illas_Gambier
+Gaveiras po:topónimo is:ngrama_Illas_Gaveiras
+Gilbert po:topónimo is:ngrama_Illas_Gilbert
+Gimnesias po:topónimo is:ngrama_Illas_Gimnesias
+Glorioso po:topónimo is:ngrama_illas_Glorioso_ou_Gloriosas
+ou po:topónimo is:ngrama_illas_Glorioso_ou_Gloriosas
+Gloriosas po:topónimo is:ngrama_illas_Glorioso_ou_Gloriosas
+Granadinas po:topónimo is:ngrama_illas_Granadinas
+Heard po:topónimo is:ngrama_Illas_Heard_e_McDonald
+McDonald po:topónimo is:ngrama_Illas_Heard_e_McDonald
+Hébridas po:topónimo is:ngrama_Illas_Hébridas
+Hoorn po:topónimo is:ngrama_Illas_Hoorn
+Kai po:topónimo is:ngrama_Illas_Kai
+Kei po:topónimo is:ngrama_Illas_Kei
+Kerguelen po:topónimo is:ngrama_Illas_Kerguelen
+Kermadec po:topónimo is:ngrama_Illas_Kermadec
+Kiriwina po:topónimo is:ngrama_Illas_Kiriwina
+Kurís po:topónimo is:ngrama_Illas_Kurís
+Leti po:topónimo is:ngrama_Illas_Leti
+Lobeiras po:topónimo is:ngrama_Illas_Lobeiras
+Sonda po:topónimo is:ngrama_illas_maiores_da_Sonda
+Malveiras po:topónimo is:ngrama_Illas_Malveiras
+Malvinas po:topónimo is:ngrama_Illas_Malvinas
+Manua po:topónimo is:ngrama_illas_Manua
+Marianas po:topónimo is:ngrama_Illas_Marianas
+Marquesas po:topónimo is:ngrama_Illas_Marquesas
+Mascareñas po:topónimo is:ngrama_illas_Mascareñas
+Matthew po:topónimo is:ngrama_illas_Matthew_e_Hunter
+Hunter po:topónimo is:ngrama_illas_Matthew_e_Hunter
+Maug po:topónimo is:ngrama_Illas_Maug
+Medes po:topónimo is:ngrama_illas_Medes
+Sonda po:topónimo is:ngrama_illas_menores_da_Sonda
+Midway po:topónimo is:ngrama_Illas_Midway
+Molucas po:topónimo is:ngrama_illas_Molucas
+Nansei po:topónimo is:ngrama_Illas_Nansei
+Nggela po:topónimo is:ngrama_Illas_Nggela
+Nicobar po:topónimo is:ngrama_illas_Nicobar
+Xeorxia po:topónimo is:ngrama_Illas_Nova_Xeorxia
+Obi po:topónimo is:ngrama_Illas_Obi
+Ons po:topónimo is:ngrama_illas_Ons
+Órcadas po:topónimo is:ngrama_Illas_Órcadas
+Pantorgas po:topónimo is:ngrama_Illas_Pantorgas
+Phoenix po:topónimo is:ngrama_Illas_Phoenix
+Pitcairn po:topónimo is:ngrama_illas_Pitcairn
+Raevski po:topónimo is:ngrama_illas_Raevski
+Rawaki po:topónimo is:ngrama_Illas_Rawaki
+Revillagigedo po:topónimo is:ngrama_Illas_Revillagigedo
+Roca po:topónimo is:ngrama_Illas_Roca
+Rowa po:topónimo is:ngrama_Illas_Rowa
+Ryukyu po:topónimo is:ngrama_Illas_Ryukyu
+Sagres po:topónimo is:ngrama_Illas_Sagres
+Salomón po:topónimo is:ngrama_Illas_Salomón
+Salvaxes po:topónimo is:ngrama_Illas_Salvaxes
+Sandwich po:topónimo is:ngrama_illas_Sandwich
+Sarónicas po:topónimo is:ngrama_illas_Sarónicas
+Shepherd po:topónimo is:ngrama_Illas_Shepherd
+Shetland po:topónimo is:ngrama_illas_Shetland
+Shortland po:topónimo is:ngrama_Illas_Shortland
+Sisargas po:topónimo is:ngrama_illas_Sisargas
+Stewart po:topónimo is:ngrama_Illas_Stewart
+Sula po:topónimo is:ngrama_illas_Sula
+Sverdrup po:topónimo is:ngrama_illas_Sverdrup
+Turks po:topónimo is:ngrama_Illas_Turks_e_Caicos
+Caicos po:topónimo is:ngrama_Illas_Turks_e_Caicos
+Estadounidenses po:topónimo is:ngrama_Illas_Virxes_Estadounidenses
+Xeorxias po:topónimo is:ngrama_illas_Xeorxias_do_Sur_e_Sandwich_do_Sur
+Sandwich po:topónimo is:ngrama_illas_Xeorxias_do_Sur_e_Sandwich_do_Sur
+Xónicas po:topónimo is:ngrama_Illas_Xónicas
+Yasawa po:topónimo is:ngrama_illas_Yasawa
+illiña po:topónimo is:ngrama_illiña_de_Forvik
+Forvik po:topónimo is:ngrama_illiña_de_Forvik
+Binicodrell po:topónimo is:ngrama_illote_de_Binicodrell
+Sancti po:topónimo is:ngrama_illote_de_Sancti_Petri
+Petri po:topónimo is:ngrama_illote_de_Sancti_Petri
+Formigas po:topónimo is:ngrama_Illotes_das_Formigas
+Apóstolos po:topónimo is:ngrama_Illotes_dos_Apóstolos
+María po:topónimo is:ngrama_illotes_María
 Imia po:topónimo
-Inner po:topónimo [n-grama: Inner Islands]
-Islands po:topónimo [n-grama: Inner Islands]
+Inner po:topónimo is:ngrama_Inner_Islands
+Islands po:topónimo is:ngrama_Inner_Islands
 Ínsua po:topónimo
-Bela po:topónimo [n-grama: Insua Bela]
-Ínsuas po:topónimo [n-grama: Ínsuas de Gres]
-Gres po:topónimo [n-grama: Ínsuas de Gres]
+Bela po:topónimo is:ngrama_Insua_Bela
+Ínsuas po:topónimo is:ngrama_Ínsuas_de_Gres
+Gres po:topónimo is:ngrama_Ínsuas_de_Gres
 Insulindia po:topónimo
 Iona po:topónimo
 Ios po:topónimo
 Irakleia po:topónimo
 Irian po:topónimo
-Irian po:topónimo [n-grama: Irian Jaya]
-Jaya po:topónimo [n-grama: Irian Jaya]
+Irian po:topónimo is:ngrama_Irian_Jaya
+Jaya po:topónimo is:ngrama_Irian_Jaya
 Irlanda po:topónimo
 Isabela po:topónimo
 Ischia po:topónimo
 Islay po:topónimo
-Islla po:topónimo [n-grama: Islla Ballota]
-Ballota po:topónimo [n-grama: Islla Ballota]
-Islla po:topónimo [n-grama: Islla Borizu]
-Borizu po:topónimo [n-grama: Islla Borizu]
-Islla po:topónimo [n-grama: Islla do Castrón de Santiuste]
-Castrón po:topónimo [n-grama: Islla do Castrón de Santiuste]
-Santiuste po:topónimo [n-grama: Islla do Castrón de Santiuste]
-Isole po:topónimo [n-grama: Isole Eolie]
-Eolie po:topónimo [n-grama: Isole Eolie]
-It po:topónimo [n-grama: It Amelân]
-Amelân po:topónimo [n-grama: It Amelân]
+Islla po:topónimo is:ngrama_Islla_Ballota
+Ballota po:topónimo is:ngrama_Islla_Ballota
+Islla po:topónimo is:ngrama_Islla_Borizu
+Borizu po:topónimo is:ngrama_Islla_Borizu
+Islla po:topónimo is:ngrama_Islla_do_Castrón_de_Santiuste
+Castrón po:topónimo is:ngrama_Islla_do_Castrón_de_Santiuste
+Santiuste po:topónimo is:ngrama_Islla_do_Castrón_de_Santiuste
+Isole po:topónimo is:ngrama_Isole_Eolie
+Eolie po:topónimo is:ngrama_Isole_Eolie
+It po:topónimo is:ngrama_It_Amelân
+Amelân po:topónimo is:ngrama_It_Amelân
 Ítaca po:topónimo
 Iturup po:topónimo
-Iwo po:topónimo [n-grama: Iwo Jima]
-Jima po:topónimo [n-grama: Iwo Jima]
-Iwō po:topónimo [n-grama: Iwō tō]
-tō po:topónimo [n-grama: Iwō tō]
+Iwo po:topónimo is:ngrama_Iwo_Jima
+Jima po:topónimo is:ngrama_Iwo_Jima
+Iwō po:topónimo is:ngrama_Iwō_tō
+tō po:topónimo is:ngrama_Iwō_tō
 Ízaro po:topónimo
 Jabat po:topónimo
 Jabot po:topónimo
 Jabwot po:topónimo
 Jaluit po:topónimo
-Jan po:topónimo [n-grama: Jan Mayen]
-Mayen po:topónimo [n-grama: Jan Mayen]
+Jan po:topónimo is:ngrama_Jan_Mayen
+Mayen po:topónimo is:ngrama_Jan_Mayen
 Jarvis po:topónimo
 Jeju po:topónimo
 Jemo po:topónimo
 Jerba po:topónimo
-Johnston po:topónimo [n-grama: Johnston Atoll]
-Atoll po:topónimo [n-grama: Johnston Atoll]
+Johnston po:topónimo is:ngrama_Johnston_Atoll
+Atoll po:topónimo is:ngrama_Johnston_Atoll
 Joló po:topónimo
-Jost po:topónimo [n-grama: Jost Van Dyke]
-Van po:topónimo [n-grama: Jost Van Dyke]
-Dyke po:topónimo [n-grama: Jost Van Dyke]
-Juan po:topónimo [n-grama: Juan de Nova]
+Jost po:topónimo is:ngrama_Jost_Van_Dyke
+Van po:topónimo is:ngrama_Jost_Van_Dyke
+Dyke po:topónimo is:ngrama_Jost_Van_Dyke
+Juan po:topónimo is:ngrama_Juan_de_Nova
 Jura po:topónimo
 K'Gari po:topónimo
 Kadavu po:topónimo
@@ -1132,8 +1132,8 @@ Kalidon po:topónimo
 Kalimnos po:topónimo
 Kalolimnos po:topónimo
 Kamaka po:topónimo
-Kangaroo po:topónimo [n-grama: Kangaroo Island]
-Island po:topónimo [n-grama: Kangaroo Island]
+Kangaroo po:topónimo is:ngrama_Kangaroo_Island
+Island po:topónimo is:ngrama_Kangaroo_Island
 Kao po:topónimo
 Kardak po:topónimo
 Karnos po:topónimo
@@ -1151,26 +1151,26 @@ Kayangel po:topónimo
 Kea po:topónimo
 Kéamu po:topónimo
 Kefallinia po:topónimo
-Kepulauan po:topónimo [n-grama: Kepulauan Riau]
-Riau po:topónimo [n-grama: Kepulauan Riau]
+Kepulauan po:topónimo is:ngrama_Kepulauan_Riau
+Riau po:topónimo is:ngrama_Kepulauan_Riau
 Keros po:topónimo
 Kili po:topónimo
 Kímolos po:topónimo
-Kingman po:topónimo [n-grama: Kingman Reef]
-Reef po:topónimo [n-grama: Kingman Reef]
+Kingman po:topónimo is:ngrama_Kingman_Reef
+Reef po:topónimo is:ngrama_Kingman_Reef
 Kiribati po:topónimo
 Kiritimati po:topónimo
 Kisar po:topónimo
-Klein po:topónimo [n-grama: Klein Bonaire]
-Bonaire po:topónimo [n-grama: Klein Bonaire]
-Klein po:topónimo [n-grama: Klein Curaçao]
-Curaçao po:topónimo [n-grama: Klein Curaçao]
+Klein po:topónimo is:ngrama_Klein_Bonaire
+Bonaire po:topónimo is:ngrama_Klein_Bonaire
+Klein po:topónimo is:ngrama_Klein_Curaçao
+Curaçao po:topónimo is:ngrama_Klein_Curaçao
 Kleine-Makin po:topónimo
 Kökar po:topónimo
 Komodo po:topónimo
-Kongo po:topónimo [n-grama: Kongo Loto Lafanga]
-Loto po:topónimo [n-grama: Kongo Loto Lafanga]
-Lafanga po:topónimo [n-grama: Kongo Loto Lafanga]
+Kongo po:topónimo is:ngrama_Kongo_Loto_Lafanga
+Loto po:topónimo is:ngrama_Kongo_Loto_Lafanga
+Lafanga po:topónimo is:ngrama_Kongo_Loto_Lafanga
 Kosrae po:topónimo
 Kotelni po:topónimo
 Kotu po:topónimo
@@ -1179,15 +1179,15 @@ Krk po:topónimo
 Kuria po:topónimo
 Kutuzov po:topónimo
 Kwajalein po:topónimo
-Kyra po:topónimo [n-grama: Kyra Panagia]
-Panagia po:topónimo [n-grama: Kyra Panagia]
+Kyra po:topónimo is:ngrama_Kyra_Panagia
+Panagia po:topónimo is:ngrama_Kyra_Panagia
 Kyūshū po:topónimo
-La po:topónimo [n-grama: La Digue]
-Digue po:topónimo [n-grama: La Digue]
-La po:topónimo [n-grama: La Islona]
-Islona po:topónimo [n-grama: La Islona]
-La po:topónimo [n-grama: La Tortuga]
-Tortuga po:topónimo [n-grama: La Tortuga]
+La po:topónimo is:ngrama_La_Digue
+Digue po:topónimo is:ngrama_La_Digue
+La po:topónimo is:ngrama_La_Islona
+Islona po:topónimo is:ngrama_La_Islona
+La po:topónimo is:ngrama_La_Tortuga
+Tortuga po:topónimo is:ngrama_La_Tortuga
 Lae po:topónimo
 Lafanga po:topónimo
 Lakena po:topónimo
@@ -1195,8 +1195,8 @@ Lampedusa po:topónimo
 Lampione po:topónimo
 Lampiuni po:topónimo
 Lanai po:topónimo
-Las po:topónimo [n-grama: Las Palomas]
-Palomas po:topónimo [n-grama: Las Palomas]
+Las po:topónimo is:ngrama_Las_Palomas
+Palomas po:topónimo is:ngrama_Las_Palomas
 Lateiki po:topónimo
 Lau po:topónimo
 Lauru po:topónimo
@@ -1209,8 +1209,8 @@ Leipsoí po:topónimo
 Lemnos po:topónimo
 Leòdhas po:topónimo
 Leros po:topónimo
-Les po:topónimo [n-grama: Les Saintes]
-Saintes po:topónimo [n-grama: Les Saintes]
+Les po:topónimo is:ngrama_Les_Saintes
+Saintes po:topónimo is:ngrama_Les_Saintes
 Lesbos po:topónimo
 Leucas po:topónimo
 Levanzo po:topónimo
@@ -1231,11 +1231,11 @@ Lofoten po:topónimo
 Lolland po:topónimo
 Lomaiviti po:topónimo
 Lombok po:topónimo
-Long po:topónimo [n-grama: Long Island]
-Island po:topónimo [n-grama: Long Island]
+Long po:topónimo is:ngrama_Long_Island
+Island po:topónimo is:ngrama_Long_Island
 Lopevi po:topónimo
 Lopévi po:topónimo
-Los po:topónimo [n-grama: Los Negros]
+Los po:topónimo is:ngrama_Los_Negros
 Luangiua po:topónimo
 Lulunga po:topónimo
 Lumil po:topónimo
@@ -1253,19 +1253,19 @@ Makemo po:topónimo
 Makin po:topónimo
 Makri po:topónimo
 Makronisos po:topónimo
-Malaita po:topónimo [n-grama: Malaita Sur]
+Malaita po:topónimo is:ngrama_Malaita_Sur
 Malakula po:topónimo
 Mallorca po:topónimo
 Malo po:topónimo
 Maloelap po:topónimo
 Maluku po:topónimo
 Mamanuca po:topónimo
-Mamlakat po:topónimo [n-grama: Mamlakat al-Bahrain]
-al-Bahrain po:topónimo [n-grama: Mamlakat al-Bahrain]
-Mancomunidade po:topónimo [n-grama: Mancomunidade das Bahamas]
-Bahamas po:topónimo [n-grama: Mancomunidade das Bahamas]
-Mancomunidade po:topónimo [n-grama: Mancomunidade de Dominica]
-Dominica po:topónimo [n-grama: Mancomunidade de Dominica]
+Mamlakat po:topónimo is:ngrama_Mamlakat_al_Bahrain
+al-Bahrain po:topónimo is:ngrama_Mamlakat_al_Bahrain
+Mancomunidade po:topónimo is:ngrama_Mancomunidade_das_Bahamas
+Bahamas po:topónimo is:ngrama_Mancomunidade_das_Bahamas
+Mancomunidade po:topónimo is:ngrama_Mancomunidade_de_Dominica
+Dominica po:topónimo is:ngrama_Mancomunidade_de_Dominica
 Mangaia po:topónimo
 Mangareva po:topónimo
 Manhattan po:topónimo
@@ -1283,17 +1283,17 @@ Marettimo po:topónimo
 Margarita po:topónimo
 Maria po:topónimo
 María po:topónimo
-Marianas po:topónimo [n-grama: Marianas do Norte]
-Marianas po:topónimo [n-grama: Marianas Setentrionais]
-Setentrionais po:topónimo [n-grama: Marianas Setentrionais]
+Marianas po:topónimo is:ngrama_Marianas_do_Norte
+Marianas po:topónimo is:ngrama_Marianas_Setentrionais
+Setentrionais po:topónimo is:ngrama_Marianas_Setentrionais
 Marie-Galante po:topónimo
 Marokau po:topónimo
 Marotiri po:topónimo
 Marutea po:topónimo
-Más po:topónimo [n-grama: Más a Tierra]
-Tierra po:topónimo [n-grama: Más a Tierra]
-Más po:topónimo [n-grama: Más Atierra]
-Atierra po:topónimo [n-grama: Más Atierra]
+Más po:topónimo is:ngrama_Más_a_Tierra
+Tierra po:topónimo is:ngrama_Más_a_Tierra
+Más po:topónimo is:ngrama_Más_Atierra
+Atierra po:topónimo is:ngrama_Más_Atierra
 Masbate po:topónimo
 Mataiva po:topónimo
 Matanukulaelae po:topónimo
@@ -1315,28 +1315,28 @@ Mehetia po:topónimo
 Mejit po:topónimo
 Melanesia po:topónimo
 Menorca po:topónimo
-Metis po:topónimo [n-grama: Metis Shoal]
-Shoal po:topónimo [n-grama: Metis Shoal]
+Metis po:topónimo is:ngrama_Metis_Shoal
+Shoal po:topónimo is:ngrama_Metis_Shoal
 Miconos po:topónimo
-Mikla po:topónimo [n-grama: Mikla Raudey]
-Raudey po:topónimo [n-grama: Mikla Raudey]
+Mikla po:topónimo is:ngrama_Mikla_Raudey
+Raudey po:topónimo is:ngrama_Mikla_Raudey
 Mili po:topónimo
-Milne po:topónimo [n-grama: Milne Land]
-Land po:topónimo [n-grama: Milne Land]
+Milne po:topónimo is:ngrama_Milne_Land
+Land po:topónimo is:ngrama_Milne_Land
 Milos po:topónimo
-Minami po:topónimo [n-grama: Minami Torishima]
-Torishima po:topónimo [n-grama: Minami Torishima]
+Minami po:topónimo is:ngrama_Minami_Torishima
+Torishima po:topónimo is:ngrama_Minami_Torishima
 Mindanao po:topónimo
 Mindoro po:topónimo
 Misool po:topónimo
 Mitiaro po:topónimo
 Mitilene po:topónimo
 Mohéli po:topónimo
-Moho po:topónimo [n-grama: Moho Tani]
-Tani po:topónimo [n-grama: Moho Tani]
+Moho po:topónimo is:ngrama_Moho_Tani
+Tani po:topónimo is:ngrama_Moho_Tani
 Mohotani po:topónimo
-Moku po:topónimo [n-grama: Moku Manu]
-Manu po:topónimo [n-grama: Moku Manu]
+Moku po:topónimo is:ngrama_Moku_Manu
+Manu po:topónimo is:ngrama_Moku_Manu
 Molène po:topónimo
 Moloka´i po:topónimo
 Molokai po:topónimo
@@ -1347,19 +1347,19 @@ Morane po:topónimo
 Morotai po:topónimo
 Moruroa po:topónimo
 Motane po:topónimo
-Motu po:topónimo [n-grama: Motu Iti]
-Iti po:topónimo [n-grama: Motu Iti]
-Motu po:topónimo [n-grama: Motu One]
-One po:topónimo [n-grama: Motu One]
+Motu po:topónimo is:ngrama_Motu_Iti
+Iti po:topónimo is:ngrama_Motu_Iti
+Motu po:topónimo is:ngrama_Motu_One
+One po:topónimo is:ngrama_Motu_One
 Motuloa po:topónimo
 Motutunga po:topónimo
 Mozia po:topónimo
-Mu po:topónimo [n-grama: Mu Nggava]
-Nggava po:topónimo [n-grama: Mu Nggava]
-Mu po:topónimo [n-grama: Mu Ngiki]
-Ngiki po:topónimo [n-grama: Mu Ngiki]
-Muckle po:topónimo [n-grama: Muckle Roe]
-Roe po:topónimo [n-grama: Muckle Roe]
+Mu po:topónimo is:ngrama_Mu_Nggava
+Nggava po:topónimo is:ngrama_Mu_Nggava
+Mu po:topónimo is:ngrama_Mu_Ngiki
+Ngiki po:topónimo is:ngrama_Mu_Ngiki
+Muckle po:topónimo is:ngrama_Muckle_Roe
+Roe po:topónimo is:ngrama_Muckle_Roe
 Muile po:topónimo
 Muna po:topónimo
 Mururoa po:topónimo
@@ -1379,11 +1379,11 @@ Ndzuwani po:topónimo
 Nendo po:topónimo
 Nendö po:topónimo
 Nengonengo po:topónimo
-Neu po:topónimo [n-grama: Neu Lauenburg]
-Lauenburg po:topónimo [n-grama: Neu Lauenburg]
+Neu po:topónimo is:ngrama_Neu_Lauenburg
+Lauenburg po:topónimo is:ngrama_Neu_Lauenburg
 Nevis po:topónimo
-New po:topónimo [n-grama: New Providence]
-Providence po:topónimo [n-grama: New Providence]
+New po:topónimo is:ngrama_New_Providence
+Providence po:topónimo is:ngrama_New_Providence
 Nganati po:topónimo
 Ngazidja po:topónimo
 Ngeaur po:topónimo
@@ -1408,21 +1408,21 @@ Niutao po:topónimo
 Nomuka po:topónimo
 Nonouti po:topónimo
 Nordaustlandet po:topónimo
-North po:topónimo [n-grama: North Caicos]
-Caicos po:topónimo [n-grama: North Caicos]
-Bretaña po:topónimo [n-grama: Nova Bretaña]
-Caledonia po:topónimo [n-grama: Nova Caledonia]
-Cembla po:topónimo [n-grama: Nova Cembla]
-Guinea po:topónimo [n-grama: Nova Guinea]
-Hanover po:topónimo [n-grama: Nova Hanover]
-Irlanda po:topónimo [n-grama: Nova Irlanda]
-Providencia po:topónimo [n-grama: Nova Providencia]
-Siberia po:topónimo [n-grama: Nova Siberia]
-Xeorxia po:topónimo [n-grama: Nova Xeorxia]
-Novaya po:topónimo [n-grama: Novaya Zemlya]
-Zemlya po:topónimo [n-grama: Novaya Zemlya]
-Nuku po:topónimo [n-grama: Nuku Hiva]
-Hiva po:topónimo [n-grama: Nuku Hiva]
+North po:topónimo is:ngrama_North_Caicos
+Caicos po:topónimo is:ngrama_North_Caicos
+Bretaña po:topónimo is:ngrama_Nova_Bretaña
+Caledonia po:topónimo is:ngrama_Nova_Caledonia
+Cembla po:topónimo is:ngrama_Nova_Cembla
+Guinea po:topónimo is:ngrama_Nova_Guinea
+Hanover po:topónimo is:ngrama_Nova_Hanover
+Irlanda po:topónimo is:ngrama_Nova_Irlanda
+Providencia po:topónimo is:ngrama_Nova_Providencia
+Siberia po:topónimo is:ngrama_Nova_Siberia
+Xeorxia po:topónimo is:ngrama_Nova_Xeorxia
+Novaya po:topónimo is:ngrama_Novaya_Zemlya
+Zemlya po:topónimo is:ngrama_Novaya_Zemlya
+Nuku po:topónimo is:ngrama_Nuku_Hiva
+Hiva po:topónimo is:ngrama_Nuku_Hiva
 Nukufetau po:topónimo
 Nukulaelae po:topónimo
 Nukunono po:topónimo
@@ -1430,32 +1430,32 @@ Nukunonu po:topónimo
 Nukutavake po:topónimo
 Nukutepipi po:topónimo
 Nunivak po:topónimo
-Nusa po:topónimo [n-grama: Nusa Tenggara]
-Tenggara po:topónimo [n-grama: Nusa Tenggara]
-Andrés po:topónimo [n-grama: O Arquipélago de San Andrés]
-grupo po:topónimo [n-grama: O grupo Gálvez]
-Gálvez po:topónimo [n-grama: O grupo Gálvez]
-Territorio po:topónimo [n-grama: O Territorio da Illa de Nadal]
-Nadal po:topónimo [n-grama: O Territorio da Illa de Nadal]
+Nusa po:topónimo is:ngrama_Nusa_Tenggara
+Tenggara po:topónimo is:ngrama_Nusa_Tenggara
+Andrés po:topónimo is:ngrama_O_Arquipélago_de_San_Andrés
+grupo po:topónimo is:ngrama_O_grupo_Gálvez
+Gálvez po:topónimo is:ngrama_O_grupo_Gálvez
+Territorio po:topónimo is:ngrama_O_Territorio_da_Illa_de_Nadal
+Nadal po:topónimo is:ngrama_O_Territorio_da_Illa_de_Nadal
 Oahu po:topónimo
 Obi po:topónimo
 Obira po:topónimo
-Ocean po:topónimo [n-grama: Ocean Island]
-Island po:topónimo [n-grama: Ocean Island]
+Ocean po:topónimo is:ngrama_Ocean_Island
+Island po:topónimo is:ngrama_Ocean_Island
 Ofu po:topónimo
 Oglassa po:topónimo
 Öland po:topónimo
 Olosega po:topónimo
 Onotoa po:topónimo
-Ontong po:topónimo [n-grama: Ontong Java]
-Java po:topónimo [n-grama: Ontong Java]
+Ontong po:topónimo is:ngrama_Ontong_Java
+Java po:topónimo is:ngrama_Ontong_Java
 Orkney po:topónimo
 Otaheite po:topónimo
 Othonoi po:topónimo
 Oua po:topónimo
 Ouessant po:topónimo
-Outer po:topónimo [n-grama: Outer Hebrides]
-Hebrides po:topónimo [n-grama: Outer Hebrides]
+Outer po:topónimo is:ngrama_Outer_Hebrides
+Hebrides po:topónimo is:ngrama_Outer_Hebrides
 Ouvéa po:topónimo
 Oxeía po:topónimo
 Oxia po:topónimo
@@ -1475,63 +1475,63 @@ Paramushir po:topónimo
 Paramushiru po:topónimo
 Paraoa po:topónimo
 Paros po:topónimo
-Parrot po:topónimo [n-grama: Parrot Cay]
-Cay po:topónimo [n-grama: Parrot Cay]
-Parry po:topónimo [n-grama: Parry Islands]
-Islands po:topónimo [n-grama: Parry Islands]
+Parrot po:topónimo is:ngrama_Parrot_Cay
+Cay po:topónimo is:ngrama_Parrot_Cay
+Parry po:topónimo is:ngrama_Parry_Islands
+Islands po:topónimo is:ngrama_Parry_Islands
 Patmos po:topónimo
 Paxoí po:topónimo
 Paxos po:topónimo
-Pearl po:topónimo [n-grama: Pearl e Hermes]
-Hermes po:topónimo [n-grama: Pearl e Hermes]
-Pedra po:topónimo [n-grama: Pedra Salmedina]
-Salmedina po:topónimo [n-grama: Pedra Salmedina]
-Pedro po:topónimo [n-grama: Pedro dos Banhos]
-Banhos po:topónimo [n-grama: Pedro dos Banhos]
+Pearl po:topónimo is:ngrama_Pearl_e_Hermes
+Hermes po:topónimo is:ngrama_Pearl_e_Hermes
+Pedra po:topónimo is:ngrama_Pedra_Salmedina
+Salmedina po:topónimo is:ngrama_Pedra_Salmedina
+Pedro po:topónimo is:ngrama_Pedro_dos_Banhos
+Banhos po:topónimo is:ngrama_Pedro_dos_Banhos
 Pellworm po:topónimo
 Pemba po:topónimo
 Penama po:topónimo
 Penrhyn po:topónimo
 Pentecôte po:topónimo
-Peñón po:topónimo [n-grama: Peñón del Águila]
-del po:topónimo [n-grama: Peñón del Águila]
-Águila po:topónimo [n-grama: Peñón del Águila]
-Malaita po:topónimo [n-grama: Pequena Malaita]
-Martinica po:topónimo [n-grama: Pequena Martinica]
-Tobago po:topónimo [n-grama: Pequena Tobago]
-Antillas po:topónimo [n-grama: Pequenas Antillas]
-Vicente po:topónimo [n-grama: Pequeno San Vicente]
+Peñón po:topónimo is:ngrama_Peñón_del_Águila
+del po:topónimo is:ngrama_Peñón_del_Águila
+Águila po:topónimo is:ngrama_Peñón_del_Águila
+Malaita po:topónimo is:ngrama_Pequena_Malaita
+Martinica po:topónimo is:ngrama_Pequena_Martinica
+Tobago po:topónimo is:ngrama_Pequena_Tobago
+Antillas po:topónimo is:ngrama_Pequenas_Antillas
+Vicente po:topónimo is:ngrama_Pequeno_San_Vicente
 Peristera po:topónimo
 Peroat po:topónimo
-Peros po:topónimo [n-grama: Peros Banhos]
-Banhos po:topónimo [n-grama: Peros Banhos]
+Peros po:topónimo is:ngrama_Peros_Banhos
+Banhos po:topónimo is:ngrama_Peros_Banhos
 Petala po:topónimo
 Petalas po:topónimo
-Petit po:topónimo [n-grama: Petit St. Vincent]
-St. po:topónimo [n-grama: Petit St. Vincent]
-Vincent po:topónimo [n-grama: Petit St. Vincent]
-Petite po:topónimo [n-grama: Petite Terre]
-Terre po:topónimo [n-grama: Petite Terre]
+Petit po:topónimo is:ngrama_Petit_St_Vincent
+St. po:topónimo is:ngrama_Petit_St_Vincent
+Vincent po:topónimo is:ngrama_Petit_St_Vincent
+Petite po:topónimo is:ngrama_Petite_Terre
+Terre po:topónimo is:ngrama_Petite_Terre
 Pharmakonisi po:topónimo
 Pianosa po:topónimo
-Piedra po:topónimo [n-grama: Piedra del Hombre]
-del po:topónimo [n-grama: Piedra del Hombre]
-Hombre po:topónimo [n-grama: Piedra del Hombre]
+Piedra po:topónimo is:ngrama_Piedra_del_Hombre
+del po:topónimo is:ngrama_Piedra_del_Hombre
+Hombre po:topónimo is:ngrama_Piedra_del_Hombre
 Piliaieve po:topónimo
 Pinaki po:topónimo
 Piperi po:topónimo
 Plana po:topónimo
 Pohnpei po:topónimo
 Polinesia po:topónimo
-Polinesia po:topónimo [n-grama: Polinesia Francesa]
-Francesa po:topónimo [n-grama: Polinesia Francesa]
+Polinesia po:topónimo is:ngrama_Polinesia_Francesa
+Francesa po:topónimo is:ngrama_Polinesia_Francesa
 Polýaigos po:topónimo
 Pongalei po:topónimo
 Ponza po:topónimo
 Poros po:topónimo
 Praslin po:topónimo
-Prefectura po:topónimo [n-grama: Prefectura de Okinawa]
-Okinawa po:topónimo [n-grama: Prefectura de Okinawa]
+Prefectura po:topónimo is:ngrama_Prefectura_de_Okinawa
+Okinawa po:topónimo is:ngrama_Prefectura_de_Okinawa
 Procida po:topónimo
 Providenciales po:topónimo
 Provo po:topónimo
@@ -1539,11 +1539,11 @@ Psathoura po:topónimo
 Pserimos po:topónimo
 Psitáleia po:topónimo
 Pujjunaq po:topónimo
-Puka po:topónimo [n-grama: Puka Puka]
+Puka po:topónimo is:ngrama_Puka_Puka
 Pukapuka po:topónimo
 Pukarua po:topónimo
-Pulau po:topónimo [n-grama: Pulau Atauro]
-Atauro po:topónimo [n-grama: Pulau Atauro]
+Pulau po:topónimo is:ngrama_Pulau_Atauro
+Atauro po:topónimo is:ngrama_Pulau_Atauro
 Qeqertarsuaq po:topónimo
 Qeshm po:topónimo
 Queixome po:topónimo
@@ -1560,42 +1560,42 @@ Raraka po:topónimo
 Raroia po:topónimo
 Rarotonga po:topónimo
 Ravahere po:topónimo
-Ré po:topónimo [n-grama: Ré a branca]
+Ré po:topónimo is:ngrama_Ré_a_branca
 Reao po:topónimo
 Redonda po:topónimo
-Reef po:topónimo [n-grama: Reef Islands]
-Islands po:topónimo [n-grama: Reef Islands]
-Reine po:topónimo [n-grama: Reine Charlotte]
-Charlotte po:topónimo [n-grama: Reine Charlotte]
-Bahrain po:topónimo [n-grama: Reino de Bahrain]
-Tonga po:topónimo [n-grama: Reino de Tonga]
+Reef po:topónimo is:ngrama_Reef_Islands
+Islands po:topónimo is:ngrama_Reef_Islands
+Reine po:topónimo is:ngrama_Reine_Charlotte
+Charlotte po:topónimo is:ngrama_Reine_Charlotte
+Bahrain po:topónimo is:ngrama_Reino_de_Bahrain
+Tonga po:topónimo is:ngrama_Reino_de_Tonga
 Reitoru po:topónimo
 Rekareka po:topónimo
-Rennell po:topónimo [n-grama: Rennell e Bellona]
-Bellona po:topónimo [n-grama: Rennell e Bellona]
+Rennell po:topónimo is:ngrama_Rennell_e_Bellona
+Bellona po:topónimo is:ngrama_Rennell_e_Bellona
 Repi po:topónimo
-Fidxi po:topónimo [n-grama: República das Illas Fidxi]
-Palaus po:topónimo [n-grama: República das Palaus]
-Kiribati po:topónimo [n-grama: República de Kiribati]
-Madagascar po:topónimo [n-grama: República de Madagascar]
-Nauru po:topónimo [n-grama: República de Nauru]
-Seixeles po:topónimo [n-grama: República de Seixeles]
-Trinidad po:topónimo [n-grama: República de Trinidad e Tobago]
-Tobago po:topónimo [n-grama: República de Trinidad e Tobago]
-Vanuatu po:topónimo [n-grama: República de Vanuatu]
-Tomé po:topónimo [n-grama: República Democrática de San Tomé e Príncipe]
-Reserva po:topónimo [n-grama: Reserva Natural Integral]
-Natural po:topónimo [n-grama: Reserva Natural Integral]
-Integral po:topónimo [n-grama: Reserva Natural Integral]
+Fidxi po:topónimo is:ngrama_República_das_Illas_Fidxi
+Palaus po:topónimo is:ngrama_República_das_Palaus
+Kiribati po:topónimo is:ngrama_República_de_Kiribati
+Madagascar po:topónimo is:ngrama_República_de_Madagascar
+Nauru po:topónimo is:ngrama_República_de_Nauru
+Seixeles po:topónimo is:ngrama_República_de_Seixeles
+Trinidad po:topónimo is:ngrama_República_de_Trinidad_e_Tobago
+Tobago po:topónimo is:ngrama_República_de_Trinidad_e_Tobago
+Vanuatu po:topónimo is:ngrama_República_de_Vanuatu
+Tomé po:topónimo is:ngrama_República_Democrática_de_San_Tomé_e_Príncipe
+Reserva po:topónimo is:ngrama_Reserva_Natural_Integral
+Natural po:topónimo is:ngrama_Reserva_Natural_Integral
+Integral po:topónimo is:ngrama_Reserva_Natural_Integral
 Reunión po:topónimo
-Azores po:topónimo [n-grama: Rexión Autónoma dos Azores]
+Azores po:topónimo is:ngrama_Rexión_Autónoma_dos_Azores
 Rho po:topónimo
 Rimatara po:topónimo
 Rineia po:topónimo
 Ro po:topónimo
 Robben po:topónimo
-Roca po:topónimo [n-grama: Roca Partida]
-Partida po:topónimo [n-grama: Roca Partida]
+Roca po:topónimo is:ngrama_Roca_Partida
+Partida po:topónimo is:ngrama_Roca_Partida
 Rockall po:topónimo
 Rodas po:topónimo
 Rodrigues po:topónimo
@@ -1604,27 +1604,27 @@ Rongelap po:topónimo
 Rongerik po:topónimo
 Rongrik po:topónimo
 Roñdik po:topónimo
-Roque po:topónimo [n-grama: Roque de Garachico]
-Garachico po:topónimo [n-grama: Roque de Garachico]
-Roques po:topónimo [n-grama: Roques de Anaga]
-Anaga po:topónimo [n-grama: Roques de Anaga]
+Roque po:topónimo is:ngrama_Roque_de_Garachico
+Garachico po:topónimo is:ngrama_Roque_de_Garachico
+Roques po:topónimo is:ngrama_Roques_de_Anaga
+Anaga po:topónimo is:ngrama_Roques_de_Anaga
 Rotuma po:topónimo
 Roua po:topónimo
 Rowa po:topónimo
-Rum po:topónimo [n-grama: Rum Cay]
-Cay po:topónimo [n-grama: Rum Cay]
+Rum po:topónimo is:ngrama_Rum_Cay
+Cay po:topónimo is:ngrama_Rum_Cay
 Run po:topónimo
 Rurutu po:topónimo
 S'Espalmador po:topónimo
 S'Espardell po:topónimo
 Saba po:topónimo
 Sado po:topónimo
-Saint po:topónimo [n-grama: Saint Croix]
-Croix po:topónimo [n-grama: Saint Croix]
-Saint po:topónimo [n-grama: Saint John]
-John po:topónimo [n-grama: Saint John]
-Saint po:topónimo [n-grama: Saint Vincent]
-Vincent po:topónimo [n-grama: Saint Vincent]
+Saint po:topónimo is:ngrama_Saint_Croix
+Croix po:topónimo is:ngrama_Saint_Croix
+Saint po:topónimo is:ngrama_Saint_John
+John po:topónimo is:ngrama_Saint_John
+Saint po:topónimo is:ngrama_Saint_Vincent
+Vincent po:topónimo is:ngrama_Saint_Vincent
 Saint-Barthélemy po:topónimo
 Saint-Paul po:topónimo
 Saipán po:topónimo
@@ -1637,32 +1637,32 @@ Salsette po:topónimo
 Samar po:topónimo
 Samos po:topónimo
 Samotracia po:topónimo
-Bartolomé po:topónimo [n-grama: San Bartolomé]
-Benedicto po:topónimo [n-grama: San Benedicto]
-Cristovo po:topónimo [n-grama: San Cristovo]
-Eustaquio po:topónimo [n-grama: San Eustaquio]
-Pantaleo po:topónimo [n-grama: San Pantaleo]
-Pedro po:topónimo [n-grama: San Pedro e Miquelón]
-Miquelón po:topónimo [n-grama: San Pedro e Miquelón]
-Salvador po:topónimo [n-grama: San Salvador]
-Tomé po:topónimo [n-grama: San Tomé]
-Vicente po:topónimo [n-grama: San Vicente]
-Vicente po:topónimo [n-grama: San Vicente e Granadinas]
-Granadinas po:topónimo [n-grama: San Vicente e Granadinas]
-Xoán po:topónimo [n-grama: San Xoán]
-Helena po:topónimo [n-grama: Santa Helena]
-Isabel po:topónimo [n-grama: Santa Isabel]
-Lucía po:topónimo [n-grama: Santa Lucía]
-Maria po:topónimo [n-grama: Santa Maria]
+Bartolomé po:topónimo is:ngrama_San_Bartolomé
+Benedicto po:topónimo is:ngrama_San_Benedicto
+Cristovo po:topónimo is:ngrama_San_Cristovo
+Eustaquio po:topónimo is:ngrama_San_Eustaquio
+Pantaleo po:topónimo is:ngrama_San_Pantaleo
+Pedro po:topónimo is:ngrama_San_Pedro_e_Miquelón
+Miquelón po:topónimo is:ngrama_San_Pedro_e_Miquelón
+Salvador po:topónimo is:ngrama_San_Salvador
+Tomé po:topónimo is:ngrama_San_Tomé
+Vicente po:topónimo is:ngrama_San_Vicente
+Vicente po:topónimo is:ngrama_San_Vicente_e_Granadinas
+Granadinas po:topónimo is:ngrama_San_Vicente_e_Granadinas
+Xoán po:topónimo is:ngrama_San_Xoán
+Helena po:topónimo is:ngrama_Santa_Helena
+Isabel po:topónimo is:ngrama_Santa_Isabel
+Lucía po:topónimo is:ngrama_Santa_Lucía
+Maria po:topónimo is:ngrama_Santa_Maria
 Santiago po:topónimo
 Santiagu po:topónimo
-Estefano po:topónimo [n-grama: Santo Estefano]
+Estefano po:topónimo is:ngrama_Santo_Estefano
 Santorini po:topónimo
 Santorino po:topónimo
-São po:topónimo [n-grama: São Miguel]
-Miguel po:topónimo [n-grama: São Miguel]
-São po:topónimo [n-grama: São Tomé]
-Tomé po:topónimo [n-grama: São Tomé]
+São po:topónimo is:ngrama_São_Miguel
+Miguel po:topónimo is:ngrama_São_Miguel
+São po:topónimo is:ngrama_São_Tomé
+Tomé po:topónimo is:ngrama_São_Tomé
 Sarakino po:topónimo
 Sardeña po:topónimo
 Saria po:topónimo
@@ -1674,8 +1674,8 @@ Schouwen-Duiveland po:topónimo
 Selandia po:topónimo
 Seram po:topónimo
 Serifos po:topónimo
-Severnaya po:topónimo [n-grama: Severnaya Zemlya]
-Zemlya po:topónimo [n-grama: Severnaya Zemlya]
+Severnaya po:topónimo is:ngrama_Severnaya_Zemlya
+Zemlya po:topónimo is:ngrama_Severnaya_Zemlya
 Shikoku po:topónimo
 Siberut po:topónimo
 Sicilia po:topónimo
@@ -1684,8 +1684,8 @@ Sikaiana po:topónimo
 Síkinos po:topónimo
 Simberi po:topónimo
 Siros po:topónimo
-Six po:topónimo [n-grama: Six Isles]
-Isles po:topónimo [n-grama: Six Isles]
+Six po:topónimo is:ngrama_Six_Isles
+Isles po:topónimo is:ngrama_Six_Isles
 Skantzoura po:topónimo
 SKíathos po:topónimo
 Skópelos po:topónimo
@@ -1694,30 +1694,30 @@ Skyropoula po:topónimo
 Skyros po:topónimo
 Socotora po:topónimo
 Socotra po:topónimo
-South po:topónimo [n-grama: South Caicos]
-Caicos po:topónimo [n-grama: South Caicos]
-Spanish po:topónimo [n-grama: Spanish Wells]
-Wells po:topónimo [n-grama: Spanish Wells]
+South po:topónimo is:ngrama_South_Caicos
+Caicos po:topónimo is:ngrama_South_Caicos
+Spanish po:topónimo is:ngrama_Spanish_Wells
+Wells po:topónimo is:ngrama_Spanish_Wells
 Spetses po:topónimo
 Spetsopoula po:topónimo
 Spinalonga po:topónimo
 Spitsberg po:topónimo
 Spitsbergen po:topónimo
-Spitsbergen po:topónimo [n-grama: Spitsbergen Oeste]
+Spitsbergen po:topónimo is:ngrama_Spitsbergen_Oeste
 Spitzberg po:topónimo
-Staten po:topónimo [n-grama: Staten Island]
-Island po:topónimo [n-grama: Staten Island]
+Staten po:topónimo is:ngrama_Staten_Island
+Island po:topónimo is:ngrama_Staten_Island
 Strofades po:topónimo
 Stromboli po:topónimo
 Strombolicchio po:topónimo
-Strongyli po:topónimo [n-grama: Strongyli Kastellorizou]
-Kastellorizou po:topónimo [n-grama: Strongyli Kastellorizou]
-Sueste po:topónimo [n-grama: Sueste Asiático Insular]
-Asiático po:topónimo [n-grama: Sueste Asiático Insular]
-Insular po:topónimo [n-grama: Sueste Asiático Insular]
-Sueste po:topónimo [n-grama: Sueste Asiático Marítimo]
-Asiático po:topónimo [n-grama: Sueste Asiático Marítimo]
-Marítimo po:topónimo [n-grama: Sueste Asiático Marítimo]
+Strongyli po:topónimo is:ngrama_Strongyli_Kastellorizou
+Kastellorizou po:topónimo is:ngrama_Strongyli_Kastellorizou
+Sueste po:topónimo is:ngrama_Sueste_Asiático_Insular
+Asiático po:topónimo is:ngrama_Sueste_Asiático_Insular
+Insular po:topónimo is:ngrama_Sueste_Asiático_Insular
+Sueste po:topónimo is:ngrama_Sueste_Asiático_Marítimo
+Asiático po:topónimo is:ngrama_Sueste_Asiático_Marítimo
+Marítimo po:topónimo is:ngrama_Sueste_Asiático_Marítimo
 Sulawesi po:topónimo
 Sumatera po:topónimo
 Sumatra po:topónimo
@@ -1733,8 +1733,8 @@ Symi po:topónimo
 Syrna po:topónimo
 Ta'u po:topónimo
 Tabiteuea po:topónimo
-Tabiteuea po:topónimo [n-grama: Tabiteuea Norte]
-Tabiteuea po:topónimo [n-grama: Tabiteuea Sur]
+Tabiteuea po:topónimo is:ngrama_Tabiteuea_Norte
+Tabiteuea po:topónimo is:ngrama_Tabiteuea_Sur
 Tabueran po:topónimo
 Taenga po:topónimo
 Tafahi po:topónimo
@@ -1754,10 +1754,10 @@ Tamana po:topónimo
 Tana po:topónimo
 Tanimbar po:topónimo
 Tanna po:topónimo
-Tanö po:topónimo [n-grama: Tanö Niha]
-Niha po:topónimo [n-grama: Tanö Niha]
-Taongi po:topónimo [n-grama: Taongi Atoll]
-Atoll po:topónimo [n-grama: Taongi Atoll]
+Tanö po:topónimo is:ngrama_Tanö_Niha
+Niha po:topónimo is:ngrama_Tanö_Niha
+Taongi po:topónimo is:ngrama_Taongi_Atoll
+Atoll po:topónimo is:ngrama_Taongi_Atoll
 Taravai po:topónimo
 Tarawa po:topónimo
 Taritari po:topónimo
@@ -1786,25 +1786,25 @@ Tenarunga po:topónimo
 Tepoto po:topónimo
 Teraina po:topónimo
 Ternate po:topónimo
-Terra po:topónimo [n-grama: Terra de Francisco Xosé]
-Francisco po:topónimo [n-grama: Terra de Francisco Xosé]
-Xosé po:topónimo [n-grama: Terra de Francisco Xosé]
-Terra po:topónimo [n-grama: Terra de paxaros]
-paxaros po:topónimo [n-grama: Terra de paxaros]
-Terra po:topónimo [n-grama: Terra de Xurxo]
-Xurxo po:topónimo [n-grama: Terra de Xurxo]
-Terra po:topónimo [n-grama: Terra do Norte]
-Terra po:topónimo [n-grama: Terra Nova]
-Territorio po:topónimo [n-grama: Territorio das Illas do Mar do Coral]
-Coral po:topónimo [n-grama: Territorio das Illas do Mar do Coral]
-Territorio po:topónimo [n-grama: Territorio de Guam]
-Guam po:topónimo [n-grama: Territorio de Guam]
-Territory po:topónimo [n-grama: Territory of Ashmore and Cartier Islands]
-of po:topónimo [n-grama: Territory of Ashmore and Cartier Islands]
-Ashmore po:topónimo [n-grama: Territory of Ashmore and Cartier Islands]
-and po:topónimo [n-grama: Territory of Ashmore and Cartier Islands]
-Cartier po:topónimo [n-grama: Territory of Ashmore and Cartier Islands]
-Islands po:topónimo [n-grama: Territory of Ashmore and Cartier Islands]
+Terra po:topónimo is:ngrama_Terra_de_Francisco_Xosé
+Francisco po:topónimo is:ngrama_Terra_de_Francisco_Xosé
+Xosé po:topónimo is:ngrama_Terra_de_Francisco_Xosé
+Terra po:topónimo is:ngrama_Terra_de_paxaros
+paxaros po:topónimo is:ngrama_Terra_de_paxaros
+Terra po:topónimo is:ngrama_Terra_de_Xurxo
+Xurxo po:topónimo is:ngrama_Terra_de_Xurxo
+Terra po:topónimo is:ngrama_Terra_do_Norte
+Terra po:topónimo is:ngrama_Terra_Nova
+Territorio po:topónimo is:ngrama_Territorio_das_Illas_do_Mar_do_Coral
+Coral po:topónimo is:ngrama_Territorio_das_Illas_do_Mar_do_Coral
+Territorio po:topónimo is:ngrama_Territorio_de_Guam
+Guam po:topónimo is:ngrama_Territorio_de_Guam
+Territory po:topónimo is:ngrama_Territory_of_Ashmore_and_Cartier_Islands
+of po:topónimo is:ngrama_Territory_of_Ashmore_and_Cartier_Islands
+Ashmore po:topónimo is:ngrama_Territory_of_Ashmore_and_Cartier_Islands
+and po:topónimo is:ngrama_Territory_of_Ashmore_and_Cartier_Islands
+Cartier po:topónimo is:ngrama_Territory_of_Ashmore_and_Cartier_Islands
+Islands po:topónimo is:ngrama_Territory_of_Ashmore_and_Cartier_Islands
 Tetiaroa po:topónimo
 Thasos po:topónimo
 Therasia po:topónimo
@@ -1816,10 +1816,10 @@ Tikei po:topónimo
 Tilos po:topónimo
 Timo po:topónimo
 Timor po:topónimo
-Timor po:topónimo [n-grama: Timor Laut]
-Laut po:topónimo [n-grama: Timor Laut]
+Timor po:topónimo is:ngrama_Timor_Laut
+Laut po:topónimo is:ngrama_Timor_Laut
 Tinakula po:topónimo
-Tinhosa po:topónimo [n-grama: Tinhosa Grande]
+Tinhosa po:topónimo is:ngrama_Tinhosa_Grande
 Tinian po:topónimo
 Tinos po:topónimo
 Tintamarre po:topónimo
@@ -1838,12 +1838,12 @@ Torba po:topónimo
 Tórtola po:topónimo
 Traidores po:topónimo
 Trindade po:topónimo
-Trindade po:topónimo [n-grama: Trindade e Martim Vaz]
-Martim po:topónimo [n-grama: Trindade e Martim Vaz]
-Vaz po:topónimo [n-grama: Trindade e Martim Vaz]
+Trindade po:topónimo is:ngrama_Trindade_e_Martim_Vaz
+Martim po:topónimo is:ngrama_Trindade_e_Martim_Vaz
+Vaz po:topónimo is:ngrama_Trindade_e_Martim_Vaz
 Trinidad po:topónimo
-Tristan po:topónimo [n-grama: Tristan da Cunha]
-Cunha po:topónimo [n-grama: Tristan da Cunha]
+Tristan po:topónimo is:ngrama_Tristan_da_Cunha
+Cunha po:topónimo is:ngrama_Tristan_da_Cunha
 Tuamotu po:topónimo
 Tuanahe po:topónimo
 Tuanake po:topónimo
@@ -1854,12 +1854,12 @@ Tupinambarana po:topónimo
 Tureia po:topónimo
 Tutuila po:topónimo
 Tuvalu po:topónimo
-Txatxarramendi po:topónimo [n-grama: Txatxarramendi Uhartea]
-Uhartea po:topónimo [n-grama: Txatxarramendi Uhartea]
-Ua po:topónimo [n-grama: Ua Huka]
-Huka po:topónimo [n-grama: Ua Huka]
-Ua po:topónimo [n-grama: Ua Pou]
-Pou po:topónimo [n-grama: Ua Pou]
+Txatxarramendi po:topónimo is:ngrama_Txatxarramendi_Uhartea
+Uhartea po:topónimo is:ngrama_Txatxarramendi_Uhartea
+Ua po:topónimo is:ngrama_Ua_Huka
+Huka po:topónimo is:ngrama_Ua_Huka
+Ua po:topónimo is:ngrama_Ua_Pou
+Pou po:topónimo is:ngrama_Ua_Pou
 Uchinā po:topónimo
 Ujae po:topónimo
 Ujelang po:topónimo
@@ -1885,28 +1885,28 @@ Vahitahi po:topónimo
 Vairaatea po:topónimo
 Vaitupu po:topónimo
 Vanavana po:topónimo
-Vanua po:topónimo [n-grama: Vanua Levu]
-Levu po:topónimo [n-grama: Vanua Levu]
+Vanua po:topónimo is:ngrama_Vanua_Levu
+Levu po:topónimo is:ngrama_Vanua_Levu
 Vasafua po:topónimo
 Vava´u po:topónimo
-Lavella po:topónimo [n-grama: Vella Lavella]
+Lavella po:topónimo is:ngrama_Vella_Lavella
 Vendsyssel-Thy po:topónimo
 Ventotene po:topónimo
 Vido po:topónimo
-Gorda po:topónimo [n-grama: Virxe Gorda]
+Gorda po:topónimo is:ngrama_Virxe_Gorda
 Visayas po:topónimo
-Viti po:topónimo [n-grama: Viti Levu]
-Levu po:topónimo [n-grama: Viti Levu]
+Viti po:topónimo is:ngrama_Viti_Levu
+Levu po:topónimo is:ngrama_Viti_Levu
 Voum po:topónimo
 Vulcano po:topónimo
 Waigeo po:topónimo
 Waiheke po:topónimo
 Wallis po:topónimo
 Wallis-e-Futuna po:topónimo
-Water po:topónimo [n-grama: Water Island]
-Island po:topónimo [n-grama: Water Island]
-West po:topónimo [n-grama: West Caicos]
-Caicos po:topónimo [n-grama: West Caicos]
+Water po:topónimo is:ngrama_Water_Island
+Island po:topónimo is:ngrama_Water_Island
+West po:topónimo is:ngrama_West_Caicos
+Caicos po:topónimo is:ngrama_West_Caicos
 Wetar po:topónimo
 Whitsunday po:topónimo
 Wotho po:topónimo
@@ -1914,7 +1914,7 @@ Wotje po:topónimo
 Xamaica po:topónimo
 Xapón po:topónimo
 Xava po:topónimo
-Xeorxia po:topónimo [n-grama: Xeorxia do Sur]
+Xeorxia po:topónimo is:ngrama_Xeorxia_do_Sur
 Xerba po:topónimo
 Xero po:topónimo
 Yali po:topónimo
@@ -1923,21 +1923,21 @@ Yap po:topónimo
 Yapen po:topónimo
 Yerba po:topónimo
 Yiali po:topónimo
-Ynys po:topónimo [n-grama: Ynys Môn]
-Môn po:topónimo [n-grama: Ynys Môn]
+Ynys po:topónimo is:ngrama_Ynys_Môn
+Môn po:topónimo is:ngrama_Ynys_Môn
 Yonaguni po:topónimo
-Yos po:topónimo [n-grama: Yos Sudarso]
-Sudarso po:topónimo [n-grama: Yos Sudarso]
+Yos po:topónimo is:ngrama_Yos_Sudarso
+Sudarso po:topónimo is:ngrama_Yos_Sudarso
 Yuzhny po:topónimo
 Zacinto po:topónimo
 Zakynthos po:topónimo
 Zannone po:topónimo
 Zante po:topónimo
 Zanzíbar po:topónimo
-Zona po:topónimo [n-grama: Zona de Especial Protección para as Aves]
-Especial po:topónimo [n-grama: Zona de Especial Protección para as Aves]
-Protección po:topónimo [n-grama: Zona de Especial Protección para as Aves]
-Aves po:topónimo [n-grama: Zona de Especial Protección para as Aves]
+Zona po:topónimo is:ngrama_Zona_de_Especial_Protección_para_as_Aves
+Especial po:topónimo is:ngrama_Zona_de_Especial_Protección_para_as_Aves
+Protección po:topónimo is:ngrama_Zona_de_Especial_Protección_para_as_Aves
+Aves po:topónimo is:ngrama_Zona_de_Especial_Protección_para_as_Aves
 Αλόννησος po:topónimo
 Αντίπαρος po:topónimo
 Αστυπάλαια po:topónimo

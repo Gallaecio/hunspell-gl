@@ -1,8 +1,8 @@
 A.D. po:sigla
 AAPP po:sigla
-Ab po:sigla [n-grama: Ab urbe condita]
-urbe po:sigla [n-grama: Ab urbe condita]
-condita po:sigla [n-grama: Ab urbe condita]
+Ab po:sigla is:ngrama_Ab_urbe_condita
+urbe po:sigla is:ngrama_Ab_urbe_condita
+condita po:sigla is:ngrama_Ab_urbe_condita
 ACB po:sigla
 ACSUG po:sigla
 ADEGA po:sigla
@@ -17,10 +17,10 @@ AIA po:sigla
 AIU po:sigla
 Ales po:sigla
 ANECA po:sigla
-Anno po:sigla [n-grama: Anno Domini]
-Domini po:sigla [n-grama: Anno Domini]
-antes po:sigla [n-grama: antes de Cristo]
-Cristo po:sigla [n-grama: antes de Cristo]
+Anno po:sigla is:ngrama_Anno_Domini
+Domini po:sigla is:ngrama_Anno_Domini
+antes po:sigla is:ngrama_antes_de_Cristo
+Cristo po:sigla is:ngrama_antes_de_Cristo
 APA po:sigla
 APRADOGA po:sigla
 ARE po:sigla
@@ -79,9 +79,9 @@ CNT po:sigla
 COAG po:sigla
 COAP po:sigla
 COBOL po:sigla
-Código po:sigla [n-grama: Código de Ubicación Geográfica]
-Ubicación po:sigla [n-grama: Código de Ubicación Geográfica]
-Geográfica po:sigla [n-grama: Código de Ubicación Geográfica]
+Código po:sigla is:ngrama_Código_de_Ubicación_Geográfica
+Ubicación po:sigla is:ngrama_Código_de_Ubicación_Geográfica
+Geográfica po:sigla is:ngrama_Código_de_Ubicación_Geográfica
 COI po:sigla
 COIE po:sigla
 COTOP po:sigla
@@ -96,10 +96,10 @@ Cunef po:sigla
 CVI po:sigla
 CXTG po:sigla
 D po:sigla
-Deutsches po:sigla [n-grama: Deutsches Institut für Normung]
-Institut po:sigla [n-grama: Deutsches Institut für Normung]
-für po:sigla [n-grama: Deutsches Institut für Normung]
-Normung po:sigla [n-grama: Deutsches Institut für Normung]
+Deutsches po:sigla is:ngrama_Deutsches_Institut_für_Normung
+Institut po:sigla is:ngrama_Deutsches_Institut_für_Normung
+für po:sigla is:ngrama_Deutsches_Institut_für_Normung
+Normung po:sigla is:ngrama_Deutsches_Institut_für_Normung
 DIN po:sigla
 DNI po:sigla
 DOG po:sigla
@@ -290,9 +290,9 @@ SS po:sigla
 TAC po:sigla
 TAE po:sigla
 TC po:sigla
-Terminal po:sigla [n-grama: Terminal punto de venda]
-punto po:sigla [n-grama: Terminal punto de venda]
-venda po:sigla [n-grama: Terminal punto de venda]
+Terminal po:sigla is:ngrama_Terminal_punto_de_venda
+punto po:sigla is:ngrama_Terminal_punto_de_venda
+venda po:sigla is:ngrama_Terminal_punto_de_venda
 TFT po:sigla
 TGSS po:sigla
 Tit-eu po:sigla

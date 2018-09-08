@@ -1,30 +1,30 @@
 23-F po:nome
 23F po:nome
-Pascua po:nome [n-grama: Alzamento de Pascua]
-Feniano po:nome [n-grama: Alzamento Feniano]
-Saraxevo po:nome [n-grama: Asasinato de Saraxevo]
-11-S po:nome [n-grama: Ataques do 11-S]
-11S po:nome [n-grama: Ataques do 11S]
-Hipercor po:nome [n-grama: atentado de Hipercor]
-Minsk po:nome [n-grama: atentado do metro de Minsk]
-11-M po:nome [n-grama: Atentados do 11-M]
-11M po:nome [n-grama: Atentados do 11M]
-Londres po:nome [n-grama: Atentados do 7 de xullo de 2005 en Londres]
-Ballingarry po:nome [n-grama: Batalla de Ballingarry]
-Holocausto po:nome [n-grama: Holocausto armenio]
-armenio po:nome [n-grama: Holocausto armenio]
-armenio po:nome [n-grama: Masacre armenio]
-Tian’anmen po:nome [n-grama: Masacre da Praza Tian’anmen]
-Noruega po:nome [n-grama: masacre en Noruega en 2011]
-Bartolomeu po:nome [n-grama: matanza do día de San Bartolomeu]
-chumbo po:nome [n-grama: operación chumbo fundido]
-fundido po:nome [n-grama: operación chumbo fundido]
-Lateranenses po:nome [n-grama: Pactos Lateranenses]
-Primavera po:nome [n-grama: Primavera de Praga]
-Praga po:nome [n-grama: Primavera de Praga]
-Tian'anmen po:nome [n-grama: Protestas da Praza Tian'anmen de 1989]
-Fame po:nome [n-grama: Rebelión da Fame]
-Irlanda po:nome [n-grama: Rebelión de Irlanda Nova de 1848]
-Westgate po:nome [n-grama: tiroteo e secuestro no centro comercial Westgate]
-armenio po:nome [n-grama: Xenocidio armenio]
-Srebrenica po:nome [n-grama: Xenocidio de Srebrenica]
+Pascua po:nome is:ngrama_Alzamento_de_Pascua
+Feniano po:nome is:ngrama_Alzamento_Feniano
+Saraxevo po:nome is:ngrama_Asasinato_de_Saraxevo
+11-S po:nome is:ngrama_Ataques_do_11_S
+11S po:nome is:ngrama_Ataques_do_11S
+Hipercor po:nome is:ngrama_atentado_de_Hipercor
+Minsk po:nome is:ngrama_atentado_do_metro_de_Minsk
+11-M po:nome is:ngrama_Atentados_do_11_M
+11M po:nome is:ngrama_Atentados_do_11M
+Londres po:nome is:ngrama_Atentados_do_7_de_xullo_de_2005_en_Londres
+Ballingarry po:nome is:ngrama_Batalla_de_Ballingarry
+Holocausto po:nome is:ngrama_Holocausto_armenio
+armenio po:nome is:ngrama_Holocausto_armenio
+armenio po:nome is:ngrama_Masacre_armenio
+Tian’anmen po:nome is:ngrama_Masacre_da_Praza_Tian_anmen
+Noruega po:nome is:ngrama_masacre_en_Noruega_en_2011
+Bartolomeu po:nome is:ngrama_matanza_do_día_de_San_Bartolomeu
+chumbo po:nome is:ngrama_operación_chumbo_fundido
+fundido po:nome is:ngrama_operación_chumbo_fundido
+Lateranenses po:nome is:ngrama_Pactos_Lateranenses
+Primavera po:nome is:ngrama_Primavera_de_Praga
+Praga po:nome is:ngrama_Primavera_de_Praga
+Tian'anmen po:nome is:ngrama_Protestas_da_Praza_Tian_anmen_de_1989
+Fame po:nome is:ngrama_Rebelión_da_Fame
+Irlanda po:nome is:ngrama_Rebelión_de_Irlanda_Nova_de_1848
+Westgate po:nome is:ngrama_tiroteo_e_secuestro_no_centro_comercial_Westgate
+armenio po:nome is:ngrama_Xenocidio_armenio
+Srebrenica po:nome is:ngrama_Xenocidio_de_Srebrenica

@@ -1,261 +1,261 @@
 AA po:nome
-Adria po:nome [n-grama: Adria Airways d.d.]
-Airways po:nome [n-grama: Adria Airways d.d.]
-d.d. po:nome [n-grama: Adria Airways d.d.]
-Aegean po:nome [n-grama: Aegean Airlines SA]
-Airlines po:nome [n-grama: Aegean Airlines SA]
-SA po:nome [n-grama: Aegean Airlines SA]
-Aer po:nome [n-grama: Aer Arann]
-Arann po:nome [n-grama: Aer Arann]
-Aer po:nome [n-grama: Aer Lingus]
-Lingus po:nome [n-grama: Aer Lingus]
+Adria po:nome is:ngrama_Adria_Airways_d_d
+Airways po:nome is:ngrama_Adria_Airways_d_d
+d.d. po:nome is:ngrama_Adria_Airways_d_d
+Aegean po:nome is:ngrama_Aegean_Airlines_SA
+Airlines po:nome is:ngrama_Aegean_Airlines_SA
+SA po:nome is:ngrama_Aegean_Airlines_SA
+Aer po:nome is:ngrama_Aer_Arann
+Arann po:nome is:ngrama_Aer_Arann
+Aer po:nome is:ngrama_Aer_Lingus
+Lingus po:nome is:ngrama_Aer_Lingus
 Aeroflot po:nome
-Aerolíneas po:nome [n-grama: Aerolíneas Argentinas S.A.]
-Argentinas po:nome [n-grama: Aerolíneas Argentinas S.A.]
-S.A. po:nome [n-grama: Aerolíneas Argentinas S.A.]
+Aerolíneas po:nome is:ngrama_Aerolíneas_Argentinas_S_A
+Argentinas po:nome is:ngrama_Aerolíneas_Argentinas_S_A
+S.A. po:nome is:ngrama_Aerolíneas_Argentinas_S_A
 Aeroméxico po:nome
-Air po:nome [n-grama: Air Algérie]
-Algérie po:nome [n-grama: Air Algérie]
-Air po:nome [n-grama: Air Austral]
-Austral po:nome [n-grama: Air Austral]
-Air po:nome [n-grama: Air Berlin]
-Berlin po:nome [n-grama: Air Berlin]
-Air po:nome [n-grama: Air Busan]
-Busan po:nome [n-grama: Air Busan]
-Air po:nome [n-grama: Air Canada]
-Canada po:nome [n-grama: Air Canada]
-Air po:nome [n-grama: Air China Limited]
-China po:nome [n-grama: Air China Limited]
-Limited po:nome [n-grama: Air China Limited]
-Air po:nome [n-grama: Air Comores International]
-Comores po:nome [n-grama: Air Comores International]
-International po:nome [n-grama: Air Comores International]
-Air po:nome [n-grama: Air Europa]
-Europa po:nome [n-grama: Air Europa]
-Air po:nome [n-grama: Air Europe]
-Europe po:nome [n-grama: Air Europe]
-Air po:nome [n-grama: Air France]
-France po:nome [n-grama: Air France]
-Air po:nome [n-grama: Air Iraq]
-Iraq po:nome [n-grama: Air Iraq]
-Air po:nome [n-grama: Air Malta]
-Malta po:nome [n-grama: Air Malta]
-Air po:nome [n-grama: Air Nauru]
-Nauru po:nome [n-grama: Air Nauru]
-Air po:nome [n-grama: Air New Zealand Limited]
-New po:nome [n-grama: Air New Zealand Limited]
-Zealand po:nome [n-grama: Air New Zealand Limited]
-Limited po:nome [n-grama: Air New Zealand Limited]
-Air po:nome [n-grama: Air Rarotonga]
-Rarotonga po:nome [n-grama: Air Rarotonga]
-Air po:nome [n-grama: Air Serbia]
-Serbia po:nome [n-grama: Air Serbia]
-Alaska po:nome [n-grama: Alaska Airlines]
-Airlines po:nome [n-grama: Alaska Airlines]
+Air po:nome is:ngrama_Air_Algérie
+Algérie po:nome is:ngrama_Air_Algérie
+Air po:nome is:ngrama_Air_Austral
+Austral po:nome is:ngrama_Air_Austral
+Air po:nome is:ngrama_Air_Berlin
+Berlin po:nome is:ngrama_Air_Berlin
+Air po:nome is:ngrama_Air_Busan
+Busan po:nome is:ngrama_Air_Busan
+Air po:nome is:ngrama_Air_Canada
+Canada po:nome is:ngrama_Air_Canada
+Air po:nome is:ngrama_Air_China_Limited
+China po:nome is:ngrama_Air_China_Limited
+Limited po:nome is:ngrama_Air_China_Limited
+Air po:nome is:ngrama_Air_Comores_International
+Comores po:nome is:ngrama_Air_Comores_International
+International po:nome is:ngrama_Air_Comores_International
+Air po:nome is:ngrama_Air_Europa
+Europa po:nome is:ngrama_Air_Europa
+Air po:nome is:ngrama_Air_Europe
+Europe po:nome is:ngrama_Air_Europe
+Air po:nome is:ngrama_Air_France
+France po:nome is:ngrama_Air_France
+Air po:nome is:ngrama_Air_Iraq
+Iraq po:nome is:ngrama_Air_Iraq
+Air po:nome is:ngrama_Air_Malta
+Malta po:nome is:ngrama_Air_Malta
+Air po:nome is:ngrama_Air_Nauru
+Nauru po:nome is:ngrama_Air_Nauru
+Air po:nome is:ngrama_Air_New_Zealand_Limited
+New po:nome is:ngrama_Air_New_Zealand_Limited
+Zealand po:nome is:ngrama_Air_New_Zealand_Limited
+Limited po:nome is:ngrama_Air_New_Zealand_Limited
+Air po:nome is:ngrama_Air_Rarotonga
+Rarotonga po:nome is:ngrama_Air_Rarotonga
+Air po:nome is:ngrama_Air_Serbia
+Serbia po:nome is:ngrama_Air_Serbia
+Alaska po:nome is:ngrama_Alaska_Airlines
+Airlines po:nome is:ngrama_Alaska_Airlines
 Alitalia po:nome
-All po:nome [n-grama: All Nippon Airways Co.]
-Nippon po:nome [n-grama: All Nippon Airways Co.]
-Airways po:nome [n-grama: All Nippon Airways Co.]
-Co. po:nome [n-grama: All Nippon Airways Co.]
-American po:nome [n-grama: American Airlines]
-Airlines po:nome [n-grama: American Airlines]
+All po:nome is:ngrama_All_Nippon_Airways_Co
+Nippon po:nome is:ngrama_All_Nippon_Airways_Co
+Airways po:nome is:ngrama_All_Nippon_Airways_Co
+Co. po:nome is:ngrama_All_Nippon_Airways_Co
+American po:nome is:ngrama_American_Airlines
+Airlines po:nome is:ngrama_American_Airlines
 ANA po:nome
-Ariana po:nome [n-grama: Ariana Afghan Airlines]
-Afghan po:nome [n-grama: Ariana Afghan Airlines]
-Airlines po:nome [n-grama: Ariana Afghan Airlines]
+Ariana po:nome is:ngrama_Ariana_Afghan_Airlines
+Afghan po:nome is:ngrama_Ariana_Afghan_Airlines
+Airlines po:nome is:ngrama_Ariana_Afghan_Airlines
 Armavia po:nome
-Asiana po:nome [n-grama: Asiana Airlines Inc.]
-Airlines po:nome [n-grama: Asiana Airlines Inc.]
-Inc. po:nome [n-grama: Asiana Airlines Inc.]
-Austrian po:nome [n-grama: Austrian Airlines]
-Airlines po:nome [n-grama: Austrian Airlines]
+Asiana po:nome is:ngrama_Asiana_Airlines_Inc
+Airlines po:nome is:ngrama_Asiana_Airlines_Inc
+Inc. po:nome is:ngrama_Asiana_Airlines_Inc
+Austrian po:nome is:ngrama_Austrian_Airlines
+Airlines po:nome is:ngrama_Austrian_Airlines
 Aviaco po:nome
-Balkan po:nome [n-grama: Balkan Airlines]
-Airlines po:nome [n-grama: Balkan Airlines]
+Balkan po:nome is:ngrama_Balkan_Airlines
+Airlines po:nome is:ngrama_Balkan_Airlines
 Belavia po:nome
-Binter po:nome [n-grama: Binter Canarias]
-Canarias po:nome [n-grama: Binter Canarias]
-Blue1 po:nome [n-grama: Blue1 Ltd]
-Ltd po:nome [n-grama: Blue1 Ltd]
-British po:nome [n-grama: British Airways]
-Airways po:nome [n-grama: British Airways]
-British po:nome [n-grama: British Caledonian]
-Caledonian po:nome [n-grama: British Caledonian]
-Brussels po:nome [n-grama: Brussels Airlines]
-Airlines po:nome [n-grama: Brussels Airlines]
-Canadian po:nome [n-grama: Canadian Airlines International Ltd.]
-Airlines po:nome [n-grama: Canadian Airlines International Ltd.]
-International po:nome [n-grama: Canadian Airlines International Ltd.]
-Ltd. po:nome [n-grama: Canadian Airlines International Ltd.]
-Cathay po:nome [n-grama: Cathay Pacific Airways Limited]
-Pacific po:nome [n-grama: Cathay Pacific Airways Limited]
-Airways po:nome [n-grama: Cathay Pacific Airways Limited]
-Limited po:nome [n-grama: Cathay Pacific Airways Limited]
-Chautauqua po:nome [n-grama: Chautauqua Airlines]
-Airlines po:nome [n-grama: Chautauqua Airlines]
-China po:nome [n-grama: China Eastern Airlines Corporation Limited]
-Eastern po:nome [n-grama: China Eastern Airlines Corporation Limited]
-Airlines po:nome [n-grama: China Eastern Airlines Corporation Limited]
-Corporation po:nome [n-grama: China Eastern Airlines Corporation Limited]
-Limited po:nome [n-grama: China Eastern Airlines Corporation Limited]
-China po:nome [n-grama: China Southern Airlines]
-Southern po:nome [n-grama: China Southern Airlines]
-Airlines po:nome [n-grama: China Southern Airlines]
+Binter po:nome is:ngrama_Binter_Canarias
+Canarias po:nome is:ngrama_Binter_Canarias
+Blue1 po:nome is:ngrama_Blue1_Ltd
+Ltd po:nome is:ngrama_Blue1_Ltd
+British po:nome is:ngrama_British_Airways
+Airways po:nome is:ngrama_British_Airways
+British po:nome is:ngrama_British_Caledonian
+Caledonian po:nome is:ngrama_British_Caledonian
+Brussels po:nome is:ngrama_Brussels_Airlines
+Airlines po:nome is:ngrama_Brussels_Airlines
+Canadian po:nome is:ngrama_Canadian_Airlines_International_Ltd
+Airlines po:nome is:ngrama_Canadian_Airlines_International_Ltd
+International po:nome is:ngrama_Canadian_Airlines_International_Ltd
+Ltd. po:nome is:ngrama_Canadian_Airlines_International_Ltd
+Cathay po:nome is:ngrama_Cathay_Pacific_Airways_Limited
+Pacific po:nome is:ngrama_Cathay_Pacific_Airways_Limited
+Airways po:nome is:ngrama_Cathay_Pacific_Airways_Limited
+Limited po:nome is:ngrama_Cathay_Pacific_Airways_Limited
+Chautauqua po:nome is:ngrama_Chautauqua_Airlines
+Airlines po:nome is:ngrama_Chautauqua_Airlines
+China po:nome is:ngrama_China_Eastern_Airlines_Corporation_Limited
+Eastern po:nome is:ngrama_China_Eastern_Airlines_Corporation_Limited
+Airlines po:nome is:ngrama_China_Eastern_Airlines_Corporation_Limited
+Corporation po:nome is:ngrama_China_Eastern_Airlines_Corporation_Limited
+Limited po:nome is:ngrama_China_Eastern_Airlines_Corporation_Limited
+China po:nome is:ngrama_China_Southern_Airlines
+Southern po:nome is:ngrama_China_Southern_Airlines
+Airlines po:nome is:ngrama_China_Southern_Airlines
 Clickair po:nome
-Airlines po:nome [n-grama: Continental Airlines]
-CSA po:nome [n-grama: CSA Czech Airlines S.A.]
-Czech po:nome [n-grama: CSA Czech Airlines S.A.]
-Airlines po:nome [n-grama: CSA Czech Airlines S.A.]
-S.A. po:nome [n-grama: CSA Czech Airlines S.A.]
-Cubana po:nome [n-grama: Cubana de Aviación]
-Aviación po:nome [n-grama: Cubana de Aviación]
-Air po:nome [n-grama: Delta Air Lines]
-Lines po:nome [n-grama: Delta Air Lines]
-Easy po:nome [n-grama: Easy Jet]
-Jet po:nome [n-grama: Easy Jet]
-EasyJet po:nome [n-grama: EasyJet Airline Company Limited]
-Airline po:nome [n-grama: EasyJet Airline Company Limited]
-Company po:nome [n-grama: EasyJet Airline Company Limited]
-Limited po:nome [n-grama: EasyJet Airline Company Limited]
-EasyJet po:nome [n-grama: EasyJet Switzerland SA]
-Switzerland po:nome [n-grama: EasyJet Switzerland SA]
-SA po:nome [n-grama: EasyJet Switzerland SA]
+Airlines po:nome is:ngrama_Continental_Airlines
+CSA po:nome is:ngrama_CSA_Czech_Airlines_S_A
+Czech po:nome is:ngrama_CSA_Czech_Airlines_S_A
+Airlines po:nome is:ngrama_CSA_Czech_Airlines_S_A
+S.A. po:nome is:ngrama_CSA_Czech_Airlines_S_A
+Cubana po:nome is:ngrama_Cubana_de_Aviación
+Aviación po:nome is:ngrama_Cubana_de_Aviación
+Air po:nome is:ngrama_Delta_Air_Lines
+Lines po:nome is:ngrama_Delta_Air_Lines
+Easy po:nome is:ngrama_Easy_Jet
+Jet po:nome is:ngrama_Easy_Jet
+EasyJet po:nome is:ngrama_EasyJet_Airline_Company_Limited
+Airline po:nome is:ngrama_EasyJet_Airline_Company_Limited
+Company po:nome is:ngrama_EasyJet_Airline_Company_Limited
+Limited po:nome is:ngrama_EasyJet_Airline_Company_Limited
+EasyJet po:nome is:ngrama_EasyJet_Switzerland_SA
+Switzerland po:nome is:ngrama_EasyJet_Switzerland_SA
+SA po:nome is:ngrama_EasyJet_Switzerland_SA
 Finnair po:nome
 Iberia po:nome
-Iberia po:nome [n-grama: Iberia Líneas Aéreas de España]
-Líneas po:nome [n-grama: Iberia Líneas Aéreas de España]
-Aéreas po:nome [n-grama: Iberia Líneas Aéreas de España]
-Inex-Adria po:nome [n-grama: Inex-Adria Airways]
-Airways po:nome [n-grama: Inex-Adria Airways]
-Iraqi po:nome [n-grama: Iraqi Airways]
-Airways po:nome [n-grama: Iraqi Airways]
-Iraqi po:nome [n-grama: Iraqi Airways Company]
-Airways po:nome [n-grama: Iraqi Airways Company]
-Company po:nome [n-grama: Iraqi Airways Company]
-Islas po:nome [n-grama: Islas Líneas Aéreas]
-Líneas po:nome [n-grama: Islas Líneas Aéreas]
-Aéreas po:nome [n-grama: Islas Líneas Aéreas]
-ItAli po:nome [n-grama: ItAli Airlines S.p.A.]
-Airlines po:nome [n-grama: ItAli Airlines S.p.A.]
-S.p.A. po:nome [n-grama: ItAli Airlines S.p.A.]
-Japan po:nome [n-grama: Japan Airlines]
-Airlines po:nome [n-grama: Japan Airlines]
+Iberia po:nome is:ngrama_Iberia_Líneas_Aéreas_de_España
+Líneas po:nome is:ngrama_Iberia_Líneas_Aéreas_de_España
+Aéreas po:nome is:ngrama_Iberia_Líneas_Aéreas_de_España
+Inex-Adria po:nome is:ngrama_Inex_Adria_Airways
+Airways po:nome is:ngrama_Inex_Adria_Airways
+Iraqi po:nome is:ngrama_Iraqi_Airways
+Airways po:nome is:ngrama_Iraqi_Airways
+Iraqi po:nome is:ngrama_Iraqi_Airways_Company
+Airways po:nome is:ngrama_Iraqi_Airways_Company
+Company po:nome is:ngrama_Iraqi_Airways_Company
+Islas po:nome is:ngrama_Islas_Líneas_Aéreas
+Líneas po:nome is:ngrama_Islas_Líneas_Aéreas
+Aéreas po:nome is:ngrama_Islas_Líneas_Aéreas
+ItAli po:nome is:ngrama_ItAli_Airlines_S_p_A
+Airlines po:nome is:ngrama_ItAli_Airlines_S_p_A
+S.p.A. po:nome is:ngrama_ItAli_Airlines_S_p_A
+Japan po:nome is:ngrama_Japan_Airlines
+Airlines po:nome is:ngrama_Japan_Airlines
 KD po:nome
-KD po:nome [n-grama: KD Avia]
-Avia po:nome [n-grama: KD Avia]
+KD po:nome is:ngrama_KD_Avia
+Avia po:nome is:ngrama_KD_Avia
 KLM po:nome
 KNI po:nome
-Koninklijke po:nome [n-grama: Koninklijke Luchtvaart Maatschappij]
-Luchtvaart po:nome [n-grama: Koninklijke Luchtvaart Maatschappij]
-Maatschappij po:nome [n-grama: Koninklijke Luchtvaart Maatschappij]
-Korean po:nome [n-grama: Korean Air]
-Air po:nome [n-grama: Korean Air]
-LAN po:nome [n-grama: LAN Airlines S.A]
-Airlines po:nome [n-grama: LAN Airlines S.A]
-S.A po:nome [n-grama: LAN Airlines S.A]
-LOT po:nome [n-grama: LOT Polish Airlines]
-Polish po:nome [n-grama: LOT Polish Airlines]
-Airlines po:nome [n-grama: LOT Polish Airlines]
+Koninklijke po:nome is:ngrama_Koninklijke_Luchtvaart_Maatschappij
+Luchtvaart po:nome is:ngrama_Koninklijke_Luchtvaart_Maatschappij
+Maatschappij po:nome is:ngrama_Koninklijke_Luchtvaart_Maatschappij
+Korean po:nome is:ngrama_Korean_Air
+Air po:nome is:ngrama_Korean_Air
+LAN po:nome is:ngrama_LAN_Airlines_S_A
+Airlines po:nome is:ngrama_LAN_Airlines_S_A
+S.A po:nome is:ngrama_LAN_Airlines_S_A
+LOT po:nome is:ngrama_LOT_Polish_Airlines
+Polish po:nome is:ngrama_LOT_Polish_Airlines
+Airlines po:nome is:ngrama_LOT_Polish_Airlines
 Lufthansa po:nome
 Malév po:nome
-Nok po:nome [n-grama: Nok Air]
-Air po:nome [n-grama: Nok Air]
-Olympic po:nome [n-grama: Olympic Airlines]
-Airlines po:nome [n-grama: Olympic Airlines]
+Nok po:nome is:ngrama_Nok_Air
+Air po:nome is:ngrama_Nok_Air
+Olympic po:nome is:ngrama_Olympic_Airlines
+Airlines po:nome is:ngrama_Olympic_Airlines
 oneworld po:nome
-Our po:nome [n-grama: Our Airline]
-Airline po:nome [n-grama: Our Airline]
-Pacific po:nome [n-grama: Pacific Sun]
-Sun po:nome [n-grama: Pacific Sun]
-Pan po:nome [n-grama: Pan Am]
-Am po:nome [n-grama: Pan Am]
-Pan po:nome [n-grama: Pan American World Airways]
-American po:nome [n-grama: Pan American World Airways]
-World po:nome [n-grama: Pan American World Airways]
-Airways po:nome [n-grama: Pan American World Airways]
+Our po:nome is:ngrama_Our_Airline
+Airline po:nome is:ngrama_Our_Airline
+Pacific po:nome is:ngrama_Pacific_Sun
+Sun po:nome is:ngrama_Pacific_Sun
+Pan po:nome is:ngrama_Pan_Am
+Am po:nome is:ngrama_Pan_Am
+Pan po:nome is:ngrama_Pan_American_World_Airways
+American po:nome is:ngrama_Pan_American_World_Airways
+World po:nome is:ngrama_Pan_American_World_Airways
+Airways po:nome is:ngrama_Pan_American_World_Airways
 Portugália po:nome
-Portugália–Companhia po:nome [n-grama: Portugália–Companhia Portuguesa de Transportes Aéreos]
-Portuguesa po:nome [n-grama: Portugália–Companhia Portuguesa de Transportes Aéreos]
-Transportes po:nome [n-grama: Portugália–Companhia Portuguesa de Transportes Aéreos]
-Aéreos po:nome [n-grama: Portugália–Companhia Portuguesa de Transportes Aéreos]
-Qantas po:nome [n-grama: Qantas Airways Limited]
-Airways po:nome [n-grama: Qantas Airways Limited]
-Limited po:nome [n-grama: Qantas Airways Limited]
+Portugália–Companhia po:nome is:ngrama_Portugália_Companhia_Portuguesa_de_Transportes_Aéreos
+Portuguesa po:nome is:ngrama_Portugália_Companhia_Portuguesa_de_Transportes_Aéreos
+Transportes po:nome is:ngrama_Portugália_Companhia_Portuguesa_de_Transportes_Aéreos
+Aéreos po:nome is:ngrama_Portugália_Companhia_Portuguesa_de_Transportes_Aéreos
+Qantas po:nome is:ngrama_Qantas_Airways_Limited
+Airways po:nome is:ngrama_Qantas_Airways_Limited
+Limited po:nome is:ngrama_Qantas_Airways_Limited
 Ryanair po:nome
-SAS po:nome [n-grama: SAS AB]
-AB po:nome [n-grama: SAS AB]
-Scandinavian po:nome [n-grama: Scandinavian Airlines System]
-Airlines po:nome [n-grama: Scandinavian Airlines System]
-System po:nome [n-grama: Scandinavian Airlines System]
-Seoul po:nome [n-grama: Seoul Airlines]
-Airlines po:nome [n-grama: Seoul Airlines]
-SkyTeam po:nome [n-grama: SkyTeam Alliance]
-Alliance po:nome [n-grama: SkyTeam Alliance]
+SAS po:nome is:ngrama_SAS_AB
+AB po:nome is:ngrama_SAS_AB
+Scandinavian po:nome is:ngrama_Scandinavian_Airlines_System
+Airlines po:nome is:ngrama_Scandinavian_Airlines_System
+System po:nome is:ngrama_Scandinavian_Airlines_System
+Seoul po:nome is:ngrama_Seoul_Airlines
+Airlines po:nome is:ngrama_Seoul_Airlines
+SkyTeam po:nome is:ngrama_SkyTeam_Alliance
+Alliance po:nome is:ngrama_SkyTeam_Alliance
 SmartWings po:nome
-Société po:nome [n-grama: Société HOP]
-HOP po:nome [n-grama: Société HOP]
-South po:nome [n-grama: South African Airways]
-African po:nome [n-grama: South African Airways]
-Airways po:nome [n-grama: South African Airways]
-Southwest po:nome [n-grama: Southwest Airlines Co.]
-Airlines po:nome [n-grama: Southwest Airlines Co.]
-Co. po:nome [n-grama: Southwest Airlines Co.]
-Spanair po:nome [n-grama: Spanair S.A.]
-S.A. po:nome [n-grama: Spanair S.A.]
-Star po:nome [n-grama: Star Alliance]
-Alliance po:nome [n-grama: Star Alliance]
-Sun po:nome [n-grama: Sun Air]
-Air po:nome [n-grama: Sun Air]
-Sunflower po:nome [n-grama: Sunflower Airlines]
-Airlines po:nome [n-grama: Sunflower Airlines]
+Société po:nome is:ngrama_Société_HOP
+HOP po:nome is:ngrama_Société_HOP
+South po:nome is:ngrama_South_African_Airways
+African po:nome is:ngrama_South_African_Airways
+Airways po:nome is:ngrama_South_African_Airways
+Southwest po:nome is:ngrama_Southwest_Airlines_Co
+Airlines po:nome is:ngrama_Southwest_Airlines_Co
+Co. po:nome is:ngrama_Southwest_Airlines_Co
+Spanair po:nome is:ngrama_Spanair_S_A
+S.A. po:nome is:ngrama_Spanair_S_A
+Star po:nome is:ngrama_Star_Alliance
+Alliance po:nome is:ngrama_Star_Alliance
+Sun po:nome is:ngrama_Sun_Air
+Air po:nome is:ngrama_Sun_Air
+Sunflower po:nome is:ngrama_Sunflower_Airlines
+Airlines po:nome is:ngrama_Sunflower_Airlines
 Swiftair po:nome
-Swiss po:nome [n-grama: Swiss International Air Lines AG]
-International po:nome [n-grama: Swiss International Air Lines AG]
-Air po:nome [n-grama: Swiss International Air Lines AG]
-Lines po:nome [n-grama: Swiss International Air Lines AG]
-AG po:nome [n-grama: Swiss International Air Lines AG]
-Tajik po:nome [n-grama: Tajik Air]
-Air po:nome [n-grama: Tajik Air]
-TAP po:nome [n-grama: TAP Portugal]
-Portugal po:nome [n-grama: TAP Portugal]
-Tassili po:nome [n-grama: Tassili Airlines]
-Airlines po:nome [n-grama: Tassili Airlines]
-Thai po:nome [n-grama: Thai Airways International Public Company Limited]
-Airways po:nome [n-grama: Thai Airways International Public Company Limited]
-International po:nome [n-grama: Thai Airways International Public Company Limited]
-Public po:nome [n-grama: Thai Airways International Public Company Limited]
-Company po:nome [n-grama: Thai Airways International Public Company Limited]
-Limited po:nome [n-grama: Thai Airways International Public Company Limited]
+Swiss po:nome is:ngrama_Swiss_International_Air_Lines_AG
+International po:nome is:ngrama_Swiss_International_Air_Lines_AG
+Air po:nome is:ngrama_Swiss_International_Air_Lines_AG
+Lines po:nome is:ngrama_Swiss_International_Air_Lines_AG
+AG po:nome is:ngrama_Swiss_International_Air_Lines_AG
+Tajik po:nome is:ngrama_Tajik_Air
+Air po:nome is:ngrama_Tajik_Air
+TAP po:nome is:ngrama_TAP_Portugal
+Portugal po:nome is:ngrama_TAP_Portugal
+Tassili po:nome is:ngrama_Tassili_Airlines
+Airlines po:nome is:ngrama_Tassili_Airlines
+Thai po:nome is:ngrama_Thai_Airways_International_Public_Company_Limited
+Airways po:nome is:ngrama_Thai_Airways_International_Public_Company_Limited
+International po:nome is:ngrama_Thai_Airways_International_Public_Company_Limited
+Public po:nome is:ngrama_Thai_Airways_International_Public_Company_Limited
+Company po:nome is:ngrama_Thai_Airways_International_Public_Company_Limited
+Limited po:nome is:ngrama_Thai_Airways_International_Public_Company_Limited
 THY po:nome
-Transavia po:nome [n-grama: Transavia France]
-France po:nome [n-grama: Transavia France]
-Transavia po:nome [n-grama: Transavia France S.A.S.]
-France po:nome [n-grama: Transavia France S.A.S.]
-S.A.S. po:nome [n-grama: Transavia France S.A.S.]
+Transavia po:nome is:ngrama_Transavia_France
+France po:nome is:ngrama_Transavia_France
+Transavia po:nome is:ngrama_Transavia_France_S_A_S
+France po:nome is:ngrama_Transavia_France_S_A_S
+S.A.S. po:nome is:ngrama_Transavia_France_S_A_S
 transavia.com po:nome
-Transavia.com po:nome [n-grama: Transavia.com France]
-France po:nome [n-grama: Transavia.com France]
-Turku po:nome [n-grama: Turku Air Oy]
-Air po:nome [n-grama: Turku Air Oy]
-Oy po:nome [n-grama: Turku Air Oy]
-Ukraine po:nome [n-grama: Ukraine International Airlines]
-International po:nome [n-grama: Ukraine International Airlines]
-Airlines po:nome [n-grama: Ukraine International Airlines]
-United po:nome [n-grama: United Air Lines]
-Air po:nome [n-grama: United Air Lines]
-Lines po:nome [n-grama: United Air Lines]
-US po:nome [n-grama: US Airways]
-Airways po:nome [n-grama: US Airways]
-Virgin po:nome [n-grama: Virgin Atlantic]
-Atlantic po:nome [n-grama: Virgin Atlantic]
-Virgin po:nome [n-grama: Virgin Atlantic Airways Limited]
-Atlantic po:nome [n-grama: Virgin Atlantic Airways Limited]
-Airways po:nome [n-grama: Virgin Atlantic Airways Limited]
-Limited po:nome [n-grama: Virgin Atlantic Airways Limited]
-Vueling po:nome [n-grama: Vueling Airlines]
-Airlines po:nome [n-grama: Vueling Airlines]
-Wizz po:nome [n-grama: Wizz Air]
-Air po:nome [n-grama: Wizz Air]
+Transavia.com po:nome is:ngrama_Transavia_com_France
+France po:nome is:ngrama_Transavia_com_France
+Turku po:nome is:ngrama_Turku_Air_Oy
+Air po:nome is:ngrama_Turku_Air_Oy
+Oy po:nome is:ngrama_Turku_Air_Oy
+Ukraine po:nome is:ngrama_Ukraine_International_Airlines
+International po:nome is:ngrama_Ukraine_International_Airlines
+Airlines po:nome is:ngrama_Ukraine_International_Airlines
+United po:nome is:ngrama_United_Air_Lines
+Air po:nome is:ngrama_United_Air_Lines
+Lines po:nome is:ngrama_United_Air_Lines
+US po:nome is:ngrama_US_Airways
+Airways po:nome is:ngrama_US_Airways
+Virgin po:nome is:ngrama_Virgin_Atlantic
+Atlantic po:nome is:ngrama_Virgin_Atlantic
+Virgin po:nome is:ngrama_Virgin_Atlantic_Airways_Limited
+Atlantic po:nome is:ngrama_Virgin_Atlantic_Airways_Limited
+Airways po:nome is:ngrama_Virgin_Atlantic_Airways_Limited
+Limited po:nome is:ngrama_Virgin_Atlantic_Airways_Limited
+Vueling po:nome is:ngrama_Vueling_Airlines
+Airlines po:nome is:ngrama_Vueling_Airlines
+Wizz po:nome is:ngrama_Wizz_Air
+Air po:nome is:ngrama_Wizz_Air
 Zennikkū po:nome
 Аэрофло́т po:nome
 Белавія po:nome

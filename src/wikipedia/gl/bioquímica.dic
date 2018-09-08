@@ -1,84 +1,84 @@
-3-hidroxi-3-metilglutaril-coencima po:substantivo [n-grama: 3-hidroxi-3-metilglutaril-coencima A]
-acetil po:substantivo [n-grama: acetil coencima A]
-coencima po:substantivo [n-grama: acetil coencima A]
-acetil po:substantivo [n-grama: acetil coenzima A]
-coenzima po:substantivo [n-grama: acetil coenzima A]
+3-hidroxi-3-metilglutaril-coencima po:substantivo is:ngrama_3_hidroxi_3_metilglutaril_coencima_A
+acetil po:substantivo is:ngrama_acetil_coencima_A
+coencima po:substantivo is:ngrama_acetil_coencima_A
+acetil po:substantivo is:ngrama_acetil_coenzima_A
+coenzima po:substantivo is:ngrama_acetil_coenzima_A
 acetil-CoA po:substantivo
 acetoacetil-CoA po:substantivo
-acetoacetil-coencima po:substantivo [n-grama: acetoacetil-coencima A]
-ácido po:substantivo [n-grama: ácido tetrahidrofólico]
-tetrahidrofólico po:substantivo [n-grama: ácido tetrahidrofólico]
+acetoacetil-coencima po:substantivo is:ngrama_acetoacetil_coencima_A
+ácido po:substantivo is:ngrama_ácido_tetrahidrofólico
+tetrahidrofólico po:substantivo is:ngrama_ácido_tetrahidrofólico
 CoA po:substantivo
-coencima po:substantivo [n-grama: coencima A]
-coencima po:substantivo [n-grama: coencima B]
-B po:substantivo [n-grama: coencima B]
-coencima po:substantivo [n-grama: coencima M]
-M po:substantivo [n-grama: coencima M]
-coencimas po:substantivo [n-grama: coencimas Q]
-Q po:substantivo [n-grama: coencimas Q]
-coenzima po:substantivo [n-grama: coenzima M]
-M po:substantivo [n-grama: coenzima M]
-dinucleótido po:substantivo [n-grama: dinucleótido de flavina e adenina]
-flavina po:substantivo [n-grama: dinucleótido de flavina e adenina]
-adenina po:substantivo [n-grama: dinucleótido de flavina e adenina]
-dinucleótido po:substantivo [n-grama: dinucleótido de nicotinamida e adenina]
-nicotinamida po:substantivo [n-grama: dinucleótido de nicotinamida e adenina]
-adenina po:substantivo [n-grama: dinucleótido de nicotinamida e adenina]
+coencima po:substantivo is:ngrama_coencima_A
+coencima po:substantivo is:ngrama_coencima_B
+B po:substantivo is:ngrama_coencima_B
+coencima po:substantivo is:ngrama_coencima_M
+M po:substantivo is:ngrama_coencima_M
+coencimas po:substantivo is:ngrama_coencimas_Q
+Q po:substantivo is:ngrama_coencimas_Q
+coenzima po:substantivo is:ngrama_coenzima_M
+M po:substantivo is:ngrama_coenzima_M
+dinucleótido po:substantivo is:ngrama_dinucleótido_de_flavina_e_adenina
+flavina po:substantivo is:ngrama_dinucleótido_de_flavina_e_adenina
+adenina po:substantivo is:ngrama_dinucleótido_de_flavina_e_adenina
+dinucleótido po:substantivo is:ngrama_dinucleótido_de_nicotinamida_e_adenina
+nicotinamida po:substantivo is:ngrama_dinucleótido_de_nicotinamida_e_adenina
+adenina po:substantivo is:ngrama_dinucleótido_de_nicotinamida_e_adenina
 FAD po:substantivo
 FADH₂ po:substantivo
-flavín po:substantivo [n-grama: flavín adenín dinucleótido]
-adenín po:substantivo [n-grama: flavín adenín dinucleótido]
-dinucleótido po:substantivo [n-grama: flavín adenín dinucleótido]
-flavín po:substantivo [n-grama: flavín mononucleótido]
-mononucleótido po:substantivo [n-grama: flavín mononucleótido]
+flavín po:substantivo is:ngrama_flavín_adenín_dinucleótido
+adenín po:substantivo is:ngrama_flavín_adenín_dinucleótido
+dinucleótido po:substantivo is:ngrama_flavín_adenín_dinucleótido
+flavín po:substantivo is:ngrama_flavín_mononucleótido
+mononucleótido po:substantivo is:ngrama_flavín_mononucleótido
 flavina po:substantivo
 FMN po:substantivo
 FMNH₂ po:substantivo
-fosfato po:substantivo [n-grama: fosfato do dinucleótido de nicotinamida e adenina]
-dinucleótido po:substantivo [n-grama: fosfato do dinucleótido de nicotinamida e adenina]
-nicotinamida po:substantivo [n-grama: fosfato do dinucleótido de nicotinamida e adenina]
-adenina po:substantivo [n-grama: fosfato do dinucleótido de nicotinamida e adenina]
+fosfato po:substantivo is:ngrama_fosfato_do_dinucleótido_de_nicotinamida_e_adenina
+dinucleótido po:substantivo is:ngrama_fosfato_do_dinucleótido_de_nicotinamida_e_adenina
+nicotinamida po:substantivo is:ngrama_fosfato_do_dinucleótido_de_nicotinamida_e_adenina
+adenina po:substantivo is:ngrama_fosfato_do_dinucleótido_de_nicotinamida_e_adenina
 HMG-CoA po:substantivo
 malonil-CoA po:substantivo
-malonil-coencima po:substantivo [n-grama: malonil-coencima A]
+malonil-coencima po:substantivo is:ngrama_malonil_coencima_A
 metanofuranos po:substantivo
-mononucleótido po:substantivo [n-grama: mononucleótido de flavina]
-flavina po:substantivo [n-grama: mononucleótido de flavina]
+mononucleótido po:substantivo is:ngrama_mononucleótido_de_flavina
+flavina po:substantivo is:ngrama_mononucleótido_de_flavina
 NAD⁺ po:substantivo
 NADH po:substantivo
 NADP⁺ po:substantivo
 NADPH po:substantivo
-nicotín po:substantivo [n-grama: nicotín adenín dinucleótido]
-adenín po:substantivo [n-grama: nicotín adenín dinucleótido]
-dinucleótido po:substantivo [n-grama: nicotín adenín dinucleótido]
-nicotín po:substantivo [n-grama: nicotín adenín dinucleótido fosfato]
-adenín po:substantivo [n-grama: nicotín adenín dinucleótido fosfato]
-dinucleótido po:substantivo [n-grama: nicotín adenín dinucleótido fosfato]
-fosfato po:substantivo [n-grama: nicotín adenín dinucleótido fosfato]
-nicotinamida po:substantivo [n-grama: nicotinamida adenina dinucleótido]
-adenina po:substantivo [n-grama: nicotinamida adenina dinucleótido]
-dinucleótido po:substantivo [n-grama: nicotinamida adenina dinucleótido]
-nicotinamida po:substantivo [n-grama: nicotinamida adenina dinucleótido fosfato]
-adenina po:substantivo [n-grama: nicotinamida adenina dinucleótido fosfato]
-dinucleótido po:substantivo [n-grama: nicotinamida adenina dinucleótido fosfato]
-fosfato po:substantivo [n-grama: nicotinamida adenina dinucleótido fosfato]
-nucleótidos po:substantivo [n-grama: nucleótidos azucres]
-azucres po:substantivo [n-grama: nucleótidos azucres]
-pirofosfato po:substantivo [n-grama: pirofosfato de tiamina]
-tiamina po:substantivo [n-grama: pirofosfato de tiamina]
+nicotín po:substantivo is:ngrama_nicotín_adenín_dinucleótido
+adenín po:substantivo is:ngrama_nicotín_adenín_dinucleótido
+dinucleótido po:substantivo is:ngrama_nicotín_adenín_dinucleótido
+nicotín po:substantivo is:ngrama_nicotín_adenín_dinucleótido_fosfato
+adenín po:substantivo is:ngrama_nicotín_adenín_dinucleótido_fosfato
+dinucleótido po:substantivo is:ngrama_nicotín_adenín_dinucleótido_fosfato
+fosfato po:substantivo is:ngrama_nicotín_adenín_dinucleótido_fosfato
+nicotinamida po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido
+adenina po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido
+dinucleótido po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido
+nicotinamida po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido_fosfato
+adenina po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido_fosfato
+dinucleótido po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido_fosfato
+fosfato po:substantivo is:ngrama_nicotinamida_adenina_dinucleótido_fosfato
+nucleótidos po:substantivo is:ngrama_nucleótidos_azucres
+azucres po:substantivo is:ngrama_nucleótidos_azucres
+pirofosfato po:substantivo is:ngrama_pirofosfato_de_tiamina
+tiamina po:substantivo is:ngrama_pirofosfato_de_tiamina
 propionil-CoA po:substantivo
-propionil-coencima po:substantivo [n-grama: propionil-coencima A]
+propionil-coencima po:substantivo is:ngrama_propionil_coencima_A
 riboflavina-5′-fosfato po:substantivo
-S-adenosil po:substantivo [n-grama: S-adenosil metionina]
-metionina po:substantivo [n-grama: S-adenosil metionina]
+S-adenosil po:substantivo is:ngrama_S_adenosil_metionina
+metionina po:substantivo is:ngrama_S_adenosil_metionina
 succinil-CoA po:substantivo
-succinil-coencima po:substantivo [n-grama: succinil-coencima A]
+succinil-coencima po:substantivo is:ngrama_succinil_coencima_A
 tetrahidrofolato po:substantivo
-tiamina po:substantivo [n-grama: tiamina difosfato]
-difosfato po:substantivo [n-grama: tiamina difosfato]
-tiamina po:substantivo [n-grama: tiamina pirofosfato]
-pirofosfato po:substantivo [n-grama: tiamina pirofosfato]
+tiamina po:substantivo is:ngrama_tiamina_difosfato
+difosfato po:substantivo is:ngrama_tiamina_difosfato
+tiamina po:substantivo is:ngrama_tiamina_pirofosfato
+pirofosfato po:substantivo is:ngrama_tiamina_pirofosfato
 TPP po:substantivo
 ubiquinonas po:substantivo
 UDP-glicosa po:substantivo
-β-hidroxi-β-metilglutaril-coencima po:substantivo [n-grama: β-hidroxi-β-metilglutaril-coencima A]
+β-hidroxi-β-metilglutaril-coencima po:substantivo is:ngrama_β_hidroxi_β_metilglutaril_coencima_A

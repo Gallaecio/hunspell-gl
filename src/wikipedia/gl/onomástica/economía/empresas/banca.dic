@@ -1,138 +1,138 @@
 BAD po:nome
-Banc po:nome [n-grama: Banc Sabadell]
-Sabadell po:nome [n-grama: Banc Sabadell]
+Banc po:nome is:ngrama_Banc_Sabadell
+Sabadell po:nome is:ngrama_Banc_Sabadell
 Bancaja po:nome
-Banco po:nome [n-grama: Banco Africano de Desenvolvemento]
-Africano po:nome [n-grama: Banco Africano de Desenvolvemento]
-Desenvolvemento po:nome [n-grama: Banco Africano de Desenvolvemento]
-Banco po:nome [n-grama: Banco Asiático de Desenvolvemento]
-Asiático po:nome [n-grama: Banco Asiático de Desenvolvemento]
-Desenvolvemento po:nome [n-grama: Banco Asiático de Desenvolvemento]
-Banco po:nome [n-grama: Banco Bilbao Vizcaya Argentaria]
-Bilbao po:nome [n-grama: Banco Bilbao Vizcaya Argentaria]
-Vizcaya po:nome [n-grama: Banco Bilbao Vizcaya Argentaria]
-Argentaria po:nome [n-grama: Banco Bilbao Vizcaya Argentaria]
-Banco po:nome [n-grama: Banco de Desenvolvemento do BRICS]
-Desenvolvemento po:nome [n-grama: Banco de Desenvolvemento do BRICS]
-BRICS po:nome [n-grama: Banco de Desenvolvemento do BRICS]
-Banco po:nome [n-grama: Banco de Galicia]
-Banco po:nome [n-grama: Banco de La Coruña]
-La po:nome [n-grama: Banco de La Coruña]
-Coruña po:nome [n-grama: Banco de La Coruña]
-Banco po:nome [n-grama: Banco de Portugal]
-Portugal po:nome [n-grama: Banco de Portugal]
-Banco po:nome [n-grama: Banco de Vigo]
-Vigo po:nome [n-grama: Banco de Vigo]
-Banco po:nome [n-grama: Banco do BRICS]
-BRICS po:nome [n-grama: Banco do BRICS]
-Banco po:nome [n-grama: Banco Etcheverría]
-Etcheverría po:nome [n-grama: Banco Etcheverría]
-Banco po:nome [n-grama: Banco Gallego]
-Gallego po:nome [n-grama: Banco Gallego]
-Banco po:nome [n-grama: Banco Pastor]
-Pastor po:nome [n-grama: Banco Pastor]
-Banco po:nome [n-grama: Banco Santander]
-Santander po:nome [n-grama: Banco Santander]
+Banco po:nome is:ngrama_Banco_Africano_de_Desenvolvemento
+Africano po:nome is:ngrama_Banco_Africano_de_Desenvolvemento
+Desenvolvemento po:nome is:ngrama_Banco_Africano_de_Desenvolvemento
+Banco po:nome is:ngrama_Banco_Asiático_de_Desenvolvemento
+Asiático po:nome is:ngrama_Banco_Asiático_de_Desenvolvemento
+Desenvolvemento po:nome is:ngrama_Banco_Asiático_de_Desenvolvemento
+Banco po:nome is:ngrama_Banco_Bilbao_Vizcaya_Argentaria
+Bilbao po:nome is:ngrama_Banco_Bilbao_Vizcaya_Argentaria
+Vizcaya po:nome is:ngrama_Banco_Bilbao_Vizcaya_Argentaria
+Argentaria po:nome is:ngrama_Banco_Bilbao_Vizcaya_Argentaria
+Banco po:nome is:ngrama_Banco_de_Desenvolvemento_do_BRICS
+Desenvolvemento po:nome is:ngrama_Banco_de_Desenvolvemento_do_BRICS
+BRICS po:nome is:ngrama_Banco_de_Desenvolvemento_do_BRICS
+Banco po:nome is:ngrama_Banco_de_Galicia
+Banco po:nome is:ngrama_Banco_de_La_Coruña
+La po:nome is:ngrama_Banco_de_La_Coruña
+Coruña po:nome is:ngrama_Banco_de_La_Coruña
+Banco po:nome is:ngrama_Banco_de_Portugal
+Portugal po:nome is:ngrama_Banco_de_Portugal
+Banco po:nome is:ngrama_Banco_de_Vigo
+Vigo po:nome is:ngrama_Banco_de_Vigo
+Banco po:nome is:ngrama_Banco_do_BRICS
+BRICS po:nome is:ngrama_Banco_do_BRICS
+Banco po:nome is:ngrama_Banco_Etcheverría
+Etcheverría po:nome is:ngrama_Banco_Etcheverría
+Banco po:nome is:ngrama_Banco_Gallego
+Gallego po:nome is:ngrama_Banco_Gallego
+Banco po:nome is:ngrama_Banco_Pastor
+Pastor po:nome is:ngrama_Banco_Pastor
+Banco po:nome is:ngrama_Banco_Santander
+Santander po:nome is:ngrama_Banco_Santander
 Banesco po:nome
-Banesco po:nome [n-grama: Banesco Banco Múltiple]
-Banco po:nome [n-grama: Banesco Banco Múltiple]
-Múltiple po:nome [n-grama: Banesco Banco Múltiple]
-Banesco po:nome [n-grama: Banesco Banco Universal]
-Banco po:nome [n-grama: Banesco Banco Universal]
-Universal po:nome [n-grama: Banesco Banco Universal]
-Banesco po:nome [n-grama: Banesco Holdig]
-Holdig po:nome [n-grama: Banesco Holdig]
-Banesco po:nome [n-grama: Banesco International Bank Inc.]
-International po:nome [n-grama: Banesco International Bank Inc.]
-Bank po:nome [n-grama: Banesco International Bank Inc.]
-Inc. po:nome [n-grama: Banesco International Bank Inc.]
-Banesco po:nome [n-grama: Banesco Panamá]
-Panamá po:nome [n-grama: Banesco Panamá]
-Banesco po:nome [n-grama: Banesco República Dominicana]
-Dominicana po:nome [n-grama: Banesco República Dominicana]
+Banesco po:nome is:ngrama_Banesco_Banco_Múltiple
+Banco po:nome is:ngrama_Banesco_Banco_Múltiple
+Múltiple po:nome is:ngrama_Banesco_Banco_Múltiple
+Banesco po:nome is:ngrama_Banesco_Banco_Universal
+Banco po:nome is:ngrama_Banesco_Banco_Universal
+Universal po:nome is:ngrama_Banesco_Banco_Universal
+Banesco po:nome is:ngrama_Banesco_Holdig
+Holdig po:nome is:ngrama_Banesco_Holdig
+Banesco po:nome is:ngrama_Banesco_International_Bank_Inc
+International po:nome is:ngrama_Banesco_International_Bank_Inc
+Bank po:nome is:ngrama_Banesco_International_Bank_Inc
+Inc. po:nome is:ngrama_Banesco_International_Bank_Inc
+Banesco po:nome is:ngrama_Banesco_Panamá
+Panamá po:nome is:ngrama_Banesco_Panamá
+Banesco po:nome is:ngrama_Banesco_República_Dominicana
+Dominicana po:nome is:ngrama_Banesco_República_Dominicana
 BBK po:nome
 BBVA po:nome
-Bilbao po:nome [n-grama: Bilbao Bizkaia Kutxa]
-Bizkaia po:nome [n-grama: Bilbao Bizkaia Kutxa]
-Kutxa po:nome [n-grama: Bilbao Bizkaia Kutxa]
-Caixa po:nome [n-grama: Caixa Catalunya]
-Catalunya po:nome [n-grama: Caixa Catalunya]
-Caixa po:nome [n-grama: Caixa d'Estalvis de Catalunya]
-d'Estalvis po:nome [n-grama: Caixa d'Estalvis de Catalunya]
-Catalunya po:nome [n-grama: Caixa d'Estalvis de Catalunya]
-Caixa po:nome [n-grama: Caixa d'Estalvis i Pensions de Barcelona]
-d'Estalvis po:nome [n-grama: Caixa d'Estalvis i Pensions de Barcelona]
-Pensions po:nome [n-grama: Caixa d'Estalvis i Pensions de Barcelona]
-Barcelona po:nome [n-grama: Caixa d'Estalvis i Pensions de Barcelona]
-Caixa po:nome [n-grama: Caixa de Aforros e Pensións de Barcelona]
-Aforros po:nome [n-grama: Caixa de Aforros e Pensións de Barcelona]
-Pensións po:nome [n-grama: Caixa de Aforros e Pensións de Barcelona]
-Barcelona po:nome [n-grama: Caixa de Aforros e Pensións de Barcelona]
-Caixa po:nome [n-grama: Caixa de Aforros Provincial de Ourense]
-Aforros po:nome [n-grama: Caixa de Aforros Provincial de Ourense]
-Provincial po:nome [n-grama: Caixa de Aforros Provincial de Ourense]
-Ourense po:nome [n-grama: Caixa de Aforros Provincial de Ourense]
-Caixa po:nome [n-grama: Caixa de Aforros Provincial de Pontevedra]
-Aforros po:nome [n-grama: Caixa de Aforros Provincial de Pontevedra]
-Provincial po:nome [n-grama: Caixa de Aforros Provincial de Pontevedra]
-Pontevedra po:nome [n-grama: Caixa de Aforros Provincial de Pontevedra]
-Caixa po:nome [n-grama: Caixa Geral de Depósitos]
-Geral po:nome [n-grama: Caixa Geral de Depósitos]
-Depósitos po:nome [n-grama: Caixa Geral de Depósitos]
-Caixa po:nome [n-grama: Caixa Ourense]
-Ourense po:nome [n-grama: Caixa Ourense]
-Caixa po:nome [n-grama: Caixa Rural de Ourense]
-Rural po:nome [n-grama: Caixa Rural de Ourense]
-Ourense po:nome [n-grama: Caixa Rural de Ourense]
-Caixa po:nome [n-grama: Caixa Rural Galega]
-Rural po:nome [n-grama: Caixa Rural Galega]
-Caja po:nome [n-grama: Caja de Ahorros de Valencia]
-Ahorros po:nome [n-grama: Caja de Ahorros de Valencia]
-Valencia po:nome [n-grama: Caja de Ahorros de Valencia]
-Caja po:nome [n-grama: Caja de Ahorros y Monte de Piedad de Madrid]
-Ahorros po:nome [n-grama: Caja de Ahorros y Monte de Piedad de Madrid]
-y po:nome [n-grama: Caja de Ahorros y Monte de Piedad de Madrid]
-Piedad po:nome [n-grama: Caja de Ahorros y Monte de Piedad de Madrid]
-Madrid po:nome [n-grama: Caja de Ahorros y Monte de Piedad de Madrid]
-Caja po:nome [n-grama: Caja Madrid]
-Madrid po:nome [n-grama: Caja Madrid]
-Caja po:nome [n-grama: Caja Rural de Lérez]
-Rural po:nome [n-grama: Caja Rural de Lérez]
-Lérez po:nome [n-grama: Caja Rural de Lérez]
-Caja po:nome [n-grama: Caja Rural de Orense]
-Rural po:nome [n-grama: Caja Rural de Orense]
-Orense po:nome [n-grama: Caja Rural de Orense]
-EVO po:nome [n-grama: EVO Banco]
-Banco po:nome [n-grama: EVO Banco]
-Firstar po:nome [n-grama: Firstar Corporation]
-Corporation po:nome [n-grama: Firstar Corporation]
-Gipuzkoa po:nome [n-grama: Gipuzkoa eta Donostiako Aurrezki Kutxa]
-eta po:nome [n-grama: Gipuzkoa eta Donostiako Aurrezki Kutxa]
-Donostiako po:nome [n-grama: Gipuzkoa eta Donostiako Aurrezki Kutxa]
-Aurrezki po:nome [n-grama: Gipuzkoa eta Donostiako Aurrezki Kutxa]
-Kutxa po:nome [n-grama: Gipuzkoa eta Donostiako Aurrezki Kutxa]
-Grupo po:nome [n-grama: Grupo Banesco]
-Banesco po:nome [n-grama: Grupo Banesco]
-Grupo po:nome [n-grama: Grupo Santander]
-Santander po:nome [n-grama: Grupo Santander]
-JAK po:nome [n-grama: JAK Medlemsbank]
-Medlemsbank po:nome [n-grama: JAK Medlemsbank]
+Bilbao po:nome is:ngrama_Bilbao_Bizkaia_Kutxa
+Bizkaia po:nome is:ngrama_Bilbao_Bizkaia_Kutxa
+Kutxa po:nome is:ngrama_Bilbao_Bizkaia_Kutxa
+Caixa po:nome is:ngrama_Caixa_Catalunya
+Catalunya po:nome is:ngrama_Caixa_Catalunya
+Caixa po:nome is:ngrama_Caixa_d_Estalvis_de_Catalunya
+d'Estalvis po:nome is:ngrama_Caixa_d_Estalvis_de_Catalunya
+Catalunya po:nome is:ngrama_Caixa_d_Estalvis_de_Catalunya
+Caixa po:nome is:ngrama_Caixa_d_Estalvis_i_Pensions_de_Barcelona
+d'Estalvis po:nome is:ngrama_Caixa_d_Estalvis_i_Pensions_de_Barcelona
+Pensions po:nome is:ngrama_Caixa_d_Estalvis_i_Pensions_de_Barcelona
+Barcelona po:nome is:ngrama_Caixa_d_Estalvis_i_Pensions_de_Barcelona
+Caixa po:nome is:ngrama_Caixa_de_Aforros_e_Pensións_de_Barcelona
+Aforros po:nome is:ngrama_Caixa_de_Aforros_e_Pensións_de_Barcelona
+Pensións po:nome is:ngrama_Caixa_de_Aforros_e_Pensións_de_Barcelona
+Barcelona po:nome is:ngrama_Caixa_de_Aforros_e_Pensións_de_Barcelona
+Caixa po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Ourense
+Aforros po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Ourense
+Provincial po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Ourense
+Ourense po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Ourense
+Caixa po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Pontevedra
+Aforros po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Pontevedra
+Provincial po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Pontevedra
+Pontevedra po:nome is:ngrama_Caixa_de_Aforros_Provincial_de_Pontevedra
+Caixa po:nome is:ngrama_Caixa_Geral_de_Depósitos
+Geral po:nome is:ngrama_Caixa_Geral_de_Depósitos
+Depósitos po:nome is:ngrama_Caixa_Geral_de_Depósitos
+Caixa po:nome is:ngrama_Caixa_Ourense
+Ourense po:nome is:ngrama_Caixa_Ourense
+Caixa po:nome is:ngrama_Caixa_Rural_de_Ourense
+Rural po:nome is:ngrama_Caixa_Rural_de_Ourense
+Ourense po:nome is:ngrama_Caixa_Rural_de_Ourense
+Caixa po:nome is:ngrama_Caixa_Rural_Galega
+Rural po:nome is:ngrama_Caixa_Rural_Galega
+Caja po:nome is:ngrama_Caja_de_Ahorros_de_Valencia
+Ahorros po:nome is:ngrama_Caja_de_Ahorros_de_Valencia
+Valencia po:nome is:ngrama_Caja_de_Ahorros_de_Valencia
+Caja po:nome is:ngrama_Caja_de_Ahorros_y_Monte_de_Piedad_de_Madrid
+Ahorros po:nome is:ngrama_Caja_de_Ahorros_y_Monte_de_Piedad_de_Madrid
+y po:nome is:ngrama_Caja_de_Ahorros_y_Monte_de_Piedad_de_Madrid
+Piedad po:nome is:ngrama_Caja_de_Ahorros_y_Monte_de_Piedad_de_Madrid
+Madrid po:nome is:ngrama_Caja_de_Ahorros_y_Monte_de_Piedad_de_Madrid
+Caja po:nome is:ngrama_Caja_Madrid
+Madrid po:nome is:ngrama_Caja_Madrid
+Caja po:nome is:ngrama_Caja_Rural_de_Lérez
+Rural po:nome is:ngrama_Caja_Rural_de_Lérez
+Lérez po:nome is:ngrama_Caja_Rural_de_Lérez
+Caja po:nome is:ngrama_Caja_Rural_de_Orense
+Rural po:nome is:ngrama_Caja_Rural_de_Orense
+Orense po:nome is:ngrama_Caja_Rural_de_Orense
+EVO po:nome is:ngrama_EVO_Banco
+Banco po:nome is:ngrama_EVO_Banco
+Firstar po:nome is:ngrama_Firstar_Corporation
+Corporation po:nome is:ngrama_Firstar_Corporation
+Gipuzkoa po:nome is:ngrama_Gipuzkoa_eta_Donostiako_Aurrezki_Kutxa
+eta po:nome is:ngrama_Gipuzkoa_eta_Donostiako_Aurrezki_Kutxa
+Donostiako po:nome is:ngrama_Gipuzkoa_eta_Donostiako_Aurrezki_Kutxa
+Aurrezki po:nome is:ngrama_Gipuzkoa_eta_Donostiako_Aurrezki_Kutxa
+Kutxa po:nome is:ngrama_Gipuzkoa_eta_Donostiako_Aurrezki_Kutxa
+Grupo po:nome is:ngrama_Grupo_Banesco
+Banesco po:nome is:ngrama_Grupo_Banesco
+Grupo po:nome is:ngrama_Grupo_Santander
+Santander po:nome is:ngrama_Grupo_Santander
+JAK po:nome is:ngrama_JAK_Medlemsbank
+Medlemsbank po:nome is:ngrama_JAK_Medlemsbank
 Kutxa po:nome
 Kutxabank po:nome
-La po:nome [n-grama: La Caixa]
-Caixa po:nome [n-grama: La Caixa]
+La po:nome is:ngrama_La_Caixa
+Caixa po:nome is:ngrama_La_Caixa
 NBD po:nome
 Novacaixagalicia po:nome
-Banco po:nome [n-grama: Novo Banco de Desenvolvemento]
-Desenvolvemento po:nome [n-grama: Novo Banco de Desenvolvemento]
-Swissquote po:nome [n-grama: Swissquote Group Holding S. A.]
-Group po:nome [n-grama: Swissquote Group Holding S. A.]
-Holding po:nome [n-grama: Swissquote Group Holding S. A.]
-S. po:nome [n-grama: Swissquote Group Holding S. A.]
-A. po:nome [n-grama: Swissquote Group Holding S. A.]
-Triodos po:nome [n-grama: Triodos Bank]
-Bank po:nome [n-grama: Triodos Bank]
-U.S. po:nome [n-grama: U.S. Bancorp]
-Bancorp po:nome [n-grama: U.S. Bancorp]
-U.S. po:nome [n-grama: U.S. Bank]
-Bank po:nome [n-grama: U.S. Bank]
+Banco po:nome is:ngrama_Novo_Banco_de_Desenvolvemento
+Desenvolvemento po:nome is:ngrama_Novo_Banco_de_Desenvolvemento
+Swissquote po:nome is:ngrama_Swissquote_Group_Holding_S_A
+Group po:nome is:ngrama_Swissquote_Group_Holding_S_A
+Holding po:nome is:ngrama_Swissquote_Group_Holding_S_A
+S. po:nome is:ngrama_Swissquote_Group_Holding_S_A
+A. po:nome is:ngrama_Swissquote_Group_Holding_S_A
+Triodos po:nome is:ngrama_Triodos_Bank
+Bank po:nome is:ngrama_Triodos_Bank
+U.S. po:nome is:ngrama_U_S_Bancorp
+Bancorp po:nome is:ngrama_U_S_Bancorp
+U.S. po:nome is:ngrama_U_S_Bank
+Bank po:nome is:ngrama_U_S_Bank

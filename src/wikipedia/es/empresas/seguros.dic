@@ -1,260 +1,260 @@
-Admiral po:nome [n-grama: Admiral Group plc]
-Group po:nome [n-grama: Admiral Group plc]
-plc po:nome [n-grama: Admiral Group plc]
-AEGON po:nome [n-grama: AEGON Naamloze vennootschap|N.V.]
-Naamloze po:nome [n-grama: AEGON Naamloze vennootschap|N.V.]
-vennootschap|N.V. po:nome [n-grama: AEGON Naamloze vennootschap|N.V.]
+Admiral po:nome is:ngrama_Admiral_Group_plc
+Group po:nome is:ngrama_Admiral_Group_plc
+plc po:nome is:ngrama_Admiral_Group_plc
+AEGON po:nome is:ngrama_AEGON_Naamloze_vennootschap_N_V
+Naamloze po:nome is:ngrama_AEGON_Naamloze_vennootschap_N_V
+vennootschap|N.V. po:nome is:ngrama_AEGON_Naamloze_vennootschap_N_V
 Aetna po:nome
 Ageas po:nome
 Agrupació po:nome
-Agrupació po:nome [n-grama: Agrupació AMCI d'Assegurances i Reassegurances]
-AMCI po:nome [n-grama: Agrupació AMCI d'Assegurances i Reassegurances]
-d'Assegurances po:nome [n-grama: Agrupació AMCI d'Assegurances i Reassegurances]
-Reassegurances po:nome [n-grama: Agrupació AMCI d'Assegurances i Reassegurances]
+Agrupació po:nome is:ngrama_Agrupació_AMCI_d_Assegurances_i_Reassegurances
+AMCI po:nome is:ngrama_Agrupació_AMCI_d_Assegurances_i_Reassegurances
+d'Assegurances po:nome is:ngrama_Agrupació_AMCI_d_Assegurances_i_Reassegurances
+Reassegurances po:nome is:ngrama_Agrupació_AMCI_d_Assegurances_i_Reassegurances
 AIG po:nome
 Allstate po:nome
-American po:nome [n-grama: American International Group]
-International po:nome [n-grama: American International Group]
-Group po:nome [n-grama: American International Group]
-Aon po:nome [n-grama: Aon Corporation]
-Corporation po:nome [n-grama: Aon Corporation]
+American po:nome is:ngrama_American_International_Group
+International po:nome is:ngrama_American_International_Group
+Group po:nome is:ngrama_American_International_Group
+Aon po:nome is:ngrama_Aon_Corporation
+Corporation po:nome is:ngrama_Aon_Corporation
 ARAG po:nome
-Assicurazioni po:nome [n-grama: Assicurazioni Generali]
-Generali po:nome [n-grama: Assicurazioni Generali]
+Assicurazioni po:nome is:ngrama_Assicurazioni_Generali
+Generali po:nome is:ngrama_Assicurazioni_Generali
 Atradius po:nome
 AXA po:nome
 Balumba po:nome
-Banco po:nome [n-grama: Banco de Seguros del Estado]
-Seguros po:nome [n-grama: Banco de Seguros del Estado]
-del po:nome [n-grama: Banco de Seguros del Estado]
-Banesco po:nome [n-grama: Banesco Seguros]
-Seguros po:nome [n-grama: Banesco Seguros]
-Berkshire po:nome [n-grama: Berkshire Hathaway]
-Hathaway po:nome [n-grama: Berkshire Hathaway]
+Banco po:nome is:ngrama_Banco_de_Seguros_del_Estado
+Seguros po:nome is:ngrama_Banco_de_Seguros_del_Estado
+del po:nome is:ngrama_Banco_de_Seguros_del_Estado
+Banesco po:nome is:ngrama_Banesco_Seguros
+Seguros po:nome is:ngrama_Banesco_Seguros
+Berkshire po:nome is:ngrama_Berkshire_Hathaway
+Hathaway po:nome is:ngrama_Berkshire_Hathaway
 BSE po:nome
 Capitalia po:nome
 Caser po:nome
-Catalana po:nome [n-grama: Catalana Occidente]
-Occidente po:nome [n-grama: Catalana Occidente]
+Catalana po:nome is:ngrama_Catalana_Occidente
+Occidente po:nome is:ngrama_Catalana_Occidente
 CCS po:nome
 CECOSESOLA po:nome
 CESCE po:nome
 CIGNA po:nome
-CNP po:nome [n-grama: CNP Assurances S.A.]
-Assurances po:nome [n-grama: CNP Assurances S.A.]
-S.A. po:nome [n-grama: CNP Assurances S.A.]
+CNP po:nome is:ngrama_CNP_Assurances_S_A
+Assurances po:nome is:ngrama_CNP_Assurances_S_A
+S.A. po:nome is:ngrama_CNP_Assurances_S_A
 coaseguro po:nome
 Coface po:nome
-Compagnie po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-Française po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-d'Assurance po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-pour po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-le po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-Commerce po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-Extérieur po:nome [n-grama: Compagnie Française d'Assurance pour le Commerce Extérieur]
-compañía po:nome [n-grama: compañía de seguros contra incendios]
-seguros po:nome [n-grama: compañía de seguros contra incendios]
-contra po:nome [n-grama: compañía de seguros contra incendios]
-incendios po:nome [n-grama: compañía de seguros contra incendios]
-Compañía po:nome [n-grama: Compañía de Seguros La Equitativa]
-Seguros po:nome [n-grama: Compañía de Seguros La Equitativa]
-La po:nome [n-grama: Compañía de Seguros La Equitativa]
-Equitativa po:nome [n-grama: Compañía de Seguros La Equitativa]
+Compagnie po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+Française po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+d'Assurance po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+pour po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+le po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+Commerce po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+Extérieur po:nome is:ngrama_Compagnie_Française_d_Assurance_pour_le_Commerce_Extérieur
+compañía po:nome is:ngrama_compañía_de_seguros_contra_incendios
+seguros po:nome is:ngrama_compañía_de_seguros_contra_incendios
+contra po:nome is:ngrama_compañía_de_seguros_contra_incendios
+incendios po:nome is:ngrama_compañía_de_seguros_contra_incendios
+Compañía po:nome is:ngrama_Compañía_de_Seguros_La_Equitativa
+Seguros po:nome is:ngrama_Compañía_de_Seguros_La_Equitativa
+La po:nome is:ngrama_Compañía_de_Seguros_La_Equitativa
+Equitativa po:nome is:ngrama_Compañía_de_Seguros_La_Equitativa
 Consorcio po:nome
-Consorcio po:nome [n-grama: Consorcio de Compensación de Seguros]
-Compensación po:nome [n-grama: Consorcio de Compensación de Seguros]
-Seguros po:nome [n-grama: Consorcio de Compensación de Seguros]
+Consorcio po:nome is:ngrama_Consorcio_de_Compensación_de_Seguros
+Compensación po:nome is:ngrama_Consorcio_de_Compensación_de_Seguros
+Seguros po:nome is:ngrama_Consorcio_de_Compensación_de_Seguros
 coseguro po:nome
-Credito po:nome [n-grama: Credito y caucion]
-y po:nome [n-grama: Credito y caucion]
-caucion po:nome [n-grama: Credito y caucion]
+Credito po:nome is:ngrama_Credito_y_caucion
+y po:nome is:ngrama_Credito_y_caucion
+caucion po:nome is:ngrama_Credito_y_caucion
 Dexia po:nome
-Dirección po:nome [n-grama: Dirección General de Seguros y Fondos de Pensiones]
-General po:nome [n-grama: Dirección General de Seguros y Fondos de Pensiones]
-Seguros po:nome [n-grama: Dirección General de Seguros y Fondos de Pensiones]
-y po:nome [n-grama: Dirección General de Seguros y Fondos de Pensiones]
-Fondos po:nome [n-grama: Dirección General de Seguros y Fondos de Pensiones]
-Pensiones po:nome [n-grama: Dirección General de Seguros y Fondos de Pensiones]
-Direct po:nome [n-grama: Direct Seguros]
-Seguros po:nome [n-grama: Direct Seguros]
-El po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-Pacífico-Peruano po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-Suiza po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-Compañía po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-Seguros po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-y po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-Reaseguros po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-S.A. po:nome [n-grama: El Pacífico-Peruano Suiza Compañía de Seguros y Reaseguros S.A.]
-Equidad po:nome [n-grama: Equidad Seguros]
-Seguros po:nome [n-grama: Equidad Seguros]
+Dirección po:nome is:ngrama_Dirección_General_de_Seguros_y_Fondos_de_Pensiones
+General po:nome is:ngrama_Dirección_General_de_Seguros_y_Fondos_de_Pensiones
+Seguros po:nome is:ngrama_Dirección_General_de_Seguros_y_Fondos_de_Pensiones
+y po:nome is:ngrama_Dirección_General_de_Seguros_y_Fondos_de_Pensiones
+Fondos po:nome is:ngrama_Dirección_General_de_Seguros_y_Fondos_de_Pensiones
+Pensiones po:nome is:ngrama_Dirección_General_de_Seguros_y_Fondos_de_Pensiones
+Direct po:nome is:ngrama_Direct_Seguros
+Seguros po:nome is:ngrama_Direct_Seguros
+El po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+Pacífico-Peruano po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+Suiza po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+Compañía po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+Seguros po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+y po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+Reaseguros po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+S.A. po:nome is:ngrama_El_Pacífico_Peruano_Suiza_Compañía_de_Seguros_y_Reaseguros_S_A
+Equidad po:nome is:ngrama_Equidad_Seguros
+Seguros po:nome is:ngrama_Equidad_Seguros
 F.I.V.A. po:nome
-Industrial po:nome [n-grama: Federación Industrial de Autotransportes de Cataluña]
-Autotransportes po:nome [n-grama: Federación Industrial de Autotransportes de Cataluña]
-Cataluña po:nome [n-grama: Federación Industrial de Autotransportes de Cataluña]
-Fénix po:nome [n-grama: Fénix Directo]
-Directo po:nome [n-grama: Fénix Directo]
+Industrial po:nome is:ngrama_Federación_Industrial_de_Autotransportes_de_Cataluña
+Autotransportes po:nome is:ngrama_Federación_Industrial_de_Autotransportes_de_Cataluña
+Cataluña po:nome is:ngrama_Federación_Industrial_de_Autotransportes_de_Cataluña
+Fénix po:nome is:ngrama_Fénix_Directo
+Directo po:nome is:ngrama_Fénix_Directo
 FIATC po:nome
-Fichero po:nome [n-grama: Fichero Informativo de Vehículos Asegurados]
-Informativo po:nome [n-grama: Fichero Informativo de Vehículos Asegurados]
-Vehículos po:nome [n-grama: Fichero Informativo de Vehículos Asegurados]
-Asegurados po:nome [n-grama: Fichero Informativo de Vehículos Asegurados]
-Fondiaria-Sai po:nome [n-grama: Fondiaria-Sai S.p.A.]
-S.p.A. po:nome [n-grama: Fondiaria-Sai S.p.A.]
+Fichero po:nome is:ngrama_Fichero_Informativo_de_Vehículos_Asegurados
+Informativo po:nome is:ngrama_Fichero_Informativo_de_Vehículos_Asegurados
+Vehículos po:nome is:ngrama_Fichero_Informativo_de_Vehículos_Asegurados
+Asegurados po:nome is:ngrama_Fichero_Informativo_de_Vehículos_Asegurados
+Fondiaria-Sai po:nome is:ngrama_Fondiaria_Sai_S_p_A
+S.p.A. po:nome is:ngrama_Fondiaria_Sai_S_p_A
 Fortis po:nome
-Fundación po:nome [n-grama: Fundación Rosillo]
-Rosillo po:nome [n-grama: Fundación Rosillo]
-Gen po:nome [n-grama: Gen Re]
-Re po:nome [n-grama: Gen Re]
-Generali po:nome [n-grama: Generali Seguros]
-Seguros po:nome [n-grama: Generali Seguros]
-Genesis po:nome [n-grama: Genesis seguros]
-seguros po:nome [n-grama: Genesis seguros]
-Grupo po:nome [n-grama: Grupo Allianz]
-Allianz po:nome [n-grama: Grupo Allianz]
-Grupo po:nome [n-grama: Grupo Atlantis]
-Atlantis po:nome [n-grama: Grupo Atlantis]
-Grupo po:nome [n-grama: Grupo internacional RACC-ACM]
-RACC-ACM po:nome [n-grama: Grupo internacional RACC-ACM]
-Grupo po:nome [n-grama: Grupo Morera & Vallejo]
-Morera po:nome [n-grama: Grupo Morera & Vallejo]
-Vallejo po:nome [n-grama: Grupo Morera & Vallejo]
-Hannover po:nome [n-grama: Hannover Rück]
-Rück po:nome [n-grama: Hannover Rück]
-If po:nome [n-grama: If P&C Insurance]
-P&C po:nome [n-grama: If P&C Insurance]
-Insurance po:nome [n-grama: If P&C Insurance]
-ING po:nome [n-grama: ING Groep Naamloze vennootschap|N.V.]
-Groep po:nome [n-grama: ING Groep Naamloze vennootschap|N.V.]
-Naamloze po:nome [n-grama: ING Groep Naamloze vennootschap|N.V.]
-vennootschap|N.V. po:nome [n-grama: ING Groep Naamloze vennootschap|N.V.]
-Instituto po:nome [n-grama: Instituto Venezolano de los Seguros Sociales]
-Venezolano po:nome [n-grama: Instituto Venezolano de los Seguros Sociales]
-los po:nome [n-grama: Instituto Venezolano de los Seguros Sociales]
-Seguros po:nome [n-grama: Instituto Venezolano de los Seguros Sociales]
-Sociales po:nome [n-grama: Instituto Venezolano de los Seguros Sociales]
-Internationale po:nome [n-grama: Internationale Nederlanden Groep]
-Nederlanden po:nome [n-grama: Internationale Nederlanden Groep]
-Groep po:nome [n-grama: Internationale Nederlanden Groep]
-La po:nome [n-grama: La Equitativa]
-Equitativa po:nome [n-grama: La Equitativa]
-La po:nome [n-grama: La Equitativa Fundación Rosillo SA]
-Equitativa po:nome [n-grama: La Equitativa Fundación Rosillo SA]
-Fundación po:nome [n-grama: La Equitativa Fundación Rosillo SA]
-Rosillo po:nome [n-grama: La Equitativa Fundación Rosillo SA]
-SA po:nome [n-grama: La Equitativa Fundación Rosillo SA]
-La po:nome [n-grama: La Unión y el Fénix]
-y po:nome [n-grama: La Unión y el Fénix]
-el po:nome [n-grama: La Unión y el Fénix]
-Fénix po:nome [n-grama: La Unión y el Fénix]
-Liberty po:nome [n-grama: Liberty Seguros]
-Seguros po:nome [n-grama: Liberty Seguros]
+Fundación po:nome is:ngrama_Fundación_Rosillo
+Rosillo po:nome is:ngrama_Fundación_Rosillo
+Gen po:nome is:ngrama_Gen_Re
+Re po:nome is:ngrama_Gen_Re
+Generali po:nome is:ngrama_Generali_Seguros
+Seguros po:nome is:ngrama_Generali_Seguros
+Genesis po:nome is:ngrama_Genesis_seguros
+seguros po:nome is:ngrama_Genesis_seguros
+Grupo po:nome is:ngrama_Grupo_Allianz
+Allianz po:nome is:ngrama_Grupo_Allianz
+Grupo po:nome is:ngrama_Grupo_Atlantis
+Atlantis po:nome is:ngrama_Grupo_Atlantis
+Grupo po:nome is:ngrama_Grupo_internacional_RACC_ACM
+RACC-ACM po:nome is:ngrama_Grupo_internacional_RACC_ACM
+Grupo po:nome is:ngrama_Grupo_Morera_Vallejo
+Morera po:nome is:ngrama_Grupo_Morera_Vallejo
+Vallejo po:nome is:ngrama_Grupo_Morera_Vallejo
+Hannover po:nome is:ngrama_Hannover_Rück
+Rück po:nome is:ngrama_Hannover_Rück
+If po:nome is:ngrama_If_P_C_Insurance
+P&C po:nome is:ngrama_If_P_C_Insurance
+Insurance po:nome is:ngrama_If_P_C_Insurance
+ING po:nome is:ngrama_ING_Groep_Naamloze_vennootschap_N_V
+Groep po:nome is:ngrama_ING_Groep_Naamloze_vennootschap_N_V
+Naamloze po:nome is:ngrama_ING_Groep_Naamloze_vennootschap_N_V
+vennootschap|N.V. po:nome is:ngrama_ING_Groep_Naamloze_vennootschap_N_V
+Instituto po:nome is:ngrama_Instituto_Venezolano_de_los_Seguros_Sociales
+Venezolano po:nome is:ngrama_Instituto_Venezolano_de_los_Seguros_Sociales
+los po:nome is:ngrama_Instituto_Venezolano_de_los_Seguros_Sociales
+Seguros po:nome is:ngrama_Instituto_Venezolano_de_los_Seguros_Sociales
+Sociales po:nome is:ngrama_Instituto_Venezolano_de_los_Seguros_Sociales
+Internationale po:nome is:ngrama_Internationale_Nederlanden_Groep
+Nederlanden po:nome is:ngrama_Internationale_Nederlanden_Groep
+Groep po:nome is:ngrama_Internationale_Nederlanden_Groep
+La po:nome is:ngrama_La_Equitativa
+Equitativa po:nome is:ngrama_La_Equitativa
+La po:nome is:ngrama_La_Equitativa_Fundación_Rosillo_SA
+Equitativa po:nome is:ngrama_La_Equitativa_Fundación_Rosillo_SA
+Fundación po:nome is:ngrama_La_Equitativa_Fundación_Rosillo_SA
+Rosillo po:nome is:ngrama_La_Equitativa_Fundación_Rosillo_SA
+SA po:nome is:ngrama_La_Equitativa_Fundación_Rosillo_SA
+La po:nome is:ngrama_La_Unión_y_el_Fénix
+y po:nome is:ngrama_La_Unión_y_el_Fénix
+el po:nome is:ngrama_La_Unión_y_el_Fénix
+Fénix po:nome is:ngrama_La_Unión_y_el_Fénix
+Liberty po:nome is:ngrama_Liberty_Seguros
+Seguros po:nome is:ngrama_Liberty_Seguros
 Life po:nome
-Línea po:nome [n-grama: Línea Directa Aseguradora]
-Directa po:nome [n-grama: Línea Directa Aseguradora]
-Aseguradora po:nome [n-grama: Línea Directa Aseguradora]
+Línea po:nome is:ngrama_Línea_Directa_Aseguradora
+Directa po:nome is:ngrama_Línea_Directa_Aseguradora
+Aseguradora po:nome is:ngrama_Línea_Directa_Aseguradora
 Lloyd's po:nome
-Lloyd's po:nome [n-grama: Lloyd's of London]
-of po:nome [n-grama: Lloyd's of London]
-London po:nome [n-grama: Lloyd's of London]
+Lloyd's po:nome is:ngrama_Lloyd_s_of_London
+of po:nome is:ngrama_Lloyd_s_of_London
+London po:nome is:ngrama_Lloyd_s_of_London
 MAPFRE po:nome
-Mariátegui po:nome [n-grama: Mariátegui JLT Corredores de Seguros S.A.]
-JLT po:nome [n-grama: Mariátegui JLT Corredores de Seguros S.A.]
-Corredores po:nome [n-grama: Mariátegui JLT Corredores de Seguros S.A.]
-Seguros po:nome [n-grama: Mariátegui JLT Corredores de Seguros S.A.]
-S.A. po:nome [n-grama: Mariátegui JLT Corredores de Seguros S.A.]
+Mariátegui po:nome is:ngrama_Mariátegui_JLT_Corredores_de_Seguros_S_A
+JLT po:nome is:ngrama_Mariátegui_JLT_Corredores_de_Seguros_S_A
+Corredores po:nome is:ngrama_Mariátegui_JLT_Corredores_de_Seguros_S_A
+Seguros po:nome is:ngrama_Mariátegui_JLT_Corredores_de_Seguros_S_A
+S.A. po:nome is:ngrama_Mariátegui_JLT_Corredores_de_Seguros_S_A
 MAZ po:nome
-Mediolanum po:nome [n-grama: Mediolanum S.p.A.]
-S.p.A. po:nome [n-grama: Mediolanum S.p.A.]
-Mercantil po:nome [n-grama: Mercantil Seguros C.A]
-Seguros po:nome [n-grama: Mercantil Seguros C.A]
-C.A po:nome [n-grama: Mercantil Seguros C.A]
+Mediolanum po:nome is:ngrama_Mediolanum_S_p_A
+S.p.A. po:nome is:ngrama_Mediolanum_S_p_A
+Mercantil po:nome is:ngrama_Mercantil_Seguros_C_A
+Seguros po:nome is:ngrama_Mercantil_Seguros_C_A
+C.A po:nome is:ngrama_Mercantil_Seguros_C_A
 Met po:nome
 MetLife po:nome
-Münchener po:nome [n-grama: Münchener Rück AG]
-Rück po:nome [n-grama: Münchener Rück AG]
-AG po:nome [n-grama: Münchener Rück AG]
-Munich po:nome [n-grama: Munich Re]
-Re po:nome [n-grama: Munich Re]
-Mutua po:nome [n-grama: Mutua de Propietarios]
-Propietarios po:nome [n-grama: Mutua de Propietarios]
-Mutua po:nome [n-grama: Mutua Madrileña]
-Madrileña po:nome [n-grama: Mutua Madrileña]
-Old po:nome [n-grama: Old Mutual plc]
-Mutual po:nome [n-grama: Old Mutual plc]
-plc po:nome [n-grama: Old Mutual plc]
-Pelayo po:nome [n-grama: Pelayo Mutua de Seguros]
-Mutua po:nome [n-grama: Pelayo Mutua de Seguros]
-Seguros po:nome [n-grama: Pelayo Mutua de Seguros]
-Ping po:nome [n-grama: Ping An]
-An po:nome [n-grama: Ping An]
-Ping po:nome [n-grama: Ping An Insurance Company of China]
-An po:nome [n-grama: Ping An Insurance Company of China]
-Insurance po:nome [n-grama: Ping An Insurance Company of China]
-Company po:nome [n-grama: Ping An Insurance Company of China]
-of po:nome [n-grama: Ping An Insurance Company of China]
-China po:nome [n-grama: Ping An Insurance Company of China]
-Positiva po:nome [n-grama: Positiva Compañía de Seguros]
-Compañía po:nome [n-grama: Positiva Compañía de Seguros]
-Seguros po:nome [n-grama: Positiva Compañía de Seguros]
-Prudential po:nome [n-grama: Prudential Financial]
-Financial po:nome [n-grama: Prudential Financial]
+Münchener po:nome is:ngrama_Münchener_Rück_AG
+Rück po:nome is:ngrama_Münchener_Rück_AG
+AG po:nome is:ngrama_Münchener_Rück_AG
+Munich po:nome is:ngrama_Munich_Re
+Re po:nome is:ngrama_Munich_Re
+Mutua po:nome is:ngrama_Mutua_de_Propietarios
+Propietarios po:nome is:ngrama_Mutua_de_Propietarios
+Mutua po:nome is:ngrama_Mutua_Madrileña
+Madrileña po:nome is:ngrama_Mutua_Madrileña
+Old po:nome is:ngrama_Old_Mutual_plc
+Mutual po:nome is:ngrama_Old_Mutual_plc
+plc po:nome is:ngrama_Old_Mutual_plc
+Pelayo po:nome is:ngrama_Pelayo_Mutua_de_Seguros
+Mutua po:nome is:ngrama_Pelayo_Mutua_de_Seguros
+Seguros po:nome is:ngrama_Pelayo_Mutua_de_Seguros
+Ping po:nome is:ngrama_Ping_An
+An po:nome is:ngrama_Ping_An
+Ping po:nome is:ngrama_Ping_An_Insurance_Company_of_China
+An po:nome is:ngrama_Ping_An_Insurance_Company_of_China
+Insurance po:nome is:ngrama_Ping_An_Insurance_Company_of_China
+Company po:nome is:ngrama_Ping_An_Insurance_Company_of_China
+of po:nome is:ngrama_Ping_An_Insurance_Company_of_China
+China po:nome is:ngrama_Ping_An_Insurance_Company_of_China
+Positiva po:nome is:ngrama_Positiva_Compañía_de_Seguros
+Compañía po:nome is:ngrama_Positiva_Compañía_de_Seguros
+Seguros po:nome is:ngrama_Positiva_Compañía_de_Seguros
+Prudential po:nome is:ngrama_Prudential_Financial
+Financial po:nome is:ngrama_Prudential_Financial
 PZU po:nome
-PZU po:nome [n-grama: PZU Group]
-Group po:nome [n-grama: PZU Group]
-Qualitas po:nome [n-grama: Qualitas Auto]
-Auto po:nome [n-grama: Qualitas Auto]
+PZU po:nome is:ngrama_PZU_Group
+Group po:nome is:ngrama_PZU_Group
+Qualitas po:nome is:ngrama_Qualitas_Auto
+Auto po:nome is:ngrama_Qualitas_Auto
 Rabobank po:nome
-Sampo po:nome [n-grama: Sampo Group]
-Group po:nome [n-grama: Sampo Group]
-Lucía po:nome [n-grama: Santa Lucía S.A. Compañía de Seguros y Reaseguros]
-S.A. po:nome [n-grama: Santa Lucía S.A. Compañía de Seguros y Reaseguros]
-Compañía po:nome [n-grama: Santa Lucía S.A. Compañía de Seguros y Reaseguros]
-Seguros po:nome [n-grama: Santa Lucía S.A. Compañía de Seguros y Reaseguros]
-y po:nome [n-grama: Santa Lucía S.A. Compañía de Seguros y Reaseguros]
-Reaseguros po:nome [n-grama: Santa Lucía S.A. Compañía de Seguros y Reaseguros]
-Schweizerische po:nome [n-grama: Schweizerische Rückversicherungs-Gesellschaft]
-Rückversicherungs-Gesellschaft po:nome [n-grama: Schweizerische Rückversicherungs-Gesellschaft]
-sector po:nome [n-grama: sector asegurador en Venezuela]
-asegurador po:nome [n-grama: sector asegurador en Venezuela]
-Venezuela po:nome [n-grama: sector asegurador en Venezuela]
-Seguros po:nome [n-grama: Seguros Azteca]
-Azteca po:nome [n-grama: Seguros Azteca]
-Seguros po:nome [n-grama: Seguros Caracas]
-Caracas po:nome [n-grama: Seguros Caracas]
-Seguros po:nome [n-grama: Seguros Catalana Occidente S.A. de Seguros y Reaseguros]
-Catalana po:nome [n-grama: Seguros Catalana Occidente S.A. de Seguros y Reaseguros]
-Occidente po:nome [n-grama: Seguros Catalana Occidente S.A. de Seguros y Reaseguros]
-S.A. po:nome [n-grama: Seguros Catalana Occidente S.A. de Seguros y Reaseguros]
-y po:nome [n-grama: Seguros Catalana Occidente S.A. de Seguros y Reaseguros]
-Reaseguros po:nome [n-grama: Seguros Catalana Occidente S.A. de Seguros y Reaseguros]
-Seguros po:nome [n-grama: Seguros La Previsora]
-La po:nome [n-grama: Seguros La Previsora]
-Previsora po:nome [n-grama: Seguros La Previsora]
-Seguros po:nome [n-grama: Seguros Ocaso]
-Ocaso po:nome [n-grama: Seguros Ocaso]
+Sampo po:nome is:ngrama_Sampo_Group
+Group po:nome is:ngrama_Sampo_Group
+Lucía po:nome is:ngrama_Santa_Lucía_S_A_Compañía_de_Seguros_y_Reaseguros
+S.A. po:nome is:ngrama_Santa_Lucía_S_A_Compañía_de_Seguros_y_Reaseguros
+Compañía po:nome is:ngrama_Santa_Lucía_S_A_Compañía_de_Seguros_y_Reaseguros
+Seguros po:nome is:ngrama_Santa_Lucía_S_A_Compañía_de_Seguros_y_Reaseguros
+y po:nome is:ngrama_Santa_Lucía_S_A_Compañía_de_Seguros_y_Reaseguros
+Reaseguros po:nome is:ngrama_Santa_Lucía_S_A_Compañía_de_Seguros_y_Reaseguros
+Schweizerische po:nome is:ngrama_Schweizerische_Rückversicherungs_Gesellschaft
+Rückversicherungs-Gesellschaft po:nome is:ngrama_Schweizerische_Rückversicherungs_Gesellschaft
+sector po:nome is:ngrama_sector_asegurador_en_Venezuela
+asegurador po:nome is:ngrama_sector_asegurador_en_Venezuela
+Venezuela po:nome is:ngrama_sector_asegurador_en_Venezuela
+Seguros po:nome is:ngrama_Seguros_Azteca
+Azteca po:nome is:ngrama_Seguros_Azteca
+Seguros po:nome is:ngrama_Seguros_Caracas
+Caracas po:nome is:ngrama_Seguros_Caracas
+Seguros po:nome is:ngrama_Seguros_Catalana_Occidente_S_A_de_Seguros_y_Reaseguros
+Catalana po:nome is:ngrama_Seguros_Catalana_Occidente_S_A_de_Seguros_y_Reaseguros
+Occidente po:nome is:ngrama_Seguros_Catalana_Occidente_S_A_de_Seguros_y_Reaseguros
+S.A. po:nome is:ngrama_Seguros_Catalana_Occidente_S_A_de_Seguros_y_Reaseguros
+y po:nome is:ngrama_Seguros_Catalana_Occidente_S_A_de_Seguros_y_Reaseguros
+Reaseguros po:nome is:ngrama_Seguros_Catalana_Occidente_S_A_de_Seguros_y_Reaseguros
+Seguros po:nome is:ngrama_Seguros_La_Previsora
+La po:nome is:ngrama_Seguros_La_Previsora
+Previsora po:nome is:ngrama_Seguros_La_Previsora
+Seguros po:nome is:ngrama_Seguros_Ocaso
+Ocaso po:nome is:ngrama_Seguros_Ocaso
 Skandia po:nome
-SNS po:nome [n-grama: SNS REAAL]
-REAAL po:nome [n-grama: SNS REAAL]
-State po:nome [n-grama: State Farm Insurance]
-Farm po:nome [n-grama: State Farm Insurance]
-Insurance po:nome [n-grama: State Farm Insurance]
-The po:nome [n-grama: The Travelers Companies]
-Travelers po:nome [n-grama: The Travelers Companies]
-Companies po:nome [n-grama: The Travelers Companies]
-Unipol po:nome [n-grama: Unipol Gruppo Finanziario S.p.A.]
-Gruppo po:nome [n-grama: Unipol Gruppo Finanziario S.p.A.]
-Finanziario po:nome [n-grama: Unipol Gruppo Finanziario S.p.A.]
-S.p.A. po:nome [n-grama: Unipol Gruppo Finanziario S.p.A.]
-Urbano po:nome [n-grama: Urbano Simón Rodriguez]
-Simón po:nome [n-grama: Urbano Simón Rodriguez]
-Rodriguez po:nome [n-grama: Urbano Simón Rodriguez]
-VidaCaixa po:nome [n-grama: VidaCaixa Grupo S.A.]
-Grupo po:nome [n-grama: VidaCaixa Grupo S.A.]
-S.A. po:nome [n-grama: VidaCaixa Grupo S.A.]
-Vienna po:nome [n-grama: Vienna Insurance Group]
-Insurance po:nome [n-grama: Vienna Insurance Group]
-Group po:nome [n-grama: Vienna Insurance Group]
-Zurich po:nome [n-grama: Zurich Insurance Group Ltd]
-Insurance po:nome [n-grama: Zurich Insurance Group Ltd]
-Group po:nome [n-grama: Zurich Insurance Group Ltd]
-Ltd po:nome [n-grama: Zurich Insurance Group Ltd]
+SNS po:nome is:ngrama_SNS_REAAL
+REAAL po:nome is:ngrama_SNS_REAAL
+State po:nome is:ngrama_State_Farm_Insurance
+Farm po:nome is:ngrama_State_Farm_Insurance
+Insurance po:nome is:ngrama_State_Farm_Insurance
+The po:nome is:ngrama_The_Travelers_Companies
+Travelers po:nome is:ngrama_The_Travelers_Companies
+Companies po:nome is:ngrama_The_Travelers_Companies
+Unipol po:nome is:ngrama_Unipol_Gruppo_Finanziario_S_p_A
+Gruppo po:nome is:ngrama_Unipol_Gruppo_Finanziario_S_p_A
+Finanziario po:nome is:ngrama_Unipol_Gruppo_Finanziario_S_p_A
+S.p.A. po:nome is:ngrama_Unipol_Gruppo_Finanziario_S_p_A
+Urbano po:nome is:ngrama_Urbano_Simón_Rodriguez
+Simón po:nome is:ngrama_Urbano_Simón_Rodriguez
+Rodriguez po:nome is:ngrama_Urbano_Simón_Rodriguez
+VidaCaixa po:nome is:ngrama_VidaCaixa_Grupo_S_A
+Grupo po:nome is:ngrama_VidaCaixa_Grupo_S_A
+S.A. po:nome is:ngrama_VidaCaixa_Grupo_S_A
+Vienna po:nome is:ngrama_Vienna_Insurance_Group
+Insurance po:nome is:ngrama_Vienna_Insurance_Group
+Group po:nome is:ngrama_Vienna_Insurance_Group
+Zurich po:nome is:ngrama_Zurich_Insurance_Group_Ltd
+Insurance po:nome is:ngrama_Zurich_Insurance_Group_Ltd
+Group po:nome is:ngrama_Zurich_Insurance_Group_Ltd
+Ltd po:nome is:ngrama_Zurich_Insurance_Group_Ltd

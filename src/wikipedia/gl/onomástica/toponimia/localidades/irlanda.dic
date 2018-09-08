@@ -1,5 +1,5 @@
-An po:topónimo [n-grama: An Mám]
-Mám po:topónimo [n-grama: An Mám]
+An po:topónimo is:ngrama_An_Mám
+Mám po:topónimo is:ngrama_An_Mám
 Ashbourne po:topónimo
 Athenry po:topónimo
 Athlone po:topónimo
@@ -16,13 +16,13 @@ Clifden po:topónimo
 Clonmel po:topónimo
 Collinstown po:topónimo
 Cork po:topónimo
-Corr po:topónimo [n-grama: Corr na Móna]
-Móna po:topónimo [n-grama: Corr na Móna]
+Corr po:topónimo is:ngrama_Corr_na_Móna
+Móna po:topónimo is:ngrama_Corr_na_Móna
 Dingle po:topónimo
 Drogheda po:topónimo
 Dublín po:topónimo
-Dún po:topónimo [n-grama: Dún Laoghaire]
-Laoghaire po:topónimo [n-grama: Dún Laoghaire]
+Dún po:topónimo is:ngrama_Dún_Laoghaire
+Laoghaire po:topónimo is:ngrama_Dún_Laoghaire
 Dundalk po:topónimo
 Dungarvan po:topónimo
 Ennis po:topónimo
@@ -44,8 +44,8 @@ Naas po:topónimo
 Navan po:topónimo
 Nenagh po:topónimo
 Oranmore po:topónimo
-Port po:topónimo [n-grama: Port Laoise]
-Laoise po:topónimo [n-grama: Port Laoise]
+Port po:topónimo is:ngrama_Port_Laoise
+Laoise po:topónimo is:ngrama_Port_Laoise
 Slane po:topónimo
 Sligo po:topónimo
 Tralee po:topónimo

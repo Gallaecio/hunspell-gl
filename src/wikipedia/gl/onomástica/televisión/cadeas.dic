@@ -1,303 +1,303 @@
-FLTV po:nome [n-grama: 1 FLTV]
-Fürstentum po:nome [n-grama: 1 Fürstentum Liechtenstein Television]
-Liechtenstein po:nome [n-grama: 1 Fürstentum Liechtenstein Television]
-Television po:nome [n-grama: 1 Fürstentum Liechtenstein Television]
-TV po:nome [n-grama: 13 TV]
+FLTV po:nome is:ngrama_1_FLTV
+Fürstentum po:nome is:ngrama_1_Fürstentum_Liechtenstein_Television
+Liechtenstein po:nome is:ngrama_1_Fürstentum_Liechtenstein_Television
+Television po:nome is:ngrama_1_Fürstentum_Liechtenstein_Television
+TV po:nome is:ngrama_13_TV
 3\/24 po:nome
 3XL po:nome
-WJAC po:nome [n-grama: 6 WJAC]
+WJAC po:nome is:ngrama_6_WJAC
 8madrid po:nome
 8tv po:nome
-Aaj po:nome [n-grama: Aaj Tak]
-Tak po:nome [n-grama: Aaj Tak]
+Aaj po:nome is:ngrama_Aaj_Tak
+Tak po:nome is:ngrama_Aaj_Tak
 ABC po:nome
-Aceh po:nome [n-grama: Aceh TV]
-TV po:nome [n-grama: Aceh TV]
-Al po:nome [n-grama: Al Jazeera]
-Jazeera po:nome [n-grama: Al Jazeera]
-American po:nome [n-grama: American Broadcasting Company]
-Broadcasting po:nome [n-grama: American Broadcasting Company]
-Company po:nome [n-grama: American Broadcasting Company]
-Andalucía po:nome [n-grama: Andalucía Televisión]
+Aceh po:nome is:ngrama_Aceh_TV
+TV po:nome is:ngrama_Aceh_TV
+Al po:nome is:ngrama_Al_Jazeera
+Jazeera po:nome is:ngrama_Al_Jazeera
+American po:nome is:ngrama_American_Broadcasting_Company
+Broadcasting po:nome is:ngrama_American_Broadcasting_Company
+Company po:nome is:ngrama_American_Broadcasting_Company
+Andalucía po:nome is:ngrama_Andalucía_Televisión
 Animax po:nome
-Antena po:nome [n-grama: Antena 3]
+Antena po:nome is:ngrama_Antena_3
 Antena.Neox po:nome
 Antena.Nova po:nome
-Arbeitsgemeinschaft po:nome [n-grama: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
-der po:nome [n-grama: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
-öffentlich-rechtlichen po:nome [n-grama: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
-Rundfunkanstalten po:nome [n-grama: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
-Bundesrepublik po:nome [n-grama: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
-Deutschland po:nome [n-grama: Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland]
+Arbeitsgemeinschaft po:nome is:ngrama_Arbeitsgemeinschaft_der_öffentlich_rechtlichen_Rundfunkanstalten_der_Bundesrepublik_Deutschland
+der po:nome is:ngrama_Arbeitsgemeinschaft_der_öffentlich_rechtlichen_Rundfunkanstalten_der_Bundesrepublik_Deutschland
+öffentlich-rechtlichen po:nome is:ngrama_Arbeitsgemeinschaft_der_öffentlich_rechtlichen_Rundfunkanstalten_der_Bundesrepublik_Deutschland
+Rundfunkanstalten po:nome is:ngrama_Arbeitsgemeinschaft_der_öffentlich_rechtlichen_Rundfunkanstalten_der_Bundesrepublik_Deutschland
+Bundesrepublik po:nome is:ngrama_Arbeitsgemeinschaft_der_öffentlich_rechtlichen_Rundfunkanstalten_der_Bundesrepublik_Deutschland
+Deutschland po:nome is:ngrama_Arbeitsgemeinschaft_der_öffentlich_rechtlichen_Rundfunkanstalten_der_Bundesrepublik_Deutschland
 ARD po:nome
 Arte po:nome
-Asia po:nome [n-grama: Asia Television Limited]
-Television po:nome [n-grama: Asia Television Limited]
-Limited po:nome [n-grama: Asia Television Limited]
+Asia po:nome is:ngrama_Asia_Television_Limited
+Television po:nome is:ngrama_Asia_Television_Limited
+Limited po:nome is:ngrama_Asia_Television_Limited
 ATV po:nome
-Australian po:nome [n-grama: Australian Broadcasting Corporation]
-Broadcasting po:nome [n-grama: Australian Broadcasting Corporation]
-Corporation po:nome [n-grama: Australian Broadcasting Corporation]
+Australian po:nome is:ngrama_Australian_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_Australian_Broadcasting_Corporation
+Corporation po:nome is:ngrama_Australian_Broadcasting_Corporation
 Band po:nome
-Barcelona po:nome [n-grama: Barcelona TV]
-TV po:nome [n-grama: Barcelona TV]
+Barcelona po:nome is:ngrama_Barcelona_TV
+TV po:nome is:ngrama_Barcelona_TV
 BBC po:nome
 Boing po:nome
-British po:nome [n-grama: British Broadcasting Corporation]
-Broadcasting po:nome [n-grama: British Broadcasting Corporation]
-Corporation po:nome [n-grama: British Broadcasting Corporation]
-British po:nome [n-grama: British Sky Broadcasting Group plc]
-Sky po:nome [n-grama: British Sky Broadcasting Group plc]
-Broadcasting po:nome [n-grama: British Sky Broadcasting Group plc]
-Group po:nome [n-grama: British Sky Broadcasting Group plc]
-plc po:nome [n-grama: British Sky Broadcasting Group plc]
+British po:nome is:ngrama_British_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_British_Broadcasting_Corporation
+Corporation po:nome is:ngrama_British_Broadcasting_Corporation
+British po:nome is:ngrama_British_Sky_Broadcasting_Group_plc
+Sky po:nome is:ngrama_British_Sky_Broadcasting_Group_plc
+Broadcasting po:nome is:ngrama_British_Sky_Broadcasting_Group_plc
+Group po:nome is:ngrama_British_Sky_Broadcasting_Group_plc
+plc po:nome is:ngrama_British_Sky_Broadcasting_Group_plc
 BTV po:nome
 Buzz po:nome
-Cable po:nome [n-grama: Cable News Network]
-News po:nome [n-grama: Cable News Network]
-Network po:nome [n-grama: Cable News Network]
-Cadea po:nome [n-grama: Cadea de Noticias por Cable]
-Noticias po:nome [n-grama: Cadea de Noticias por Cable]
-Cable po:nome [n-grama: Cadea de Noticias por Cable]
-Canadian po:nome [n-grama: Canadian Broadcasting Corporation]
-Broadcasting po:nome [n-grama: Canadian Broadcasting Corporation]
-Corporation po:nome [n-grama: Canadian Broadcasting Corporation]
-Horas po:nome [n-grama: Canal 24 Horas]
-Bío-Bío po:nome [n-grama: Canal 9 Bío-Bío Televisión]
-Deza po:nome [n-grama: Canal Deza]
-Nou po:nome [n-grama: Canal Nou Dos]
-Panda po:nome [n-grama: Canal Panda]
-Rexional po:nome [n-grama: Canal Rexional]
-Super3 po:nome [n-grama: Canal Super3]
-TV po:nome [n-grama: Canal Sur TV]
-Tea po:nome [n-grama: Canal Tea]
+Cable po:nome is:ngrama_Cable_News_Network
+News po:nome is:ngrama_Cable_News_Network
+Network po:nome is:ngrama_Cable_News_Network
+Cadea po:nome is:ngrama_Cadea_de_Noticias_por_Cable
+Noticias po:nome is:ngrama_Cadea_de_Noticias_por_Cable
+Cable po:nome is:ngrama_Cadea_de_Noticias_por_Cable
+Canadian po:nome is:ngrama_Canadian_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_Canadian_Broadcasting_Corporation
+Corporation po:nome is:ngrama_Canadian_Broadcasting_Corporation
+Horas po:nome is:ngrama_Canal_24_Horas
+Bío-Bío po:nome is:ngrama_Canal_9_Bío_Bío_Televisión
+Deza po:nome is:ngrama_Canal_Deza
+Nou po:nome is:ngrama_Canal_Nou_Dos
+Panda po:nome is:ngrama_Canal_Panda
+Rexional po:nome is:ngrama_Canal_Rexional
+Super3 po:nome is:ngrama_Canal_Super3
+TV po:nome is:ngrama_Canal_Sur_TV
+Tea po:nome is:ngrama_Canal_Tea
 Canal+ po:nome
-Canal+ po:nome [n-grama: Canal+ 1]
-Canal+ po:nome [n-grama: Canal+ Liga]
-Canale po:nome [n-grama: Canale 5]
-Canale po:nome [n-grama: Canale cinque]
-cinque po:nome [n-grama: Canale cinque]
+Canal+ po:nome is:ngrama_Canal_1
+Canal+ po:nome is:ngrama_Canal_Liga
+Canale po:nome is:ngrama_Canale_5
+Canale po:nome is:ngrama_Canale_cinque
+cinque po:nome is:ngrama_Canale_cinque
 CBC po:nome
 CBS po:nome
 CCTV po:nome
-Channel po:nome [n-grama: Channel [V] Thailand]
-[V] po:nome [n-grama: Channel [V] Thailand]
-Thailand po:nome [n-grama: Channel [V] Thailand]
+Channel po:nome is:ngrama_Channel_V_Thailand
+[V] po:nome is:ngrama_Channel_V_Thailand
+Thailand po:nome is:ngrama_Channel_V_Thailand
 Chilevisión po:nome
-China po:nome [n-grama: China Central Television]
-Television po:nome [n-grama: China Central Television]
+China po:nome is:ngrama_China_Central_Television
+Television po:nome is:ngrama_China_Central_Television
 CHV po:nome
 Clan po:nome
 CNN po:nome
 CNN+ po:nome
-Columbia po:nome [n-grama: Columbia Broadcasting System]
-Broadcasting po:nome [n-grama: Columbia Broadcasting System]
-System po:nome [n-grama: Columbia Broadcasting System]
-Compañía po:nome [n-grama: Compañía Nacional de Televisión de Ucraína]
-Ucraína po:nome [n-grama: Compañía Nacional de Televisión de Ucraína]
-Corporación po:nome [n-grama: Corporación Británica de Radiodifusión]
-Radiodifusión po:nome [n-grama: Corporación Británica de Radiodifusión]
-Corporación po:nome [n-grama: Corporación de Radiodifusión australiana]
-Radiodifusión po:nome [n-grama: Corporación de Radiodifusión australiana]
-Corporación po:nome [n-grama: Corporación Turca de Radio e Televisión]
-Turca po:nome [n-grama: Corporación Turca de Radio e Televisión]
-Correo po:nome [n-grama: Correo TV]
-TV po:nome [n-grama: Correo TV]
+Columbia po:nome is:ngrama_Columbia_Broadcasting_System
+Broadcasting po:nome is:ngrama_Columbia_Broadcasting_System
+System po:nome is:ngrama_Columbia_Broadcasting_System
+Compañía po:nome is:ngrama_Compañía_Nacional_de_Televisión_de_Ucraína
+Ucraína po:nome is:ngrama_Compañía_Nacional_de_Televisión_de_Ucraína
+Corporación po:nome is:ngrama_Corporación_Británica_de_Radiodifusión
+Radiodifusión po:nome is:ngrama_Corporación_Británica_de_Radiodifusión
+Corporación po:nome is:ngrama_Corporación_de_Radiodifusión_australiana
+Radiodifusión po:nome is:ngrama_Corporación_de_Radiodifusión_australiana
+Corporación po:nome is:ngrama_Corporación_Turca_de_Radio_e_Televisión
+Turca po:nome is:ngrama_Corporación_Turca_de_Radio_e_Televisión
+Correo po:nome is:ngrama_Correo_TV
+TV po:nome is:ngrama_Correo_TV
 Cuatro po:nome
-Danmarks po:nome [n-grama: Danmarks Radio]
+Danmarks po:nome is:ngrama_Danmarks_Radio
 DEZTV po:nome
-Discovery po:nome [n-grama: Discovery Channel Networks]
-Channel po:nome [n-grama: Discovery Channel Networks]
-Networks po:nome [n-grama: Discovery Channel Networks]
-Discovery po:nome [n-grama: Discovery Health]
-Health po:nome [n-grama: Discovery Health]
-Discovery po:nome [n-grama: Discovery Home & Health]
-Health po:nome [n-grama: Discovery Home & Health]
-Discovery po:nome [n-grama: Discovery MAX]
-MAX po:nome [n-grama: Discovery MAX]
-Discovery po:nome [n-grama: Discovery Real Time]
-Time po:nome [n-grama: Discovery Real Time]
-Disney po:nome [n-grama: Disney Channel]
-Channel po:nome [n-grama: Disney Channel]
+Discovery po:nome is:ngrama_Discovery_Channel_Networks
+Channel po:nome is:ngrama_Discovery_Channel_Networks
+Networks po:nome is:ngrama_Discovery_Channel_Networks
+Discovery po:nome is:ngrama_Discovery_Health
+Health po:nome is:ngrama_Discovery_Health
+Discovery po:nome is:ngrama_Discovery_Home_Health
+Health po:nome is:ngrama_Discovery_Home_Health
+Discovery po:nome is:ngrama_Discovery_MAX
+MAX po:nome is:ngrama_Discovery_MAX
+Discovery po:nome is:ngrama_Discovery_Real_Time
+Time po:nome is:ngrama_Discovery_Real_Time
+Disney po:nome is:ngrama_Disney_Channel
+Channel po:nome is:ngrama_Disney_Channel
 Doordarshan po:nome
 DR po:nome
 EBC po:nome
 EBU-UER po:nome
-Eesti po:nome [n-grama: Eesti Rahvusringhääling]
-Rahvusringhääling po:nome [n-grama: Eesti Rahvusringhääling]
-Eesti po:nome [n-grama: Eesti Televisioon]
-Televisioon po:nome [n-grama: Eesti Televisioon]
-Egyptian po:nome [n-grama: Egyptian Radio and Television Union]
-and po:nome [n-grama: Egyptian Radio and Television Union]
-Television po:nome [n-grama: Egyptian Radio and Television Union]
-Union po:nome [n-grama: Egyptian Radio and Television Union]
-El po:nome [n-grama: El 33]
-Empresa po:nome [n-grama: Empresa Brasil de Comunicação]
-Brasil po:nome [n-grama: Empresa Brasil de Comunicação]
-Comunicação po:nome [n-grama: Empresa Brasil de Comunicação]
+Eesti po:nome is:ngrama_Eesti_Rahvusringhääling
+Rahvusringhääling po:nome is:ngrama_Eesti_Rahvusringhääling
+Eesti po:nome is:ngrama_Eesti_Televisioon
+Televisioon po:nome is:ngrama_Eesti_Televisioon
+Egyptian po:nome is:ngrama_Egyptian_Radio_and_Television_Union
+and po:nome is:ngrama_Egyptian_Radio_and_Television_Union
+Television po:nome is:ngrama_Egyptian_Radio_and_Television_Union
+Union po:nome is:ngrama_Egyptian_Radio_and_Television_Union
+El po:nome is:ngrama_El_33
+Empresa po:nome is:ngrama_Empresa_Brasil_de_Comunicação
+Brasil po:nome is:ngrama_Empresa_Brasil_de_Comunicação
+Comunicação po:nome is:ngrama_Empresa_Brasil_de_Comunicação
 Energy po:nome
 ERR po:nome
 ERTU po:nome
 ESPN po:nome
 Esport3 po:nome
-Établissement po:nome [n-grama: Établissement de la radiodiffusion-télévision tunisienne]
-la po:nome [n-grama: Établissement de la radiodiffusion-télévision tunisienne]
-radiodiffusion-télévision po:nome [n-grama: Établissement de la radiodiffusion-télévision tunisienne]
-tunisienne po:nome [n-grama: Établissement de la radiodiffusion-télévision tunisienne]
+Établissement po:nome is:ngrama_Établissement_de_la_radiodiffusion_télévision_tunisienne
+la po:nome is:ngrama_Établissement_de_la_radiodiffusion_télévision_tunisienne
+radiodiffusion-télévision po:nome is:ngrama_Établissement_de_la_radiodiffusion_télévision_tunisienne
+tunisienne po:nome is:ngrama_Établissement_de_la_radiodiffusion_télévision_tunisienne
 ETV po:nome
 Euronews po:nome
-Factoría po:nome [n-grama: Factoría de Ficción]
-Ficción po:nome [n-grama: Factoría de Ficción]
+Factoría po:nome is:ngrama_Factoría_de_Ficción
+Ficción po:nome is:ngrama_Factoría_de_Ficción
 FOX po:nome
-Fox po:nome [n-grama: Fox Broadcasting Company]
-Broadcasting po:nome [n-grama: Fox Broadcasting Company]
-Company po:nome [n-grama: Fox Broadcasting Company]
-FOX po:nome [n-grama: FOX Italia]
-Italia po:nome [n-grama: FOX Italia]
-France po:nome [n-grama: France 2]
-Cero po:nome [n-grama: Galiza Ano Cero]
-Georgian po:nome [n-grama: Georgian Public Broadcaster]
-Public po:nome [n-grama: Georgian Public Broadcaster]
-Broadcaster po:nome [n-grama: Georgian Public Broadcaster]
-Gol po:nome [n-grama: Gol Televisión]
+Fox po:nome is:ngrama_Fox_Broadcasting_Company
+Broadcasting po:nome is:ngrama_Fox_Broadcasting_Company
+Company po:nome is:ngrama_Fox_Broadcasting_Company
+FOX po:nome is:ngrama_FOX_Italia
+Italia po:nome is:ngrama_FOX_Italia
+France po:nome is:ngrama_France_2
+Cero po:nome is:ngrama_Galiza_Ano_Cero
+Georgian po:nome is:ngrama_Georgian_Public_Broadcaster
+Public po:nome is:ngrama_Georgian_Public_Broadcaster
+Broadcaster po:nome is:ngrama_Georgian_Public_Broadcaster
+Gol po:nome is:ngrama_Gol_Televisión
 GPB po:nome
-Hamburg po:nome [n-grama: Hamburg 1]
+Hamburg po:nome is:ngrama_Hamburg_1
 HBO po:nome
-Box po:nome [n-grama: Home Box Office]
-Office po:nome [n-grama: Home Box Office]
-IB3 po:nome [n-grama: IB3 Televisió]
-Televisió po:nome [n-grama: IB3 Televisió]
+Box po:nome is:ngrama_Home_Box_Office
+Office po:nome is:ngrama_Home_Box_Office
+IB3 po:nome is:ngrama_IB3_Televisió
+Televisió po:nome is:ngrama_IB3_Televisió
 IBSat po:nome
 ICRT po:nome
-Independent po:nome [n-grama: Independent Television]
-Television po:nome [n-grama: Independent Television]
-Instituto po:nome [n-grama: Instituto Cubano de Radio y Televisión]
-Cubano po:nome [n-grama: Instituto Cubano de Radio y Televisión]
-y po:nome [n-grama: Instituto Cubano de Radio y Televisión]
+Independent po:nome is:ngrama_Independent_Television
+Television po:nome is:ngrama_Independent_Television
+Instituto po:nome is:ngrama_Instituto_Cubano_de_Radio_y_Televisión
+Cubano po:nome is:ngrama_Instituto_Cubano_de_Radio_y_Televisión
+y po:nome is:ngrama_Instituto_Cubano_de_Radio_y_Televisión
 ITV po:nome
 ITV1 po:nome
 ITV2 po:nome
 JRT po:nome
-Jugoslоvenska po:nome [n-grama: Jugoslоvenska Radiotelevizija]
-Radiotelevizija po:nome [n-grama: Jugoslоvenska Radiotelevizija]
-La po:nome [n-grama: La 1]
-La po:nome [n-grama: La 10]
-La po:nome [n-grama: La 2]
-La po:nome [n-grama: La Cinq]
-Cinq po:nome [n-grama: La Cinq]
-La po:nome [n-grama: La Dos]
-La po:nome [n-grama: La Red]
-Red po:nome [n-grama: La Red]
+Jugoslоvenska po:nome is:ngrama_Jugoslоvenska_Radiotelevizija
+Radiotelevizija po:nome is:ngrama_Jugoslоvenska_Radiotelevizija
+La po:nome is:ngrama_La_1
+La po:nome is:ngrama_La_10
+La po:nome is:ngrama_La_2
+La po:nome is:ngrama_La_Cinq
+Cinq po:nome is:ngrama_La_Cinq
+La po:nome is:ngrama_La_Dos
+La po:nome is:ngrama_La_Red
+Red po:nome is:ngrama_La_Red
 laSexta po:nome
 laSexta3 po:nome
 LaSiete po:nome
-Libyan po:nome [n-grama: Libyan Jamahiriya Broadcasting Corporation]
-Jamahiriya po:nome [n-grama: Libyan Jamahiriya Broadcasting Corporation]
-Broadcasting po:nome [n-grama: Libyan Jamahiriya Broadcasting Corporation]
-Corporation po:nome [n-grama: Libyan Jamahiriya Broadcasting Corporation]
+Libyan po:nome is:ngrama_Libyan_Jamahiriya_Broadcasting_Corporation
+Jamahiriya po:nome is:ngrama_Libyan_Jamahiriya_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_Libyan_Jamahiriya_Broadcasting_Corporation
+Corporation po:nome is:ngrama_Libyan_Jamahiriya_Broadcasting_Corporation
 LJBC po:nome
-Localia po:nome [n-grama: Localia Coruña]
-Coruña po:nome [n-grama: Localia Coruña]
-Localia po:nome [n-grama: Localia Santiago]
-Santiago po:nome [n-grama: Localia Santiago]
-Localia po:nome [n-grama: Localia Vigo]
-Vigo po:nome [n-grama: Localia Vigo]
-Magyar po:nome [n-grama: Magyar Televízió]
-Televízió po:nome [n-grama: Magyar Televízió]
-Marca po:nome [n-grama: Marca TV]
-TV po:nome [n-grama: Marca TV]
-MAX po:nome [n-grama: MAX Asia]
-Asia po:nome [n-grama: MAX Asia]
+Localia po:nome is:ngrama_Localia_Coruña
+Coruña po:nome is:ngrama_Localia_Coruña
+Localia po:nome is:ngrama_Localia_Santiago
+Santiago po:nome is:ngrama_Localia_Santiago
+Localia po:nome is:ngrama_Localia_Vigo
+Vigo po:nome is:ngrama_Localia_Vigo
+Magyar po:nome is:ngrama_Magyar_Televízió
+Televízió po:nome is:ngrama_Magyar_Televízió
+Marca po:nome is:ngrama_Marca_TV
+TV po:nome is:ngrama_Marca_TV
+MAX po:nome is:ngrama_MAX_Asia
+Asia po:nome is:ngrama_MAX_Asia
 Mega po:nome
 MTV po:nome
-MTV po:nome [n-grama: MTV Ucraína]
-Ucraína po:nome [n-grama: MTV Ucraína]
-Music po:nome [n-grama: Music Television]
-Television po:nome [n-grama: Music Television]
-Narón po:nome [n-grama: Narón TV]
-TV po:nome [n-grama: Narón TV]
-National po:nome [n-grama: National Education Television]
-Education po:nome [n-grama: National Education Television]
-Television po:nome [n-grama: National Education Television]
-National po:nome [n-grama: National Geographic Channels International]
-Geographic po:nome [n-grama: National Geographic Channels International]
-Channels po:nome [n-grama: National Geographic Channels International]
-International po:nome [n-grama: National Geographic Channels International]
-Natsionalna po:nome [n-grama: Natsionalna Telekompaniya Ukrayïny]
-Telekompaniya po:nome [n-grama: Natsionalna Telekompaniya Ukrayïny]
-Ukrayïny po:nome [n-grama: Natsionalna Telekompaniya Ukrayïny]
-NBC po:nome [n-grama: NBC Universal]
-Universal po:nome [n-grama: NBC Universal]
-Néa po:nome [n-grama: Néa Ellinikí Radiofonía]
-Ellinikí po:nome [n-grama: Néa Ellinikí Radiofonía]
-Radiofonía po:nome [n-grama: Néa Ellinikí Radiofonía]
+MTV po:nome is:ngrama_MTV_Ucraína
+Ucraína po:nome is:ngrama_MTV_Ucraína
+Music po:nome is:ngrama_Music_Television
+Television po:nome is:ngrama_Music_Television
+Narón po:nome is:ngrama_Narón_TV
+TV po:nome is:ngrama_Narón_TV
+National po:nome is:ngrama_National_Education_Television
+Education po:nome is:ngrama_National_Education_Television
+Television po:nome is:ngrama_National_Education_Television
+National po:nome is:ngrama_National_Geographic_Channels_International
+Geographic po:nome is:ngrama_National_Geographic_Channels_International
+Channels po:nome is:ngrama_National_Geographic_Channels_International
+International po:nome is:ngrama_National_Geographic_Channels_International
+Natsionalna po:nome is:ngrama_Natsionalna_Telekompaniya_Ukrayïny
+Telekompaniya po:nome is:ngrama_Natsionalna_Telekompaniya_Ukrayïny
+Ukrayïny po:nome is:ngrama_Natsionalna_Telekompaniya_Ukrayïny
+NBC po:nome is:ngrama_NBC_Universal
+Universal po:nome is:ngrama_NBC_Universal
+Néa po:nome is:ngrama_Néa_Ellinikí_Radiofonía
+Ellinikí po:nome is:ngrama_Néa_Ellinikí_Radiofonía
+Radiofonía po:nome is:ngrama_Néa_Ellinikí_Radiofonía
 Neox po:nome
 Neox8 po:nome
 NET po:nome
 Nitro po:nome
-Norsk po:nome [n-grama: Norsk Rikskringkasting]
-Rikskringkasting po:nome [n-grama: Norsk Rikskringkasting]
-Nós po:nome [n-grama: Nós TV]
-TV po:nome [n-grama: Nós TV]
+Norsk po:nome is:ngrama_Norsk_Rikskringkasting
+Rikskringkasting po:nome is:ngrama_Norsk_Rikskringkasting
+Nós po:nome is:ngrama_Nós_TV
+TV po:nome is:ngrama_Nós_TV
 Nova9 po:nome
 NRK po:nome
 NTV po:nome
 Nueve po:nome
 PBS po:nome
-Perviy po:nome [n-grama: Perviy Kanal]
-Kanal po:nome [n-grama: Perviy Kanal]
-Prasar po:nome [n-grama: Prasar Bharati]
-Bharati po:nome [n-grama: Prasar Bharati]
-Public po:nome [n-grama: Public Broadcasting Service]
-Broadcasting po:nome [n-grama: Public Broadcasting Service]
-Service po:nome [n-grama: Public Broadcasting Service]
-Audizioni po:nome [n-grama: Radio Audizioni Italiane]
-Italiane po:nome [n-grama: Radio Audizioni Italiane]
-Rádio po:nome [n-grama: Rádio e Televisão de Portugal]
-Televisão po:nome [n-grama: Rádio e Televisão de Portugal]
-Portugal po:nome [n-grama: Rádio e Televisão de Portugal]
-Andorra po:nome [n-grama: Radio e Televisión de Andorra]
-Cerceda po:nome [n-grama: Radio Televisión de Cerceda]
-Municipal po:nome [n-grama: Radio Televisión Municipal de Ponteareas]
-Ponteareas po:nome [n-grama: Radio Televisión Municipal de Ponteareas]
-Televizija po:nome [n-grama: Radio Televizija Crne Gore]
-Crne po:nome [n-grama: Radio Televizija Crne Gore]
-Gore po:nome [n-grama: Radio Televizija Crne Gore]
-Televizioni po:nome [n-grama: Radio Televizioni i Kosovës]
-Kosovës po:nome [n-grama: Radio Televizioni i Kosovës]
-Radiodifusión po:nome [n-grama: Radiodifusión Pública de Estonia]
-Estonia po:nome [n-grama: Radiodifusión Pública de Estonia]
-Radiotelevisión po:nome [n-grama: Radiotelevisión eslovena]
-eslovena po:nome [n-grama: Radiotelevisión eslovena]
-Radiotelevisión po:nome [n-grama: Radiotelevisión iugoslava]
-iugoslava po:nome [n-grama: Radiotelevisión iugoslava]
-Radiotelevisione po:nome [n-grama: Radiotelevisione Italiana]
-Italiana po:nome [n-grama: Radiotelevisione Italiana]
-Radiotelevizija po:nome [n-grama: Radiotelevizija Slovenija]
-Slovenija po:nome [n-grama: Radiotelevizija Slovenija]
+Perviy po:nome is:ngrama_Perviy_Kanal
+Kanal po:nome is:ngrama_Perviy_Kanal
+Prasar po:nome is:ngrama_Prasar_Bharati
+Bharati po:nome is:ngrama_Prasar_Bharati
+Public po:nome is:ngrama_Public_Broadcasting_Service
+Broadcasting po:nome is:ngrama_Public_Broadcasting_Service
+Service po:nome is:ngrama_Public_Broadcasting_Service
+Audizioni po:nome is:ngrama_Radio_Audizioni_Italiane
+Italiane po:nome is:ngrama_Radio_Audizioni_Italiane
+Rádio po:nome is:ngrama_Rádio_e_Televisão_de_Portugal
+Televisão po:nome is:ngrama_Rádio_e_Televisão_de_Portugal
+Portugal po:nome is:ngrama_Rádio_e_Televisão_de_Portugal
+Andorra po:nome is:ngrama_Radio_e_Televisión_de_Andorra
+Cerceda po:nome is:ngrama_Radio_Televisión_de_Cerceda
+Municipal po:nome is:ngrama_Radio_Televisión_Municipal_de_Ponteareas
+Ponteareas po:nome is:ngrama_Radio_Televisión_Municipal_de_Ponteareas
+Televizija po:nome is:ngrama_Radio_Televizija_Crne_Gore
+Crne po:nome is:ngrama_Radio_Televizija_Crne_Gore
+Gore po:nome is:ngrama_Radio_Televizija_Crne_Gore
+Televizioni po:nome is:ngrama_Radio_Televizioni_i_Kosovës
+Kosovës po:nome is:ngrama_Radio_Televizioni_i_Kosovës
+Radiodifusión po:nome is:ngrama_Radiodifusión_Pública_de_Estonia
+Estonia po:nome is:ngrama_Radiodifusión_Pública_de_Estonia
+Radiotelevisión po:nome is:ngrama_Radiotelevisión_eslovena
+eslovena po:nome is:ngrama_Radiotelevisión_eslovena
+Radiotelevisión po:nome is:ngrama_Radiotelevisión_iugoslava
+iugoslava po:nome is:ngrama_Radiotelevisión_iugoslava
+Radiotelevisione po:nome is:ngrama_Radiotelevisione_Italiana
+Italiana po:nome is:ngrama_Radiotelevisione_Italiana
+Radiotelevizija po:nome is:ngrama_Radiotelevizija_Slovenija
+Slovenija po:nome is:ngrama_Radiotelevizija_Slovenija
 RAI po:nome
-Rai po:nome [n-grama: Rai 1]
-Rai po:nome [n-grama: Rai dous]
-Rai po:nome [n-grama: Rai due]
-due po:nome [n-grama: Rai due]
-Raidió po:nome [n-grama: Raidió Teilifís Éireann]
-Teilifís po:nome [n-grama: Raidió Teilifís Éireann]
-Éireann po:nome [n-grama: Raidió Teilifís Éireann]
-Red po:nome [n-grama: Red Chilena de Televisión]
-Chilena po:nome [n-grama: Red Chilena de Televisión]
-Red po:nome [n-grama: Red Televisión]
-Red po:nome [n-grama: Red Televisiva Megavisión S.A.]
-Televisiva po:nome [n-grama: Red Televisiva Megavisión S.A.]
-Megavisión po:nome [n-grama: Red Televisiva Megavisión S.A.]
-S.A. po:nome [n-grama: Red Televisiva Megavisión S.A.]
-Rede po:nome [n-grama: Rede Bandeirantes]
-Bandeirantes po:nome [n-grama: Rede Bandeirantes]
-Rede po:nome [n-grama: Rede Globo]
-Globo po:nome [n-grama: Rede Globo]
-Rede po:nome [n-grama: Rede Record]
-Record po:nome [n-grama: Rede Record]
-Rediffusion po:nome [n-grama: Rediffusion Television]
-Television po:nome [n-grama: Rediffusion Television]
+Rai po:nome is:ngrama_Rai_1
+Rai po:nome is:ngrama_Rai_dous
+Rai po:nome is:ngrama_Rai_due
+due po:nome is:ngrama_Rai_due
+Raidió po:nome is:ngrama_Raidió_Teilifís_Éireann
+Teilifís po:nome is:ngrama_Raidió_Teilifís_Éireann
+Éireann po:nome is:ngrama_Raidió_Teilifís_Éireann
+Red po:nome is:ngrama_Red_Chilena_de_Televisión
+Chilena po:nome is:ngrama_Red_Chilena_de_Televisión
+Red po:nome is:ngrama_Red_Televisión
+Red po:nome is:ngrama_Red_Televisiva_Megavisión_S_A
+Televisiva po:nome is:ngrama_Red_Televisiva_Megavisión_S_A
+Megavisión po:nome is:ngrama_Red_Televisiva_Megavisión_S_A
+S.A. po:nome is:ngrama_Red_Televisiva_Megavisión_S_A
+Rede po:nome is:ngrama_Rede_Bandeirantes
+Bandeirantes po:nome is:ngrama_Rede_Bandeirantes
+Rede po:nome is:ngrama_Rede_Globo
+Globo po:nome is:ngrama_Rede_Globo
+Rede po:nome is:ngrama_Rede_Record
+Record po:nome is:ngrama_Rede_Record
+Rediffusion po:nome is:ngrama_Rediffusion_Television
+Television po:nome is:ngrama_Rediffusion_Television
 RTCG po:nome
 RTÉ po:nome
 RTK po:nome
@@ -306,41 +306,41 @@ RTV po:nome
 RTVA po:nome
 RTVSLO po:nome
 Rundradion po:nome
-Santiago po:nome [n-grama: Santiago TV]
-TV po:nome [n-grama: Santiago TV]
-Satellite po:nome [n-grama: Satellite Television Asia Region]
-Television po:nome [n-grama: Satellite Television Asia Region]
-Asia po:nome [n-grama: Satellite Television Asia Region]
-Region po:nome [n-grama: Satellite Television Asia Region]
+Santiago po:nome is:ngrama_Santiago_TV
+TV po:nome is:ngrama_Santiago_TV
+Satellite po:nome is:ngrama_Satellite_Television_Asia_Region
+Television po:nome is:ngrama_Satellite_Television_Asia_Region
+Asia po:nome is:ngrama_Satellite_Television_Asia_Region
+Region po:nome is:ngrama_Satellite_Television_Asia_Region
 SBS po:nome
 SBT po:nome
-Alemá po:nome [n-grama: Segunda Televisión Alemá]
-Especial po:nome [n-grama: Servizo Especial de Radiodifusión]
-Radiodifusión po:nome [n-grama: Servizo Especial de Radiodifusión]
-Radiodifusión po:nome [n-grama: Servizo Público de Radiodifusión]
-Brasileiro po:nome [n-grama: Sistema Brasileiro de Televisão]
-Televisão po:nome [n-grama: Sistema Brasileiro de Televisão]
-Société po:nome [n-grama: Société Radio-Canada]
-Radio-Canada po:nome [n-grama: Société Radio-Canada]
-Special po:nome [n-grama: Special Broadcasting Service]
-Broadcasting po:nome [n-grama: Special Broadcasting Service]
-Service po:nome [n-grama: Special Broadcasting Service]
+Alemá po:nome is:ngrama_Segunda_Televisión_Alemá
+Especial po:nome is:ngrama_Servizo_Especial_de_Radiodifusión
+Radiodifusión po:nome is:ngrama_Servizo_Especial_de_Radiodifusión
+Radiodifusión po:nome is:ngrama_Servizo_Público_de_Radiodifusión
+Brasileiro po:nome is:ngrama_Sistema_Brasileiro_de_Televisão
+Televisão po:nome is:ngrama_Sistema_Brasileiro_de_Televisão
+Société po:nome is:ngrama_Société_Radio_Canada
+Radio-Canada po:nome is:ngrama_Société_Radio_Canada
+Special po:nome is:ngrama_Special_Broadcasting_Service
+Broadcasting po:nome is:ngrama_Special_Broadcasting_Service
+Service po:nome is:ngrama_Special_Broadcasting_Service
 SRC po:nome
 STAR po:nome
-STAR po:nome [n-grama: STAR Movies]
-Movies po:nome [n-grama: STAR Movies]
-Sveriges po:nome [n-grama: Sveriges Television]
-Television po:nome [n-grama: Sveriges Television]
+STAR po:nome is:ngrama_STAR_Movies
+Movies po:nome is:ngrama_STAR_Movies
+Sveriges po:nome is:ngrama_Sveriges_Television
+Television po:nome is:ngrama_Sveriges_Television
 SVT po:nome
 T20 po:nome
 TCM po:nome
-Tele po:nome [n-grama: Tele Salnés Barbanza]
-Salnés po:nome [n-grama: Tele Salnés Barbanza]
-Barbanza po:nome [n-grama: Tele Salnés Barbanza]
-Télé po:nome [n-grama: Télé Wallis et Futuna]
-Wallis po:nome [n-grama: Télé Wallis et Futuna]
-et po:nome [n-grama: Télé Wallis et Futuna]
-Futuna po:nome [n-grama: Télé Wallis et Futuna]
+Tele po:nome is:ngrama_Tele_Salnés_Barbanza
+Salnés po:nome is:ngrama_Tele_Salnés_Barbanza
+Barbanza po:nome is:ngrama_Tele_Salnés_Barbanza
+Télé po:nome is:ngrama_Télé_Wallis_et_Futuna
+Wallis po:nome is:ngrama_Télé_Wallis_et_Futuna
+et po:nome is:ngrama_Télé_Wallis_et_Futuna
+Futuna po:nome is:ngrama_Télé_Wallis_et_Futuna
 Telecíes po:nome
 Telecinco po:nome
 Telecoruña po:nome
@@ -348,87 +348,87 @@ Teledeporte po:nome
 Telefe po:nome
 Telelugo po:nome
 Telemadrid po:nome
-Telemadrid po:nome [n-grama: Telemadrid SAT]
-SAT po:nome [n-grama: Telemadrid SAT]
+Telemadrid po:nome is:ngrama_Telemadrid_SAT
+SAT po:nome is:ngrama_Telemadrid_SAT
 Telemiño po:nome
 TeleRadio-Moldova po:nome
 Televigo po:nome
 Televinte po:nome
-Televisió po:nome [n-grama: Televisió de les Illes Balears]
-les po:nome [n-grama: Televisió de les Illes Balears]
-Illes po:nome [n-grama: Televisió de les Illes Balears]
-Balears po:nome [n-grama: Televisió de les Illes Balears]
-Televisió po:nome [n-grama: Televisió Valenciana Internacional]
-Valenciana po:nome [n-grama: Televisió Valenciana Internacional]
-Canaria po:nome [n-grama: Televisión Canaria]
-Educativa po:nome [n-grama: Televisión Educativa Nacional]
-Ferrol po:nome [n-grama: Televisión Ferrol Canal 31]
-Húngara po:nome [n-grama: Televisión Húngara]
-Chile po:nome [n-grama: Televisión Nacional de Chile]
-Télévision po:nome [n-grama: Télévision Suisse Romande]
-Suisse po:nome [n-grama: Télévision Suisse Romande]
-Romande po:nome [n-grama: Télévision Suisse Romande]
-suíza po:nome [n-grama: Televisión suíza romanda]
-romanda po:nome [n-grama: Televisión suíza romanda]
-Television po:nome [n-grama: Television Sydney]
-Sydney po:nome [n-grama: Television Sydney]
-Universidad po:nome [n-grama: Televisión Universidad de Concepción]
-Concepción po:nome [n-grama: Televisión Universidad de Concepción]
-Telewizja po:nome [n-grama: Telewizja Polska Spółka Akcyjna]
-Polska po:nome [n-grama: Telewizja Polska Spółka Akcyjna]
-Spółka po:nome [n-grama: Telewizja Polska Spółka Akcyjna]
-Akcyjna po:nome [n-grama: Telewizja Polska Spółka Akcyjna]
+Televisió po:nome is:ngrama_Televisió_de_les_Illes_Balears
+les po:nome is:ngrama_Televisió_de_les_Illes_Balears
+Illes po:nome is:ngrama_Televisió_de_les_Illes_Balears
+Balears po:nome is:ngrama_Televisió_de_les_Illes_Balears
+Televisió po:nome is:ngrama_Televisió_Valenciana_Internacional
+Valenciana po:nome is:ngrama_Televisió_Valenciana_Internacional
+Canaria po:nome is:ngrama_Televisión_Canaria
+Educativa po:nome is:ngrama_Televisión_Educativa_Nacional
+Ferrol po:nome is:ngrama_Televisión_Ferrol_Canal_31
+Húngara po:nome is:ngrama_Televisión_Húngara
+Chile po:nome is:ngrama_Televisión_Nacional_de_Chile
+Télévision po:nome is:ngrama_Télévision_Suisse_Romande
+Suisse po:nome is:ngrama_Télévision_Suisse_Romande
+Romande po:nome is:ngrama_Télévision_Suisse_Romande
+suíza po:nome is:ngrama_Televisión_suíza_romanda
+romanda po:nome is:ngrama_Televisión_suíza_romanda
+Television po:nome is:ngrama_Television_Sydney
+Sydney po:nome is:ngrama_Television_Sydney
+Universidad po:nome is:ngrama_Televisión_Universidad_de_Concepción
+Concepción po:nome is:ngrama_Televisión_Universidad_de_Concepción
+Telewizja po:nome is:ngrama_Telewizja_Polska_Spółka_Akcyjna
+Polska po:nome is:ngrama_Telewizja_Polska_Spółka_Akcyjna
+Spółka po:nome is:ngrama_Telewizja_Polska_Spółka_Akcyjna
+Akcyjna po:nome is:ngrama_Telewizja_Polska_Spółka_Akcyjna
 TF1 po:nome
 TLC po:nome
 TRM po:nome
 Trojka po:nome
 TRT po:nome
-Türkiye po:nome [n-grama: Türkiye Radyo Televizyon Kurumu]
-Radyo po:nome [n-grama: Türkiye Radyo Televizyon Kurumu]
-Televizyon po:nome [n-grama: Türkiye Radyo Televizyon Kurumu]
-Kurumu po:nome [n-grama: Türkiye Radyo Televizyon Kurumu]
-Turner po:nome [n-grama: Turner Classic Movies]
-Classic po:nome [n-grama: Turner Classic Movies]
-Movies po:nome [n-grama: Turner Classic Movies]
+Türkiye po:nome is:ngrama_Türkiye_Radyo_Televizyon_Kurumu
+Radyo po:nome is:ngrama_Türkiye_Radyo_Televizyon_Kurumu
+Televizyon po:nome is:ngrama_Türkiye_Radyo_Televizyon_Kurumu
+Kurumu po:nome is:ngrama_Türkiye_Radyo_Televizyon_Kurumu
+Turner po:nome is:ngrama_Turner_Classic_Movies
+Classic po:nome is:ngrama_Turner_Classic_Movies
+Movies po:nome is:ngrama_Turner_Classic_Movies
 TV3 po:nome
 TV3CAT po:nome
 TV3HD po:nome
-TV5 po:nome [n-grama: TV5 Monde]
-Monde po:nome [n-grama: TV5 Monde]
-TVE po:nome [n-grama: TVE 2]
-TVE po:nome [n-grama: TVE HD]
-HD po:nome [n-grama: TVE HD]
+TV5 po:nome is:ngrama_TV5_Monde
+Monde po:nome is:ngrama_TV5_Monde
+TVE po:nome is:ngrama_TVE_2
+TVE po:nome is:ngrama_TVE_HD
+HD po:nome is:ngrama_TVE_HD
 TVN po:nome
 TVS po:nome
 TVSB po:nome
 TVU po:nome
 TVVi po:nome
-Radiodifusión po:nome [n-grama: Unión Europea de Radiodifusión]
+Radiodifusión po:nome is:ngrama_Unión_Europea_de_Radiodifusión
 V-me po:nome
-VIA po:nome [n-grama: VIA Televisión]
-Wallis po:nome [n-grama: Wallis et Futuna 1ère]
-et po:nome [n-grama: Wallis et Futuna 1ère]
-Futuna po:nome [n-grama: Wallis et Futuna 1ère]
-1ère po:nome [n-grama: Wallis et Futuna 1ère]
-WHSV po:nome [n-grama: WHSV News 3]
-News po:nome [n-grama: WHSV News 3]
+VIA po:nome is:ngrama_VIA_Televisión
+Wallis po:nome is:ngrama_Wallis_et_Futuna_1ère
+et po:nome is:ngrama_Wallis_et_Futuna_1ère
+Futuna po:nome is:ngrama_Wallis_et_Futuna_1ère
+1ère po:nome is:ngrama_Wallis_et_Futuna_1ère
+WHSV po:nome is:ngrama_WHSV_News_3
+News po:nome is:ngrama_WHSV_News_3
 WHSV-TV po:nome
 WJAC-TV po:nome
 Xplora po:nome
 Yleisradio po:nome
-Zambia po:nome [n-grama: Zambia National Broadcasting Corporation]
-National po:nome [n-grama: Zambia National Broadcasting Corporation]
-Broadcasting po:nome [n-grama: Zambia National Broadcasting Corporation]
-Corporation po:nome [n-grama: Zambia National Broadcasting Corporation]
+Zambia po:nome is:ngrama_Zambia_National_Broadcasting_Corporation
+National po:nome is:ngrama_Zambia_National_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_Zambia_National_Broadcasting_Corporation
+Corporation po:nome is:ngrama_Zambia_National_Broadcasting_Corporation
 ZDF po:nome
-Zee po:nome [n-grama: Zee TV]
-TV po:nome [n-grama: Zee TV]
-Zimbabwe po:nome [n-grama: Zimbabwe Broadcasting Corporation]
-Broadcasting po:nome [n-grama: Zimbabwe Broadcasting Corporation]
-Corporation po:nome [n-grama: Zimbabwe Broadcasting Corporation]
+Zee po:nome is:ngrama_Zee_TV
+TV po:nome is:ngrama_Zee_TV
+Zimbabwe po:nome is:ngrama_Zimbabwe_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_Zimbabwe_Broadcasting_Corporation
+Corporation po:nome is:ngrama_Zimbabwe_Broadcasting_Corporation
 ZIZ po:nome
 ZNBC po:nome
-Zweites po:nome [n-grama: Zweites Deutsches Fernsehen]
-Deutsches po:nome [n-grama: Zweites Deutsches Fernsehen]
-Fernsehen po:nome [n-grama: Zweites Deutsches Fernsehen]
+Zweites po:nome is:ngrama_Zweites_Deutsches_Fernsehen
+Deutsches po:nome is:ngrama_Zweites_Deutsches_Fernsehen
+Fernsehen po:nome is:ngrama_Zweites_Deutsches_Fernsehen
 中国中央电视台 po:nome

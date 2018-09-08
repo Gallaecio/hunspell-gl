@@ -263,8 +263,8 @@ CAMPSA po:sigla  #  Compañía Arrendataria del Monopolio de Petróleos, Socieda
 CASA po:sigla  #  Construcciones Aeronáuticas, Sociedad Anónima (Construcións Aeronáuticas, Sociedade Anónima) (España)
 CATV po:sigla  #  Cable Televisión (Televisión por Cable)
 CAV po:sigla  #  Constant angular velocity (velocidade angular constante
-CBS po:sigla [n-grama: CBS INCORPORATED]  #  Columbia Broadcasting System (Cadea de Radiotelevisión Columbia)
-INCORPORATED po:sigla [n-grama: CBS INCORPORATED]  #  Columbia Broadcasting System (Cadea de Radiotelevisión Columbia)
+CBS po:sigla is:ngrama_CBS_INCORPORATED  #  Columbia Broadcasting System (Cadea de Radiotelevisión Columbia)
+INCORPORATED po:sigla is:ngrama_CBS_INCORPORATED  #  Columbia Broadcasting System (Cadea de Radiotelevisión Columbia)
 CC po:sigla  #  Coalición Canaria || Código Civil || Código de Circulación || Comite Central || Corpo Consular
 CCA po:sigla  #  Confederación de Cajas de Ahorro (Confederación de Caixas de Aforro) (España) || Compañía Cubana de Aviación
 CCAN po:sigla  #  Consello de Cooperación do Atlántico Norte
@@ -276,8 +276,8 @@ CCI po:sigla  #  Centro Internacional da Infancia [ en inglés, ICC: Internation
 CCOO po:sigla  #  Comisións Obreiras
 CCRTV po:sigla  #  Corporació Catalana de Radiotelevisió (Corporación Catalá de Radiotelevisión)
 CD po:sigla  #  Compact Disc (disco compacto) || Club Deportivo || Corpo Diplomático
-CD po:sigla [n-grama: CD ROM]  #  Compact Disc Read Only Memory (Disco Compacto de Memoria Só de Lectura)
-ROM po:sigla [n-grama: CD ROM]  #  Compact Disc Read Only Memory (Disco Compacto de Memoria Só de Lectura)
+CD po:sigla is:ngrama_CD_ROM  #  Compact Disc Read Only Memory (Disco Compacto de Memoria Só de Lectura)
+ROM po:sigla is:ngrama_CD_ROM  #  Compact Disc Read Only Memory (Disco Compacto de Memoria Só de Lectura)
 CDC po:sigla  #  Convergència Democràtica de Catalunya (Converxencia Democrática de Cataluña)
 CDE po:sigla  #  Consello de Europa
 CDG po:sigla  #  Centro Dramático Galego

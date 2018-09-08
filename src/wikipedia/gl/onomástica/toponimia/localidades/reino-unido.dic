@@ -13,9 +13,9 @@ Birmingham po:topónimo
 Blackburn po:topónimo
 Bolton po:topónimo
 Bonnybridge po:topónimo
-Bridge po:topónimo [n-grama: Bridge of Allan]
-of po:topónimo [n-grama: Bridge of Allan]
-Allan po:topónimo [n-grama: Bridge of Allan]
+Bridge po:topónimo is:ngrama_Bridge_of_Allan
+of po:topónimo is:ngrama_Bridge_of_Allan
+Allan po:topónimo is:ngrama_Bridge_of_Allan
 Brighton po:topónimo
 Bristol po:topónimo
 Bunbury po:topónimo
@@ -25,9 +25,9 @@ Caerphilly po:topónimo
 Cambridge po:topónimo
 Canterbury po:topónimo
 Cardiff po:topónimo
-Castle po:topónimo [n-grama: Castle Combe]
-Combe po:topónimo [n-grama: Castle Combe]
-Londres po:topónimo [n-grama: Cidade de Londres]
+Castle po:topónimo is:ngrama_Castle_Combe
+Combe po:topónimo is:ngrama_Castle_Combe
+Londres po:topónimo is:ngrama_Cidade_de_Londres
 Clydebank po:topónimo
 Coventry po:topónimo
 Croydon po:topónimo
@@ -41,14 +41,14 @@ Edimburgo po:topónimo
 Exeter po:topónimo
 Forteviot po:topónimo
 Glasgow po:topónimo
-Londres po:topónimo [n-grama: Gran Londres]
+Londres po:topónimo is:ngrama_Gran_Londres
 Greenwich po:topónimo
-Hammersmith po:topónimo [n-grama: Hammersmith e Fulham]
-Fulham po:topónimo [n-grama: Hammersmith e Fulham]
+Hammersmith po:topónimo is:ngrama_Hammersmith_e_Fulham
+Fulham po:topónimo is:ngrama_Hammersmith_e_Fulham
 Inveraray po:topónimo
 Inverness po:topónimo
-Kensington po:topónimo [n-grama: Kensington e Chelsea]
-Chelsea po:topónimo [n-grama: Kensington e Chelsea]
+Kensington po:topónimo is:ngrama_Kensington_e_Chelsea
+Chelsea po:topónimo is:ngrama_Kensington_e_Chelsea
 Leeds po:topónimo
 Leicester po:topónimo
 Lerwick po:topónimo
@@ -57,9 +57,9 @@ Londres po:topónimo
 Manchester po:topónimo
 Monmouth po:topónimo
 Newcastle po:topónimo
-Newcastle po:topónimo [n-grama: Newcastle upon Tyne]
-upon po:topónimo [n-grama: Newcastle upon Tyne]
-Tyne po:topónimo [n-grama: Newcastle upon Tyne]
+Newcastle po:topónimo is:ngrama_Newcastle_upon_Tyne
+upon po:topónimo is:ngrama_Newcastle_upon_Tyne
+Tyne po:topónimo is:ngrama_Newcastle_upon_Tyne
 Newport po:topónimo
 Nottingham po:topónimo
 Oldham po:topónimo
@@ -70,23 +70,23 @@ Plymouth po:topónimo
 Portsmouth po:topónimo
 Ramsgate po:topónimo
 Reading po:topónimo
-Saint po:topónimo [n-grama: Saint Helier]
-Helier po:topónimo [n-grama: Saint Helier]
+Saint po:topónimo is:ngrama_Saint_Helier
+Helier po:topónimo is:ngrama_Saint_Helier
 Sheffield po:topónimo
 Silverstone po:topónimo
 Southampton po:topónimo
-St po:topónimo [n-grama: St Albans]
-Albans po:topónimo [n-grama: St Albans]
+St po:topónimo is:ngrama_St_Albans
+Albans po:topónimo is:ngrama_St_Albans
 Stirling po:topónimo
 Stonehaven po:topónimo
 Stratford-upon-Avon po:topónimo
 Sunderland po:topónimo
 Tintagel po:topónimo
-Tower po:topónimo [n-grama: Tower Hamlets]
-Hamlets po:topónimo [n-grama: Tower Hamlets]
+Tower po:topónimo is:ngrama_Tower_Hamlets
+Hamlets po:topónimo is:ngrama_Tower_Hamlets
 Truro po:topónimo
 Uig po:topónimo
-Waltham po:topónimo [n-grama: Waltham Forest]
-Forest po:topónimo [n-grama: Waltham Forest]
+Waltham po:topónimo is:ngrama_Waltham_Forest
+Forest po:topónimo is:ngrama_Waltham_Forest
 Westminster po:topónimo
 York po:topónimo

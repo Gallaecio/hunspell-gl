@@ -1,13 +1,13 @@
 Barcelona po:topónimo
 Barquisimeto po:topónimo
 Caracas po:topónimo
-Ciudad po:topónimo [n-grama: Ciudad Bolívar]
-Bolívar po:topónimo [n-grama: Ciudad Bolívar]
+Ciudad po:topónimo is:ngrama_Ciudad_Bolívar
+Bolívar po:topónimo is:ngrama_Ciudad_Bolívar
 Cumaná po:topónimo
-El po:topónimo [n-grama: El Tigre]
-Tigre po:topónimo [n-grama: El Tigre]
+El po:topónimo is:ngrama_El_Tigre
+Tigre po:topónimo is:ngrama_El_Tigre
 Maracaibo po:topónimo
 Maturín po:topónimo
 Mérida po:topónimo
-Cristóbal po:topónimo [n-grama: San Cristóbal]
+Cristóbal po:topónimo is:ngrama_San_Cristóbal
 Valencia po:topónimo

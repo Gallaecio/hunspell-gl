@@ -1,80 +1,80 @@
-Arteixo po:nome [n-grama: Arteixo Telecom]
-Telecom po:nome [n-grama: Arteixo Telecom]
-Comcast po:nome [n-grama: Comcast Corporation]
-Corporation po:nome [n-grama: Comcast Corporation]
+Arteixo po:nome is:ngrama_Arteixo_Telecom
+Telecom po:nome is:ngrama_Arteixo_Telecom
+Comcast po:nome is:ngrama_Comcast_Corporation
+Corporation po:nome is:ngrama_Comcast_Corporation
 Coremain po:nome
 Dielectro po:nome
-Dinahosting po:nome [n-grama: Dinahosting S.L.]
-S.L. po:nome [n-grama: Dinahosting S.L.]
+Dinahosting po:nome is:ngrama_Dinahosting_S_L
+S.L. po:nome is:ngrama_Dinahosting_S_L
 Disashop po:nome
 Egatel po:nome
-Emerson po:nome [n-grama: Emerson Electric Company]
-Electric po:nome [n-grama: Emerson Electric Company]
-Company po:nome [n-grama: Emerson Electric Company]
+Emerson po:nome is:ngrama_Emerson_Electric_Company
+Electric po:nome is:ngrama_Emerson_Electric_Company
+Company po:nome is:ngrama_Emerson_Electric_Company
 Euskaltel po:nome
-Everis po:nome [n-grama: Everis Spain]
-Spain po:nome [n-grama: Everis Spain]
+Everis po:nome is:ngrama_Everis_Spain
+Spain po:nome is:ngrama_Everis_Spain
 GE po:nome
-General po:nome [n-grama: General Electric]
-Electric po:nome [n-grama: General Electric]
-General po:nome [n-grama: General Electric Company]
-Electric po:nome [n-grama: General Electric Company]
-Company po:nome [n-grama: General Electric Company]
-Grupo po:nome [n-grama: Grupo Cisneros]
-Cisneros po:nome [n-grama: Grupo Cisneros]
-Grupo po:nome [n-grama: Grupo Telefónica]
-Telefónica po:nome [n-grama: Grupo Telefónica]
+General po:nome is:ngrama_General_Electric
+Electric po:nome is:ngrama_General_Electric
+General po:nome is:ngrama_General_Electric_Company
+Electric po:nome is:ngrama_General_Electric_Company
+Company po:nome is:ngrama_General_Electric_Company
+Grupo po:nome is:ngrama_Grupo_Cisneros
+Cisneros po:nome is:ngrama_Grupo_Cisneros
+Grupo po:nome is:ngrama_Grupo_Telefónica
+Telefónica po:nome is:ngrama_Grupo_Telefónica
 Hewlett-Packard po:nome
 Hondutel po:nome
 HP po:nome
 Huawei po:nome
 Ikusi po:nome
-Indra po:nome [n-grama: Indra Sistemas]
+Indra po:nome is:ngrama_Indra_Sistemas
 Itelsis po:nome
 Jazztel po:nome
-MÁSmovil po:nome [n-grama: MÁSmovil Telecom 3.0]
-Telecom po:nome [n-grama: MÁSmovil Telecom 3.0]
-3.0 po:nome [n-grama: MÁSmovil Telecom 3.0]
+MÁSmovil po:nome is:ngrama_MÁSmovil_Telecom_3_0
+Telecom po:nome is:ngrama_MÁSmovil_Telecom_3_0
+3.0 po:nome is:ngrama_MÁSmovil_Telecom_3_0
 Nokia po:nome
 Olivetti po:nome
 OMV po:nome
 ONO po:nome
-operador po:nome [n-grama: operador móbil virtual]
-móbil po:nome [n-grama: operador móbil virtual]
-virtual po:nome [n-grama: operador móbil virtual]
+operador po:nome is:ngrama_operador_móbil_virtual
+móbil po:nome is:ngrama_operador_móbil_virtual
+virtual po:nome is:ngrama_operador_móbil_virtual
 Philips po:nome
-PROMAX po:nome [n-grama: PROMAX electrónica]
-electrónica po:nome [n-grama: PROMAX electrónica]
-R po:nome [n-grama: R Cable Galicia]
-Cable po:nome [n-grama: R Cable Galicia]
-Redes po:nome [n-grama: Redes de Telecomunicación Galegas S.A]
-Telecomunicación po:nome [n-grama: Redes de Telecomunicación Galegas S.A]
-S.A po:nome [n-grama: Redes de Telecomunicación Galegas S.A]
+PROMAX po:nome is:ngrama_PROMAX_electrónica
+electrónica po:nome is:ngrama_PROMAX_electrónica
+R po:nome is:ngrama_R_Cable_Galicia
+Cable po:nome is:ngrama_R_Cable_Galicia
+Redes po:nome is:ngrama_Redes_de_Telecomunicación_Galegas_S_A
+Telecomunicación po:nome is:ngrama_Redes_de_Telecomunicación_Galegas_S_A
+S.A po:nome is:ngrama_Redes_de_Telecomunicación_Galegas_S_A
 Retegal po:nome
-Sharp po:nome [n-grama: Sharp Corporation]
-Corporation po:nome [n-grama: Sharp Corporation]
-Siemens po:nome [n-grama: Siemens AG]
-AG po:nome [n-grama: Siemens AG]
-Sunrise po:nome [n-grama: Sunrise Communications AG]
-Communications po:nome [n-grama: Sunrise Communications AG]
-AG po:nome [n-grama: Sunrise Communications AG]
+Sharp po:nome is:ngrama_Sharp_Corporation
+Corporation po:nome is:ngrama_Sharp_Corporation
+Siemens po:nome is:ngrama_Siemens_AG
+AG po:nome is:ngrama_Siemens_AG
+Sunrise po:nome is:ngrama_Sunrise_Communications_AG
+Communications po:nome is:ngrama_Sunrise_Communications_AG
+AG po:nome is:ngrama_Sunrise_Communications_AG
 T-Mobile po:nome
 TeleCable po:nome
-Telefónica po:nome [n-grama: Telefónica S.A.]
-S.A. po:nome [n-grama: Telefónica S.A.]
-Telenor po:nome [n-grama: Telenor Denmark]
-Denmark po:nome [n-grama: Telenor Denmark]
-Telenor po:nome [n-grama: Telenor Magyarország]
-Magyarország po:nome [n-grama: Telenor Magyarország]
+Telefónica po:nome is:ngrama_Telefónica_S_A
+S.A. po:nome is:ngrama_Telefónica_S_A
+Telenor po:nome is:ngrama_Telenor_Denmark
+Denmark po:nome is:ngrama_Telenor_Denmark
+Telenor po:nome is:ngrama_Telenor_Magyarország
+Magyarország po:nome is:ngrama_Telenor_Magyarország
 Televés po:nome
-Télex-Chile po:nome [n-grama: Télex-Chile Comunicacións Telegráficas S.A.]
-Comunicacións po:nome [n-grama: Télex-Chile Comunicacións Telegráficas S.A.]
-Telegráficas po:nome [n-grama: Télex-Chile Comunicacións Telegráficas S.A.]
-S.A. po:nome [n-grama: Télex-Chile Comunicacións Telegráficas S.A.]
-True po:nome [n-grama: True Corporation]
-Corporation po:nome [n-grama: True Corporation]
+Télex-Chile po:nome is:ngrama_Télex_Chile_Comunicacións_Telegráficas_S_A
+Comunicacións po:nome is:ngrama_Télex_Chile_Comunicacións_Telegráficas_S_A
+Telegráficas po:nome is:ngrama_Télex_Chile_Comunicacións_Telegráficas_S_A
+S.A. po:nome is:ngrama_Télex_Chile_Comunicacións_Telegráficas_S_A
+True po:nome is:ngrama_True_Corporation
+Corporation po:nome is:ngrama_True_Corporation
 TrueVisions po:nome
-United po:nome [n-grama: United Broadcasting Corporation]
-Broadcasting po:nome [n-grama: United Broadcasting Corporation]
-Corporation po:nome [n-grama: United Broadcasting Corporation]
+United po:nome is:ngrama_United_Broadcasting_Corporation
+Broadcasting po:nome is:ngrama_United_Broadcasting_Corporation
+Corporation po:nome is:ngrama_United_Broadcasting_Corporation
 Vodafone po:nome

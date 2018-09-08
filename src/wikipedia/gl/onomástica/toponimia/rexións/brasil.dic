@@ -2,27 +2,27 @@ Acre po:topónimo
 Alagoas po:topónimo
 Amapá po:topónimo
 Ceará po:topónimo
-Espírito po:topónimo [n-grama: Espírito Santo]
-São po:topónimo [n-grama: Estado de São Paulo]
-Paulo po:topónimo [n-grama: Estado de São Paulo]
-Amazonas po:topónimo [n-grama: Estado do Amazonas]
-Paraná po:topónimo [n-grama: Estado do Paraná]
+Espírito po:topónimo is:ngrama_Espírito_Santo
+São po:topónimo is:ngrama_Estado_de_São_Paulo
+Paulo po:topónimo is:ngrama_Estado_de_São_Paulo
+Amazonas po:topónimo is:ngrama_Estado_do_Amazonas
+Paraná po:topónimo is:ngrama_Estado_do_Paraná
 Goiás po:topónimo
 Marañón po:topónimo
-Mato po:topónimo [n-grama: Mato Groso]
-Groso po:topónimo [n-grama: Mato Groso]
-Mato po:topónimo [n-grama: Mato Groso do Sur]
-Groso po:topónimo [n-grama: Mato Groso do Sur]
-Minas po:topónimo [n-grama: Minas Xerais]
-Xerais po:topónimo [n-grama: Minas Xerais]
+Mato po:topónimo is:ngrama_Mato_Groso
+Groso po:topónimo is:ngrama_Mato_Groso
+Mato po:topónimo is:ngrama_Mato_Groso_do_Sur
+Groso po:topónimo is:ngrama_Mato_Groso_do_Sur
+Minas po:topónimo is:ngrama_Minas_Xerais
+Xerais po:topónimo is:ngrama_Minas_Xerais
 Pará po:topónimo
 Paraíba po:topónimo
 Pernambuco po:topónimo
 Piauí po:topónimo
-Rio po:topónimo [n-grama: Rio Grande do Sul]
-Sul po:topónimo [n-grama: Rio Grande do Sul]
+Rio po:topónimo is:ngrama_Rio_Grande_do_Sul
+Sul po:topónimo is:ngrama_Rio_Grande_do_Sul
 Rondonia po:topónimo
 Roraima po:topónimo
-Catarina po:topónimo [n-grama: Santa Catarina]
+Catarina po:topónimo is:ngrama_Santa_Catarina
 Sergipe po:topónimo
 Tocantins po:topónimo

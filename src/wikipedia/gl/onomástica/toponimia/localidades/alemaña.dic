@@ -36,7 +36,7 @@ Erfurt po:topónimo
 Erlau po:topónimo
 Eschweiler po:topónimo
 Essen po:topónimo
-Alemaña|Bundesland po:topónimo [n-grama: Estados de Alemaña|Bundesland]
+Alemaña|Bundesland po:topónimo is:ngrama_Estados_de_Alemaña_Bundesland
 Flensburgo po:topónimo
 Frankfurt po:topónimo
 Friburgo po:topónimo
@@ -46,14 +46,14 @@ Gotha po:topónimo
 Gotinga po:topónimo
 Gütersloh po:topónimo
 Halle po:topónimo
-Halle po:topónimo [n-grama: Halle en Westfalia]
-Westfalia po:topónimo [n-grama: Halle en Westfalia]
+Halle po:topónimo is:ngrama_Halle_en_Westfalia
+Westfalia po:topónimo is:ngrama_Halle_en_Westfalia
 Hamburgo po:topónimo
 Hannóver po:topónimo
 Heidelberg po:topónimo
 Heilbronn po:topónimo
-Hessisch po:topónimo [n-grama: Hessisch Oldendorf]
-Oldendorf po:topónimo [n-grama: Hessisch Oldendorf]
+Hessisch po:topónimo is:ngrama_Hessisch_Oldendorf
+Oldendorf po:topónimo is:ngrama_Hessisch_Oldendorf
 Hockenheim po:topónimo
 Ilmenau po:topónimo
 Ingolstadt po:topónimo
@@ -84,8 +84,8 @@ Saarbrücken po:topónimo
 Schorndorf po:topónimo
 Schwerin po:topónimo
 Siegen po:topónimo
-Stadtgemeinde po:topónimo [n-grama: Stadtgemeinde Bremen]
-Bremen po:topónimo [n-grama: Stadtgemeinde Bremen]
+Stadtgemeinde po:topónimo is:ngrama_Stadtgemeinde_Bremen
+Bremen po:topónimo is:ngrama_Stadtgemeinde_Bremen
 Stolberg po:topónimo
 Stuttgart po:topónimo
 Tréveris po:topónimo

@@ -1,14 +1,14 @@
 Abrantes po:topónimo
 Águeda po:topónimo
-Aguiar po:topónimo [n-grama: Aguiar da Beira]
+Aguiar po:topónimo is:ngrama_Aguiar_da_Beira
 Almada po:topónimo
 Amadora po:topónimo
 Amarante po:topónimo
 Amares po:topónimo
-Angra po:topónimo [n-grama: Angra do Heroísmo]
-Heroísmo po:topónimo [n-grama: Angra do Heroísmo]
-Arcos po:topónimo [n-grama: Arcos de Valdevez]
-Valdevez po:topónimo [n-grama: Arcos de Valdevez]
+Angra po:topónimo is:ngrama_Angra_do_Heroísmo
+Heroísmo po:topónimo is:ngrama_Angra_do_Heroísmo
+Arcos po:topónimo is:ngrama_Arcos_de_Valdevez
+Valdevez po:topónimo is:ngrama_Arcos_de_Valdevez
 Armamar po:topónimo
 Arouca po:topónimo
 Aveiro po:topónimo
@@ -18,15 +18,15 @@ Barreiro po:topónimo
 Beja po:topónimo
 Braga po:topónimo
 Braganza po:topónimo
-Cabeceiras po:topónimo [n-grama: Cabeceiras de Basto]
-Basto po:topónimo [n-grama: Cabeceiras de Basto]
+Cabeceiras po:topónimo is:ngrama_Cabeceiras_de_Basto
+Basto po:topónimo is:ngrama_Cabeceiras_de_Basto
 Caminha po:topónimo
 Cascais po:topónimo
-Celorico po:topónimo [n-grama: Celorico de Basto]
-Basto po:topónimo [n-grama: Celorico de Basto]
+Celorico po:topónimo is:ngrama_Celorico_de_Basto
+Basto po:topónimo is:ngrama_Celorico_de_Basto
 Chaves po:topónimo
 Coímbra po:topónimo
-Caparica po:topónimo [n-grama: Costa da Caparica]
+Caparica po:topónimo is:ngrama_Costa_da_Caparica
 Dume po:topónimo
 Espinho po:topónimo
 Esposende po:topónimo
@@ -46,45 +46,45 @@ Loures po:topónimo
 Lousada po:topónimo
 Maia po:topónimo
 Mangualde po:topónimo
-Marco po:topónimo [n-grama: Marco de Canaveses]
-Canaveses po:topónimo [n-grama: Marco de Canaveses]
+Marco po:topónimo is:ngrama_Marco_de_Canaveses
+Canaveses po:topónimo is:ngrama_Marco_de_Canaveses
 Matosinhos po:topónimo
 Mealhada po:topónimo
 Melgaço po:topónimo
-Miranda po:topónimo [n-grama: Miranda do Douro]
-Douro po:topónimo [n-grama: Miranda do Douro]
+Miranda po:topónimo is:ngrama_Miranda_do_Douro
+Douro po:topónimo is:ngrama_Miranda_do_Douro
 Mirandela po:topónimo
 Moimenta po:topónimo
 Monção po:topónimo
-Mondim po:topónimo [n-grama: Mondim de Basto]
-Basto po:topónimo [n-grama: Mondim de Basto]
+Mondim po:topónimo is:ngrama_Mondim_de_Basto
+Basto po:topónimo is:ngrama_Mondim_de_Basto
 Montalegre po:topónimo
 Montemor-o-Velho po:topónimo
 Montijo po:topónimo
 Nazaré po:topónimo
 Óbidos po:topónimo
 Oeiras po:topónimo
-Azeméis po:topónimo [n-grama: Oliveira de Azeméis]
-Paços po:topónimo [n-grama: Paços de Ferreira]
-Ferreira po:topónimo [n-grama: Paços de Ferreira]
-Paredes po:topónimo [n-grama: Paredes de Coura]
-Coura po:topónimo [n-grama: Paredes de Coura]
+Azeméis po:topónimo is:ngrama_Oliveira_de_Azeméis
+Paços po:topónimo is:ngrama_Paços_de_Ferreira
+Ferreira po:topónimo is:ngrama_Paços_de_Ferreira
+Paredes po:topónimo is:ngrama_Paredes_de_Coura
+Coura po:topónimo is:ngrama_Paredes_de_Coura
 Penafiel po:topónimo
-Peso po:topónimo [n-grama: Peso da Régua]
-Régua po:topónimo [n-grama: Peso da Régua]
+Peso po:topónimo is:ngrama_Peso_da_Régua
+Régua po:topónimo is:ngrama_Peso_da_Régua
 Pinhel po:topónimo
-Ponta po:topónimo [n-grama: Ponta Delgada]
-Delgada po:topónimo [n-grama: Ponta Delgada]
-Barca po:topónimo [n-grama: Ponte da Barca]
-Lima po:topónimo [n-grama: Ponte de Lima]
+Ponta po:topónimo is:ngrama_Ponta_Delgada
+Delgada po:topónimo is:ngrama_Ponta_Delgada
+Barca po:topónimo is:ngrama_Ponte_da_Barca
+Lima po:topónimo is:ngrama_Ponte_de_Lima
 Portimão po:topónimo
-Póvoa po:topónimo [n-grama: Póvoa de Lanhoso]
-Lanhoso po:topónimo [n-grama: Póvoa de Lanhoso]
-Póvoa po:topónimo [n-grama: Póvoa de Varzim]
-Varzim po:topónimo [n-grama: Póvoa de Varzim]
+Póvoa po:topónimo is:ngrama_Póvoa_de_Lanhoso
+Lanhoso po:topónimo is:ngrama_Póvoa_de_Lanhoso
+Póvoa po:topónimo is:ngrama_Póvoa_de_Varzim
+Varzim po:topónimo is:ngrama_Póvoa_de_Varzim
 Sacavém po:topónimo
-Marta po:topónimo [n-grama: Santa Marta de Penaguião]
-Penaguião po:topónimo [n-grama: Santa Marta de Penaguião]
+Marta po:topónimo is:ngrama_Santa_Marta_de_Penaguião
+Penaguião po:topónimo is:ngrama_Santa_Marta_de_Penaguião
 Santarém po:topónimo
 Sertã po:topónimo
 Setúbal po:topónimo
@@ -94,18 +94,18 @@ Tomar po:topónimo
 Trofa po:topónimo
 Valença po:topónimo
 Valongo po:topónimo
-Viana po:topónimo [n-grama: Viana do Castelo]
-Vieira po:topónimo [n-grama: Vieira do Minho]
-Minho po:topónimo [n-grama: Vieira do Minho]
-Conde po:topónimo [n-grama: Vila do Conde]
-Franca po:topónimo [n-grama: Vila Franca de Xira]
-Xira po:topónimo [n-grama: Vila Franca de Xira]
-Cerveira po:topónimo [n-grama: Vila Nova de Cerveira]
-Famalicão po:topónimo [n-grama: Vila Nova de Famalicão]
-Foz po:topónimo [n-grama: Vila Nova de Foz Côa]
-Côa po:topónimo [n-grama: Vila Nova de Foz Côa]
-Gaia po:topónimo [n-grama: Vila Nova de Gaia]
-António po:topónimo [n-grama: Vila Real de Santo António]
+Viana po:topónimo is:ngrama_Viana_do_Castelo
+Vieira po:topónimo is:ngrama_Vieira_do_Minho
+Minho po:topónimo is:ngrama_Vieira_do_Minho
+Conde po:topónimo is:ngrama_Vila_do_Conde
+Franca po:topónimo is:ngrama_Vila_Franca_de_Xira
+Xira po:topónimo is:ngrama_Vila_Franca_de_Xira
+Cerveira po:topónimo is:ngrama_Vila_Nova_de_Cerveira
+Famalicão po:topónimo is:ngrama_Vila_Nova_de_Famalicão
+Foz po:topónimo is:ngrama_Vila_Nova_de_Foz_Côa
+Côa po:topónimo is:ngrama_Vila_Nova_de_Foz_Côa
+Gaia po:topónimo is:ngrama_Vila_Nova_de_Gaia
+António po:topónimo is:ngrama_Vila_Real_de_Santo_António
 Vinhais po:topónimo
 Viseu po:topónimo
 Vizela po:topónimo

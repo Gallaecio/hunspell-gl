@@ -1,19 +1,19 @@
-'Digital po:antropónimo [n-grama: 'Digital Versatile Disc']
-Versatile po:antropónimo [n-grama: 'Digital Versatile Disc']
-Disc' po:antropónimo [n-grama: 'Digital Versatile Disc']
+'Digital po:antropónimo is:ngrama_Digital_Versatile_Disc
+Versatile po:antropónimo is:ngrama_Digital_Versatile_Disc
+Disc' po:antropónimo is:ngrama_Digital_Versatile_Disc
 BD po:antropónimo
 Blu-ray po:antropónimo
-Blu-ray po:antropónimo [n-grama: Blu-ray Disc]
-Disc po:antropónimo [n-grama: Blu-ray Disc]
+Blu-ray po:antropónimo is:ngrama_Blu_ray_Disc
+Disc po:antropónimo is:ngrama_Blu_ray_Disc
 CD po:antropónimo
-disco po:antropónimo [n-grama: disco compacto]
-compacto po:antropónimo [n-grama: disco compacto]
+disco po:antropónimo is:ngrama_disco_compacto
+compacto po:antropónimo is:ngrama_disco_compacto
 DVD po:antropónimo
 DVD-A po:antropónimo
 DVD-Audio po:antropónimo
-HD po:antropónimo [n-grama: HD DVD]
-DVD po:antropónimo [n-grama: HD DVD]
+HD po:antropónimo is:ngrama_HD_DVD
+DVD po:antropónimo is:ngrama_HD_DVD
 SACD po:antropónimo
-Super po:antropónimo [n-grama: Super Audio CD]
-Audio po:antropónimo [n-grama: Super Audio CD]
-CD po:antropónimo [n-grama: Super Audio CD]
+Super po:antropónimo is:ngrama_Super_Audio_CD
+Audio po:antropónimo is:ngrama_Super_Audio_CD
+CD po:antropónimo is:ngrama_Super_Audio_CD

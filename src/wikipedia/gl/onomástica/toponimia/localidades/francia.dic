@@ -14,17 +14,17 @@ Albertville po:topónimo
 Albi po:topónimo
 Alençon po:topónimo
 Allier po:topónimo
-Alpes po:topónimo [n-grama: Alpes da Alta Provenza]
-Provenza po:topónimo [n-grama: Alpes da Alta Provenza]
-Alpes po:topónimo [n-grama: Alpes Marítimos]
-Marítimos po:topónimo [n-grama: Alpes Marítimos]
-Garona po:topónimo [n-grama: Alta Garona]
-Savoia po:topónimo [n-grama: Alta Savoia]
-Loira po:topónimo [n-grama: Alto Loira]
-Marne po:topónimo [n-grama: Alto Marne]
-Vienne po:topónimo [n-grama: Alto Vienne]
-Alpes po:topónimo [n-grama: Altos Alpes]
-Pireneos po:topónimo [n-grama: Altos Pireneos]
+Alpes po:topónimo is:ngrama_Alpes_da_Alta_Provenza
+Provenza po:topónimo is:ngrama_Alpes_da_Alta_Provenza
+Alpes po:topónimo is:ngrama_Alpes_Marítimos
+Marítimos po:topónimo is:ngrama_Alpes_Marítimos
+Garona po:topónimo is:ngrama_Alta_Garona
+Savoia po:topónimo is:ngrama_Alta_Savoia
+Loira po:topónimo is:ngrama_Alto_Loira
+Marne po:topónimo is:ngrama_Alto_Marne
+Vienne po:topónimo is:ngrama_Alto_Vienne
+Alpes po:topónimo is:ngrama_Altos_Alpes
+Pireneos po:topónimo is:ngrama_Altos_Pireneos
 Amanlis po:topónimo
 Ambérieu-en-Bugey po:topónimo
 Ambérieux-en-Dombes po:topónimo
@@ -94,7 +94,7 @@ Bain-de-Bretagne po:topónimo
 Bains-sur-Oust po:topónimo
 Baiona po:topónimo
 Bais po:topónimo
-Rin po:topónimo [n-grama: Baixo Rin]
+Rin po:topónimo is:ngrama_Baixo_Rin
 Balan po:topónimo
 Balazé po:topónimo
 Baneins po:topónimo
@@ -138,8 +138,8 @@ Biziat po:topónimo
 Bléruais po:topónimo
 Blois po:topónimo
 Blyes po:topónimo
-Bocas po:topónimo [n-grama: Bocas do Ródano]
-Ródano po:topónimo [n-grama: Bocas do Ródano]
+Bocas po:topónimo is:ngrama_Bocas_do_Ródano
+Ródano po:topónimo is:ngrama_Bocas_do_Ródano
 Bohas-Meyriat-Rignat po:topónimo
 Boisgervilly po:topónimo
 Boissey po:topónimo
@@ -214,8 +214,8 @@ Chanay po:topónimo
 Chaneins po:topónimo
 Chanoz-Châtenay po:topónimo
 Charente po:topónimo
-Charente po:topónimo [n-grama: Charente Marítimo]
-Marítimo po:topónimo [n-grama: Charente Marítimo]
+Charente po:topónimo is:ngrama_Charente_Marítimo
+Marítimo po:topónimo is:ngrama_Charente_Marítimo
 Charix po:topónimo
 Charleville-Mézières po:topónimo
 Charnoz-sur-Ain po:topónimo
@@ -286,16 +286,16 @@ Curtafond po:topónimo
 Cuzieu po:topónimo
 Dagneux po:topónimo
 Daix po:topónimo
-Mancha po:topónimo [n-grama: Departamento de Mancha]
-Savoia po:topónimo [n-grama: Departamento de Savoia]
-Bretaña po:topónimo [n-grama: Departamentos da Bretaña]
-Francia po:topónimo [n-grama: Departamentos da Illa de Francia]
-Alsacia po:topónimo [n-grama: Departamentos de Alsacia]
-Córsega po:topónimo [n-grama: Departamentos de Córsega]
-Languedoc-Rosellón po:topónimo [n-grama: Departamentos de Languedoc-Rosellón]
-Franco po:topónimo [n-grama: Departamentos do Franco Condado]
-Loira po:topónimo [n-grama: Departamentos dos Países do Loira]
-franceses po:topónimo [n-grama: Departamentos franceses]
+Mancha po:topónimo is:ngrama_Departamento_de_Mancha
+Savoia po:topónimo is:ngrama_Departamento_de_Savoia
+Bretaña po:topónimo is:ngrama_Departamentos_da_Bretaña
+Francia po:topónimo is:ngrama_Departamentos_da_Illa_de_Francia
+Alsacia po:topónimo is:ngrama_Departamentos_de_Alsacia
+Córsega po:topónimo is:ngrama_Departamentos_de_Córsega
+Languedoc-Rosellón po:topónimo is:ngrama_Departamentos_de_Languedoc_Rosellón
+Franco po:topónimo is:ngrama_Departamentos_do_Franco_Condado
+Loira po:topónimo is:ngrama_Departamentos_dos_Países_do_Loira
+franceses po:topónimo is:ngrama_Departamentos_franceses
 Desvres po:topónimo
 Deux-Sèvres po:topónimo
 Dijon po:topónimo
@@ -324,8 +324,8 @@ Estrasburgo po:topónimo
 Etcharry po:topónimo
 Étrez po:topónimo
 Eure po:topónimo
-Eure po:topónimo [n-grama: Eure e Loir]
-Loir po:topónimo [n-grama: Eure e Loir]
+Eure po:topónimo is:ngrama_Eure_e_Loir
+Loir po:topónimo is:ngrama_Eure_e_Loir
 Évosges po:topónimo
 Faramans po:topónimo
 Fareins po:topónimo
@@ -362,8 +362,8 @@ Groslée po:topónimo
 Guadalupe po:topónimo
 Guérande po:topónimo
 Guéreins po:topónimo
-Güiana po:topónimo [n-grama: Güiana Francesa]
-Francesa po:topónimo [n-grama: Güiana Francesa]
+Güiana po:topónimo is:ngrama_Güiana_Francesa
+Francesa po:topónimo is:ngrama_Güiana_Francesa
 Guingamp po:topónimo
 Hautecourt-Romanèche po:topónimo
 Hauteville-Lompnes po:topónimo
@@ -375,8 +375,8 @@ Hotonnes po:topónimo
 Idaux-Mendy po:topónimo
 Illiat po:topónimo
 Indre po:topónimo
-Indre po:topónimo [n-grama: Indre e Loira]
-Loira po:topónimo [n-grama: Indre e Loira]
+Indre po:topónimo is:ngrama_Indre_e_Loira
+Loira po:topónimo is:ngrama_Indre_e_Loira
 Injoux-Génissiat po:topónimo
 Innimond po:topónimo
 Isère po:topónimo
@@ -394,36 +394,36 @@ Jura po:topónimo
 L'Abergement-Clémenciat po:topónimo
 L'Abergement-de-Varey po:topónimo
 L'Hôpital-Saint-Blaise po:topónimo
-La po:topónimo [n-grama: La Baussaine]
-Baussaine po:topónimo [n-grama: La Baussaine]
-La po:topónimo [n-grama: La Bazouge-du-Désert]
-Bazouge-du-Désert po:topónimo [n-grama: La Bazouge-du-Désert]
-La po:topónimo [n-grama: La Boisse]
-Boisse po:topónimo [n-grama: La Boisse]
-La po:topónimo [n-grama: La Bosse-de-Bretagne]
-Bosse-de-Bretagne po:topónimo [n-grama: La Bosse-de-Bretagne]
-La po:topónimo [n-grama: La Bouëxière]
-Bouëxière po:topónimo [n-grama: La Bouëxière]
-La po:topónimo [n-grama: La Boussac]
-Boussac po:topónimo [n-grama: La Boussac]
-La po:topónimo [n-grama: La Burbanche]
-Burbanche po:topónimo [n-grama: La Burbanche]
-La po:topónimo [n-grama: La Chapelle-du-Châtelard]
-Chapelle-du-Châtelard po:topónimo [n-grama: La Chapelle-du-Châtelard]
-La po:topónimo [n-grama: La Haye-du-Puits]
-Haye-du-Puits po:topónimo [n-grama: La Haye-du-Puits]
-La po:topónimo [n-grama: La Queue-les-Yvelines]
-Queue-les-Yvelines po:topónimo [n-grama: La Queue-les-Yvelines]
-La po:topónimo [n-grama: La Roche-Blanche]
-Roche-Blanche po:topónimo [n-grama: La Roche-Blanche]
-La po:topónimo [n-grama: La Rochelle]
-Rochelle po:topónimo [n-grama: La Rochelle]
-La po:topónimo [n-grama: La Seyne-sur-Mer]
-Seyne-sur-Mer po:topónimo [n-grama: La Seyne-sur-Mer]
-La po:topónimo [n-grama: La Tranclière]
-Tranclière po:topónimo [n-grama: La Tranclière]
-La po:topónimo [n-grama: La Ville-ès-Nonais]
-Ville-ès-Nonais po:topónimo [n-grama: La Ville-ès-Nonais]
+La po:topónimo is:ngrama_La_Baussaine
+Baussaine po:topónimo is:ngrama_La_Baussaine
+La po:topónimo is:ngrama_La_Bazouge_du_Désert
+Bazouge-du-Désert po:topónimo is:ngrama_La_Bazouge_du_Désert
+La po:topónimo is:ngrama_La_Boisse
+Boisse po:topónimo is:ngrama_La_Boisse
+La po:topónimo is:ngrama_La_Bosse_de_Bretagne
+Bosse-de-Bretagne po:topónimo is:ngrama_La_Bosse_de_Bretagne
+La po:topónimo is:ngrama_La_Bouëxière
+Bouëxière po:topónimo is:ngrama_La_Bouëxière
+La po:topónimo is:ngrama_La_Boussac
+Boussac po:topónimo is:ngrama_La_Boussac
+La po:topónimo is:ngrama_La_Burbanche
+Burbanche po:topónimo is:ngrama_La_Burbanche
+La po:topónimo is:ngrama_La_Chapelle_du_Châtelard
+Chapelle-du-Châtelard po:topónimo is:ngrama_La_Chapelle_du_Châtelard
+La po:topónimo is:ngrama_La_Haye_du_Puits
+Haye-du-Puits po:topónimo is:ngrama_La_Haye_du_Puits
+La po:topónimo is:ngrama_La_Queue_les_Yvelines
+Queue-les-Yvelines po:topónimo is:ngrama_La_Queue_les_Yvelines
+La po:topónimo is:ngrama_La_Roche_Blanche
+Roche-Blanche po:topónimo is:ngrama_La_Roche_Blanche
+La po:topónimo is:ngrama_La_Rochelle
+Rochelle po:topónimo is:ngrama_La_Rochelle
+La po:topónimo is:ngrama_La_Seyne_sur_Mer
+Seyne-sur-Mer po:topónimo is:ngrama_La_Seyne_sur_Mer
+La po:topónimo is:ngrama_La_Tranclière
+Tranclière po:topónimo is:ngrama_La_Tranclière
+La po:topónimo is:ngrama_La_Ville_ès_Nonais
+Ville-ès-Nonais po:topónimo is:ngrama_La_Ville_ès_Nonais
 Labalme po:topónimo
 Lagnieu po:topónimo
 Laiz po:topónimo
@@ -440,27 +440,27 @@ Lapeyrouse po:topónimo
 Latour-de-Carol po:topónimo
 Laval po:topónimo
 Lavours po:topónimo
-Le po:topónimo [n-grama: Le Grand-Abergement]
-Grand-Abergement po:topónimo [n-grama: Le Grand-Abergement]
-Le po:topónimo [n-grama: Le Montellier]
-Montellier po:topónimo [n-grama: Le Montellier]
-Le po:topónimo [n-grama: Le Petit-Abergement]
-Petit-Abergement po:topónimo [n-grama: Le Petit-Abergement]
-Le po:topónimo [n-grama: Le Plantay]
-Plantay po:topónimo [n-grama: Le Plantay]
-Le po:topónimo [n-grama: Le Poizat]
-Poizat po:topónimo [n-grama: Le Poizat]
-Le po:topónimo [n-grama: Le Vivier-sur-Mer]
-Vivier-sur-Mer po:topónimo [n-grama: Le Vivier-sur-Mer]
+Le po:topónimo is:ngrama_Le_Grand_Abergement
+Grand-Abergement po:topónimo is:ngrama_Le_Grand_Abergement
+Le po:topónimo is:ngrama_Le_Montellier
+Montellier po:topónimo is:ngrama_Le_Montellier
+Le po:topónimo is:ngrama_Le_Petit_Abergement
+Petit-Abergement po:topónimo is:ngrama_Le_Petit_Abergement
+Le po:topónimo is:ngrama_Le_Plantay
+Plantay po:topónimo is:ngrama_Le_Plantay
+Le po:topónimo is:ngrama_Le_Poizat
+Poizat po:topónimo is:ngrama_Le_Poizat
+Le po:topónimo is:ngrama_Le_Vivier_sur_Mer
+Vivier-sur-Mer po:topónimo is:ngrama_Le_Vivier_sur_Mer
 Léaz po:topónimo
 Lélex po:topónimo
 Lent po:topónimo
-Les po:topónimo [n-grama: Les Andelys]
-Andelys po:topónimo [n-grama: Les Andelys]
-Les po:topónimo [n-grama: Les Brulais]
-Brulais po:topónimo [n-grama: Les Brulais]
-Les po:topónimo [n-grama: Les Neyrolles]
-Neyrolles po:topónimo [n-grama: Les Neyrolles]
+Les po:topónimo is:ngrama_Les_Andelys
+Andelys po:topónimo is:ngrama_Les_Andelys
+Les po:topónimo is:ngrama_Les_Brulais
+Brulais po:topónimo is:ngrama_Les_Brulais
+Les po:topónimo is:ngrama_Les_Neyrolles
+Neyrolles po:topónimo is:ngrama_Les_Neyrolles
 Lescar po:topónimo
 Lescheroux po:topónimo
 Levallois-Perret po:topónimo
@@ -472,16 +472,16 @@ Lille po:topónimo
 Limoges po:topónimo
 Lión po:topónimo
 Lochieu po:topónimo
-Loir po:topónimo [n-grama: Loir e Cher]
-Cher po:topónimo [n-grama: Loir e Cher]
+Loir po:topónimo is:ngrama_Loir_e_Cher
+Cher po:topónimo is:ngrama_Loir_e_Cher
 Loira po:topónimo
 Loiret po:topónimo
 Lompnas po:topónimo
 Lompnieu po:topónimo
 Lorient po:topónimo
 Lot po:topónimo
-Lot po:topónimo [n-grama: Lot e Garona]
-Garona po:topónimo [n-grama: Lot e Garona]
+Lot po:topónimo is:ngrama_Lot_e_Garona
+Garona po:topónimo is:ngrama_Lot_e_Garona
 Loudenvielle po:topónimo
 Lourdes po:topónimo
 Loyettes po:topónimo
@@ -490,8 +490,8 @@ Lurcy po:topónimo
 Mâcon po:topónimo
 Magnieu po:topónimo
 Maillat po:topónimo
-Maine po:topónimo [n-grama: Maine e Loira]
-Loira po:topónimo [n-grama: Maine e Loira]
+Maine po:topónimo is:ngrama_Maine_e_Loira
+Loira po:topónimo is:ngrama_Maine_e_Loira
 Malafretaz po:topónimo
 Mantenay-Montlin po:topónimo
 Manziat po:topónimo
@@ -514,8 +514,8 @@ Menditte po:topónimo
 Mérignat po:topónimo
 Messimy-sur-Saône po:topónimo
 Metz po:topónimo
-Meurthe po:topónimo [n-grama: Meurthe e Mosela]
-Mosela po:topónimo [n-grama: Meurthe e Mosela]
+Meurthe po:topónimo is:ngrama_Meurthe_e_Mosela
+Mosela po:topónimo is:ngrama_Meurthe_e_Mosela
 Meximieux po:topónimo
 Mézériat po:topónimo
 Migennes po:topónimo
@@ -561,10 +561,10 @@ Nîmes po:topónimo
 Nivollet-Montgriffon po:topónimo
 Niza po:topónimo
 Nouméa po:topónimo
-Caledonia po:topónimo [n-grama: Nova Caledonia]
+Caledonia po:topónimo is:ngrama_Nova_Caledonia
 Noyon po:topónimo
 Nurieux-Volognat po:topónimo
-Havre po:topónimo [n-grama: O Havre]
+Havre po:topónimo is:ngrama_O_Havre
 Oise po:topónimo
 Oncieu po:topónimo
 Ordiarp po:topónimo
@@ -583,8 +583,8 @@ Pagolle po:topónimo
 Parcieux po:topónimo
 París po:topónimo
 Parves po:topónimo
-Paso po:topónimo [n-grama: Paso de Calais]
-Calais po:topónimo [n-grama: Paso de Calais]
+Paso po:topónimo is:ngrama_Paso_de_Calais
+Calais po:topónimo is:ngrama_Paso_de_Calais
 Périgueux po:topónimo
 Péron po:topónimo
 Péronnas po:topónimo
@@ -596,8 +596,8 @@ Peyriat po:topónimo
 Peyrieu po:topónimo
 Peyzieux-sur-Saône po:topónimo
 Pirajoux po:topónimo
-Pireneos po:topónimo [n-grama: Pireneos Atlánticos]
-Atlánticos po:topónimo [n-grama: Pireneos Atlánticos]
+Pireneos po:topónimo is:ngrama_Pireneos_Atlánticos
+Atlánticos po:topónimo is:ngrama_Pireneos_Atlánticos
 Pizay po:topónimo
 Plagne po:topónimo
 Planoise po:topónimo
@@ -720,8 +720,8 @@ Saintes po:topónimo
 Salavre po:topónimo
 Samognat po:topónimo
 Sandrans po:topónimo
-Saona po:topónimo [n-grama: Saona e Loira]
-Loira po:topónimo [n-grama: Saona e Loira]
+Saona po:topónimo is:ngrama_Saona_e_Loira
+Loira po:topónimo is:ngrama_Saona_e_Loira
 Saugnac-et-Cambran po:topónimo
 Sauguis-Saint-Étienne po:topónimo
 Sault-Brénaz po:topónimo
@@ -731,10 +731,10 @@ Ségny po:topónimo
 Seillonnaz po:topónimo
 Seine-Maritime po:topónimo
 Semur-en-Auxois po:topónimo
-Sena po:topónimo [n-grama: Sena e Marne]
-Marne po:topónimo [n-grama: Sena e Marne]
-Sena-San po:topónimo [n-grama: Sena-San Denis]
-Denis po:topónimo [n-grama: Sena-San Denis]
+Sena po:topónimo is:ngrama_Sena_e_Marne
+Marne po:topónimo is:ngrama_Sena_e_Marne
+Sena-San po:topónimo is:ngrama_Sena_San_Denis
+Denis po:topónimo is:ngrama_Sena_San_Denis
 Sergy po:topónimo
 Sermoyer po:topónimo
 Serrières-de-Briord po:topónimo
@@ -775,9 +775,9 @@ Trévoux po:topónimo
 Trois-Villes po:topónimo
 Troyes po:topónimo
 Ustaritz po:topónimo
-d'Isère po:topónimo [n-grama: Val d'Isère]
-Marne po:topónimo [n-grama: Val do Marne]
-Oise po:topónimo [n-grama: Val do Oise]
+d'Isère po:topónimo is:ngrama_Val_d_Isère
+Marne po:topónimo is:ngrama_Val_do_Marne
+Oise po:topónimo is:ngrama_Val_do_Oise
 Valeins po:topónimo
 Valence po:topónimo
 Valenciennes po:topónimo

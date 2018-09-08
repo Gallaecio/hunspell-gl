@@ -1,15 +1,15 @@
 Ática po:topónimo
 Épiro po:topónimo
-Exeo po:topónimo [n-grama: Exeo Meridional]
-Exeo po:topónimo [n-grama: Exeo Setentrional]
-Setentrional po:topónimo [n-grama: Exeo Setentrional]
-Grecia po:topónimo [n-grama: Grecia Central]
-Grecia po:topónimo [n-grama: Grecia Occidental]
-Creta po:topónimo [n-grama: Illa de Creta]
-Xónicas po:topónimo [n-grama: Illas Xónicas]
-Macedonia po:topónimo [n-grama: Macedonia Central]
-Macedonia po:topónimo [n-grama: Macedonia Occidental]
-Macedonia po:topónimo [n-grama: Macedonia Oriental e Tracia]
-Tracia po:topónimo [n-grama: Macedonia Oriental e Tracia]
+Exeo po:topónimo is:ngrama_Exeo_Meridional
+Exeo po:topónimo is:ngrama_Exeo_Setentrional
+Setentrional po:topónimo is:ngrama_Exeo_Setentrional
+Grecia po:topónimo is:ngrama_Grecia_Central
+Grecia po:topónimo is:ngrama_Grecia_Occidental
+Creta po:topónimo is:ngrama_Illa_de_Creta
+Xónicas po:topónimo is:ngrama_Illas_Xónicas
+Macedonia po:topónimo is:ngrama_Macedonia_Central
+Macedonia po:topónimo is:ngrama_Macedonia_Occidental
+Macedonia po:topónimo is:ngrama_Macedonia_Oriental_e_Tracia
+Tracia po:topónimo is:ngrama_Macedonia_Oriental_e_Tracia
 Peloponeso po:topónimo
 Tesalia po:topónimo

@@ -1,26 +1,26 @@
 barcana po:topónimo
 barchan po:topónimo
 barkhan po:topónimo
-árabe po:topónimo [n-grama: deserto árabe]
-Gibson po:topónimo [n-grama: Deserto de Gibson]
-Libia po:topónimo [n-grama: deserto de Libia]
-Sonora po:topónimo [n-grama: deserto de Sonora]
-Tabernas po:topónimo [n-grama: Deserto de Tabernas]
-Atacama po:topónimo [n-grama: deserto do Atacama]
-Gobi po:topónimo [n-grama: deserto do Gobi]
-Sáhara po:topónimo [n-grama: Deserto do Sáhara]
-sirio po:topónimo [n-grama: deserto sirio]
+árabe po:topónimo is:ngrama_deserto_árabe
+Gibson po:topónimo is:ngrama_Deserto_de_Gibson
+Libia po:topónimo is:ngrama_deserto_de_Libia
+Sonora po:topónimo is:ngrama_deserto_de_Sonora
+Tabernas po:topónimo is:ngrama_Deserto_de_Tabernas
+Atacama po:topónimo is:ngrama_deserto_do_Atacama
+Gobi po:topónimo is:ngrama_deserto_do_Gobi
+Sáhara po:topónimo is:ngrama_Deserto_do_Sáhara
+sirio po:topónimo is:ngrama_deserto_sirio
 erg po:topónimo
-Gilf po:topónimo [n-grama: Gilf Kebir]
-Kebir po:topónimo [n-grama: Gilf Kebir]
-Iebel po:topónimo [n-grama: Iebel Uweinat]
-Uweinat po:topónimo [n-grama: Iebel Uweinat]
+Gilf po:topónimo is:ngrama_Gilf_Kebir
+Kebir po:topónimo is:ngrama_Gilf_Kebir
+Iebel po:topónimo is:ngrama_Iebel_Uweinat
+Uweinat po:topónimo is:ngrama_Iebel_Uweinat
 Kalahari po:topónimo
 Kufra po:topónimo
 Markhás po:topónimo
-Areoso po:topónimo [n-grama: Pequeno Deserto Areoso]
-Rub po:topónimo [n-grama: Rub al-Khalí]
-al-Khalí po:topónimo [n-grama: Rub al-Khalí]
+Areoso po:topónimo is:ngrama_Pequeno_Deserto_Areoso
+Rub po:topónimo is:ngrama_Rub_al_Khalí
+al-Khalí po:topónimo is:ngrama_Rub_al_Khalí
 sabha po:topónimo
 sabkha po:topónimo
 Sahel po:topónimo

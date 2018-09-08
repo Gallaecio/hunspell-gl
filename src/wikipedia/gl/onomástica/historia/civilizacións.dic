@@ -11,7 +11,7 @@ Ampsivarii po:nome
 Amurrū po:nome
 anglosaxóns po:nome
 angrivarios po:nome
-Exipto po:nome [n-grama: Antigo Exipto]
+Exipto po:nome is:ngrama_Antigo_Exipto
 Aqueos po:nome
 arameos po:nome
 Arminio po:nome
@@ -22,8 +22,8 @@ Arzawa po:nome
 asdingos po:nome
 Ástures po:nome
 Asuwa po:nome
-aulercos po:nome [n-grama: aulercos diablintes]
-diablintes po:nome [n-grama: aulercos diablintes]
+aulercos po:nome is:ngrama_aulercos_diablintes
+diablintes po:nome is:ngrama_aulercos_diablintes
 ávaros po:nome
 Aztlán po:nome
 Babilonia po:nome
@@ -54,35 +54,35 @@ cibarcos po:nome
 cileni po:nome
 cilenos po:nome
 Cilicia po:nome
-maia po:nome [n-grama: civilización maia]
-minoica po:nome [n-grama: civilización minoica]
+maia po:nome is:ngrama_civilización_maia
+minoica po:nome is:ngrama_civilización_minoica
 coelerni po:nome
 coelernos po:nome
 copori po:nome
-Crecente po:nome [n-grama: Crecente Fértil]
-Fértil po:nome [n-grama: Crecente Fértil]
+Crecente po:nome is:ngrama_Crecente_Fértil
+Fértil po:nome is:ngrama_Crecente_Fértil
 cuados po:nome
 dacios po:nome
 Dicalidóns po:nome
 drevlianos po:nome
-viquinga po:nome [n-grama: Era viquinga]
+viquinga po:nome is:ngrama_Era_viquinga
 escalovianos po:nome
 escalvianos po:nome
-eslavos po:nome [n-grama: eslavos do sur]
-eslavos po:nome [n-grama: eslavos meridionais]
-ruso po:nome [n-grama: Estado ruso antigo]
+eslavos po:nome is:ngrama_eslavos_do_sur
+eslavos po:nome is:ngrama_eslavos_meridionais
+ruso po:nome is:ngrama_Estado_ruso_antigo
 etruscos po:nome
 fenicios po:nome
 Filisteos po:nome
 francos po:nome
-francos po:nome [n-grama: francos ripuarios]
-ripuarios po:nome [n-grama: francos ripuarios]
+francos po:nome is:ngrama_francos_ripuarios
+ripuarios po:nome is:ngrama_francos_ripuarios
 frisios po:nome
 frisóns po:nome
 Galaico po:nome
 gautas po:nome
 godos po:nome
-Grecia po:nome [n-grama: Grecia antiga]
+Grecia po:nome is:ngrama_Grecia_antiga
 Grovii po:nome
 Grovios po:nome
 Hamavi po:nome
@@ -145,17 +145,17 @@ Psidia po:nome
 quarquerni po:nome
 quarquernos po:nome
 queruscos po:nome
-Bitinia po:nome [n-grama: Reino de Bitinia]
-Masa po:nome [n-grama: reino de Masa]
-Ponto po:nome [n-grama: reino do Ponto]
-longobardo po:nome [n-grama: reino longobardo]
+Bitinia po:nome is:ngrama_Reino_de_Bitinia
+Masa po:nome is:ngrama_reino_de_Masa
+Ponto po:nome is:ngrama_reino_do_Ponto
+longobardo po:nome is:ngrama_reino_longobardo
 riparios po:nome
-Roma po:nome [n-grama: Roma Antiga]
+Roma po:nome is:ngrama_Roma_Antiga
 rus po:nome
-Rus po:nome [n-grama: Rus de Kiev]
-Kiev po:nome [n-grama: Rus de Kiev]
-Rus' po:nome [n-grama: Rus' de Kiev]
-Kiev po:nome [n-grama: Rus' de Kiev]
+Rus po:nome is:ngrama_Rus_de_Kiev
+Kiev po:nome is:ngrama_Rus_de_Kiev
+Rus' po:nome is:ngrama_Rus_de_Kiev
+Kiev po:nome is:ngrama_Rus_de_Kiev
 Rus’ po:nome
 ruxios po:nome
 saefes po:nome
@@ -188,12 +188,12 @@ Visigodos po:nome
 Wilusa po:nome
 Xépidos po:nome
 Xermania po:nome
-Ки́евская po:nome [n-grama: Ки́евская Русь]
-Русь po:nome [n-grama: Ки́евская Русь]
-Ки́ївська po:nome [n-grama: Ки́ївська Русь]
-Русь po:nome [n-grama: Ки́ївська Русь]
-Кіеўская po:nome [n-grama: Кіеўская Русь]
-Русь po:nome [n-grama: Кіеўская Русь]
+Ки́евская po:nome is:ngrama_Ки_евская_Русь
+Русь po:nome is:ngrama_Ки_евская_Русь
+Ки́ївська po:nome is:ngrama_Ки_ївська_Русь
+Русь po:nome is:ngrama_Ки_ївська_Русь
+Кіеўская po:nome is:ngrama_Кіеўская_Русь
+Русь po:nome is:ngrama_Кіеўская_Русь
 Русичи po:nome
 Русы po:nome
 Русь po:nome

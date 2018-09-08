@@ -1,10 +1,10 @@
 Baumgarten po:topónimo
-Braunau po:topónimo [n-grama: Braunau am Inn]
-am po:topónimo [n-grama: Braunau am Inn]
-Inn po:topónimo [n-grama: Braunau am Inn]
+Braunau po:topónimo is:ngrama_Braunau_am_Inn
+am po:topónimo is:ngrama_Braunau_am_Inn
+Inn po:topónimo is:ngrama_Braunau_am_Inn
 Bregenz po:topónimo
-Checo: po:topónimo [n-grama: Checo: Linec]
-Linec po:topónimo [n-grama: Checo: Linec]
+Checo: po:topónimo is:ngrama_Checo_Linec
+Linec po:topónimo is:ngrama_Checo_Linec
 Dornbirn po:topónimo
 Eisenstadt po:topónimo
 Fucking po:topónimo
@@ -13,14 +13,14 @@ Gössendorf po:topónimo
 Graz po:topónimo
 Griffen po:topónimo
 Innsbruck po:topónimo
-Klagenfurt po:topónimo [n-grama: Klagenfurt am Wörthersee]
-am po:topónimo [n-grama: Klagenfurt am Wörthersee]
-Wörthersee po:topónimo [n-grama: Klagenfurt am Wörthersee]
+Klagenfurt po:topónimo is:ngrama_Klagenfurt_am_Wörthersee
+am po:topónimo is:ngrama_Klagenfurt_am_Wörthersee
+Wörthersee po:topónimo is:ngrama_Klagenfurt_am_Wörthersee
 Linz po:topónimo
 Oberösterreich po:topónimo
 Salzburgo po:topónimo
-Sankt po:topónimo [n-grama: Sankt Pölten]
-Pölten po:topónimo [n-grama: Sankt Pölten]
+Sankt po:topónimo is:ngrama_Sankt_Pölten
+Pölten po:topónimo is:ngrama_Sankt_Pölten
 Spielberg po:topónimo
 Viena po:topónimo
 Vindobona po:topónimo

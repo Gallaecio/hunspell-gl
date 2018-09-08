@@ -5,15 +5,15 @@ Arizona po:topónimo
 Bronx po:topónimo
 Brooklyn po:topónimo
 California po:topónimo
-Carolina po:topónimo [n-grama: Carolina do Norte]
-Carolina po:topónimo [n-grama: Carolina do Sur]
+Carolina po:topónimo is:ngrama_Carolina_do_Norte
+Carolina po:topónimo is:ngrama_Carolina_do_Sur
 Colorado po:topónimo
 Connecticut po:topónimo
-Dacota po:topónimo [n-grama: Dacota do Norte]
-Dacota po:topónimo [n-grama: Dacota do Sur]
+Dacota po:topónimo is:ngrama_Dacota_do_Norte
+Dacota po:topónimo is:ngrama_Dacota_do_Sur
 Delaware po:topónimo
-York po:topónimo [n-grama: Estado de Nova York]
-Washington po:topónimo [n-grama: Estado de Washington]
+York po:topónimo is:ngrama_Estado_de_Nova_York
+Washington po:topónimo is:ngrama_Estado_de_Washington
 Florida po:topónimo
 Hawai po:topónimo
 Idaho po:topónimo
@@ -34,24 +34,24 @@ Misuri po:topónimo
 Montana po:topónimo
 Nebrasca po:topónimo
 Nevada po:topónimo
-Hampshire po:topónimo [n-grama: Nova Hampshire]
-Jersey po:topónimo [n-grama: Nova Jersey]
-México po:topónimo [n-grama: Novo México]
+Hampshire po:topónimo is:ngrama_Nova_Hampshire
+Jersey po:topónimo is:ngrama_Nova_Jersey
+México po:topónimo is:ngrama_Novo_México
 Ohio po:topónimo
 Oklahoma po:topónimo
 Oregón po:topónimo
 Pensilvania po:topónimo
 Queens po:topónimo
-Rhode po:topónimo [n-grama: Rhode Island]
-Island po:topónimo [n-grama: Rhode Island]
-Staten po:topónimo [n-grama: Staten Island]
-Island po:topónimo [n-grama: Staten Island]
+Rhode po:topónimo is:ngrama_Rhode_Island
+Island po:topónimo is:ngrama_Rhode_Island
+Staten po:topónimo is:ngrama_Staten_Island
+Island po:topónimo is:ngrama_Staten_Island
 Tennessee po:topónimo
 Texas po:topónimo
 Utah po:topónimo
 Vermont po:topónimo
 Virxinia po:topónimo
-Virxinia po:topónimo [n-grama: Virxinia Occidental]
+Virxinia po:topónimo is:ngrama_Virxinia_Occidental
 Washington po:topónimo
 Wisconsin po:topónimo
 Wyoming po:topónimo

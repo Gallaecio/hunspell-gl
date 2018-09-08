@@ -1,22 +1,22 @@
 MAEC po:nome
-Presidencia po:nome [n-grama: Ministerio da Presidencia de España]
-Agricultura po:nome [n-grama: Ministerio de Agricultura]
-Cooperación po:nome [n-grama: Ministerio de Asuntos Exteriores e de Cooperación]
-Cultura po:nome [n-grama: Ministerio de Cultura]
-Defensa po:nome [n-grama: Ministerio de Defensa de España]
-Economía po:nome [n-grama: Ministerio de Economía e Competitividade de España]
-Competitividade po:nome [n-grama: Ministerio de Economía e Competitividade de España]
-Educación po:nome [n-grama: Ministerio de Educación]
-Fomento po:nome [n-grama: Ministerio de Fomento de España]
-Igualdade po:nome [n-grama: Ministerio de Igualdade de España]
-Industria po:nome [n-grama: Ministerio de Industria]
-Mariña po:nome [n-grama: Ministerio de Mariña]
-Medio po:nome [n-grama: Ministerio de Medio Ambiente de España]
-Ambiente po:nome [n-grama: Ministerio de Medio Ambiente de España]
-Consumo po:nome [n-grama: Ministerio de Sanidade e Consumo]
-Xustiza po:nome [n-grama: Ministerio de Xustiza de España]
-Emprego po:nome [n-grama: Ministerio Emprego e Seguridade Social de España]
-Seguridade po:nome [n-grama: Ministerio Emprego e Seguridade Social de España]
-Social po:nome [n-grama: Ministerio Emprego e Seguridade Social de España]
-Política po:nome [n-grama: Política Territorial]
-Secretaría po:nome [n-grama: Primeira Secretaría de Estado]
+Presidencia po:nome is:ngrama_Ministerio_da_Presidencia_de_España
+Agricultura po:nome is:ngrama_Ministerio_de_Agricultura
+Cooperación po:nome is:ngrama_Ministerio_de_Asuntos_Exteriores_e_de_Cooperación
+Cultura po:nome is:ngrama_Ministerio_de_Cultura
+Defensa po:nome is:ngrama_Ministerio_de_Defensa_de_España
+Economía po:nome is:ngrama_Ministerio_de_Economía_e_Competitividade_de_España
+Competitividade po:nome is:ngrama_Ministerio_de_Economía_e_Competitividade_de_España
+Educación po:nome is:ngrama_Ministerio_de_Educación
+Fomento po:nome is:ngrama_Ministerio_de_Fomento_de_España
+Igualdade po:nome is:ngrama_Ministerio_de_Igualdade_de_España
+Industria po:nome is:ngrama_Ministerio_de_Industria
+Mariña po:nome is:ngrama_Ministerio_de_Mariña
+Medio po:nome is:ngrama_Ministerio_de_Medio_Ambiente_de_España
+Ambiente po:nome is:ngrama_Ministerio_de_Medio_Ambiente_de_España
+Consumo po:nome is:ngrama_Ministerio_de_Sanidade_e_Consumo
+Xustiza po:nome is:ngrama_Ministerio_de_Xustiza_de_España
+Emprego po:nome is:ngrama_Ministerio_Emprego_e_Seguridade_Social_de_España
+Seguridade po:nome is:ngrama_Ministerio_Emprego_e_Seguridade_Social_de_España
+Social po:nome is:ngrama_Ministerio_Emprego_e_Seguridade_Social_de_España
+Política po:nome is:ngrama_Política_Territorial
+Secretaría po:nome is:ngrama_Primeira_Secretaría_de_Estado

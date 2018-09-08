@@ -3,16 +3,16 @@ Banato po:topónimo
 Carniola po:topónimo
 Cáucaso po:topónimo
 Escandinavia po:topónimo
-Europa po:topónimo [n-grama: Europa Central]
-Europa po:topónimo [n-grama: Europa do Norte]
-Europa po:topónimo [n-grama: Europa do sur]
-Europa po:topónimo [n-grama: Europa mediterránea]
-mediterránea po:topónimo [n-grama: Europa mediterránea]
-Europa po:topónimo [n-grama: Europa meridional]
-Europa po:topónimo [n-grama: Europa occidental]
-Europa po:topónimo [n-grama: Europa Oriental]
+Europa po:topónimo is:ngrama_Europa_Central
+Europa po:topónimo is:ngrama_Europa_do_Norte
+Europa po:topónimo is:ngrama_Europa_do_sur
+Europa po:topónimo is:ngrama_Europa_mediterránea
+mediterránea po:topónimo is:ngrama_Europa_mediterránea
+Europa po:topónimo is:ngrama_Europa_meridional
+Europa po:topónimo is:ngrama_Europa_occidental
+Europa po:topónimo is:ngrama_Europa_Oriental
 Laponia po:topónimo
 Lusacia po:topónimo
-bálticos po:topónimo [n-grama: países bálticos]
+bálticos po:topónimo is:ngrama_países_bálticos
 Tirol po:topónimo
 Vepsia po:topónimo

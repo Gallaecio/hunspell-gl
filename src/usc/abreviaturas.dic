@@ -10,8 +10,8 @@ aprox. po:abreviatura  # aproximado/a
 art. po:abreviatura  # artigo
 asdo. po:abreviatura  # asinado
 asoc. po:abreviatura  # asociación
-b. po:abreviatura [n-grama: b. o.]  # boletín oficial
-o. po:abreviatura [n-grama: b. o.]  # boletín oficial
+b. po:abreviatura is:ngrama_b_o  # boletín oficial
+o. po:abreviatura is:ngrama_b_o  # boletín oficial
 bibliog. po:abreviatura  # bibliografía
 cant. po:abreviatura  # cantidade
 cap. po:abreviatura  # capítulo
@@ -36,8 +36,8 @@ dir. po:abreviatura  # dirección
 doc. po:abreviatura  # documento
 dpto. po:abreviatura  # departamento
 dta. po:abreviatura  # dereita
-e. po:abreviatura [n-grama: e. u.]  # escola universitaria
-u. po:abreviatura [n-grama: e. u.]  # escola universitaria
+e. po:abreviatura is:ngrama_e_u  # escola universitaria
+u. po:abreviatura is:ngrama_e_u  # escola universitaria
 e.t.s. po:abreviatura  # escola técnica superior
 econ. po:abreviatura  # doutor, -ra Dr./Dra. economía
 ed. po:abreviatura  # edición
@@ -108,20 +108,20 @@ mun. po:abreviatura  # municipio
 mús. po:abreviatura  # música
 mz. po:abreviatura  # marzo
 n. po:abreviatura  # nota
-n. po:abreviatura [n-grama: n. do]  # nota do tradutor
-n. po:abreviatura [n-grama: n. do ed.]  # nota do editor
-ed. po:abreviatura [n-grama: n. do ed.]  # nota do editor
+n. po:abreviatura is:ngrama_n_do  # nota do tradutor
+n. po:abreviatura is:ngrama_n_do_ed  # nota do editor
+ed. po:abreviatura is:ngrama_n_do_ed  # nota do editor
 nac. po:abreviatura  # nacemento
 nom. po:abreviatura  # nominativo
 not. po:abreviatura  # trad. notable
 nov. po:abreviatura  # novembro
 núm. po:abreviatura  # número
-op. po:abreviatura [n-grama: op. cit.]  # opus citatum (obra citada)
-cit. po:abreviatura [n-grama: op. cit.]  # opus citatum (obra citada)
+op. po:abreviatura is:ngrama_op_cit  # opus citatum (obra citada)
+cit. po:abreviatura is:ngrama_op_cit  # opus citatum (obra citada)
 orix. po:abreviatura  # orixinal
 out. po:abreviatura  # outubro
-p. po:abreviatura [n-grama: p. m.]  # post meridiem (despois do mediodía)
-m. po:abreviatura [n-grama: p. m.]  # post meridiem (despois do mediodía)
+p. po:abreviatura is:ngrama_p_m  # post meridiem (despois do mediodía)
+m. po:abreviatura is:ngrama_p_m  # post meridiem (despois do mediodía)
 par. po:abreviatura  # parágrafo
 páx. po:abreviatura  # páxina
 pers. po:abreviatura  # persoal
@@ -140,16 +140,16 @@ rel. po:abreviatura  # relativo, -va
 rev. po:abreviatura  # revista
 rte. po:abreviatura  # remitente
 s. po:abreviatura  # século
-S. po:abreviatura [n-grama: S. A.]  # sociedade anónima
-A. po:abreviatura [n-grama: S. A.]  # sociedade anónima
-s. po:abreviatura [n-grama: s. d.]  # sine die (sen data fixada)
-d. po:abreviatura [n-grama: s. d.]  # sine die (sen data fixada)
-S. po:abreviatura [n-grama: S. L]  # sociedade limitada
-L po:abreviatura [n-grama: S. L]  # sociedade limitada
-s. po:abreviatura [n-grama: s. l.]  # sine loco (lugar de publicación descoñecido)
-l. po:abreviatura [n-grama: s. l.]  # sine loco (lugar de publicación descoñecido)
-s. po:abreviatura [n-grama: s. n.]  # sine nomine (autor descoñecido)
-n. po:abreviatura [n-grama: s. n.]  # sine nomine (autor descoñecido)
+S. po:abreviatura is:ngrama_S_A  # sociedade anónima
+A. po:abreviatura is:ngrama_S_A  # sociedade anónima
+s. po:abreviatura is:ngrama_s_d  # sine die (sen data fixada)
+d. po:abreviatura is:ngrama_s_d  # sine die (sen data fixada)
+S. po:abreviatura is:ngrama_S_L  # sociedade limitada
+L po:abreviatura is:ngrama_S_L  # sociedade limitada
+s. po:abreviatura is:ngrama_s_l  # sine loco (lugar de publicación descoñecido)
+l. po:abreviatura is:ngrama_s_l  # sine loco (lugar de publicación descoñecido)
+s. po:abreviatura is:ngrama_s_n  # sine nomine (autor descoñecido)
+n. po:abreviatura is:ngrama_s_n  # sine nomine (autor descoñecido)
 sáb. po:abreviatura  # sábado
 seg. po:abreviatura  # seguinte
 símb po:abreviatura  # símbolo
@@ -172,8 +172,8 @@ u. po:abreviatura  # unidade
 últ. po:abreviatura  # último
 univ. po:abreviatura  # universitario, -ria
 v. po:abreviatura  # valor
-v. po:abreviatura [n-grama: v. gr.]  # verbi gratia (por exemplo)
-gr. po:abreviatura [n-grama: v. gr.]  # verbi gratia (por exemplo)
+v. po:abreviatura is:ngrama_v_gr  # verbi gratia (por exemplo)
+gr. po:abreviatura is:ngrama_v_gr  # verbi gratia (por exemplo)
 v\/ po:abreviatura  # valor
 Vde. po:abreviatura  # vostede
 ven. po:abreviatura  # venres

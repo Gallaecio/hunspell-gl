@@ -118,7 +118,7 @@ Anxelo po:antropónimo
 Anxeo po:antropónimo
 Anxio po:antropónimo
 Anxo po:antropónimo
-Anxo po:antropónimo [n-grama: Anxo da Galiza]
+Anxo po:antropónimo is:ngrama_Anxo_da_Galiza
 Anxos po:antropónimo
 Aquilino po:antropónimo
 Aragonta po:antropónimo
@@ -325,8 +325,8 @@ Donisia po:antropónimo
 Donisio po:antropónimo
 Dores po:antropónimo
 Doro po:antropónimo
-Anxos po:antropónimo [n-grama: dos Anxos]
-Ceos po:antropónimo [n-grama: dos Ceos]
+Anxos po:antropónimo is:ngrama_dos_Anxos
+Ceos po:antropónimo is:ngrama_dos_Ceos
 Dosinda po:antropónimo
 Duardo po:antropónimo
 Duardos po:antropónimo
@@ -630,8 +630,8 @@ Manilam po:antropónimo
 Manilán po:antropónimo
 Manilão po:antropónimo
 Manoel po:antropónimo
-Manoel po:antropónimo [n-grama: Manoel de Iria]
-Iria po:antropónimo [n-grama: Manoel de Iria]
+Manoel po:antropónimo is:ngrama_Manoel_de_Iria
+Iria po:antropónimo is:ngrama_Manoel_de_Iria
 Manoela po:antropónimo
 Manola po:antropónimo
 Manolo po:antropónimo
@@ -872,9 +872,9 @@ Tamara po:antropónimo
 Tameobrigo po:antropónimo
 Tanasio po:antropónimo
 Tareixa po:antropónimo
-Tareixiña po:antropónimo [n-grama: Tareixiña do Neno Xesús]
-Neno po:antropónimo [n-grama: Tareixiña do Neno Xesús]
-Xesús po:antropónimo [n-grama: Tareixiña do Neno Xesús]
+Tareixiña po:antropónimo is:ngrama_Tareixiña_do_Neno_Xesús
+Neno po:antropónimo is:ngrama_Tareixiña_do_Neno_Xesús
+Xesús po:antropónimo is:ngrama_Tareixiña_do_Neno_Xesús
 Tecla po:antropónimo
 Tegra po:antropónimo
 Telmo po:antropónimo
@@ -1031,8 +1031,8 @@ Xisela po:antropónimo
 Xoan po:antropónimo
 Xoán po:antropónimo
 Xoana po:antropónimo
-Xoana po:antropónimo [n-grama: Xoana D'Arc]
-D'Arc po:antropónimo [n-grama: Xoana D'Arc]
+Xoana po:antropónimo is:ngrama_Xoana_D_Arc
+D'Arc po:antropónimo is:ngrama_Xoana_D_Arc
 Xoaquim po:antropónimo
 Xoaquín po:antropónimo
 Xoaquina po:antropónimo
