@@ -45704,7 +45704,7 @@ empíllar/666,202 st:empillar ts:alomorfo empillar transitiva
 empinar/200,201 po:verbo ts:transitiva VOLG: t al:empínar
 empínar/666,202 st:empinar ts:alomorfo empinar transitiva
 empioucar/220,221 po:verbo ts:intransitiva VOLG: i al:empióucar
-empióucar/666,222 st:empioucar is:empioucar intransitiva rizotónoco
+empióucar/666,222 st:empioucar ts:intransitiva_rizotónico
 empipar/200,201,230,231 po:verbo ts:transitiva / pronominal VOLG: t pr al:empípar
 empípar/666,202,232 st:empipar ts:alomorfo empipar transitiva / pronominal
 empipotar/200,201 po:verbo ts:transitiva VOLG: t al:empipótar
