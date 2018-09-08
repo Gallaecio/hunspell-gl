@@ -473,7 +473,15 @@ K k                # Exemplos: Kg → kg, Km → km.
 laric latric      # laricar → latricar.
 laríc latríc      # laricar → latricar.
 les is            # Exemplo: casuales → casuais.
-^levadura lévedo
+
+# levadura → fermento, lévedo, requento
+^levadura$ fermento
+^levaduras$ fermentos
+^levadura$ lévedo
+^levaduras$ lévedos
+^levadura$ requento
+^levaduras$ requentos
+
 línea liña        # línea → liña.
 ll x
 lonxan afastad     # lonxano → afastado.
@@ -12379,8 +12387,6 @@ remite remitente # remite -> remitente
 ^letrinas$ latrinas
 ^leución$ lección
 ^leucións$ leccións
-^levadura$ lévedo
-^levaduras$ lévedos
 ^leveza$ levidade
 ^levezas$ levidades
 ^leviá$ liviá
