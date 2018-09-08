@@ -635,7 +635,7 @@ tremar/220,221 po:verbo ts:intransitiva VOLG: i / tremer=> al:trémar
 trémar/666,222 st:tremar ts:alomorfo tremar intransitiva
 trullar/200,201 po:verbo ts:transitiva VOLG: t / trollar=> al:trúllar
 trúllar/666,202 st:trullar ts:alomorfo trullar transitiva
-tumbar/200,201,220,221,2iñer30,231 po:verbo ts:transitiva / intransitiva / pronominal VOLG: t i pr / tombar=> al:túmbar
+tumbar/200,201,220,221,230,231 po:verbo ts:transitiva / intransitiva / pronominal VOLG: t i pr / tombar=> al:túmbar
 túmbar/666,202,222,232 st:tumbar ts:alomorfo tumbar transitiva / intransitiva / pronominal
 ultraxar/200,201 po:verbo ts:transitiva VOLG: t / aldraxar=> al:ultráxar
 ultráxar/666,202 st:ultraxar ts:alomorfo ultraxar transitiva
