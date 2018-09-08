@@ -41313,7 +41313,7 @@ alúar/666,220,222 st:aluar ts:alomorfo aluar intransitiva
 aluarar/230,231 po:verbo ts:pronominal VOLG: pr al:aluárar
 aluárar/666,232 st:aluarar ts:alomorfo aluarar pronominal
 alucar/200,201 po:verbo ts:transitiva VOLG: t al:alúcar
-alúcar/666,202 st:alucar is:alucar transitiva rizontónico
+alúcar/666,202 st:alucar ts:alomorfo alucar transitiva rizontónico
 alucinar/200,201,220,221 po:verbo ts:transitiva / intransitiva VOLG: t i al:alucínar
 alucínar/666,202,222 st:alucinar ts:alomorfo alucinar transitiva / intransitiva
 alugar/200,201,230,231 po:verbo ts:transitiva / pronominal VOLG: t pr al:alúgar
