@@ -14,12 +14,12 @@ dos sistemas GNU/Linux e Mac OS X.
 O Proxecto Trasno encárgase actualmente do desenvolvemento do corrector
 Hunspell de galego.
 
-Se busca información para usuarios sobre como instalar e usar o corrector, ou
-máis información xeral sobre el, consulte a documentación no `sitio web de
-Trasno <http://trasno.gal/corrector-de-galego-hunspell/>`_.
+Instalación
+-----------
 
-O resto deste documento está pensado para persoas con certas nocións avanzadas
-de informática.
+Consulte a `guía de instalación
+<http://wiki.trasno.gal/Corrector_Hunspell_de_galego#Instalar>`_.
+
 
 Construción
 -----------
