@@ -1087,6 +1087,7 @@ bilabiado/10,15 po:adxectivo
 bilabial/12 po:adxectivo
 bilateral/12 po:adxectivo
 biliar/10 po:adxectivo
+bilineal/10 po:adxectivo
 bilinear/10 po:adxectivo
 bilingüe/10 po:adxectivo
 bilioso/10,15 po:adxectivo
@@ -8702,6 +8703,7 @@ xupiteriano/10,15 po:adxectivo
 xurásico/10,15 po:adxectivo
 xurídico/10,15 po:adxectivo
 xurisdicional/12 po:adxectivo
+xustalineal/10 po:adxectivo
 xustalinear/10 po:adxectivo
 xustificábel/12 po:adxectivo
 xustificable/10 po:adxectivo
@@ -8748,6 +8750,7 @@ bienal/12 po:adxectivo / substantivo feminino
 cenmilésimo/10,15 po:adxectivo / substantivo feminino
 cenmillonésimo/10,15 po:adxectivo / substantivo feminino
 central/12 po:adxectivo / substantivo feminino
+cimeiro/10,15 po:adxectivo po:substantivo_feminino
 circular/10 po:adxectivo / substantivo feminino
 concoide/10 po:adxectivo / substantivo feminino
 corrente/10 po:adxectivo / substantivo feminino
@@ -8766,6 +8769,7 @@ inicial/12 po:adxectivo / substantivo feminino
 inmobiliario/10,15 po:adxectivo / substantivo feminino
 integral/12 po:adxectivo / substantivo feminino
 invariante/10 po:adxectivo / substantivo feminino
+lavador/10,15 po:adxectivo po:substantivo_feminino
 mareiro/10,15 po:adxectivo / substantivo feminino
 mastoide/10 po:adxectivo / substantivo feminino
 moral/12 po:adxectivo / substantivo feminino
@@ -8948,7 +8952,6 @@ cicatrizante/10 po:adxectivo / substantivo masculino
 circunciso/10,15 po:adxectivo / substantivo masculino
 citostático/10,15 po:adxectivo / substantivo masculino
 claro/10,15 po:adxectivo / substantivo masculino
-claroscuro/10,15 po:adxectivo / substantivo masculino
 colagogo/10,15 po:adxectivo / substantivo masculino
 colectivo/10,15 po:adxectivo / substantivo masculino
 colector/10,14 po:adxectivo / substantivo masculino
@@ -9020,6 +9023,7 @@ despoboado/10 po:adxectivo / substantivo masculino
 despolarizador/10,14 po:adxectivo / substantivo masculino
 destrutor/10,14 po:adxectivo / substantivo masculino
 detector/10,14 po:adxectivo / substantivo masculino
+devoniano/10,15 po:adxectivo po:substantivo_masculino
 diagnóstico/10,15 po:adxectivo / substantivo masculino
 diario/10,15 po:adxectivo / substantivo masculino
 diferencial/12 po:adxectivo / substantivo masculino
@@ -9337,6 +9341,7 @@ oxidante/10 po:adxectivo / substantivo masculino
 paifoco/10,15 po:adxectivo / substantivo masculino
 paiolo/10,15 po:adxectivo / substantivo masculino
 paleolítico/10,15 po:adxectivo / substantivo masculino
+paleoxeno/10,15 po:adxectivo po:substantivo_masculino
 paliativo/10,15 po:adxectivo / substantivo masculino
 palíndromo/10,15 po:adxectivo / substantivo masculino
 palmípede/10 po:adxectivo / substantivo masculino
@@ -21075,7 +21080,6 @@ lauréola/10 po:substantivo feminino
 lava/10 po:substantivo feminino
 lavacuncas po:substantivo feminino
 lavadela/10 po:substantivo feminino
-lavadora/10 po:substantivo feminino
 lavadura/10 po:substantivo feminino
 lavalouza/10 po:substantivo feminino
 lavanda/10 po:substantivo feminino
@@ -27547,6 +27551,7 @@ aplanamento/10 po:substantivo masculino
 aplauso/10 po:substantivo masculino
 aplicador/10 po:substantivo masculino
 aplique/10 po:substantivo masculino
+apoderamento/10 po:substantivo_masculino
 apoio/10 po:substantivo masculino
 apólogo/10 po:substantivo masculino
 aportuguesamento/10 po:substantivo masculino
@@ -29394,7 +29399,7 @@ cinemascope/10 po:substantivo masculino
 cinematógrafo/10 po:substantivo masculino
 cinerama/10 po:substantivo masculino
 cínfano/10 po:substantivo masculino
-cinguideiro/10 po:substantivo masculino
+cinguidoiro/10 po:substantivo_masculino
 cíngulo/10 po:substantivo masculino
 cínife/10 po:substantivo masculino
 cinismo/10 po:substantivo masculino
@@ -29444,6 +29449,7 @@ clan/10 po:substantivo masculino
 claqué/10 po:substantivo masculino
 clareiro/10 po:substantivo masculino
 clareo/10 po:substantivo masculino
+clarescuro/10 po:substantivo_masculino
 clarín/10 po:substantivo masculino
 clarinete/10 po:substantivo masculino
 clarón/10 po:substantivo masculino
@@ -33084,6 +33090,7 @@ merecemento/10 po:substantivo masculino
 merengue/10 po:substantivo masculino
 merexo/10 po:substantivo masculino
 mergullo/10 po:substantivo masculino
+mergullón/10 po:substantivo_masculino
 merisma/10 po:substantivo masculino
 meristema/10 po:substantivo masculino
 mérito/10 po:substantivo masculino
@@ -33880,6 +33887,7 @@ palanquín/10 po:substantivo masculino
 palatinado/10 po:substantivo masculino
 palatograma/10 po:substantivo masculino
 palco/10 po:substantivo masculino
+palé/10 po:substantivo_masculino
 paleiro/10 po:substantivo masculino
 palenque/10 po:substantivo masculino
 paleoclima/10 po:substantivo masculino
@@ -36510,6 +36518,7 @@ tránsito/10 po:substantivo masculino
 transo/10 po:substantivo masculino
 transplante/10 po:substantivo masculino
 transporte/10 po:substantivo masculino
+transunto/10 po:substantivo_masculino
 transvasamento/10 po:substantivo masculino
 tranvía/10 po:substantivo masculino
 trapallo/10 po:substantivo masculino
@@ -40469,8 +40478,8 @@ statu po:locución substantiva [n-grama: statu quo]
 quo po:locución substantiva [n-grama: statu quo]
 vox po:locución substantiva [n-grama: vox populi]
 populi po:locución substantiva [n-grama: vox populi]
-currículum po:locución substantiva masculina latina [n-grama: currículum vitae]
-vitae po:locución substantiva masculina latina [n-grama: currículum vitae]
+currículum po:locución substantiva masculina latina [n-grama: currículum vítae]
+vítae po:locución substantiva masculina latina [n-grama: currículum vítae]
 abacelar/200,201 po:verbo ts:transitiva VOLG: t al:abacélar
 abacélar/666,202 st:abacelar ts:alomorfo abacelar transitiva
 abafallar/200,201 po:verbo ts:transitiva VOLG: t al:abafállar
@@ -50642,6 +50651,8 @@ sobreestimar/200,201,230,231 po:verbo ts:transitiva / pronominal VOLG: t pr al:s
 sobreestímar/666,202,232 st:sobreestimar ts:alomorfo sobreestimar transitiva / pronominal
 sobreexcitar/200,201,230,231 po:verbo ts:transitiva / pronominal VOLG: t pr al:sobreexcítar
 sobreexcítar/666,202,232 st:sobreexcitar ts:alomorfo sobreexcitar transitiva / pronominal
+sobrefiar/201 po:verbo ts:transitiva al:sobrefíar
+sobrefíar/666,200,202 st:sobrefiar
 sobrenadar/220,221 po:verbo ts:intransitiva VOLG: i al:sobrenádar
 sobrenádar/666,222 st:sobrenadar ts:alomorfo sobrenadar intransitiva
 sobrenomear/200,201 po:verbo ts:transitiva VOLG: t al:sobrenoméar

@@ -193,6 +193,12 @@ ci z     # Exemplo: espaciar → espazar.
 ^cián ciano
 ^ciá ciana
 
+# cinguideiro → cinguidoiro
+^cinguideiro cinguidoiro
+
+# claroscuro → clarescuro
+^claroscuro clarescuro
+
 coall call      # coallar → callar.
 coáll cáll      # coallar → callar.
 coiñ cuiñ      # coiñar → cuiñar.
@@ -229,6 +235,10 @@ cuall call      # cuallar → callar.
 cuáll cáll      # cuallar → callar.
 cuall coall      # cuallar → coallar.
 cuáll coáll      # cuallar → coallar.
+
+# currículum vitae → currículum vítae
+^vitae$ vítae
+
 customiz personaliz # customizar → personalizar.
 customic personalic     # customizar → personalizar.
 deb dev      # debecer → devecer
@@ -338,6 +348,10 @@ emburull envurull      # emburullar → envurullar.
 emburúll envurúll      # emburullar → envurullar.
 embuz emboz      # embuzar → embozar.
 embúz embóz      # embuzar → embozar.
+
+# empoderamento → apoderamento
+^empoderamento apoderamento
+
 empol ampol      # empolar → ampolar.
 empól ampól      # empolar → ampolar.
 encostad contigu       # adosado, encostado → contiguo.
@@ -739,6 +753,10 @@ tiz atic      # tizar → atizar.
 tíz atíc      # tizar → atizar.
 transtorn trastorn      # transtornar → trastornar.
 transtórn trastórn      # transtornar → trastornar.
+
+# trasunto → transunto
+^trasunto transunto
+
 triz trinz      # trizar → trinzar.
 tríz trínz      # trizar → trinzar.
 tric trinc      # trizar → trinzar.
