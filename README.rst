@@ -29,9 +29,7 @@ Para construír unha parella de ficheiros de Hunspell (:code:`.aff` e
 
 #.  Instale Python 3.
 
-#.  Cree un entorno virtual de Python e instale nel PyICU e SCons.
-
-    En Linux::
+#.  Cree un entorno virtual de Python e instale nel PyICU e SCons::
 
         python3 -m venv venv
         . venv/bin/activate
@@ -57,6 +55,33 @@ Para obter información detallada sobre como construír un corrector ortográfic
 personalizado, con vocabulario non normativo e extensións, execute::
 
     scons -h
+
+
+Comprobar palabras
+------------------
+
+Cun dicionario construído a partir das fontes con ``scons``, pode comprobar
+como o dicionario construído a partir das fontes se comporta ante distintas
+palabras usando o programa da liña de ordes ``hunspell`` nun terminal como se
+indica a continuación.
+
+A seguinte orde só lista as palabras que o dicionario construído considera
+correctas::
+
+    echo <palabra1> [<palabra2> …] | hunspell -d build/gl -G
+
+Tamén pode listar só as incorrectas::
+
+    echo <palabra1> [<palabra2> …] | hunspell -d build/gl -l
+
+Pode consultar as suxestións para unha palabra incorrecta coa seguinte orde::
+
+    echo <palabra1> [<palabra2> …] | hunspell -d build/gl
+
+Para consultar os detalles sobre unha palabra considerada como correcta, use a
+seguinte orde::
+
+    echo <palabra1> [<palabra2> …] | hunspell -d build/gl -m
 
 
 Sobre a normativa lingüística
